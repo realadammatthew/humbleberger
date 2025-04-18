@@ -72,12 +72,53 @@
           padding: 1rem;
         }
       }
+      @media (max-width: 600px) {
+        header div {
+          justify-content: flex-start;
+          text-align: left;
+        }
+
+        header img {
+          max-width: 60px;
+        }
+
+        header h1 {
+          font-size: 1.2rem;
+        }
+
+        header p {
+          font-size: 0.85rem;
+        }
+      }
     </style>
   </head>
   <body>
     <header>
-      <h1>Humbleberger Ministries</h1>
-      <p>Jewish Evangelism. Gospel Proclamation. Christ-Centered Mission.</p>
+      <div
+        style="
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 1rem;
+          padding: 0 1rem;
+          flex-wrap: nowrap;
+          max-width: 1000px;
+          margin: 0 auto;
+          text-align: left;
+        "
+      >
+        <img
+          src="logo.png"
+          alt="Humbleberger Ministries Logo"
+          style="max-width: 100px; height: auto"
+        />
+        <div>
+          <h1 style="margin: 0">Humbleberger Ministries</h1>
+          <p style="margin: 0.25rem 0">
+            Jewish Evangelism. Gospel Proclamation. Christ-Centered Mission.
+          </p>
+        </div>
+      </div>
     </header>
 
     <main>
