@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://humbleberger.org/sitemap.xml
