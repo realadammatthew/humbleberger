@@ -13,11 +13,14 @@
     <style>
       body {
         font-family: Arial, sans-serif;
-        margin: 0;
+        margin: 16px; /* mobile breathing room */
         padding: 0;
         background: #f9f9f9;
         color: #333;
+        font-size: 16px;
+        line-height: 1.5;
       }
+
       header,
       footer {
         background-color: #222;
@@ -25,21 +28,25 @@
         text-align: center;
         padding: 1rem;
       }
+
       main {
-        padding: 2rem;
+        padding: 1rem;
         text-align: center;
       }
+
       section {
         max-width: 700px;
         margin: 2rem auto;
         padding: 1rem;
       }
+
       .hebrew {
         direction: rtl;
         text-align: right;
         font-family: 'Noto Sans Hebrew', sans-serif;
         margin-top: 2rem;
       }
+
       .button {
         display: inline-block;
         background-color: #007bff;
@@ -47,22 +54,105 @@
         padding: 0.75rem 1.5rem;
         text-decoration: none;
         border-radius: 8px;
-        margin: 1rem;
+        margin: 1rem auto;
+        font-size: 1rem;
+        transition: background-color 0.3s ease;
       }
-      footer a {
-        color: #00c4ff;
-        text-decoration: none;
+
+      .button:hover {
+        background-color: #0056b3;
       }
+
       .newsletter {
         margin: 3rem auto 1rem auto;
         padding: 1rem;
         max-width: 500px;
       }
-      .button:hover {
-        background-color: #0056b3;
-        transition: background-color 0.3s ease;
+
+      header img {
+        max-width: 100px;
+        height: auto;
       }
+
+      header div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+        flex-wrap: nowrap;
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: left;
+        padding: 0 1rem;
+      }
+
+      header h1 {
+        margin: 0;
+      }
+
+      header p {
+        margin: 0.25rem 0 0 0;
+      }
+
+      p {
+        margin-bottom: 1.5rem;
+      }
+
+      input[type='email'] {
+        padding: 0.5rem;
+        width: 80%;
+        max-width: 300px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        margin-bottom: 1rem;
+      }
+
+      input[type='submit'] {
+        padding: 0.5rem 1.2rem;
+        border: none;
+        border-radius: 4px;
+        background-color: #007bff;
+        color: white;
+        cursor: pointer;
+      }
+
+      .header-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        gap: 0.5rem;
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 0 1rem;
+      }
+
+      /* Mobile styles */
       @media (max-width: 600px) {
+        body {
+          margin: 12px;
+          font-size: 16px;
+        }
+
+        header img {
+          max-width: 60px;
+          height: auto;
+        }
+
+        header h1 {
+          font-size: 1.8rem;
+          font-weight: bold;
+          margin: 0;
+          line-height: 1.2;
+        }
+
+        header p {
+          font-size: 1rem;
+          margin: 0.5rem 0 0 0;
+          line-height: 1.4;
+        }
+
         .button {
           width: 90%;
           margin: 0.5rem auto;
@@ -72,52 +162,65 @@
           padding: 1rem;
         }
       }
-      @media (max-width: 600px) {
-        header div {
-          justify-content: flex-start;
-          text-align: left;
-        }
 
-        header img {
-          max-width: 60px;
+      /* Desktop enhancements */
+      @media (min-width: 768px) {
+        body {
+          margin: 24px;
+          font-size: 18px;
         }
 
         header h1 {
-          font-size: 1.2rem;
+          font-size: 3.5rem;
+          font-weight: bold;
+          margin: 0;
+          line-height: 1.1;
+        }
+
+        .container {
+          max-width: 800px;
+          margin: 0 auto;
+        }
+      }
+
+      /* Tiny screens */
+      @media (max-width: 375px) {
+        header div {
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+        }
+
+        header img {
+          margin: 0 0 0.5rem 0;
+        }
+      }
+
+      /* Huge monitors */
+      @media (min-width: 1024px) {
+        header h1 {
+          font-size: 3rem;
         }
 
         header p {
-          font-size: 0.85rem;
+          font-size: 1.1rem;
         }
       }
     </style>
   </head>
   <body>
     <header>
-      <div
-        style="
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          gap: 1rem;
-          padding: 0 1rem;
-          flex-wrap: nowrap;
-          max-width: 1000px;
-          margin: 0 auto;
-          text-align: left;
-        "
-      >
-        <img
-          src="logo.png"
-          alt="Humbleberger Ministries Logo"
-          style="max-width: 100px; height: auto"
-        />
-        <div>
-          <h1 style="margin: 0">Humbleberger Ministries</h1>
-          <p style="margin: 0.25rem 0">
-            Jewish Evangelism. Gospel Proclamation. Christ-Centered Mission.
-          </p>
+      <div class="header-container">
+        <div style="display: flex; align-items: center; gap: 1rem">
+          <img src="logo.png" alt="Humbleberger Ministries Logo" />
+          <h1 style="margin: 0; line-height: 1.1">
+            Humbleberger<br />
+            Ministries
+          </h1>
         </div>
+        <p style="margin-top: 0.75rem">
+          Jewish Evangelism. Gospel Proclamation. Christ-Centered Mission.
+        </p>
       </div>
     </header>
 
