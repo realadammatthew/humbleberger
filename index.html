@@ -12,32 +12,47 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <style>
       body {
-        font-family: Arial, sans-serif;
-        margin: 16px;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+          Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        margin: 0;
         padding: 0;
-        background: #f9f9f9;
-        color: #333;
+        background: #f8f9fa;
+        color: #2c3e50;
         font-size: 16px;
-        line-height: 1.5;
+        line-height: 1.6;
       }
 
-      header,
+      header {
+        background: linear-gradient(135deg, #1a1a1a 0%, #2c2c2c 100%);
+        color: white;
+        padding: 2rem 0;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        width: 100%;
+      }
+
       footer {
-        background-color: #222;
+        background-color: #1a1a1a;
         color: white;
         text-align: center;
-        padding: 1rem;
+        padding: 1.5rem;
+        margin-top: 1rem;
+        width: 100%;
       }
 
       main {
-        padding: 1rem;
-        text-align: center;
+        padding: 0 1.5rem;
+        max-width: 1600px;
+        margin: 0 auto;
       }
 
       section {
-        margin: 0 auto;
-        padding: 1rem;
-        text-align: left;
+        background: white;
+        margin: 1rem 0;
+        padding: 1.5rem;
+        border-radius: 12px;
+        box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
+        width: 100%;
+        box-sizing: border-box;
       }
 
       .hebrew {
@@ -47,76 +62,86 @@
       }
 
       section h2 {
+        color: #2c3e50;
+        font-size: 2rem;
+        margin: 0 0 1.5rem 0;
+        position: relative;
+        padding-bottom: 0.5rem;
+        text-align: center;
+        width: 100%;
+      }
+
+      section h2::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: #007bff;
+      }
+
+      .hebrew h2 {
         text-align: center;
       }
 
-      .button {
-        display: inline-block;
-        background-color: #007bff;
-        color: white;
-        padding: 0.75rem 1.5rem;
-        text-decoration: none;
-        border-radius: 8px;
-        margin: 1rem auto;
-        font-size: 1rem;
-        transition: background-color 0.3s ease;
+      .button-group {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.5rem;
+        margin-top: 1.5rem;
+        width: 100%;
       }
 
-      .button:hover {
-        background-color: #0056b3;
+      .button {
+        display: block;
+        background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+        color: white;
+        padding: 1rem 2rem;
+        text-decoration: none;
+        border-radius: 8px;
+        margin: 0.5rem 0;
+        font-size: 1rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 300px;
+        text-align: center;
+        box-sizing: border-box;
+      }
+
+      /* Special styling for the Chat button */
+      .button[href*='chatgpt.com'] {
+        background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+        font-size: 1.4rem;
+        padding: 1.2rem 2rem;
+        margin: 0 0 1.5rem 0;
+        max-width: 400px;
+        box-shadow: 0 4px 15px rgba(0, 123, 255, 0.3);
+      }
+
+      .button[href*='chatgpt.com']:hover {
+        background: linear-gradient(135deg, #0056b3 0%, #003d80 100%);
+        transform: translateY(-3px);
+        box-shadow: 0 6px 20px rgba(0, 123, 255, 0.4);
       }
 
       .newsletter {
-        margin: 3rem auto 1rem auto;
-        padding: 1rem;
+        margin: 3rem auto;
+        padding: 2rem;
         max-width: 500px;
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
       }
 
       header img {
-        max-width: 100px;
+        max-width: 120px;
         height: auto;
-      }
-
-      header div {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 1rem;
-        flex-wrap: nowrap;
-        max-width: 1000px;
-        margin: 0 auto;
-        text-align: left;
-        padding: 0 1rem;
-      }
-
-      header h1 {
-        margin: 0;
-      }
-
-      header p {
-        margin: 0.25rem 0 0 0;
-      }
-
-      p {
-        margin-bottom: 1.5rem;
-      }
-
-      input[type='email'] {
-        padding: 0.5rem;
-        width: 80%;
-        max-width: 300px;
-        border-radius: 4px;
-        border: 1px solid #ccc;
-        margin-bottom: 1rem;
-      }
-
-      input[type='submit'] {
-        padding: 0.5rem 1.2rem;
-        border: none;
-        border-radius: 4px;
-        background-color: #007bff;
-        color: white;
-        cursor: pointer;
+        filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
       }
 
       .header-container {
@@ -125,98 +150,205 @@
         align-items: center;
         justify-content: center;
         text-align: center;
-        gap: 0.5rem;
-        max-width: 1000px;
+        gap: 1rem;
+        max-width: 1600px;
         margin: 0 auto;
-        padding: 0 1rem;
+        padding: 0 1.5rem;
+      }
+
+      header h1 {
+        font-size: 3.5rem;
+        font-weight: 800;
+        margin: 0;
+        line-height: 1.1;
+        background: linear-gradient(135deg, #ffffff 0%, #e0e0e0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      header p {
+        font-size: 1.2rem;
+        color: #e0e0e0;
+        margin: 0.5rem 0 0 0;
+        max-width: 600px;
+      }
+
+      p {
+        margin-bottom: 1.5rem;
+        color: #4a5568;
+      }
+
+      input[type='email'] {
+        padding: 0.75rem 1rem;
+        width: 80%;
+        max-width: 300px;
+        border-radius: 8px;
+        border: 2px solid #e2e8f0;
+        margin-bottom: 1rem;
+        font-size: 1rem;
+        transition: all 0.3s ease;
+      }
+
+      input[type='email']:focus {
+        outline: none;
+        border-color: #007bff;
+        box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
+      }
+
+      input[type='submit'] {
+        padding: 0.75rem 1.5rem;
+        border: none;
+        border-radius: 8px;
+        background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+        color: white;
+        cursor: pointer;
+        font-weight: 500;
+        transition: all 0.3s ease;
+      }
+
+      input[type='submit']:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
       }
 
       /* Mobile styles */
       @media (max-width: 600px) {
         body {
-          margin: 12px;
-          font-size: 16px;
+          font-size: 18px;
         }
 
-        header img {
-          max-width: 60px;
-          height: auto;
+        main {
+          padding: 0 1rem;
         }
 
-        header h1 {
-          font-size: 1.8rem;
-          font-weight: bold;
-          margin: 0;
-          line-height: 1.2;
+        .header-container {
+          padding: 0 1rem;
         }
 
-        header p {
-          font-size: 1rem;
-          margin: 0.5rem 0 0 0;
-          line-height: 1.4;
+        .footer-content {
+          padding: 0 1rem;
+        }
+
+        section {
+          padding: 1.25rem;
+          margin: 0.75rem 0;
+        }
+
+        section h2 {
+          font-size: 2rem;
+          margin-bottom: 1.25rem;
         }
 
         .button {
-          width: 90%;
-          margin: 0.5rem auto;
+          font-size: 1.1rem;
+          padding: 1rem 1.5rem;
         }
 
-        .newsletter {
-          padding: 1rem;
+        .button[href*='chatgpt.com'] {
+          font-size: 1.3rem;
+          padding: 1.2rem 1.5rem;
+        }
+
+        footer {
+          margin-top: 0.75rem;
+          padding: 1rem 0;
+          font-size: 1.1rem;
+        }
+
+        header h1 {
+          font-size: 2.2rem;
+        }
+
+        header p {
+          font-size: 1.2rem;
         }
       }
 
       /* Desktop enhancements */
       @media (min-width: 768px) {
-        body {
-          margin: 24px;
-          font-size: 18px;
+        main {
+          padding: 0 2rem;
         }
 
-        header h1 {
-          font-size: 3.5rem;
-          font-weight: bold;
-          margin: 0;
-          line-height: 1.1;
+        .header-container {
+          padding: 0 2rem;
         }
 
-        .container {
-          max-width: 800px;
-          margin: 0 auto;
+        .footer-content {
+          padding: 0 2rem;
+        }
+
+        section {
+          padding: 2rem;
+          margin: 1.25rem 0;
+        }
+
+        .button-group {
+          flex-direction: column;
+          align-items: center;
+        }
+
+        .button {
+          width: auto;
+          max-width: none;
+          margin: 0.25rem;
+        }
+
+        .button[href*='chatgpt.com'] {
+          margin: 0 0 2rem 0;
+          width: 100%;
+          max-width: 600px;
+        }
+
+        .other-buttons {
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: center;
+          gap: 1rem;
+          width: 100%;
+        }
+
+        footer {
+          margin-top: 1.25rem;
         }
       }
 
       /* Tiny screens */
       @media (max-width: 375px) {
-        header div {
-          flex-direction: column;
-          align-items: center;
-          text-align: center;
+        header h1 {
+          font-size: 1.8rem;
         }
 
-        header img {
-          margin: 0 0 0.5rem 0;
+        section {
+          padding: 1rem;
         }
       }
 
       /* Huge monitors */
       @media (min-width: 1024px) {
-        header h1 {
-          font-size: 3rem;
+        main {
+          padding: 3rem 1rem;
         }
 
-        header p {
-          font-size: 1.1rem;
+        section {
+          padding: 3rem;
         }
       }
     </style>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXRL0573M2"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-TXRL0573M2"
+    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      function gtag() {
+        dataLayer.push(arguments);
+      }
       gtag('js', new Date());
-    
+
       gtag('config', 'G-TXRL0573M2');
     </script>
   </head>
@@ -242,12 +374,12 @@
         <p>
           Welcome to Humbleberger Ministries – where we proclaim the gospel of
           Jesus (Yeshua) with a special heart for the Jewish people. Our mission
-          is rooted in Romans 1:16: “For I am not ashamed of the gospel, because
+          is rooted in Romans 1:16: "For I am not ashamed of the gospel, because
           it is the power of God for salvation to everyone who believes, first
-          to the Jew, and also to the Greek.”
+          to the Jew, and also to the Greek."
         </p>
         <p>
-          Through discipleship, street outreach, and digital tools, we’re
+          Through discipleship, street outreach, and digital tools, we're
           equipping believers to reach the lost with love and truth. Got
           questions? You can chat with us or find a Bible-believing church near
           you.
@@ -271,6 +403,7 @@
 
       <section>
         <div style="margin: 2rem 0; text-align: center">
+          <h2>Connect With Us</h2>
           <p
             style="
               font-weight: bold;
@@ -280,56 +413,56 @@
               text-align: center;
             "
           >
-            🤔 Curious about God or the Bible? We’d love to chat with you!
+            🤔 Curious about God or the Bible? We'd love to chat with you!
           </p>
 
-          <a
-            class="button"
-            href="https://chatgpt.com/g/g-68018e7537408191bc5afed6b0a1cd05-southern-baptist-preacher"
-            target="_blank"
-            >💬 Chat with Us</a
-          >
+          <div class="button-group">
+            <a
+              class="button"
+              href="https://chatgpt.com/g/g-68018e7537408191bc5afed6b0a1cd05-southern-baptist-preacher"
+              target="_blank"
+              >💬 Chat with Us</a
+            >
 
-          <a
-            class="button"
-            href="https://app.logos.com/books/LLS%3ACSB/references/bible%2Bcsb2.64.1.1?layout=reading&rightSidebar=closed"
-            target="_blank"
-            >📖 Read the Bible</a
-          >
+            <div class="other-buttons">
+              <a
+                class="button"
+                href="https://app.logos.com/books/LLS%3ACSB/references/bible%2Bcsb2.64.1.1?layout=reading&rightSidebar=closed"
+                target="_blank"
+                >📖 Read the Bible</a
+              >
 
-          <a
-            class="button"
-            href="https://www.sbc.net/churchsearch/"
-            target="_blank"
-            >📍 Find a Local Church</a
-          >
+              <a
+                class="button"
+                href="https://www.sbc.net/churchsearch/"
+                target="_blank"
+                >📍 Find a Local Church</a
+              >
 
-          <a
-            class="button"
-            href="https://eepurl.com/ja6zNY"
-            target="_blank"
-            >📬 Subscribe to Our Newsletter</a
-          >
+              <a class="button" href="https://eepurl.com/ja6zNY" target="_blank"
+                >📰 Subscribe to Our Newsletter</a
+              >
 
-          <a
-            class="button"
-            href="mailto:shalom@humbleberger.org"
-            >📬 Email Us</a
-          >
-          
-          <a
-            class="button"
-            href="https://x.com/humbleberger"
-            target="_blank"
-            >𝕏 Follow Us on X</a
-          >
+              <a class="button" href="mailto:shalom@humbleberger.org"
+                >📬 Email Us</a
+              >
 
+              <a
+                class="button"
+                href="https://x.com/humbleberger"
+                target="_blank"
+                >𝕏 Follow Us on X</a
+              >
+            </div>
+          </div>
         </div>
       </section>
     </main>
 
     <footer>
-      <p>© 2025 Humbleberger Ministries. All rights reserved.</p>
+      <div class="footer-content">
+        <p>© 2025 Humbleberger Ministries. All rights reserved.</p>
+      </div>
     </footer>
   </body>
 </html>
