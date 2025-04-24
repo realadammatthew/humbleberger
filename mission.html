@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mission Statement - Humbleberger Ministries</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <meta
+      name="description"
+      content="Humbleberger Ministries exists to glorify God by proclaiming the gospel of Jesus Christ, with a focused calling to bring the good news to the Jewish people."
+    />
+    <style>
+      body {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+          Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: #f8f9fa;
+        color: #2c3e50;
+        font-size: 16px;
+        line-height: 1.6;
+      }
+
+      header {
+        background: linear-gradient(135deg, #1a1a1a 0%, #2c2c2c 100%);
+        color: white;
+        padding: 2rem 0;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        width: 100%;
+      }
+
+      footer {
+        background-color: #1a1a1a;
+        color: white;
+        text-align: center;
+        padding: 1.5rem;
+        margin-top: 1rem;
+        width: 100%;
+      }
+
+      main {
+        padding: 0 1.5rem;
+        max-width: 1600px;
+        margin: 0 auto;
+      }
+
+      section {
+        background: white;
+        margin: 1rem 0;
+        padding: 1.5rem;
+        border-radius: 12px;
+        box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      section h2 {
+        color: #2c3e50;
+        font-size: 2rem;
+        margin: 0 0 1.5rem 0;
+        position: relative;
+        padding-bottom: 0.5rem;
+        text-align: center;
+        width: 100%;
+      }
+
+      section h2::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: #007bff;
+      }
+
+      .home-button {
+        display: inline-block;
+        background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+        color: white;
+        padding: 0.75rem 1.5rem;
+        text-decoration: none;
+        border-radius: 8px;
+        margin: 1rem 0;
+        font-size: 1rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+
+      .home-button:hover {
+        background: linear-gradient(135deg, #0056b3 0%, #003d80 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+      }
+
+      .header-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        gap: 1rem;
+        max-width: 1600px;
+        margin: 0 auto;
+        padding: 0 1.5rem;
+      }
+
+      header h1 {
+        font-size: 3.5rem;
+        font-weight: 800;
+        margin: 0;
+        line-height: 1.1;
+        background: linear-gradient(135deg, #ffffff 0%, #e0e0e0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      header p {
+        font-size: 1.2rem;
+        color: #e0e0e0;
+        margin: 0.5rem 0 0 0;
+        max-width: 600px;
+      }
+
+      p {
+        margin-bottom: 1.5rem;
+        color: #4a5568;
+      }
+
+      .mission-content {
+        font-size: 1.1rem;
+        line-height: 1.7;
+        max-width: 800px;
+        margin: 0 auto;
+      }
+
+      /* Mobile styles */
+      @media (max-width: 600px) {
+        body {
+          font-size: 18px;
+        }
+
+        main {
+          padding: 0 1rem;
+        }
+
+        .header-container {
+          padding: 0 1rem;
+        }
+
+        .footer-content {
+          padding: 0 1rem;
+        }
+
+        section {
+          padding: 1.25rem;
+          margin: 0.75rem 0;
+        }
+
+        section h2 {
+          font-size: 2rem;
+          margin-bottom: 1.25rem;
+        }
+
+        footer {
+          margin-top: 0.75rem;
+          padding: 1rem 0;
+          font-size: 1.1rem;
+        }
+
+        header h1 {
+          font-size: 2.2rem;
+        }
+
+        header p {
+          font-size: 1.2rem;
+        }
+      }
+
+      /* Desktop enhancements */
+      @media (min-width: 768px) {
+        main {
+          padding: 0 2rem;
+        }
+
+        .header-container {
+          padding: 0 2rem;
+        }
+
+        .footer-content {
+          padding: 0 2rem;
+        }
+
+        section {
+          padding: 2rem;
+          margin: 1.25rem 0;
+        }
+
+        footer {
+          margin-top: 1.25rem;
+        }
+      }
+
+      /* Tiny screens */
+      @media (max-width: 375px) {
+        header h1 {
+          font-size: 1.8rem;
+        }
+
+        section {
+          padding: 1rem;
+        }
+      }
+
+      /* Huge monitors */
+      @media (min-width: 1024px) {
+        main {
+          padding: 3rem 1rem;
+        }
+
+        section {
+          padding: 3rem;
+        }
+      }
+    </style>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-TXRL0573M2"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'G-TXRL0573M2');
+    </script>
+  </head>
+  <body>
+    <header>
+      <div class="header-container">
+        <a href="index.html" style="text-decoration: none; color: inherit">
+          <div style="display: flex; align-items: center; gap: 1rem">
+            <img
+              src="logo.png"
+              alt="Humbleberger Ministries Logo"
+              style="
+                max-width: 120px;
+                height: auto;
+                filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+              "
+            />
+            <h1 style="margin: 0; line-height: 1.1">
+              Humbleberger<br />
+              Ministries
+            </h1>
+          </div>
+        </a>
+        <p style="margin-top: 0.75rem">
+          Jewish Evangelism. Gospel Proclamation. Christ-Centered Mission.
+        </p>
+      </div>
+    </header>
+
+    <main>
+      <section>
+        <h2>Our Mission</h2>
+
+        <div class="mission-content">
+          <p>
+            Humbleberger Ministries exists to glorify God by proclaiming the
+            gospel of Jesus Christ, with a focused calling to bring the good
+            news to the Jewish people in cities like New York and Tel Aviv.
+          </p>
+
+          <p>
+            Rooted in the spirit of the Apostle Paul, our mission is to
+            evangelize, disciple, and raise up faithful preachers and teachers
+            to plant and shepherd churches across the globe.
+          </p>
+
+          <p>
+            While our primary focus is Jewish missions, we stand fully on the
+            Great Commission, seeking to reach all the lost and serve the global
+            Church as the Lord leads.
+          </p>
+        </div>
+
+        <div style="text-align: center; margin-top: 2rem">
+          <a href="index.html" class="home-button">← Return to Home</a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-content">
+        <p>© 2025 Humbleberger Ministries. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>
