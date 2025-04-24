@@ -23,6 +23,14 @@ Proclaiming the good news of Yeshua (Jesus) to the Jewish people and the nations
 - [Statement of Faith](https://humbleberger.org/statement-of-faith.html) - Detailed theological convictions
 - [Statement on Antisemitism](https://humbleberger.org/anti-semitism.html) - Our stance regarding Jewish identity and respect
 - [Counting the Cost](https://humbleberger.org/counting-the-cost.html) - Article on the challenges faced by Jewish believers
+- [Privacy Policy](https://humbleberger.org/privacy-policy.html) - Our privacy practices
+- [Terms of Use](https://humbleberger.org/terms-of-use.html) - Website usage terms
+- [Copyright](https://humbleberger.org/copyright.html) - Copyright information
+
+## 🔢 Organization Info
+
+- FEIN: 33-4533201
+- Registered Non-Profit in North Carolina (pending 501(c)(3) status)
 
 ## 🚀 Deploy Instructions
 
