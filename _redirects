@@ -8,17 +8,14 @@ https://humbleberger.netlify.app/* https://humbleberger.org/:splat 301!
 # Force HTTPS
 http://humbleberger.org/* https://humbleberger.org/:splat 301!
 
-# Handle trailing slashes consistently
-https://humbleberger.org/* https://humbleberger.org/:splat 301!
-
-# Handle common file extension issues
-/statement-of-faith /statement-of-faith.html 301
-/mission /mission.html 301
-/anti-semitism /anti-semitism.html 301
-/counting-the-cost /counting-the-cost.html 301
-/privacy-policy /privacy-policy.html 301
-/terms-of-use /terms-of-use.html 301
-/copyright /copyright.html 301
+# Handle clean URLs (no .html extension)
+/statement-of-faith /statement-of-faith.html 200
+/mission /mission.html 200
+/anti-semitism /anti-semitism.html 200
+/counting-the-cost /counting-the-cost.html 200
+/privacy-policy /privacy-policy.html 200
+/terms-of-use /terms-of-use.html 200
+/copyright /copyright.html 200
 
 # Custom 404 page
 /* /index.html 404 

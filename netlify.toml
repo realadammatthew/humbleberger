@@ -1,7 +1,8 @@
 [build]
   publish = "/"
+  command = ""
 
-# Enable brotli compression
+# Enable compression and security headers
 [[headers]]
   for = "/*"
   [headers.values]
@@ -11,7 +12,7 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     Content-Security-Policy = "default-src 'self' https://www.googletagmanager.com https://www.google-analytics.com; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com;"
 
-# Redirect rule with more conditions
+# Custom 404 handling
 [[redirects]]
   from = "/*"
   to = "/index.html"
