@@ -400,5 +400,72 @@
         <p>© 2025 Humbleberger Ministries. All rights reserved.</p>
       </div>
     </footer>
-  </body>
+  
+<style>
+  #cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.9);
+    color: white;
+    padding: 1rem;
+    display: none;
+    z-index: 1000;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
+  }
+  #cookie-banner .content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  #cookie-banner p {
+    margin: 0;
+    color: white;
+  }
+  #accept-cookies {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  #accept-cookies:hover {
+    background: #0056b3;
+  }
+  @media (max-width: 600px) {
+    #cookie-banner .content {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+</style>
+
+<div id="cookie-banner">
+  <div class="content">
+    <p>This website uses cookies to ensure you get the best experience. By continuing to use this site, you consent to our use of cookies.</p>
+    <button id="accept-cookies">Accept</button>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    if (!localStorage.getItem('cookiesAccepted')) {
+      document.getElementById('cookie-banner').style.display = 'block';
+    }
+    
+    document.getElementById('accept-cookies').addEventListener('click', function() {
+      localStorage.setItem('cookiesAccepted', 'true');
+      document.getElementById('cookie-banner').style.display = 'none';
+    });
+  });
+</script>
+
+</body>
 </html>
