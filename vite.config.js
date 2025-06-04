@@ -5,9 +5,6 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: '/index.html',
-        blog: '/blog/index.html',
-        blogAdmin: '/blog/admin/index.html',
-        blogPost: '/blog/[slug].html',
         mission: '/mission.html',
         statementOfFaith: '/statement-of-faith.html',
         antiSemitism: '/anti-semitism.html',
