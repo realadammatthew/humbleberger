@@ -30,7 +30,7 @@ Proclaiming the good news of Yeshua (Jesus) to the Jewish people and the nations
 ## 🔢 Organization Info
 
 - FEIN: 33-4533201
-- Registered Non-Profit in North Carolina (pending 501(c)(3) status)
+- Registered 501(c)(3) Non-Profit in North Carolina (donations are tax-deductible)
 
 ## 🚀 Deploy Instructions
 
@@ -115,7 +115,7 @@ When adding a new page that should appear in navigation:
 Google Analytics dashboard: [https://analytics.google.com/](https://analytics.google.com/)
 
 - Login required; contact admin for access
-- Tracking ID: G-TXRL0573M2
+- Tracking ID: G-WDGNT0XVNN
 
 ## 🌐 Browser Compatibility
 
