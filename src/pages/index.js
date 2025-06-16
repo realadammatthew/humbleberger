@@ -27,10 +27,11 @@ const Home = () => (
           <p
             style={{
               fontWeight: "bold",
-              fontSize: "1.2rem",
+              fontSize: "1.7rem",
               color: "#333",
               marginBottom: "1rem",
               textAlign: "center",
+              color: "#fff",
             }}
           >
             🤔 Curious about God or the Bible? We'd love to chat with you!

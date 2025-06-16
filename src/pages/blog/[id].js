@@ -8,16 +8,16 @@ import Link from 'next/link';
 const Post = ({ content, data }) => {
   return (
     <div className="blog-post-container">
-      <nav className="blog-post-nav">
-        <Link href="/blog" legacyBehavior>
-          <a className="blog-post-back">← Blog Posts</a>
-        </Link>
-      </nav>
       <article className="blog-post-article">
         <h1 className="blog-post-title">{data.title}</h1>
         {data.date && <div className="blog-post-date">{data.date}</div>}
         <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: marked(content) }} />
       </article>
+      <nav className="blog-post-nav">
+        <Link href="/blog" legacyBehavior>
+          <a className="blog-post-back">← Blog Posts</a>
+        </Link>
+      </nav>
     </div>
   );
 };
