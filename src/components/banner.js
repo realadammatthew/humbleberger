@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 const Banner = () => (
   <header>
@@ -24,11 +25,15 @@ const Banner = () => (
           gap: "1rem",
         }}
       >
-        <img
-          src="/logo.png"
-          alt="Humbleberger Ministries Logo"
-          style={{ maxWidth: "120px", height: "auto" }}
-        />
+        <Link href="/" legacyBehavior>
+          <a>
+            <img
+              src="/logo.png"
+              alt="Humbleberger Ministries Logo"
+              style={{ maxWidth: "120px", height: "auto" }}
+            />
+          </a>
+        </Link>
         <h1
           style={{
             margin: 0,

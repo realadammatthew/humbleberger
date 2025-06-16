@@ -6,6 +6,11 @@ import Link from 'next/link';
 
 const BlogPage = ({ posts }) => (
   <div className="blog-list-container">
+    <nav style={{ marginBottom: '2rem', display: 'flex', gap: '1.5rem' }}>
+      <Link href="/" legacyBehavior>
+        <a style={{ color: '#2563eb', textDecoration: 'none', fontWeight: 600 }}>← Home</a>
+      </Link>
+    </nav>
     <h1 className="blog-list-title">Blog Posts</h1>
     <div className="blog-card-list">
       {posts.map(post => (
