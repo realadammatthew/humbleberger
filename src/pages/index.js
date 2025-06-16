@@ -50,7 +50,7 @@ const Home = () => (
                 🌐 Read Our Blog
               </a>
             </Link>
-            <div className="other-buttons">
+            <div className="other-buttons-grid">
               <a
                 className="button"
                 href="https://app.logos.com/books/LLS%3ACSB/references/bible%2Bcsb2.64.1.1?layout=reading&rightSidebar=closed"
@@ -73,7 +73,7 @@ const Home = () => (
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                📰 Subscribe to Our Newsletter
+                📰 Get Our Newsletter
               </a>
               <a className="button" href="mailto:shalom@humbleberger.org">
                 📬 Email Us
