@@ -2,23 +2,31 @@
 
 This is the official website for [Humbleberger Ministries](https://humbleberger.org), a gospel-centered mission focused on Jewish evangelism and discipleship.
 
-## 📖 Tech Stack
+## 🛠️ Tech Stack
 
-- HTML + CSS (no frameworks)
-- Deployed via [Netlify](https://www.netlify.com/)
-- Source hosted on GitHub
+- [Next.js](https://nextjs.org/) - React framework for production
+- Markdown for blog content
+- CSS (no frameworks) for clean, fast loading pages
+- [Netlify](https://www.netlify.com/) for hosting and deployment
+- Automatic sitemap generation
+- SEO optimized
 
-## 💡 Purpose
+## 🌟 Features
 
-Proclaiming the good news of Yeshua (Jesus) to the Jewish people and the nations.
-
-## 🌐 Live Site
-
-[https://humbleberger.org](https://humbleberger.org)
+- Fast, static site generation
+- Blog system with markdown support
+- Automatic sitemap generation
+- Mobile-friendly responsive design
+- SEO optimized with meta tags
+- Clean URLs with Netlify redirects
+- Custom error pages
+- Cookie consent management
+- Accessibility focused
 
 ## 📄 Pages
 
 - [Home](https://humbleberger.org/) - Main landing page
+- [Blog](https://humbleberger.org/blog) - Articles and teachings
 - [Our Mission](https://humbleberger.org/mission) - Mission statement
 - [Statement of Faith](https://humbleberger.org/statement-of-faith) - Detailed theological convictions
 - [Statement on Antisemitism](https://humbleberger.org/anti-semitism) - Our stance regarding Jewish identity and respect
@@ -27,120 +35,90 @@ Proclaiming the good news of Yeshua (Jesus) to the Jewish people and the nations
 - [Terms of Use](https://humbleberger.org/terms-of-use) - Website usage terms
 - [Copyright](https://humbleberger.org/copyright) - Copyright information
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 14.x or higher
+- npm 6.x or higher
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/realadammatthew/humbleberger.git
+   cd humbleberger
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+The site will be available at `http://localhost:3000`
+
+## 📝 Content Management
+
+### Blog Posts
+
+Blog posts are written in Markdown format and stored in `src/copy/`. Each post should include frontmatter with metadata:
+
+```markdown
+# TITLE
+
+**SUBTITLE**
+
+**Humbleberger Ministries**
+---
+
+Your content here...
+```
+
+### Adding New Pages
+
+1. Create a new `.js` file in `src/pages/`
+2. Add the page URL to the sitemap generator if needed
+3. Update navigation if required
+
+## 🛠️ Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build production version and generate sitemap
+- `npm run start` - Start production server
+- `npm run generate-sitemap` - Generate sitemap.xml manually
+
+## 🌐 Deployment
+
+The site automatically deploys to Netlify when changes are pushed to the `main` branch. The deployment process includes:
+
+1. Building the Next.js application
+2. Generating the sitemap
+3. Applying Netlify redirects for clean URLs
+
 ## 🔢 Organization Info
 
 - FEIN: 33-4533201
-- Registered 501(c)(3) Non-Profit in North Carolina (donations are tax-deductible)
+- Registered 501(c)(3) Non-Profit in North Carolina
+- All donations are tax-deductible
 
-## 🚀 Deploy Instructions
+## 🤝 Contributing
 
-Just push to `main` — Netlify auto-deploys.
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## 🔄 Redirects
+## 📄 License
 
-The site uses Netlify's redirect system to provide clean URLs without file extensions:
+All content © Humbleberger Ministries. Code is MIT licensed unless otherwise specified.
 
-- `/mission` redirects to `/mission.html`
-- `/statement-of-faith` redirects to `/statement-of-faith.html`
-- etc.
+## 📞 Contact
 
-This provides a better user experience and improved SEO.
-
-## 💻 Local Development
-
-To test the site locally with redirect functionality:
-
-1. Install Netlify CLI:
-
-   ```bash
-   npm install -g netlify-cli
-   ```
-
-2. Start local development server:
-
-   ```bash
-   netlify dev
-   ```
-
-3. The site will be available at http://localhost:8888 with all redirects working properly.
-
-Alternatively, for simple content editing, you can use any static file server or open the HTML files directly in a browser (note that clean URLs won't work locally without Netlify CLI).
-
-## 🔄 Content Updates
-
-### Adding a New Page
-
-1. Create a new HTML file in the root directory (e.g., `new-page.html`)
-2. Copy the structure from an existing page to maintain consistency
-3. Update the page title, meta description, and content
-4. Add a redirect rule in `_redirects` file:
-   ```
-   /new-page /new-page.html 301
-   ```
-5. Add the new page to `sitemap.xml` with appropriate priority and change frequency
-
-### Updating Existing Content
-
-1. Edit the corresponding HTML file directly
-2. Test locally before pushing changes
-3. If changing URLs, update the `_redirects` file and `sitemap.xml` accordingly
-
-### Adding Navigation Links
-
-When adding a new page that should appear in navigation:
-
-1. Update links in `index.html` for primary navigation
-2. Consider adding links in the footer if appropriate
-3. Always use clean URLs in links (e.g., `/new-page` not `/new-page.html`)
-
-## 🔌 Dependencies
-
-- Google Analytics (GA4) - For website traffic analytics
-- Google Tag Manager - For managing analytics tags
-- Google Fonts - Served from Google CDN (Inter and Noto Sans Hebrew)
-
-## 🔍 SEO & Analytics
-
-### SEO Approach
-
-- Clean URL structure without .html extensions
-- Descriptive page titles and meta descriptions
-- Structured sitemap.xml with priorities
-- Proper robots.txt configuration
-- Mobile-responsive design
-- Semantic HTML structure
-
-### Analytics Access
-
-Google Analytics dashboard: [https://analytics.google.com/](https://analytics.google.com/)
-
-- Login required; contact admin for access
-- Tracking ID: G-WDGNT0XVNN
-
-## 🌐 Browser Compatibility
-
-The website has been tested and is compatible with:
-
-- Chrome (latest 2 versions)
-- Firefox (latest 2 versions)
-- Safari (latest 2 versions)
-- Edge (latest 2 versions)
-- iOS Safari and Chrome
-- Android Chrome and Firefox
-
-## 📧 Contact Information
-
-For technical issues or website maintenance:
-
-- Email: [shalom@humbleberger.org](mailto:shalom@humbleberger.org)
-- Subject line: "Website Technical Support"
-
-Primary maintainer: Daniel J. Cross
-
-## ⚖️ License Information
-
-© 2025 Humbleberger Ministries. All rights reserved.
-
-- The website code structure may be used as a template under the MIT License
-- All content, including text, images, and logos are proprietary and may not be reused without permission
-- For content usage requests, please email [shalom@humbleberger.org](mailto:shalom@humbleberger.org)
+For technical issues, please open a GitHub issue.
+For ministry inquiries, please visit our [website](https://humbleberger.org).
