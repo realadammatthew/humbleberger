@@ -47,9 +47,17 @@ export async function getStaticProps({ params: { id } }) {
   // Get first non-empty line, remove leading # and whitespace
   const firstLine = content.split('\n').find(line => line.trim().length > 0) || '';
   const mdTitle = firstLine.replace(/^#+\s*/, '');
+  
+  // Remove the first heading from the content
+  const contentWithoutTitle = content
+    .split('\n')
+    .slice(1) // Skip the first line (title)
+    .join('\n')
+    .trim(); // Remove any extra whitespace
+    
   return {
     props: {
-      content,
+      content: contentWithoutTitle,
       data: { ...data, title: mdTitle || data.title || id },
     },
   };

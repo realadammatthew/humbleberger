@@ -17,7 +17,7 @@ const BlogPage = ({ posts }) => (
                 <div className="blog-card-date">{post.date}</div>
               )}
               {post.excerpt && (
-                <p className="blog-card-excerpt">{post.excerpt}</p>
+                <p className="blog-card-excerpt" dangerouslySetInnerHTML={{ __html: post.excerpt }} />
               )}
             </div>
           </a>
@@ -39,14 +39,21 @@ export async function getStaticProps() {
     const slug = filename.replace('.md', '');
     const markdownWithMeta = fs.readFileSync(path.join('src', 'copy', filename), 'utf-8');
     const { data, content } = matter(markdownWithMeta);
-    // Get first non-empty line, remove leading # and whitespace
-    const firstLine = content.split('\n').find(line => line.trim().length > 0) || '';
-    const mdTitle = firstLine.replace(/^#+\s*/, '');
+
+    // Get all non-empty lines
+    const contentLines = content.split('\n').filter(line => line.trim().length > 0);
+    
+    // First line is the title (without the #)
+    const mdTitle = contentLines[0].replace(/^#+\s*/, '');
+    
+    // Second line is the subtitle/excerpt (without any markdown)
+    const excerpt = contentLines[1] ? contentLines[1].replace(/\*\*/g, '') : '';
+
     return {
       slug,
       title: mdTitle || data.title || slug,
       date: data.date || '',
-      excerpt: data.excerpt || content.substring(0, 120) + '...'
+      excerpt: excerpt
     };
   });
   // Sort by date descending if available
