@@ -39,9 +39,12 @@ export async function getStaticProps() {
     const slug = filename.replace('.md', '');
     const markdownWithMeta = fs.readFileSync(path.join('src', 'copy', filename), 'utf-8');
     const { data, content } = matter(markdownWithMeta);
+    // Get first non-empty line, remove leading # and whitespace
+    const firstLine = content.split('\n').find(line => line.trim().length > 0) || '';
+    const mdTitle = firstLine.replace(/^#+\s*/, '');
     return {
       slug,
-      title: data.title || slug,
+      title: mdTitle || data.title || slug,
       date: data.date || '',
       excerpt: data.excerpt || content.substring(0, 120) + '...'
     };
