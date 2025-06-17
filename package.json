@@ -1,12 +1,13 @@
 {
-  "name": "humbleberger-blog",
+  "name": "humbleberger-ministries",
   "version": "1.0.0",
   "description": "Humbleberger website with markdown-based blog integration.",
   "main": "src/pages/index.js",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "build": "next build && npm run generate-sitemap",
+    "start": "next start",
+    "generate-sitemap": "node generate-sitemap.js"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
