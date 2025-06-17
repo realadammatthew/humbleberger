@@ -5,7 +5,7 @@
   "main": "src/pages/index.js",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && npm run generate-sitemap",
+    "build": "next build && next export && npm run generate-sitemap",
     "start": "next start",
     "generate-sitemap": "node generate-sitemap.js"
   },
