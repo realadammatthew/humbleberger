@@ -1,3 +1,5 @@
-# Local Netlify folder
 .netlify
+.next
 .env
+markdown-blog-sample
+node_modules
