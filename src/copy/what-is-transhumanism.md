@@ -89,5 +89,5 @@ As the world rushes toward artificial immortality, let the Church proclaim the r
 
 ---
 
-*Want to go deeper? Download our free [teaching guide](../../assets/Transhumanism-Teaching-Guide.pdf) and [evanglism tract](../../assets/Transhumanism-Evangelism-Tract.pdf).*
+*Want to go deeper? Download our free [teaching guide](../../assets/Transhumanism-Teaching-Guide.pdf) and [evangelism tract](../../assets/Transhumanism-Evangelism-Tract.pdf).*
 
