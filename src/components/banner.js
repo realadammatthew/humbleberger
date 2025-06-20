@@ -53,13 +53,35 @@ const Banner = () => (
       </div>
       <p
         style={{
-          marginTop: "0.75rem",
-          fontSize: "1.2rem",
+          marginTop: "0.25rem",
+          fontSize: "2rem",
           color: "#e0e0e0",
           maxWidth: "600px",
         }}
       >
-        Jewish Evangelism. Gospel Proclamation. Christ-Centered Mission.
+        Jewish Evangelism.
+      </p>
+      <p
+        style={{
+          marginTop: "-3rem",
+          fontSize: "1.6rem",
+          color: "#e0e0e0",
+          maxWidth: "600px",
+        }}
+      >
+        Gospel Proclamation.
+      </p>
+      <p
+        style={{
+          marginTop: "-2.65rem",
+          fontSize: "1.8rem",
+          color: "#e0e0e0",
+          maxWidth: "600px",
+          fontWeight: "bold",
+          fontStyle: "italic",
+        }}
+      >
+        Christ-Centered Mission.
       </p>
       <p
         style={{
@@ -69,7 +91,7 @@ const Banner = () => (
           maxWidth: "600px",
         }}
       >
-        ~ <em>A <b>Jeremiah 20:9</b> Ministry</em> ~
+        – <em>A <b>Jeremiah 20:9</b> Ministry</em> –
       </p>
     </div>
   </header>
