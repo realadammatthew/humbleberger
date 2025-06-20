@@ -62,6 +62,22 @@ This is the official website for [Humbleberger Ministries](https://humbleberger.
 
 The site will be available at `http://localhost:3000`
 
+### Build & Deploy
+
+1. Build the project:
+   ```bash
+   npm run build
+   ```
+
+2. Publish the changes
+   ```bash
+   git add .
+   git commit -m "new build"
+   git push
+   ```
+
+3. Log into netlify and verify the results there and on the website.
+
 ## 📝 Content Management
 
 ### Blog Posts
