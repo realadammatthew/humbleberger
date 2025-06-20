@@ -61,6 +61,16 @@ const Banner = () => (
       >
         Jewish Evangelism. Gospel Proclamation. Christ-Centered Mission.
       </p>
+      <p
+        style={{
+          marginTop: "-2rem",
+          fontSize: "0.85rem",
+          color: "#e0e0e0",
+          maxWidth: "600px",
+        }}
+      >
+        ~ <em>A <b>Jeremiah 20:9</b> Ministry</em> ~
+      </p>
     </div>
   </header>
 );
