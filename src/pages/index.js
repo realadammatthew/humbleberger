@@ -20,41 +20,58 @@ const Home = () => (
           truth. Got questions? You can chat with us or find a Bible-believing
           church near you.
         </p>
-        <a
-          href="/blog/who-is-yeshua"
-          className="button"
-          style={{
-            display: "inline-block",
-            marginTop: "1rem",
-            textAlign: "center",
-            fontSize: "1.2rem",
-            width: "100%",
-            maxWidth: "300px",
-            padding: "0.75rem 1.5rem",
-            backgroundColor: "#0070f3",
-            color: "#fff",
-            textDecoration: "none",
-            borderRadius: "5px",
-            boxShadow: "0 2px 4px rgba(0,0,0,0.1)",
-            transition: "background-color 0.3s, transform 0.2s",
-            fontWeight: "bold",
-            textTransform: "uppercase",
-            letterSpacing: "0.05em",
-            ":hover": {
-              backgroundColor: "#005bb5",
-              transform: "translateY(-2px)",
-            },
-            ":active": {
-              backgroundColor: "#004a8c",
-              transform: "translateY(0)",
-            },
-            display: "block",
-            marginLeft: "auto",
-            marginRight: "auto",
-          }}
-        >
-          Who is Yeshua?
-        </a>
+        <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', marginTop: '1rem' }}>
+          <a
+            href="/blog/who-is-yeshua"
+            className="button"
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              justifyContent: "center",
+              textAlign: "center",
+              fontSize: "1.2rem",
+              width: "100%",
+              maxWidth: "300px",
+              padding: "0.75rem 1.5rem",
+              backgroundColor: "#0070f3",
+              color: "#fff",
+              textDecoration: "none",
+              borderRadius: "5px",
+              boxShadow: "0 2px 4px rgba(0,0,0,0.1)",
+              transition: "background-color 0.3s, transform 0.2s",
+              fontWeight: "bold",
+              textTransform: "uppercase",
+              letterSpacing: "0.05em"
+            }}
+          >
+            Who is Yeshua?
+          </a>
+          <a
+            href="/encountering-messiah"
+            className="button"
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              justifyContent: "center",
+              textAlign: "center",
+              fontSize: "1.2rem",
+              width: "100%",
+              maxWidth: "300px",
+              padding: "0.75rem 1.5rem",
+              backgroundColor: "#0070f3",
+              color: "#fff",
+              textDecoration: "none",
+              borderRadius: "5px",
+              boxShadow: "0 2px 4px rgba(0,0,0,0.1)",
+              transition: "background-color 0.3s, transform 0.2s",
+              fontWeight: "bold",
+              textTransform: "uppercase",
+              letterSpacing: "0.05em"
+            }}
+          >
+            Encountering Messiah
+          </a>
+        </div>
       </section>
       <section>
         <div style={{ margin: "2rem 0", textAlign: "center" }}>
