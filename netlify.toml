@@ -27,6 +27,6 @@
 
 [[forms]]
   name = "contact"
-  action = "/contact-success"
+  action = "/contact-success/"
   [[forms.notifications]]
     email = "shalom@humbleberger.org"
