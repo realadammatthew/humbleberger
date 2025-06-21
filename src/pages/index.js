@@ -139,7 +139,7 @@ const Home = () => (
                 𝕏 Follow Us on X
               </a>
               <a
-                className="button"
+                className="button donate-button"
                 href="https://donorbox.org/humbleberger-ministries"
                 target="_blank"
                 rel="noopener noreferrer"
