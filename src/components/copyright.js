@@ -20,7 +20,7 @@ const Copyright = () => (
         non-profit organization. All donations are tax-deductible.
       </p>
       <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "0.5rem", marginTop: "1.5rem" }}>
-        <Link href="/blog/counting-the-cost" legacyBehavior>
+        <Link href="/blog/counting-the-cost?from=home" legacyBehavior>
           <a
             style={{
               color: "#666",
@@ -32,7 +32,7 @@ const Copyright = () => (
           </a>
         </Link>
         <span style={{ color: "#666" }}>|</span>
-        <Link href="/blog/who-is-yeshua" legacyBehavior>
+        <Link href="/blog/who-is-yeshua?from=home" legacyBehavior>
           <a
             style={{
               color: "#666",
@@ -44,7 +44,7 @@ const Copyright = () => (
           </a>
         </Link>
         <span style={{ color: "#666" }}>|</span>
-        <Link href="/blog/from-the-trenches-an-evangelism-guide" legacyBehavior>
+        <Link href="/blog/from-the-trenches-an-evangelism-guide?from=home" legacyBehavior>
           <a
             style={{
               color: "#666",
@@ -56,7 +56,7 @@ const Copyright = () => (
           </a>
         </Link>
         <span style={{ color: "#666" }}>|</span>
-        <Link href="/blog/yeshua-and-the-shema" legacyBehavior>
+        <Link href="/blog/yeshua-and-the-shema?from=home" legacyBehavior>
           <a
             style={{
               color: "#666",
