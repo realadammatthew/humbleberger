@@ -23,7 +23,7 @@ const ContactPage = () => (
           method="POST"
           data-netlify="true"
           data-netlify-honeypot="bot-field"
-          action="/contact-success"
+          action="/contact-success/"
           style={{
             display: "flex",
             flexDirection: "column",
