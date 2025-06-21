@@ -8,19 +8,19 @@ import CallToActionButtons from '../../components/call-to-action-buttons';
 
 const Post = ({ content, data }) => {
   return (
-    <>
-      <div className="blog-post-container">
+    <main>
+      <section>
         <header className="blog-post-header">
-          <h1 className="blog-post-title big-title">{data.title}</h1>
+          <h2 className="blog-post-title big-title">{data.title}</h2>
           {data.date && <div className="blog-post-date">{data.date}</div>}
         </header>
         <article className="blog-post-article">
           <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: marked(content) }} />
           <CallToActionButtons />
         </article>
-      </div>
+      </section>
       <ReturnToBlogPosts />
-    </>
+    </main>
   );
 };
 

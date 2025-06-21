@@ -7,9 +7,9 @@ import Link from 'next/link';
 import CallToActionButtons from '../components/call-to-action-buttons';
 
 const BlogPage = ({ posts }) => (
-  <>
-    <div className="blog-list-container">
-      <h1 className="blog-list-title">Blog Posts</h1>
+  <main>
+    <section>
+      <h2 className="blog-list-title">Blog Posts</h2>
       <div className="blog-card-list">
         {posts.map(post => (
           <Link href={`/blog/${post.slug}`} key={post.slug} legacyBehavior>
@@ -28,9 +28,9 @@ const BlogPage = ({ posts }) => (
         ))}
       </div>
       <CallToActionButtons />
-    </div>
+    </section>
     <ReturnToHome />
-  </>
+  </main>
 );
 
 export async function getStaticProps() {
