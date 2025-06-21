@@ -20,7 +20,7 @@ const Home = () => (
           truth. Got questions? You can chat with us or find a Bible-believing
           church near you.
         </p>
-        <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', marginTop: '1rem' }}>
+        <div className="home-cta-buttons">
           <a
             href="/blog/who-is-yeshua"
             className="button"
