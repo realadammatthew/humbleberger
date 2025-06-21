@@ -115,5 +115,4 @@ When we know this God—revealed fully in **Yeshua the Messiah**—we can live w
 
 ---
 
-**© Humbleberger Ministries**
-*"Proclaiming the Creator’s goodness and the comfort of His care in every corner of Creation."*
+*Download your [free teaching guide](../../assets/Providence-and-Creation-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!*
