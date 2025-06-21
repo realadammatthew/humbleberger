@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Link from "next/link";
+import ReturnToHome from "../components/return-to-home";
 import withBanner from "../utils/with-banner";
 
 const CopyrightPage = () => (
@@ -86,8 +86,7 @@ const CopyrightPage = () => (
             described above, please contact us at:
           </p>
           <p>
-            Email:
-            <a href="mailto:shalom@humbleberger.org">shalom@humbleberger.org</a>
+            Contact us using our <a href="/contact" style={{ color: "#2563eb" }}>online form</a>.
           </p>
 
           <h3>Copyright Infringement</h3>
@@ -128,17 +127,11 @@ const CopyrightPage = () => (
             <br />
             Attn: Copyright Agent
             <br />
-            Email:
-            <a href="mailto:shalom@humbleberger.org">shalom@humbleberger.org</a>
+            Contact us using our <a href="/contact" style={{ color: "#2563eb" }}>online form</a>.
           </p>
         </div>
-
-        <nav className="blog-post-nav">
-          <Link href="/" legacyBehavior>
-            <a className="blog-post-back">← Return to Home</a>
-          </Link>
-        </nav>
       </section>
+      <ReturnToHome />
     </main>
   </>
 );

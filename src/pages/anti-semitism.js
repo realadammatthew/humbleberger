@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Link from "next/link";
+import ReturnToHome from "../components/return-to-home";
 import withBanner from "../utils/with-banner";
 
 const AntiSemitism = () => {
@@ -87,13 +87,8 @@ const AntiSemitism = () => {
               Gentile, into one redeemed family in Christ.
             </p>
           </div>
-
-          <nav className="blog-post-nav">
-            <Link href="/" legacyBehavior>
-              <a className="blog-post-back">← Return to Home</a>
-            </Link>
-          </nav>
         </section>
+        <ReturnToHome />
       </main>
     </>
   );

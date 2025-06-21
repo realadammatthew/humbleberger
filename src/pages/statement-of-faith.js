@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Link from "next/link";
+import ReturnToHome from "../components/return-to-home";
 import withBanner from "../utils/with-banner";
 
 const StatementOfFaith = () => (
@@ -258,13 +258,8 @@ const StatementOfFaith = () => (
             to the glory of God the Father. Amen.
           </p>
         </div>
-
-        <nav className="blog-post-nav">
-          <Link href="/" legacyBehavior>
-            <a className="blog-post-back">← Return to Home</a>
-          </Link>
-        </nav>
       </section>
+      <ReturnToHome />
     </main>
   </>
 );

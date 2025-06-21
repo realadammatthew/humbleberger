@@ -1,4 +1,4 @@
-import Link from "next/link";
+import ReturnToHome from "../components/return-to-home";
 import withBanner from "../utils/with-banner";
 
 const Mission = () => (
@@ -26,13 +26,8 @@ const Mission = () => (
           the lost and serve the global Church as the Lord leads.
         </p>
       </div>
-
-      <nav className="blog-post-nav">
-        <Link href="/" legacyBehavior>
-          <a className="blog-post-back">← Return to Home</a>
-        </Link>
-      </nav>
     </section>
+    <ReturnToHome />
   </main>
 );
 

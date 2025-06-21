@@ -2,39 +2,35 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import withBanner from '../utils/with-banner';
+import ReturnToHome from '../components/return-to-home';
 import Link from 'next/link';
+import CallToActionButtons from '../components/call-to-action-buttons';
 
 const BlogPage = ({ posts }) => (
-  <div className="blog-list-container">
-    <h1 className="blog-list-title">Blog Posts</h1>
-    <div className="blog-card-list">
-      {posts.map(post => (
-        <Link href={`/blog/${post.slug}`} key={post.slug} legacyBehavior>
-          <a className="blog-card">
-            <div className="blog-card-content">
-              <h2 className="blog-card-title">{post.title}</h2>
-              {post.date && (
-                <div className="blog-card-date">{post.date}</div>
-              )}
-              {post.excerpt && (
-                <p className="blog-card-excerpt" dangerouslySetInnerHTML={{ __html: post.excerpt }} />
-              )}
-            </div>
-          </a>
-        </Link>
-      ))}
+  <>
+    <div className="blog-list-container">
+      <h1 className="blog-list-title">Blog Posts</h1>
+      <div className="blog-card-list">
+        {posts.map(post => (
+          <Link href={`/blog/${post.slug}`} key={post.slug} legacyBehavior>
+            <a className="blog-card">
+              <div className="blog-card-content">
+                <h2 className="blog-card-title">{post.title}</h2>
+                {post.date && (
+                  <div className="blog-card-date">{post.date}</div>
+                )}
+                {post.excerpt && (
+                  <p className="blog-card-excerpt" dangerouslySetInnerHTML={{ __html: post.excerpt }} />
+                )}
+              </div>
+            </a>
+          </Link>
+        ))}
+      </div>
+      <CallToActionButtons />
     </div>
-    <div className="blog-post-ctas">
-      <a className="button" href="https://chat.humbleberger.org/en?translation=csb" target="_blank" rel="noopener noreferrer">💬 Chat</a>
-      <a className="button" href="https://eepurl.com/ja6zNY" target="_blank" rel="noopener noreferrer">📰 Subscribe</a>
-      <a className="button" href="https://donorbox.org/humbleberger-ministries" target="_blank" rel="noopener noreferrer">❤️ Donate</a>
-    </div>
-    <nav style={{ marginBottom: '2rem', display: 'flex', gap: '1.5rem' }}>
-      <Link href="/" legacyBehavior>
-        <a style={{ color: '#2563eb', textDecoration: 'none', fontWeight: 600 }}>← Return to Home</a>
-      </Link>
-    </nav>
-  </div>
+    <ReturnToHome />
+  </>
 );
 
 export async function getStaticProps() {

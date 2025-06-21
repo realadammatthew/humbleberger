@@ -1,6 +1,6 @@
 import Head from "next/head";
 import withBanner from "../utils/with-banner";
-import Link from "next/link";
+import ReturnToHome from "../components/return-to-home";
 import { useState } from "react";
 import { useRouter } from "next/router";
 
@@ -151,19 +151,7 @@ const ContactPage = () => {
             </div>
           </form>
         </section>
-        <nav style={{ marginTop: "2rem", textAlign: "center" }}>
-          <Link href="/" legacyBehavior>
-            <a
-              style={{
-                color: "#2563eb",
-                textDecoration: "none",
-                fontWeight: 600,
-              }}
-            >
-              ← Return to Home
-            </a>
-          </Link>
-        </nav>
+        <ReturnToHome />
       </main>
     </>
   );

@@ -1,6 +1,7 @@
 import Head from "next/head";
-import Link from "next/link";
 import withBanner from "../utils/with-banner";
+import Link from "next/link";
+import ReturnToHome from "../components/return-to-home";
 
 const TermsOfUse = () => {
   return (
@@ -135,23 +136,12 @@ const TermsOfUse = () => {
 
             <h3>Contact Us</h3>
             <p>
-              If you have any questions about these Terms of Use, please contact
-              us at:
-            </p>
-            <p>
-              Email:
-              <a href="mailto:shalom@humbleberger.org">
-                shalom@humbleberger.org
-              </a>
+              If you have any questions about these Terms of Use, please contact us
+              using our <a href="/contact" style={{ color: "#2563eb" }}>online form</a>.
             </p>
           </div>
-
-          <nav className="blog-post-nav">
-            <Link href="/" legacyBehavior>
-              <a className="blog-post-back">← Return to Home</a>
-            </Link>
-          </nav>
         </section>
+        <ReturnToHome />
       </main>
     </>
   );

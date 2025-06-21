@@ -3,33 +3,24 @@ import path from 'path';
 import matter from 'gray-matter';
 import { marked } from 'marked';
 import withBanner from '../../utils/with-banner';
-import Link from 'next/link';
+import ReturnToBlogPosts from '../../components/return-to-blog-posts';
+import CallToActionButtons from '../../components/call-to-action-buttons';
 
 const Post = ({ content, data }) => {
   return (
-    <div className="blog-post-container">
-      <header className="blog-post-header">
-        <h1 className="blog-post-title big-title">{data.title}</h1>
-        {data.date && <div className="blog-post-date">{data.date}</div>}
-      </header>
-      <article className="blog-post-article">
-        <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: marked(content) }} />
-        <div className="blog-post-ctas">
-          <a className="button" href="https://chat.humbleberger.org/en?translation=csb" target="_blank" rel="noopener noreferrer">💬 Chat</a>
-          <a className="button" href="https://eepurl.com/ja6zNY" target="_blank" rel="noopener noreferrer">📰 Subscribe</a>
-          <a className="button" href="https://donorbox.org/humbleberger-ministries" target="_blank" rel="noopener noreferrer">❤️ Donate</a>
-        </div>
-      </article>
-      <nav className="blog-post-nav">
-        <Link href="/blog" legacyBehavior>
-          <a className="blog-post-back">← View Blog Posts</a>
-        </Link>
-        <br />
-        <Link href="/" legacyBehavior>
-          <a className="blog-post-back">← Return to Home</a>
-        </Link>
-      </nav>
-    </div>
+    <>
+      <div className="blog-post-container">
+        <header className="blog-post-header">
+          <h1 className="blog-post-title big-title">{data.title}</h1>
+          {data.date && <div className="blog-post-date">{data.date}</div>}
+        </header>
+        <article className="blog-post-article">
+          <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: marked(content) }} />
+          <CallToActionButtons />
+        </article>
+      </div>
+      <ReturnToBlogPosts />
+    </>
   );
 };
 

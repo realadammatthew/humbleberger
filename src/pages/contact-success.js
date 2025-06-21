@@ -1,6 +1,6 @@
 import Head from "next/head";
+import ReturnToHome from "../components/return-to-home";
 import withBanner from "../utils/with-banner";
-import Link from "next/link";
 
 const ContactSuccessPage = () => (
   <>
@@ -14,19 +14,8 @@ const ContactSuccessPage = () => (
           Thank you for getting in touch. We've received your message and will
           get back to you shortly.
         </p>
-        <Link href="/" legacyBehavior>
-          <a
-            className="button"
-            style={{
-              display: "inline-block",
-              width: "auto",
-              fontSize: "1.1rem",
-            }}
-          >
-            ← Return to Home
-          </a>
-        </Link>
       </section>
+      <ReturnToHome />
     </main>
   </>
 );
