@@ -1,6 +1,6 @@
 # What is Transhumanism?
 
-**Understanding Our Greatest Problem—and God’s Greatest Solution**
+**Technology is changing fast. People are asking—Could we become more than human?**
 
 **Humbleberger Ministries**
 
