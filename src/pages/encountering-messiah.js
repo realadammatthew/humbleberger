@@ -39,7 +39,7 @@ const EncounteringMessiah = () => {
               <p><em>Questions of identity & messianic expectation</em></p>
               
               <ul>
-                <li><em>Could Yeshua be the Messiah prophesied in the Hebrew Bible?</em> <span className="coming-soon">(Coming Soon)</span></li>
+                <li><a href="/blog/could-yeshua-be-the-messiah?from=encountering-messiah">Could Yeshua be the Messiah prophesied in the Hebrew Bible?</a></li>
                 <li><em>Is it possible that the Messiah has already come?</em> <span className="coming-soon">(Coming Soon)</span></li>
                 <li><em>What do the Hebrew Scriptures say the Messiah will do?</em> <span className="coming-soon">(Coming Soon)</span></li>
                 <li><em>What does the Tanakh say about the Messiah?</em> <span className="coming-soon">(Coming Soon)</span></li>
