@@ -56,11 +56,17 @@ export async function getStaticProps() {
       excerpt: excerpt
     };
   });
-  // Sort by date descending if available
-  posts.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  // Sort by date descending if available, but keep "Who is Yeshua?" at the top
+  const whoIsYeshuaPost = posts.find(post => post.slug === 'who-is-yeshua');
+  const otherPosts = posts.filter(post => post.slug !== 'who-is-yeshua');
+
+  otherPosts.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+
+  const sortedPosts = whoIsYeshuaPost ? [whoIsYeshuaPost, ...otherPosts] : otherPosts;
+
   return {
     props: {
-      posts,
+      posts: sortedPosts,
     },
   };
 }
