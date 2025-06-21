@@ -19,53 +19,7 @@ const Copyright = () => (
         North Carolina and the Internal Revenue Service as a 501(c)(3)
         non-profit organization. All donations are tax-deductible.
       </p>
-      <div
-        style={{
-          textAlign: "center",
-          marginTop: "1.5rem",
-          fontSize: "0.9rem",
-          display: "flex",
-          flexWrap: "wrap",
-          justifyContent: "center",
-          gap: "0.5rem",
-        }}
-      >
-        <Link href="/mission" legacyBehavior>
-          <a
-            style={{
-              color: "#666",
-              margin: "0 5px",
-              textDecoration: "underline",
-            }}
-          >
-            Our Mission
-          </a>
-        </Link>
-        <span style={{ color: "#666" }}>|</span>
-        <Link href="/statement-of-faith" legacyBehavior>
-          <a
-            style={{
-              color: "#666",
-              margin: "0 5px",
-              textDecoration: "underline",
-            }}
-          >
-            Statement of Faith
-          </a>
-        </Link>
-        <span style={{ color: "#666" }}>|</span>
-        <Link href="/anti-semitism" legacyBehavior>
-          <a
-            style={{
-              color: "#666",
-              margin: "0 5px",
-              textDecoration: "underline",
-            }}
-          >
-            Statement on Antisemitism
-          </a>
-        </Link>
-        <span style={{ color: "#666" }}>|</span>
+      <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "0.5rem", marginTop: "1.5rem" }}>
         <Link href="/blog/counting-the-cost" legacyBehavior>
           <a
             style={{
@@ -113,11 +67,70 @@ const Copyright = () => (
             The Shema
           </a>
         </Link>
+        <span style={{ color: "#666" }}>|</span>
+        <Link href="/encountering-messiah" legacyBehavior>
+          <a
+            style={{
+              color: "#666",
+              margin: "0 5px",
+              textDecoration: "underline",
+            }}
+          >
+            Encountering Messiah
+          </a>
+        </Link>
+      </div>
+      <div
+        style={{
+          textAlign: "center",
+          marginTop: "1.5rem",
+          fontSize: "0.9rem",
+          display: "flex",
+          flexWrap: "wrap",
+          justifyContent: "center",
+          gap: "0.5rem",
+        }}
+      >
+        <Link href="/mission" legacyBehavior>
+          <a
+            style={{
+              color: "#666",
+              margin: "0 5px",
+              textDecoration: "underline",
+            }}
+          >
+            Our Mission
+          </a>
+        </Link>
+        <span style={{ color: "#666" }}>|</span>
+        <Link href="/statement-of-faith" legacyBehavior>
+          <a
+            style={{
+              color: "#666",
+              margin: "0 5px",
+              textDecoration: "underline",
+            }}
+          >
+            Statement of Faith
+          </a>
+        </Link>
+        <span style={{ color: "#666" }}>|</span>
+        <Link href="/anti-semitism" legacyBehavior>
+          <a
+            style={{
+              color: "#666",
+              margin: "0 5px",
+              textDecoration: "underline",
+            }}
+          >
+            Statement on Antisemitism
+          </a>
+        </Link>
       </div>
       <div
         style={{
           fontSize: "0.9rem",
-          marginTop: "0.5rem",
+          marginTop: "0.8rem",
           color: "#999",
           display: "flex",
           flexWrap: "wrap",

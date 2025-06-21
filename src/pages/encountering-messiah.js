@@ -28,7 +28,7 @@ const EncounteringMessiah = () => {
                 <li><a href="/blog/did-yeshua-really-die-on-a-cross">Did Yeshua really die on a cross?</a></li>
                 <li><a href="/blog/did-yeshua-really-rise-from-the-dead">Did Yeshua really rise from the dead?</a></li>
                 <li><a href="/blog/did-yeshua-really-ascend-into-heaven">Did Yeshua really ascend into heaven?</a></li>
-                <li><em>Is Yeshua still alive today?</em> <span className="coming-soon">(Coming Soon)</span></li>
+                <li><a href="/blog/is-yeshua-still-alive-today">Is Yeshua still alive today?</a></li>
               </ul>
             </div>
 
