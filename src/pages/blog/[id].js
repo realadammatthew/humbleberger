@@ -21,7 +21,11 @@ const Post = ({ content, data }) => {
       </article>
       <nav className="blog-post-nav">
         <Link href="/blog" legacyBehavior>
-          <a className="blog-post-back">← Blog Posts</a>
+          <a className="blog-post-back">← View Blog Posts</a>
+        </Link>
+        <br />
+        <Link href="/" legacyBehavior>
+          <a className="blog-post-back">← Return to Home</a>
         </Link>
       </nav>
     </div>

@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Link from "next/link";
 import withBanner from "../utils/with-banner";
 
 const PrivacyPolicy = () => (
@@ -105,11 +106,11 @@ const PrivacyPolicy = () => (
           </p>
         </div>
 
-        <div style={{ textAlign: "center", marginTop: "2rem" }}>
-          <a href="/" class="home-button">
-            ← Return to Home
-          </a>
-        </div>
+        <nav className="blog-post-nav">
+          <Link href="/" legacyBehavior>
+            <a className="blog-post-back">← Return to Home</a>
+          </Link>
+        </nav>
       </section>
     </main>
   </>

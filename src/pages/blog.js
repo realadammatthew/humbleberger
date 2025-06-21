@@ -27,7 +27,7 @@ const BlogPage = ({ posts }) => (
     <p></p>
     <nav style={{ marginBottom: '2rem', display: 'flex', gap: '1.5rem' }}>
       <Link href="/" legacyBehavior>
-        <a style={{ color: '#2563eb', textDecoration: 'none', fontWeight: 600 }}>← Home</a>
+        <a style={{ color: '#2563eb', textDecoration: 'none', fontWeight: 600 }}>← Return to Home</a>
       </Link>
     </nav>
   </div>

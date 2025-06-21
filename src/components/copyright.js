@@ -85,6 +85,92 @@ const Copyright = () => (
             Who is Yeshua?
           </a>
         </Link>
+        |
+        <Link href="/blog/from-the-trenches-an-evangelism-guide" legacyBehavior>
+          <a
+            style={{
+              color: "#666",
+              margin: "0 10px",
+              textDecoration: "underline",
+            }}
+          >
+            From the Trenches
+          </a>
+        </Link>
+        |
+        <Link href="/blog/yeshua-and-the-shema" legacyBehavior>
+          <a
+            style={{
+              color: "#666",
+              margin: "0 10px",
+              textDecoration: "underline",
+            }}
+          >
+            The Shema
+          </a>
+        </Link>
+      </div>
+      <div style={{ fontSize: "0.9rem", marginTop: "0.5rem", color: "#999" }}>
+        <Link href="/" legacyBehavior>
+          <a
+            style={{
+              color: "#888",
+              margin: "0 10px",
+              textDecoration: "underline",
+            }}
+          >
+            Home
+          </a>
+        </Link>
+        |
+        <Link href="https://chat.humbleberger.org/en?translation=csb" legacyBehavior>
+          <a
+            style={{
+              color: "#888",
+              margin: "0 10px",
+              textDecoration: "underline",
+            }}
+          >
+            Chat
+          </a>
+        </Link>
+        |
+        <Link href="/blog" legacyBehavior>
+          <a
+            style={{
+              color: "#888",
+              margin: "0 10px",
+              textDecoration: "underline",
+            }}
+          >
+            Blog
+          </a>
+        </Link>
+        |
+        
+        <Link href="https://eepurl.com/ja6zNY" legacyBehavior>
+          <a
+            style={{
+              color: "#888",
+              margin: "0 10px",
+              textDecoration: "underline",
+            }}
+          >
+            Subscribe
+          </a>
+        </Link>
+        |
+        <Link href="https://donorbox.org/humbleberger-ministries" legacyBehavior>
+          <a
+            style={{
+              color: "#888",
+              margin: "0 10px",
+              textDecoration: "underline",
+            }}
+          >
+            Donate
+          </a>
+        </Link>
       </div>
       <div style={{ fontSize: "0.8rem", marginTop: "0.5rem", color: "#888" }}>
         <Link href="/privacy-policy" legacyBehavior>
