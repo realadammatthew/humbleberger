@@ -51,6 +51,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/blog/has-messiah-already-come</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/blog/how-does-god-reveal-himself</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
