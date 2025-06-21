@@ -24,3 +24,9 @@
   to = "/index.html"
   status = 200
   force = false
+
+[[forms]]
+  name = "contact"
+  action = "/contact-success"
+  [[forms.notifications]]
+    email = "shalom@humbleberger.org"
