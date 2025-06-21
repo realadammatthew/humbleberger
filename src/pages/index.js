@@ -110,8 +110,8 @@ const Home = () => (
               >
                 📰 Get Our Newsletter
               </a>
-              <a className="button" href="mailto:shalom@humbleberger.org">
-                📬 Email Us
+              <a className="button" href="/contact">
+                📬 Contact Us
               </a>
               <a
                 className="button"

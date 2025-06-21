@@ -96,6 +96,16 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/contact</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/contact-success</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/copyright</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>

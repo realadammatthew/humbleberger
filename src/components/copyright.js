@@ -238,6 +238,18 @@ const Copyright = () => (
             Copyright
           </a>
         </Link>
+        <span style={{ color: "#888" }}>|</span>
+        <Link href="/contact" legacyBehavior>
+          <a
+            style={{
+              color: "#888",
+              margin: "0 5px",
+              textDecoration: "underline",
+            }}
+          >
+            Contact
+          </a>
+        </Link>
       </div>
       <p style={{ fontSize: "0.7rem", marginTop: "1rem", color: "#666" }}>
         FEIN: 33-4533201
