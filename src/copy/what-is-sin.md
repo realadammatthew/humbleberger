@@ -88,5 +88,4 @@ Through **Jesus the Messiah**, we can be forgiven, freed, and restored to the re
 
 ---
 
-**© Humbleberger Ministries**
-*"Teaching the truth about sin—and the greater truth about the Savior."*
+*Download your [free teaching guide](../../assets/Doctrine-of-Sin-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!*
