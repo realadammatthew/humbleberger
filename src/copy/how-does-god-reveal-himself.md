@@ -111,5 +111,4 @@ To ignore God's revelation is to close our eyes to truth. But to receive it is t
 
 ---
 
-**© Humbleberger Ministries**
-*"Helping people see God clearly—through His world, His Word, and His Son."*
+*Download your [free teaching guide](../../assets/God-and-Revelation-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!*
