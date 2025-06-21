@@ -24,7 +24,11 @@ const BlogPage = ({ posts }) => (
         </Link>
       ))}
     </div>
-    <p></p>
+    <div className="blog-post-ctas">
+      <a className="button" href="https://chat.humbleberger.org/en?translation=csb" target="_blank" rel="noopener noreferrer">💬 Chat</a>
+      <a className="button" href="https://eepurl.com/ja6zNY" target="_blank" rel="noopener noreferrer">📰 Subscribe</a>
+      <a className="button" href="https://donorbox.org/humbleberger-ministries" target="_blank" rel="noopener noreferrer">❤️ Donate</a>
+    </div>
     <nav style={{ marginBottom: '2rem', display: 'flex', gap: '1.5rem' }}>
       <Link href="/" legacyBehavior>
         <a style={{ color: '#2563eb', textDecoration: 'none', fontWeight: 600 }}>← Return to Home</a>
