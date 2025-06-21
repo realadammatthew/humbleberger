@@ -2,11 +2,23 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { marked } from 'marked';
+import { useEffect, useState } from 'react';
+import { useRouter } from 'next/router';
 import withBanner from '../../utils/with-banner';
 import ReturnToBlogPosts from '../../components/return-to-blog-posts';
 import CallToActionButtons from '../../components/call-to-action-buttons';
 
 const Post = ({ content, data }) => {
+  const [referrer, setReferrer] = useState(null);
+  const router = useRouter();
+
+  useEffect(() => {
+    // Check URL parameters for referrer information
+    if (router.query.from === "encountering-messiah") {
+      setReferrer("/encountering-messiah");
+    }
+  }, [router.query.from]);
+
   return (
     <main>
       <section>
@@ -19,7 +31,7 @@ const Post = ({ content, data }) => {
           <CallToActionButtons />
         </article>
       </section>
-      <ReturnToBlogPosts />
+      <ReturnToBlogPosts referrer={referrer} />
     </main>
   );
 };

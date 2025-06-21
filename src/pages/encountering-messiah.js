@@ -21,14 +21,14 @@ const EncounteringMessiah = () => {
               <p><em>Basic facts about His life, death, resurrection, and identity</em></p>
               
               <ul>
-                <li><a href="/blog/who-is-yeshua">Who is Yeshua?</a></li>
-                <li><a href="/blog/did-yeshua-really-exist">Did Yeshua really exist?</a></li>
-                <li><a href="/blog/was-yeshua-really-sinless">Was Yeshua really sinless?</a></li>
-                <li><a href="/blog/was-yeshua-really-born-of-a-virgin">Was Yeshua really born of a virgin?</a></li>
-                <li><a href="/blog/did-yeshua-really-die-on-a-cross">Did Yeshua really die on a cross?</a></li>
-                <li><a href="/blog/did-yeshua-really-rise-from-the-dead">Did Yeshua really rise from the dead?</a></li>
-                <li><a href="/blog/did-yeshua-really-ascend-into-heaven">Did Yeshua really ascend into heaven?</a></li>
-                <li><a href="/blog/is-yeshua-still-alive-today">Is Yeshua still alive today?</a></li>
+                <li><a href="/blog/who-is-yeshua?from=encountering-messiah">Who is Yeshua?</a></li>
+                <li><a href="/blog/did-yeshua-really-exist?from=encountering-messiah">Did Yeshua really exist?</a></li>
+                <li><a href="/blog/was-yeshua-really-sinless?from=encountering-messiah">Was Yeshua really sinless?</a></li>
+                <li><a href="/blog/was-yeshua-really-born-of-a-virgin?from=encountering-messiah">Was Yeshua really born of a virgin?</a></li>
+                <li><a href="/blog/did-yeshua-really-die-on-a-cross?from=encountering-messiah">Did Yeshua really die on a cross?</a></li>
+                <li><a href="/blog/did-yeshua-really-rise-from-the-dead?from=encountering-messiah">Did Yeshua really rise from the dead?</a></li>
+                <li><a href="/blog/did-yeshua-really-ascend-into-heaven?from=encountering-messiah">Did Yeshua really ascend into heaven?</a></li>
+                <li><a href="/blog/is-yeshua-still-alive-today?from=encountering-messiah">Is Yeshua still alive today?</a></li>
               </ul>
             </div>
 
@@ -68,10 +68,10 @@ const EncounteringMessiah = () => {
               <p><em>How salvation works; sin, atonement, afterlife</em></p>
               
               <ul>
-                <li><a href="/blog/what-is-sin">What is sin?</a></li>
+                <li><a href="/blog/what-is-sin?from=encountering-messiah">What is sin?</a></li>
                 <li><em>What role did sacrifice play in atonement in the Torah, and how is it handled today?</em> <span className="coming-soon">(Coming Soon)</span></li>
                 <li><em>How do you understand atonement today without the Temple?</em> <span className="coming-soon">(Coming Soon)</span></li>
-                <li><a href="/blog/what-does-it-mean-to-know-god">What does it mean to be in right relationship with God?</a></li>
+                <li><a href="/blog/what-does-it-mean-to-know-god?from=encountering-messiah">What does it mean to be in right relationship with God?</a></li>
                 <li><em>What do I need to do to be saved?</em> <span className="coming-soon">(Coming Soon)</span></li>
                 <li><em>How do I become a Jewish Christian?</em> <span className="coming-soon">(Coming Soon)</span></li>
                 <li><em>What does it mean to go to heaven?</em> <span className="coming-soon">(Coming Soon)</span></li>
