@@ -71,7 +71,7 @@ const EncounteringMessiah = () => {
                 <li><a href="/blog/what-is-sin?from=encountering-messiah">What is sin?</a></li>
                 <li><em>What role did sacrifice play in atonement in the Torah, and how is it handled today?</em> <span className="coming-soon">(Coming Soon)</span></li>
                 <li><em>How do you understand atonement today without the Temple?</em> <span className="coming-soon">(Coming Soon)</span></li>
-                <li><a href="/blog/what-does-it-mean-to-know-god?from=encountering-messiah">What does it mean to be in right relationship with God?</a></li>
+                <li><em>What does it mean to be in right relationship with God?</em> <span className="coming-soon">(Coming Soon)</span></li>
                 <li><em>What do I need to do to be saved?</em> <span className="coming-soon">(Coming Soon)</span></li>
                 <li><em>How do I become a Jewish Christian?</em> <span className="coming-soon">(Coming Soon)</span></li>
                 <li><em>What does it mean to go to heaven?</em> <span className="coming-soon">(Coming Soon)</span></li>
