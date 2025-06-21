@@ -10,17 +10,14 @@ const BlogPage = ({ posts }) => (
   <main>
     <section>
       <h2 className="blog-list-title">Blog Posts</h2>
-      <div className="blog-card-list">
+      <div className="toc-list">
         {posts.map(post => (
           <Link href={`/blog/${post.slug}`} key={post.slug} legacyBehavior>
-            <a className="blog-card">
-              <div className="blog-card-content">
-                <h2 className="blog-card-title">{post.title}</h2>
-                {post.date && (
-                  <div className="blog-card-date">{post.date}</div>
-                )}
+            <a className="toc-item">
+              <div className="toc-item-content">
+                <h3 className="toc-item-title">{post.title}</h3>
                 {post.excerpt && (
-                  <p className="blog-card-excerpt" dangerouslySetInnerHTML={{ __html: post.excerpt }} />
+                  <p className="toc-item-excerpt" dangerouslySetInnerHTML={{ __html: post.excerpt }} />
                 )}
               </div>
             </a>
