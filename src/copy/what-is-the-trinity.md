@@ -124,5 +124,4 @@ We don’t claim to fully understand the Trinity, but we trust the God who revea
 
 ---
 
-**© Humbleberger Ministries**
-*"Helping people know the One God who reveals Himself as Father, Son, and Spirit."*
+*Download your [free teaching guide](../../assets/Doctrine-of-God-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!*
