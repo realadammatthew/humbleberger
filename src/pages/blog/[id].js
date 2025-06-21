@@ -16,6 +16,8 @@ const Post = ({ content, data }) => {
     // Check URL parameters for referrer information
     if (router.query.from === "encountering-messiah") {
       setReferrer("/encountering-messiah");
+    } else if (router.query.from === "home") {
+      setReferrer("/");
     }
   }, [router.query.from]);
 

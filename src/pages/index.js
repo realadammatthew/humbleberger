@@ -22,7 +22,7 @@ const Home = () => (
         </p>
         <div className="home-cta-buttons">
           <a
-            href="/blog/who-is-yeshua"
+            href="/blog/who-is-yeshua?from=home"
             className="button"
             style={{
               display: "inline-flex",

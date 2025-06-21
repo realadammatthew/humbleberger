@@ -4,12 +4,20 @@ import { useRouter } from "next/router";
 
 const ReturnToBlogPosts = ({ referrer }) => {
   const [returnUrl, setReturnUrl] = useState("/blog");
+  const [returnText, setReturnText] = useState("Blog Posts");
   const router = useRouter();
 
   useEffect(() => {
     // If a specific referrer is provided, use it
     if (referrer) {
       setReturnUrl(referrer);
+      if (referrer === "/encountering-messiah") {
+        setReturnText("Encountering Messiah");
+      } else if (referrer === "/") {
+        setReturnText("Home");
+      } else {
+        setReturnText("Blog Posts");
+      }
       return;
     }
 
@@ -17,6 +25,10 @@ const ReturnToBlogPosts = ({ referrer }) => {
     if (typeof window !== "undefined" && router.query.from) {
       if (router.query.from === "encountering-messiah") {
         setReturnUrl("/encountering-messiah");
+        setReturnText("Encountering Messiah");
+      } else if (router.query.from === "home") {
+        setReturnUrl("/");
+        setReturnText("Home");
       }
     }
   }, [referrer, router.query.from]);
@@ -31,7 +43,7 @@ const ReturnToBlogPosts = ({ referrer }) => {
             fontWeight: 600,
           }}
         >
-          ← Return to {returnUrl === "/encountering-messiah" ? "Encountering Messiah" : "Blog Posts"}
+          ← Return to {returnText}
         </a>
       </Link>
     </nav>
