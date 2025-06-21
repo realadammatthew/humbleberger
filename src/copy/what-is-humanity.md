@@ -125,5 +125,4 @@ Through **Jesus the Messiah**, we are not just forgiven; we are made whole. He s
 
 ---
 
-**© Humbleberger Ministries**
-*"Helping people discover their identity, purpose, and hope in the image of God—restored through the Jewish Messiah."*
+*Download your [free teaching guide](../../assets/Doctrine-of-Humanity-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!*
