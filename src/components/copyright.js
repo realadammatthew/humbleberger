@@ -62,7 +62,7 @@ const Copyright = () => (
           </a>
         </Link>
         |
-        <Link href="/counting-the-cost" legacyBehavior>
+        <Link href="/blog/counting-the-cost" legacyBehavior>
           <a
             style={{
               color: "#666",
@@ -71,6 +71,18 @@ const Copyright = () => (
             }}
           >
             Counting the Cost
+          </a>
+        </Link>
+        |
+        <Link href="/blog/who-is-yeshua" legacyBehavior>
+          <a
+            style={{
+              color: "#666",
+              margin: "0 10px",
+              textDecoration: "underline",
+            }}
+          >
+            Who is Yeshua?
           </a>
         </Link>
       </div>

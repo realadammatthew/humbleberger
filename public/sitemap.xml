@@ -16,6 +16,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/blog/counting-the-cost</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/blog/from-the-trenches-an-evangelism-guide</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -72,11 +77,6 @@
     </url>
     <url>
         <loc>https://humbleberger.org/copyright</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://humbleberger.org/counting-the-cost</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
