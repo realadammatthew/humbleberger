@@ -96,7 +96,7 @@ const Home = () => (
               </a>
               <a
                 className="button"
-                href="https://www.sbc.net/churchsearch/"
+                href="https://www.google.com/maps/search/?api=1&query=messianic+church+near+me"
                 target="_blank"
                 rel="noopener noreferrer"
               >
