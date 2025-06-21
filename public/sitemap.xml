@@ -51,6 +51,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/blog/is-yeshua-still-alive-today</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/blog/this-history-of-everything</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
