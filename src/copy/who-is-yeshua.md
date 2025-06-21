@@ -166,4 +166,4 @@ One day, all Israel will recognize Him. Until then, the invitation stands open.
 
 ---
 
-*Download your [free copy](../../assets/Humbleberger-Ministries-Who-Is-Yeshua.pdf) of this article today, and don't forget to share it friends and family!*
+*Download your [free copy](../../assets/Humbleberger-Ministries-Who-Is-Yeshua.pdf) of this article today, and don't forget to share it with friends and family!*
