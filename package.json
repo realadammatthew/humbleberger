@@ -5,9 +5,10 @@
   "main": "src/pages/index.js",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && npm run generate-sitemap",
+    "build": "next build && next export && npm run generate-sitemap && npm run generate-rss",
     "start": "next start",
-    "generate-sitemap": "node generate-sitemap.js"
+    "generate-sitemap": "node generate-sitemap.js",
+    "generate-rss": "node generate-rss.js"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

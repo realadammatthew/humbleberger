@@ -177,6 +177,18 @@ const Copyright = () => (
           </a>
         </Link>
         <span style={{ color: "#888" }}>|</span>
+        <Link href="/rss.xml" legacyBehavior>
+          <a
+            style={{
+              color: "#888",
+              margin: "0 5px",
+              textDecoration: "underline",
+            }}
+          >
+            RSS
+          </a>
+        </Link>
+        <span style={{ color: "#888" }}>|</span>
 
         <Link href="https://eepurl.com/ja6zNY" legacyBehavior>
           <a
