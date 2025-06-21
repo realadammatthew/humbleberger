@@ -21,6 +21,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/blog/did-yeshua-really-exist</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/blog/from-the-trenches-an-evangelism-guide</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
