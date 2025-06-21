@@ -81,7 +81,7 @@ const Banner = () => (
           fontStyle: "italic",
         }}
       >
-        Christ-Centered Mission.
+        Messiah-Centered Mission.
       </p>
       <p
         style={{

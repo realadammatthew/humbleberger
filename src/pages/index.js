@@ -9,7 +9,7 @@ const Home = () => (
         <h2>About the Mission</h2>
         <p style={{textAlign: "center", fontSize: "1.6rem"}}>
           Welcome to Humbleberger Ministries – where we proclaim the gospel of
-          Jesus (Yeshua) with a special heart for the Jewish people. Our mission
+          Yeshua (Jesus) with a special heart for the Jewish people. Our mission
           is rooted in Romans 1:16: "For I am not ashamed of the gospel, because
           it is the power of God for salvation to everyone who believes, first
           to the Jew, and also to the Greek."
@@ -86,7 +86,7 @@ const Home = () => (
               color: "#fff",
             }}
           >
-            🤔 Curious about God or the Bible? We'd love to chat with you!
+            🤔 Curious about Yeshua or the Bible? We'd love to chat with you!
           </p>
           <div className="button-group">
             <a
@@ -117,7 +117,7 @@ const Home = () => (
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                📍 Find a Local Church
+                📍 Find a Local Synagogue
               </a>
               <a
                 className="button"
