@@ -26,7 +26,7 @@ const resources = {
       // Language Switcher
       'language.switch': 'Switch Language',
       'language.english': 'English',
-      'language.hebrew': 'Hebrew',
+      'language.hebrew': 'עברית',
       
       // Home Page
       'home.about.title': 'About the Mission',
