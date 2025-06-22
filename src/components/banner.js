@@ -52,19 +52,12 @@ const Banner = () => {
               textShadow: "0 2px 4px rgba(0,0,0,0.1)",
             }}
           >
-            {isHebrew ? (
-              <>
-                שירותי
-                <br />
-                האמבלברגר
-              </>
-            ) : (
-              <>
-                Humbleberger
-                <br />
-                Ministries
-              </>
-            )}
+            {t('org.name').split('\n').map((line, index) => (
+              <React.Fragment key={index}>
+                {line}
+                {index < t('org.name').split('\n').length - 1 && <br />}
+              </React.Fragment>
+            ))}
           </h1>
         </div>
         <p

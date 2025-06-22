@@ -186,6 +186,9 @@ const resources = {
       // Meta Descriptions
       'meta.contact': 'Get in touch with Humbleberger Ministries. Send us a message through our contact form.',
       'meta.contactHebrew': 'צרו קשר עם שירותי האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.',
+      
+      // Organization Name
+      'org.name': 'Humbleberger\nMinistries',
     }
   },
   he: {
@@ -372,6 +375,9 @@ const resources = {
       // Meta Descriptions
       'meta.contact': 'Get in touch with Humbleberger Ministries. Send us a message through our contact form.',
       'meta.contactHebrew': 'צרו קשר עם שירותי האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.',
+      
+      // Organization Name
+      'org.name': 'שירותי\nהאמבלברגר',
     }
   }
 };
