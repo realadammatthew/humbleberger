@@ -713,11 +713,11 @@ const resources = {
       'encountering.section6.keepKosher': 'האם יהודים משיחיים שומרים כשרות?',
       'encountering.section6.keepShabbat': 'האם יהודים משיחיים שומרים שבת?',
       
-      'encountering.section7.title': '7. MEETING THE MESSIAH PERSONALLY',
-      'encountering.section7.subtitle': 'Personal relationship and spiritual encounter',
-      'encountering.section7.encounterYeshua': 'How can I personally encounter Yeshua today?',
-      'encountering.section7.personalRelationship': 'What does it mean to have a personal relationship with the Messiah?',
-      'encountering.section7.recognizeVoice': 'How can I recognize the voice of the Messiah in my life?',
+      'encountering.section7.title': '7. פגישה אישית עם המשיח',
+      'encountering.section7.subtitle': 'מערכת יחסים אישית ומפגש רוחני',
+      'encountering.section7.encounterYeshua': 'איך אני יכול לפגוש את ישוע באופן אישי היום?',
+      'encountering.section7.personalRelationship': 'מה זה אומר להיות במערכת יחסים אישית עם המשיח?',
+      'encountering.section7.recognizeVoice': 'איך אני יכול לזהות את קול המשיח בחיי?',
       
       // Common
       'common.loading': 'טוען...',
@@ -758,6 +758,7 @@ const resources = {
       // Page Titles
       'pageTitle.contact': 'צרו קשר - שירותי האמבלברגר',
       'pageTitle.contactSuccess': 'ההודעה נשלחה! - שירותי האמבלברגר',
+      'pageTitle.contactSuccessHebrew': 'ההודעה נשלחה! - שירותי האמבלברגר',
       
       // Meta Descriptions
       'meta.contact': 'צרו קשר עם שירותי האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.',
