@@ -1,110 +1,92 @@
 import Head from "next/head";
 import ReturnToHome from "../components/return-to-home";
 import withBanner from "../utils/with-banner";
+import { useTranslation } from "react-i18next";
 
-const PrivacyPolicy = () => (
-  <>
-    <Head>
-      <title>Privacy Policy - Humbleberger Ministries</title>
-      <meta
-        name="description"
-        content="Privacy policy for Humbleberger Ministries website."
-      />
-    </Head>
-    <main>
-      <section>
-        <h2>Privacy Policy</h2>
+const PrivacyPolicy = () => {
+  const { t } = useTranslation();
 
-        <div class="policy-content">
-          <p>
-            <em>Last Updated: April 18, 2025</em>
-          </p>
+  return (
+    <>
+      <Head>
+        <title>{t('legal.privacy.title')} - {t('copyright.privacy')}</title>
+        <meta
+          name="description"
+          content={t('legal.privacy.description')}
+        />
+      </Head>
+      <main>
+        <section>
+          <h2>{t('privacy.title')}</h2>
 
-          <p>
-            At Humbleberger Ministries, we are committed to protecting your
-            privacy and ensuring the security of your personal information. This
-            Privacy Policy outlines how we collect, use, and safeguard the
-            information you provide when using our website and services.
-          </p>
+          <div className="policy-content">
+            <p>
+              <em>{t('privacy.lastUpdated')}</em>
+            </p>
 
-          <h3>Information We Collect</h3>
-          <p>
-            We may collect personal information such as your name, email
-            address, and location when you voluntarily submit this information
-            through our website, such as when signing up for our newsletter or
-            contacting us. Additionally, we automatically collect certain
-            information about your device, including your IP address, browser
-            type, and operating system.
-          </p>
+            <p>
+              {t('privacy.intro')}
+            </p>
 
-          <h3>How We Use Your Information</h3>
-          <p>We use the information we collect to:</p>
-          <ul>
-            <li>
-              Respond to your inquiries and provide you with information about
-              our ministry
-            </li>
-            <li>
-              Send you our newsletter and updates about our activities (with
-              your consent)
-            </li>
-            <li>Improve our website and services</li>
-            <li>
-              Fulfill any specific purpose for which you provided the
-              information
-            </li>
-          </ul>
+            <h3>{t('privacy.collect.title')}</h3>
+            <p>
+              {t('privacy.collect.content')}
+            </p>
 
-          <h3>Cookies and Tracking Technologies</h3>
-          <p>
-            Our website uses cookies and similar tracking technologies to
-            improve your browsing experience and collect information about how
-            you use our site. You can manage your cookie preferences through
-            your browser settings.
-          </p>
+            <h3>{t('privacy.use.title')}</h3>
+            <p>{t('privacy.use.intro')}</p>
+            <ul>
+              <li>
+                {t('privacy.use.item1')}
+              </li>
+              <li>
+                {t('privacy.use.item2')}
+              </li>
+              <li>{t('privacy.use.item3')}</li>
+              <li>
+                {t('privacy.use.item4')}
+              </li>
+            </ul>
 
-          <h3>Third-Party Service Providers</h3>
-          <p>
-            We may share your information with trusted third-party service
-            providers who assist us in operating our website, conducting our
-            ministry, or servicing you. These third parties are obligated to
-            keep your information confidential.
-          </p>
+            <h3>{t('privacy.cookies.title')}</h3>
+            <p>
+              {t('privacy.cookies.content')}
+            </p>
 
-          <h3>Your Rights</h3>
-          <p>You have the right to:</p>
-          <ul>
-            <li>Access the personal information we hold about you</li>
-            <li>Request correction of inaccurate information</li>
-            <li>Request deletion of your information</li>
-            <li>Opt-out of receiving communications from us</li>
-          </ul>
+            <h3>{t('privacy.thirdParty.title')}</h3>
+            <p>
+              {t('privacy.thirdParty.content')}
+            </p>
 
-          <h3>Children's Privacy</h3>
-          <p>
-            Our website is not intended for children under 13 years of age. We
-            do not knowingly collect personal information from children under
-            13.
-          </p>
+            <h3>{t('privacy.rights.title')}</h3>
+            <p>{t('privacy.rights.intro')}</p>
+            <ul>
+              <li>{t('privacy.rights.item1')}</li>
+              <li>{t('privacy.rights.item2')}</li>
+              <li>{t('privacy.rights.item3')}</li>
+              <li>{t('privacy.rights.item4')}</li>
+            </ul>
 
-          <h3>Changes to This Privacy Policy</h3>
-          <p>
-            We may update this Privacy Policy from time to time to reflect
-            changes in our practices or for other operational, legal, or
-            regulatory reasons. The updated policy will be posted on this page
-            with a revised "Last Updated" date.
-          </p>
+            <h3>{t('privacy.children.title')}</h3>
+            <p>
+              {t('privacy.children.content')}
+            </p>
 
-          <h3>Contact Us</h3>
-          <p>
-            If you have any questions or concerns about our Privacy Policy,
-            please contact us using our <a href="/contact" style={{ color: "#2563eb" }}>online form</a>.
-          </p>
-        </div>
-      </section>
-      <ReturnToHome />
-    </main>
-  </>
-);
+            <h3>{t('privacy.changes.title')}</h3>
+            <p>
+              {t('privacy.changes.content')}
+            </p>
+
+            <h3>{t('privacy.contact.title')}</h3>
+            <p>
+              {t('privacy.contact.content')} <a href="/contact" style={{ color: "#2563eb" }}>{t('privacy.contact.link')}</a>.
+            </p>
+          </div>
+        </section>
+        <ReturnToHome />
+      </main>
+    </>
+  );
+};
 
 export default withBanner(PrivacyPolicy);

@@ -11,7 +11,7 @@ const PrivacyPolicyHebrew = () => {
   return (
     <>
       <Head>
-        <title>מדיניות פרטיות - משרדי האמבלברגר</title>
+        <title>{t('legal.privacy.title')} - {t('copyright.privacy')}</title>
         <meta
           name="description"
           content={t('legal.privacy.description')}
@@ -19,69 +19,69 @@ const PrivacyPolicyHebrew = () => {
       </Head>
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
         <section>
-          <h2>מדיניות פרטיות</h2>
+          <h2>{t('privacy.title')}</h2>
 
           <div className="policy-content">
             <p>
-              <em>עודכן לאחרונה: 18 באפריל 2025</em>
+              <em>{t('privacy.lastUpdated')}</em>
             </p>
 
             <p>
-              במשרדי האמבלברגר, אנו מחויבים להגן על פרטיותך ולהבטיח את אבטחת המידע האישי שלך. מדיניות פרטיות זו מתארת כיצד אנו אוספים, משתמשים ושומרים על המידע שאתה מספק בעת השימוש באתר ובשירותים שלנו.
+              {t('privacy.intro')}
             </p>
 
-            <h3>המידע שאנו אוספים</h3>
+            <h3>{t('privacy.collect.title')}</h3>
             <p>
-              אנו עשויים לאסוף מידע אישי כגון שמך, כתובת הדואר האלקטרוני שלך ומיקומך כאשר אתה מוסר מידע זה מרצונך דרך אתר האינטרנט שלנו, למשל בעת הרשמה לניוזלטר שלנו או יצירת קשר עמנו. בנוסף, אנו אוספים באופן אוטומטי מידע מסוים על מכשירך, כולל כתובת ה-IP שלך, סוג הדפדפן ומערכת ההפעלה.
+              {t('privacy.collect.content')}
             </p>
 
-            <h3>כיצד אנו משתמשים במידע שלך</h3>
-            <p>אנו משתמשים במידע שאנו אוספים כדי:</p>
+            <h3>{t('privacy.use.title')}</h3>
+            <p>{t('privacy.use.intro')}</p>
             <ul>
               <li>
-                להשיב לפניותיך ולספק לך מידע על שירותנו
+                {t('privacy.use.item1')}
               </li>
               <li>
-                לשלוח לך את הניוזלטר שלנו ועדכונים על פעילויותינו (בהסכמתך)
+                {t('privacy.use.item2')}
               </li>
-              <li>לשפר את האתר והשירותים שלנו</li>
+              <li>{t('privacy.use.item3')}</li>
               <li>
-                למלא כל מטרה ספציפית שלשמה סיפקת את המידע
+                {t('privacy.use.item4')}
               </li>
             </ul>
 
-            <h3>עוגיות וטכנולוגיות מעקב</h3>
+            <h3>{t('privacy.cookies.title')}</h3>
             <p>
-              האתר שלנו משתמש בעוגיות ובטכנולוגיות מעקב דומות כדי לשפר את חווית הגלישה שלך ולאסוף מידע על אופן השימוש שלך באתר שלנו. באפשרותך לנהל את העדפות העוגיות שלך דרך הגדרות הדפדפן שלך.
+              {t('privacy.cookies.content')}
             </p>
 
-            <h3>ספקי שירות של צד שלישי</h3>
+            <h3>{t('privacy.thirdParty.title')}</h3>
             <p>
-              אנו עשויים לחלוק את המידע שלך עם ספקי שירות מהימנים של צד שלישי המסייעים לנו בתפעול האתר שלנו, בניהול שירותנו או במתן שירות לך. צדדים שלישיים אלה מחויבים לשמור על סודיות המידע שלך.
+              {t('privacy.thirdParty.content')}
             </p>
 
-            <h3>זכויותיך</h3>
-            <p>יש לך את הזכות:</p>
+            <h3>{t('privacy.rights.title')}</h3>
+            <p>{t('privacy.rights.intro')}</p>
             <ul>
-              <li>לגשת למידע האישי שאנו מחזיקים עליך</li>
-              <li>לבקש תיקון של מידע לא מדויק</li>
-              <li>לבקש מחיקה של המידע שלך</li>
-              <li>לבטל את הסכמתך לקבלת תקשורת מאיתנו</li>
+              <li>{t('privacy.rights.item1')}</li>
+              <li>{t('privacy.rights.item2')}</li>
+              <li>{t('privacy.rights.item3')}</li>
+              <li>{t('privacy.rights.item4')}</li>
             </ul>
 
-            <h3>פרטיות ילדים</h3>
+            <h3>{t('privacy.children.title')}</h3>
             <p>
-              האתר שלנו אינו מיועד לילדים מתחת לגיל 13. איננו אוספים ביודעין מידע אישי מילדים מתחת לגיל 13.
+              {t('privacy.children.content')}
             </p>
 
-            <h3>שינויים במדיניות פרטיות זו</h3>
+            <h3>{t('privacy.changes.title')}</h3>
             <p>
-              אנו עשויים לעדכן מדיניות פרטיות זו מעת לעת כדי לשקף שינויים בפרקטיקות שלנו או מסיבות תפעוליות, משפטיות או רגולטוריות אחרות. המדיניות המעודכנת תפורסם בעמוד זה עם תאריך "עודכן לאחרונה" מתוקן.
+              {t('privacy.changes.content')}
             </p>
 
-            <h3>צור קשר</h3>
+            <h3>{t('privacy.contact.title')}</h3>
             <p>
-              אם יש לך שאלות או חששות לגבי מדיניות הפרטיות שלנו, אנא צור עמנו קשר באמצעות <a href="/he/contact" style={{ color: "#2563eb" }}>הטופס המקוון שלנו</a>.
+              {t('privacy.contact.content')} <a href="/he/contact" style={{ color: "#2563eb" }}>{t('privacy.contact.link')}</a>.
             </p>
           </div>
         </section>

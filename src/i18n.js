@@ -122,6 +122,44 @@ const resources = {
       'legal.antiSemitism.description': 'Humbleberger Ministries statement on anti-Semitism and our commitment to biblical truth and love for the Jewish people.',
       'legal.copyright.description': 'Copyright information for Humbleberger Ministries.',
       
+      // Privacy Policy Page
+      'privacy.title': 'Privacy Policy',
+      'privacy.lastUpdated': 'Last Updated: April 18, 2025',
+      'privacy.intro': 'At Humbleberger Ministries, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, and safeguard the information you provide when using our website and services.',
+      
+      'privacy.collect.title': 'Information We Collect',
+      'privacy.collect.content': 'We may collect personal information such as your name, email address, and location when you voluntarily submit this information through our website, such as when signing up for our newsletter or contacting us. Additionally, we automatically collect certain information about your device, including your IP address, browser type, and operating system.',
+      
+      'privacy.use.title': 'How We Use Your Information',
+      'privacy.use.intro': 'We use the information we collect to:',
+      'privacy.use.item1': 'Respond to your inquiries and provide you with information about our ministry',
+      'privacy.use.item2': 'Send you our newsletter and updates about our activities (with your consent)',
+      'privacy.use.item3': 'Improve our website and services',
+      'privacy.use.item4': 'Fulfill any specific purpose for which you provided the information',
+      
+      'privacy.cookies.title': 'Cookies and Tracking Technologies',
+      'privacy.cookies.content': 'Our website uses cookies and similar tracking technologies to improve your browsing experience and collect information about how you use our site. You can manage your cookie preferences through your browser settings.',
+      
+      'privacy.thirdParty.title': 'Third-Party Service Providers',
+      'privacy.thirdParty.content': 'We may share your information with trusted third-party service providers who assist us in operating our website, conducting our ministry, or servicing you. These third parties are obligated to keep your information confidential.',
+      
+      'privacy.rights.title': 'Your Rights',
+      'privacy.rights.intro': 'You have the right to:',
+      'privacy.rights.item1': 'Access the personal information we hold about you',
+      'privacy.rights.item2': 'Request correction of inaccurate information',
+      'privacy.rights.item3': 'Request deletion of your information',
+      'privacy.rights.item4': 'Opt-out of receiving communications from us',
+      
+      'privacy.children.title': 'Children\'s Privacy',
+      'privacy.children.content': 'Our website is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.',
+      
+      'privacy.changes.title': 'Changes to This Privacy Policy',
+      'privacy.changes.content': 'We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. The updated policy will be posted on this page with a revised "Last Updated" date.',
+      
+      'privacy.contact.title': 'Contact Us',
+      'privacy.contact.content': 'If you have any questions or concerns about our Privacy Policy, please contact us using our',
+      'privacy.contact.link': 'online form',
+      
       // Encountering Messiah Page
       'encountering.title': 'Encountering Messiah: A Journey for Jewish Hearts',
       'encountering.subtitle': 'Ancient questions. Modern seekers. One promised hope.',
@@ -473,6 +511,44 @@ const resources = {
       'legal.statement.description': 'הצהרת האמונה והאמונות הליבה של שירותי האמבלברגר.',
       'legal.antiSemitism.description': 'הצהרת שירותי האמבלברגר על אנטישמיות ומחויבותנו לאמת המקראית ולאהבת העם היהודי.',
       'legal.copyright.description': 'מידע על זכויות יוצרים עבור שירותי האמבלברגר.',
+      
+      // Privacy Policy Page
+      'privacy.title': 'מדיניות פרטיות',
+      'privacy.lastUpdated': 'עודכן לאחרונה: 18 באפריל 2025',
+      'privacy.intro': 'במשרדי האמבלברגר, אנו מחויבים להגן על פרטיותך ולהבטיח את אבטחת המידע האישי שלך. מדיניות פרטיות זו מתארת כיצד אנו אוספים, משתמשים ושומרים על המידע שאתה מספק בעת השימוש באתר ובשירותים שלנו.',
+      
+      'privacy.collect.title': 'המידע שאנו אוספים',
+      'privacy.collect.content': 'אנו עשויים לאסוף מידע אישי כגון שמך, כתובת הדואר האלקטרוני שלך ומיקומך כאשר אתה מוסר מידע זה מרצונך דרך אתר האינטרנט שלנו, למשל בעת הרשמה לניוזלטר שלנו או יצירת קשר עמנו. בנוסף, אנו אוספים באופן אוטומטי מידע מסוים על מכשירך, כולל כתובת ה-IP שלך, סוג הדפדפן ומערכת ההפעלה.',
+      
+      'privacy.use.title': 'כיצד אנו משתמשים במידע שלך',
+      'privacy.use.intro': 'אנו משתמשים במידע שאנו אוספים כדי:',
+      'privacy.use.item1': 'להשיב לפניותיך ולספק לך מידע על שירותנו',
+      'privacy.use.item2': 'לשלוח לך את הניוזלטר שלנו ועדכונים על פעילויותינו (כמתך)',
+      'privacy.use.item3': 'לשפר את האתר והשירותים שלנו',
+      'privacy.use.item4': 'למלא כל מטרה ספציפית שלשמה סיפקת את המידע',
+      
+      'privacy.cookies.title': 'עוגיות וטכנולוגיות מעקב',
+      'privacy.cookies.content': 'האתר שלנו משתמש בעוגיות ובטכנולוגיות מעקב דומות כדי לשפר את חווית הגלישה שלך ולאסוף מידע על אופן השימוש שלך באתר שלנו. באפשרותך לנהל את העדפות העוגיות שלך דרך הגדרות הדפדפן שלך.',
+      
+      'privacy.thirdParty.title': 'ספקי שירות של צד שלישי',
+      'privacy.thirdParty.content': 'אנו עשויים לחלוק את המידע שלך עם ספקי שירות מהימנים של צד שלישי המסייעים לנו בתפעול האתר שלנו, בניהול שירותנו או במתן שירות לך. צדדים שלישיים אלה מחויבים לשמור על סודיות המידע שלך.',
+      
+      'privacy.rights.title': 'זכויותיך',
+      'privacy.rights.intro': 'יש לך את הזכות:',
+      'privacy.rights.item1': 'לגשת למידע האישי שאנו מחזיקים עליך',
+      'privacy.rights.item2': 'לבקש תיקון של מידע לא מדויק',
+      'privacy.rights.item3': 'לבקש מחיקה של המידע שלך',
+      'privacy.rights.item4': 'לבטל את הסכמתך לקבלת תקשורת מאיתנו',
+      
+      'privacy.children.title': 'פרטיות ילדים',
+      'privacy.children.content': 'האתר שלנו אינו מיועד לילדים מתחת לגיל 13. איננו אוספים ביודעין מידע אישי מילדים מתחת לגיל 13.',
+      
+      'privacy.changes.title': 'שינויים במדיניות פרטיות זו',
+      'privacy.changes.content': 'אנו עשויים לעדכן מדיניות פרטיות זו מעת לעת כדי לשקף שינויים בפרקטיקות שלנו או מסיבות תפעוליות, משפטיות או רגולטוריות אחרות. המדיניות המעודכנת תפורסם בעמוד זה עם תאריך "עודכן לאחרונה" מתוקן.',
+      
+      'privacy.contact.title': 'צור קשר',
+      'privacy.contact.content': 'אם יש לך שאלות או חששות לגבי מדיניות הפרטיות שלנו, אנא צור עמנו קשר באמצעות',
+      'privacy.contact.link': 'הטופס המקוון שלנו',
       
       // Encountering Messiah Page
       'encountering.title': 'פגישה עם המשיח: מסע ללבבות יהודיים',
