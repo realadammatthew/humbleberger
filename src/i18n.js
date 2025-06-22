@@ -390,6 +390,70 @@ const resources = {
       // Mission Page
       'mission.title': 'Our Mission',
       'mission.content': 'Humbleberger Ministries exists to glorify God by proclaiming the gospel of Jesus Christ, with a focused calling to bring the good news to the Jewish people in cities like New York and Tel Aviv. Rooted in the spirit of the Apostle Paul, our mission is to evangelize, disciple, and raise up faithful preachers and teachers to plant and shepherd churches across the globe. While our primary focus is Jewish missions, we stand fully on the Great Commission, seeking to reach all the lost and serve the global Church as the Lord leads.',
+      
+      // Statement of Faith Page
+      'statement.title': 'Statement of Faith',
+      'statement.description': 'These are the biblical principles and theological beliefs that guide our ministry.',
+      
+      'statement.item1.title': '1. Authority and Unity of Scripture',
+      'statement.item1.content': 'We believe that all Scripture - both Old and New Testaments - is the inspired, inerrant, and infallible Word of God. It is the final and sufficient authority in all matters of faith, doctrine, and practice. The Hebrew Scriptures are foundational and point directly to the Messiah, Yeshua the Messiah.',
+      
+      'statement.item2.title': '2. The Triune God',
+      'statement.item2.content': 'We believe in one God, eternally existing in three persons: Father, Son, and Holy Spirit. Each is fully God, equal in glory, power, and essence, yet distinct in role and relationship.',
+      
+      'statement.item3.title': '3. Person and Work of Christ',
+      'statement.item3.content': 'Yeshua the Messiah, fully God and fully man, was conceived by the Holy Spirit and born of a virgin. He lived a sinless life, died a substitutionary death on the cross, rose bodily from the dead, and now reigns at the right hand of the Father. Salvation is found in Him alone.',
+      
+      'statement.item4.title': '4. Salvation by Grace Through Faith',
+      'statement.item4.content': 'Salvation is by grace alone, through faith alone, in Christ alone. This includes regeneration, justification, sanctification, and glorification. It is a free gift from God and cannot be earned by works or human effort.',
+      
+      'statement.item5.title': '5. Believer\'s Baptism by Immersion',
+      'statement.item5.content': 'We believe baptism is for believers only, as a public declaration of faith and obedience to Christ. It is done by immersion in water, symbolizing the believer\'s union with Christ in His death, burial, and resurrection. It does not save but is commanded by Yeshua for all who follow Him.',
+      
+      'statement.item6.title': '6. The Church',
+      'statement.item6.content': 'The church consists of all true believers in Christ. The local church is an autonomous body of baptized believers committed to worship, fellowship, teaching, ordinances, and mission. Christ is the head of the church.',
+      
+      'statement.item7.title': '7. Spiritual Gifts',
+      'statement.item7.content': 'We affirm the ongoing presence and operation of spiritual gifts within the church as described in the New Testament. We believe these gifts should be exercised in a spirit of humility, under the authority of Scripture, and in accordance with the order and purpose taught in the New Testament.',
+      
+      'statement.item8.title': '8. Holy Spirit Guidance and Personal Experience',
+      'statement.item8.content': 'We affirm the supreme authority of Scripture while also recognizing the Holy Spirit\'s ongoing personal guidance. Spirit-led experience is sacred and legitimate when it submits to Scripture, is tested by wisdom, and is practiced in community.',
+      
+      'statement.item9.title': '9. Biblical Anthropology: Gender and Identity',
+      'statement.item9.content': 'We affirm that all people are created by God in His image with inherent dignity and worth. We believe God intentionally created humanity as male and female, both equal in value and distinct in role. We affirm that marriage is a sacred covenant between one man and one woman, designed by God for human flourishing. We uphold the sanctity of life from conception to natural death, trusting in God\'s good design for human identity and purpose.',
+      
+      'statement.item10.title': '10. Doctrine of Humanity and Transhumanism',
+      'statement.item10.content': 'We affirm that humanity, created in the image of God, is a sacred and purposeful design. We believe attempts to alter or enhance human nature through technological, genetic, or artificial means oppose God\'s intent for human identity and dignity. We affirm that human worth is not found in artificial enhancements, but in being fearfully and wonderfully made by our Creator.',
+      
+      'statement.item11.title': '11. God\'s Redemptive Plan and Jewish Evangelism Hope',
+      'statement.item11.content': 'We believe God\'s salvation plan, revealed throughout all Scripture, has always been by grace through faith - and fulfilled in Yeshua, the Messiah. In Christ, God draws both Jews and Gentiles into one redeemed people, united by the Spirit and anchored in New Covenant promises. Out of honoring the gospel\'s "to the Jew first" priority (Romans 1:16), we embrace a special calling to lovingly share the good news of Yeshua with Jewish people worldwide, inviting them to receive the Messiah prophesied in their Scriptures.',
+      
+      'statement.item12.title': '12. Love for the Jewish People and Fulfillment of God\'s Promise',
+      'statement.item12.content': 'We affirm God\'s eternal covenant love for the Jewish people and recognize the rich spiritual heritage given through them - the patriarchs, prophets, Scriptures, and ultimately the Messiah. We honor Jewish identity as part of God\'s redemptive plan and believe the promises of the Hebrew Scriptures find their fulfillment in Yeshua, the Messiah of Israel. In this faith, we approach the Jewish people not with pressure or coercion, but with humility, gratitude, and hope - longing to share the good news of Yeshua with deep compassion and respect.',
+      
+      'statement.item13.title': '13. Non-Political Affiliation',
+      'statement.item13.content': 'We as an organization are non-political in nature. We do not promote any political party or ideology. Our citizenship is in heaven, and our mission is spiritual: to proclaim the gospel and advance the kingdom of Christ.',
+      
+      'statement.item14.title': '14. Spiritual Warfare',
+      'statement.item14.content': 'We affirm the reality of spiritual warfare. The gospel is proclaimed in contested territory. We are equipped with the full armor of God and empowered by the Spirit to resist the enemy and advance the gospel in power and truth.',
+      
+      'statement.item15.title': '15. The Great Commission and Global Missions',
+      'statement.item15.content': 'We exist to make disciples of all nations, and especially of the Jewish people. We proclaim the gospel, plant churches, disciple believers, and establish leaders. We affirm Christ\'s command to go to all the world until every people group has heard. We follow the biblical pattern of gospel spread from Jerusalem to Judea, to Samaria, and to the ends of the earth (Acts 1:8), laboring first for the Jewish people and then for the nations. Our evangelism is grounded in Scripture, both Old and New Testaments.',
+      
+      'statement.item16.title': '16. Truth and Exclusivity of the Gospel',
+      'statement.item16.content': 'We affirm that Yeshua is the only way to God, and that salvation is found in Him alone. We affirm the absolute truth and authority of God\'s Word across all generations. While we communicate with diverse cultures in humility and compassion, we hold to the exclusive truth of the gospel without compromise.',
+      
+      'statement.item17.title': '17. Church Witness in a Secular World',
+      'statement.item17.content': 'We affirm the existence of a personal, holy, and sovereign God who created and sustains all things. We affirm that true knowledge and wisdom begin with the fear of the Lord, and that any worldview that denies God\'s existence is ultimately incomplete and spiritually bankrupt.',
+      
+      'statement.item18.title': '18. Sanctity of Life',
+      'statement.item18.content': 'We affirm the sanctity of all human life from conception to natural death. Every person bears the image of God and deserves respect and protection. We affirm that all people, regardless of ability, age, or social status, are fearfully and wonderfully made.',
+      
+      'statement.item19.title': '19. Unity in Essentials, Liberty in Non-Essentials',
+      'statement.item19.content': 'We do not divide over secondary issues. We respect diverse views on creation, eschatology, spiritual gifts, and theological systems like Reformed theology. However, we do not affirm classical dispensationalism, as we believe God has one people in Christ. We strive for unity in the gospel and grace in all things, provided these positions uphold the inerrancy and authority of Scripture. We affirm, for example, the historical reality of Adam and Eve, as Yeshua Himself spoke of them as real persons (Matthew 19:4-6).',
+      
+      'statement.item20.title': '20. Final Affirmation',
+      'statement.item20.content': 'We believe that Scripture alone is the supreme authority, that salvation is by grace alone through faith alone in Christ alone, for the glory of God alone.',
     }
   },
   he: {
@@ -604,11 +668,11 @@ const resources = {
       'encountering.section6.keepKosher': 'האם יהודים משיחיים שומרים כשרות?',
       'encountering.section6.keepShabbat': 'האם יהודים משיחיים שומרים שבת?',
       
-      'encountering.section7.title': '7. פגישה אישית עם המשיח',
-      'encountering.section7.subtitle': 'יחסים אישיים ומפגש רוחני',
-      'encountering.section7.encounterYeshua': 'איך אני יכול לפגוש באופן אישי את ישוע היום?',
-      'encountering.section7.personalRelationship': 'מה זה אומר לקיים יחסים אישיים עם המשיח?',
-      'encountering.section7.recognizeVoice': 'איך אני יכול לזהות את קולו של המשיח בחיי?',
+      'encountering.section7.title': '7. MEETING THE MESSIAH PERSONALLY',
+      'encountering.section7.subtitle': 'Personal relationship and spiritual encounter',
+      'encountering.section7.encounterYeshua': 'How can I personally encounter Yeshua today?',
+      'encountering.section7.personalRelationship': 'What does it mean to have a personal relationship with the Messiah?',
+      'encountering.section7.recognizeVoice': 'How can I recognize the voice of the Messiah in my life?',
       
       // Common
       'common.loading': 'טוען...',
@@ -780,6 +844,70 @@ const resources = {
       // Mission Page
       'mission.title': 'המשימה שלנו',
       'mission.content': 'שירותי האמבלברגר קיימים כדי להלל את אלוהים על ידי הכרזת הבשורה של ישוע המשיח, עם קריאה ממוקדת להביא את הבשורה הטובה לעם היהודי בערים כמו ניו יורק ותל אביב. מושרשים ברוחו של השליח פאולוס, המשימה שלנו היא לבשר, לחנך ולהקים מטיפים ומורים נאמנים לנטוע ולרעות כנסיות ברחבי העולם. בעוד שהמיקוד העיקרי שלנו הוא משימות יהודיות, אנו עומדים במלואם על הצו הגדול, מבקשים להגיע לכל האבודים ולשרת את הכנסייה הגלובלית כפי שהאדון מוביל.',
+      
+      // Statement of Faith Page
+      'statement.title': 'הצהרת אמונה',
+      'statement.description': 'אלה הם העקרונות המקראיים והאמונות התיאולוגיות המנחות את שירותנו.',
+      
+      'statement.item1.title': '1. סמכות ואחדות הכתובים',
+      'statement.item1.content': 'אנו מאמינים שכל התנ"ך - הן הברית הישנה והן הברית החדשה - הוא דבר אלוהים שנכתב בהשראתו, ללא טעויות ובלתי ניתן לערעור. הוא הסמכות הסופית והמספקת בכל ענייני אמונה, דוקטרינה ומעשה. כתבי הקודש העבריים הם יסודיים ומצביעים ישירות על המשיח, ישוע המשיח.',
+      
+      'statement.item2.title': '2. האל המשולש',
+      'statement.item2.content': 'אנו מאמינים באל אחד, הקיים נצחית בשלוש אישיויות: האב, הבן ורוח הקודש. כל אחד מהם הוא אלוהים במלואו, שווה בתהילה, בכוח ובמהות, אך נבדל בתפקיד וביחס.',
+      
+      'statement.item3.title': '3. אישיותו ועבודתו של המשיח',
+      'statement.item3.content': 'ישוע המשיח, אלוהים במלואו ואדם במלואו, נהרה על ידי רוח הקודש ונולד מבתולה. הוא חי חיים ללא חטא, מת מות חלופי על הצלב, קם לתחייה גופנית מן המתים, וכעת מולך לימין האב. הישועה נמצאת בו לבדו.',
+      
+      'statement.item4.title': '4. ישועה בחסד דרך אמונה',
+      'statement.item4.content': 'הישועה היא בחסד בלבד, דרך אמונה בלבד, במשיח בלבד. זה כולל לידה מחדש, הצדקה, קידוש והאדרה. זוהי מתנה חינמית מאלוהים ואינה ניתנת להשגה על ידי מעשים או מאמץ אנושי.',
+      
+      'statement.item5.title': '5. טבילת מאמינים בטבילה במים',
+      'statement.item5.content': 'אנו מאמינים שטבילה היא למאמינים בלבד, כהצהרה פומבית על אמונה וציות למשיח. היא נעשית בטבילה במים, המסמלת את איחוד המאמין עם המשיח במותו, קבורתו ותחייתו. היא אינה מושיעה אך מצווה על ידי ישוע לכל ההולכים אחריו.',
+      
+      'statement.item6.title': '6. הקהילה',
+      'statement.item6.content': 'הקהילה מורכבת מכל המאמינים האמיתיים במשיח. הקהילה המקומית היא גוף אוטונומי של מאמינים טבולים המחויבים לפולחן, לחברותא, להוראה, לסקרמנטים ולמשימה. המשיח הוא ראש הקהילה.',
+      
+      'statement.item7.title': '7. מתנות רוחניות',
+      'statement.item7.content': 'אנו מאשרים את נוכחותן ופעולתן המתמשכת של מתנות רוחניות בתוך הקהילה, כפי שמתואר בברית החדשה. אנו מאמינים שיש להפעיל מתנות אלה ברוח של ענווה, תחת סמכות הכתובים, ובהתאם לסדר ולמטרה הנלמדים בברית החדשה.',
+      
+      'statement.item8.title': '8. הדרכת רוח הקודש וחוויה אישית',
+      'statement.item8.content': 'אנו מאשרים את סמכות הכתובים כעליונה אך גם מכירים בהדרכתה האישית המתמשכת של רוח הקודש. חוויה המובלת על ידי הרוח היא קדושה ולגיטימית כאשר היא נכנעת לכתובים, נבחנת בחוכמה ומתורגלת בקהילה.',
+      
+      'statement.item9.title': '9. אנתרופולוגיה מקראית: מגדר וזהות',
+      'statement.item9.content': 'אנו מאשרים שכל האנשים נבראו על ידי אלוהים בצלמו עם כבוד וערך מובנים. אנו מאמינים שאלוהים ברא בכוונה את האנושות כזכר ונקבה, ושניהם שווים בערכם ונבדלים בתפקידם. אנו מאשרים שנישואין הם ברית קדושה בין איש אחד לאישה אחת, שנועדה על ידי אלוהים לשגשוג אנושי. אנו מקיימים את קדושת החיים מההתעברות ועד המוות הטבעי, בוטחים בעיצובו הטוב של אלוהים לזהות ולמטרה האנושית.',
+      
+      'statement.item10.title': '10. דוקטרינת האנושות וטרנס-הומניזם',
+      'statement.item10.content': 'אנו מאשרים שהאנושות, שנבראה בצלם אלוהים, היא עיצוב קדוש ומכוון. אנו מאמינים שניסיונות לשנות או לשפר את הטבע האנושי באמצעים טכנולוגיים, גנטיים או מלאכותיים מתנגדים לכוונתו של אלוהים לזהות ולכבוד האנושי. אנו מאשרים שערך האדם אינו נמצא בשיפורים מלאכותיים, אלא בכך שנבראנו באופן מעורר יראה ופליאה על ידי בוראנו.',
+      
+      'statement.item11.title': '11. תוכנית הגאולה של אלוהים ותקוות האוונגליזם היהודי',
+      'statement.item11.content': 'אנו מאמינים שתוכנית הישועה של אלוהים, שנחשפה לאורך כל הכתובים, תמיד הייתה בחסד דרך אמונה - והתגשמה בישוע, המשיח. במשיח, אלוהים מושך הן יהודים והן גויים לעם גאול אחד, מאוחד על ידי הרוח ומעוגן בהבטחות הברית החדשה. מתוך כיבוד עדיפות הבשורה "ליהודי תחילה" (רומים א:16), אנו מאמצים קריאה מיוחדת לחלוק באהבה את הבשורה הטובה של ישוע עם העם היהודי ברחבי העולם, ומזמינים אותם לקבל את המשיח שנחזה בכתביהם.',
+      
+      'statement.item12.title': '12. אהבה לעם היהודי והגשמת הבטחת אלוהים',
+      'statement.item12.content': 'אנו מאשרים את אהבת הברית הנצחית של אלוהים לעם היהודי ומכירים במורשת הרוחנית העשירה שניתנה דרכם - האבות, הנביאים, הכתובים, ובסופו של דבר המשיח. אנו מכבדים את הזהות היהודית כחלק מתוכנית הגאולה של אלוהים ומאמינים שהבטחות כתבי הקודש העבריים מוצאות את הגשמתן בישוע, משיח ישראל. באמונה זו, אנו ניגשים לעם היהודי לא בלחץ או בכפייה, אלא בענווה, בהכרת תודה ובתקווה - ומשתוקקים לחלוק את הבשורה הטובה של ישוע בחמלה ובכבוד עמוק.',
+      
+      'statement.item13.title': '13. אי-השתייכות פוליטית',
+      'statement.item13.content': 'אנו כארגון איננו פוליטיים באופיינו. איננו מקדמים שום מפלגה או אידיאולוגיה. אזרחותנו היא בשמיים, ומשימתנו היא רוחנית: להכריז את הבשורה ולקדם את מלכות המשיח.',
+      
+      'statement.item14.title': '14. מלחמה רוחנית',
+      'statement.item14.content': 'אנו מאשרים את מציאות המלחמה הרוחנית. הבשורה מוכרזת בשטח שנוי במחלוקת. אנו מצוידים בשריון המלא של אלוהים ומועצמים על ידי הרוח להתנגד לאויב ולקדם את הבשורה בכוח ובאמת.',
+      
+      'statement.item15.title': '15. השליחות הגדולה והמשימות העולמיות',
+      'statement.item15.content': 'אנו קיימים כדי לעשות תלמידים מכל העמים, ובמיוחד מהעם היהודי. אנו מכריזים את הבשורה, נוטעים קהילות, מתלמדים מאמינים ומקימים מנהיגים. אנו מאשרים את מצוותו של המשיח ללכת לכל העולם עד שכל עם ישמע. אנו הולכים לפי הדפוס המקראי של התפשטות הבשורה מירושלים ליהודה, לשומרון ולקצוות הארץ (מעשי השליחים א:8), עמלים תחילה למען העם היהודי ואז למען העמים. האוונגליזם שלנו מעוגן בכתובים, הן בברית הישנה והן בברית החדשה.',
+      
+      'statement.item16.title': '16. אמת ובלעדיות הבשורה',
+      'statement.item16.content': 'אנו מאשרים שישוע הוא הדרך היחידה לאלוהים, ושהישועה נמצאת בו לבדו. אנו מאשרים את האמת והסמכות המוחלטות של דבר אלוהים בכל הדורות. בעוד אנו מתקשרים עם תרבויות מגוונות בענווה ובחמלה, אנו מחזיקים באמת הבלעדית של הבשורה ללא פשרות.',
+      
+      'statement.item17.title': '17. עדת הקהילה בעולם חילוני',
+      'statement.item17.content': 'אנו מאשרים את קיומו של אלוהים אישי, קדוש וריבוני, שברא ומקיים את כל הדברים. אנו מאשרים שידע וחוכמה אמיתיים מתחילים ביראת ה' + '"' + 'אלוהים' + '"' + ', וכי כל השקפת עולם השוללת את קיום אלוהים היא בסופו של דבר לא שלמה ופושטת רגל מבחינה רוחנית. ',
+      
+      'statement.item18.title': '18. קדושת החיים',
+      'statement.item18.content': 'אנו מאשרים את קדושת כל חיי אדם מההתעברות ועד המוות הטבעי. כל אדם נושא את צלם אלוהים וראוי לכבוד והגנה. אנו מאשרים שכל האנשים, ללא קשר ליכולת, גיל או מעמד חברתי, נבראו באופן מעורר יראה ופליאה.',
+      
+      'statement.item19.title': '19. אחדות ביסודות, חירות בשוליים',
+      'statement.item19.content': 'איננו מתפלגים על נושאים משניים. אנו מכבדים דעות מגוונות על בריאה, אסכטולוגיה, מתנות רוחניות ומערכות תיאולוגיות כמו תיאולוגיה רפורמית. עם זאת, איננו מאשרים דפנסציונליזם קלאסי, מכיוון שאנו מאמינים שיש לאלוהים עם אחד במשיח. אנו שואפים לאחדות בבשורה ולחסד בכל הדברים, ובלבד שעמדות אלה מקיימות את אי-טעותם וסמכותם של הכתובים. אנו מאשרים, למשל, את המציאות ההיסטורית של אדם וחווה, כפי שישוע עצמו דיבר עליהם כאישים ממשיים (מתי יט:4-6).',
+      
+      'statement.item20.title': '20. אישור סופי',
+      'statement.item20.content': 'אנו מאמינים שהכתובים לבדם הם הסמכות העליונה, שהישועה היא בחסד בלבד דרך אמונה בלבד במשיח בלבד, למען תהילת אלוהים בלבד.',
     }
   }
 };
