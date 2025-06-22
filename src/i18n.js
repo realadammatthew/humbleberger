@@ -254,6 +254,45 @@ const resources = {
       
       'antiSemitism.section5.title': 'V. Our Heart for the Jewish People',
       'antiSemitism.section5.content': 'Our desire is not to win arguments but to share hope. We long for Jewish people everywhere to encounter the Messiah foretold in their own Scriptures — the One who fulfills the law and the prophets, brings peace with God, and invites all people, Jew and Gentile, into one redeemed family in Christ.',
+      
+      // Copyright Page
+      'copyright.page.title': 'Copyright - Humbleberger Ministries',
+      'copyright.page.description': 'Copyright information for Humbleberger Ministries.',
+      'copyright.page.heading': 'Copyright Notice',
+      'copyright.page.lastUpdated': 'Last Updated: April 18, 2025',
+      
+      'copyright.page.websiteContent.title': 'Website Content',
+      'copyright.page.websiteContent.text': '© {{year}} Humbleberger Ministries. All rights reserved. The content on this website, including but not limited to text, graphics, logos, images, audio clips, digital downloads, and data compilations, is the property of Humbleberger Ministries and is protected by United States and international copyright laws.',
+      
+      'copyright.page.trademarks.title': 'Trademarks',
+      'copyright.page.trademarks.text': 'The Humbleberger Ministries name, logo, and all related names, logos, product and service names, designs, and slogans are trademarks of Humbleberger Ministries or its affiliates. You may not use such marks without the prior written permission of Humbleberger Ministries.',
+      
+      'copyright.page.biblicalContent.title': 'Biblical Content',
+      'copyright.page.biblicalContent.csb': 'Scripture quotations marked CSB® are taken from the Christian Standard Bible®, Copyright © 2017 by Holman Bible Publishers. Used by permission. Christian Standard Bible® and CSB® are federally registered trademarks of Holman Bible Publishers.',
+      'copyright.page.biblicalContent.esv': 'Scripture quotations marked ESV® are from the ESV® Bible (The Holy Bible, English Standard Version®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.',
+      'copyright.page.biblicalContent.niv': 'Scripture quotations marked NIV® are taken from the Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission of Zondervan. All rights reserved worldwide. www.zondervan.com The "NIV" and "New International Version" are trademarks registered in the United States Patent and Trademark Office by Biblica, Inc.™',
+      
+      'copyright.page.educationalUse.title': 'Educational and Ministry Use',
+      'copyright.page.educationalUse.text': 'We encourage the use of our materials for educational and ministry purposes. You may download and print content from our website for non-commercial, educational, personal, or congregational use, provided that:',
+      'copyright.page.educationalUse.rule1': 'You do not modify the content',
+      'copyright.page.educationalUse.rule2': 'You include proper attribution to Humbleberger Ministries',
+      'copyright.page.educationalUse.rule3': 'You do not remove any copyright or other proprietary notices',
+      'copyright.page.educationalUse.rule4': 'You do not use the content in a way that suggests Humbleberger Ministries endorses you or your use',
+      
+      'copyright.page.permission.title': 'Permission Requests',
+      'copyright.page.permission.text': 'For permission to use content from our website beyond the scope described above, please contact us at:',
+      'copyright.page.permission.link': 'online form',
+      'copyright.page.permission.contactText': 'Contact us using our',
+      
+      'copyright.page.infringement.title': 'Copyright Infringement',
+      'copyright.page.infringement.text': 'If you believe that your copyrighted work has been used on our website in a way that constitutes copyright infringement, please provide us with the following information:',
+      'copyright.page.infringement.item1': 'A description of the copyrighted work that you claim has been infringed',
+      'copyright.page.infringement.item2': 'A description of where the allegedly infringing material is located on our website',
+      'copyright.page.infringement.item3': 'Your contact information, including address, telephone number, and email address',
+      'copyright.page.infringement.item4': 'A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law',
+      'copyright.page.infringement.item5': 'A statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner\'s behalf',
+      'copyright.page.infringement.notice': 'Such notices should be sent to:',
+      'copyright.page.infringement.contact': 'Humbleberger Ministries\nAttn: Copyright Agent\nContact us using our online form.',
     }
   },
   he: {
@@ -508,6 +547,45 @@ const resources = {
       
       'antiSemitism.section5.title': 'V. ליבנו לעם היהודי',
       'antiSemitism.section5.content': 'הרצון שלנו הוא לא לנצח ויכוחים אלא לחלוק תקווה. אנו משתוקקים שאנשים יהודים בכל מקום יפגשו את המשיח שניבא בכתבי הקודש שלהם — זה שממלא את התורה והנביאים, מביא שלום עם אלוהים, ומזמין את כל האנשים, יהודים וגויים, למשפחה אחת נגאלת במשיח.',
+      
+      // Copyright Page
+      'copyright.page.title': 'זכויות יוצרים - שירותי האמבלברגר',
+      'copyright.page.description': 'מידע על זכויות יוצרים עבור שירותי האמבלברגר.',
+      'copyright.page.heading': 'הודעה על זכויות יוצרים',
+      'copyright.page.lastUpdated': 'עודכן לאחרונה: 18 באפריל 2025',
+      
+      'copyright.page.websiteContent.title': 'תוכן האתר',
+      'copyright.page.websiteContent.text': '© {{year}} שירותי האמבלברגר. כל הזכויות שמורות. התוכן באתר זה, כולל אך לא מוגבל לטקסט, גרפיקה, לוגואים, תמונות, קטעי אודיו, הורדות דיגיטליות וקומפילציות נתונים, הוא רכושו של שירותי האמבלברגר ומוגן על ידי חוקי זכויות יוצרים של ארצות הברית והבינלאומיים.',
+      
+      'copyright.page.trademarks.title': 'סימני מסחר',
+      'copyright.page.trademarks.text': 'שם שירותי האמבלברגר, הלוגו וכל השמות הקשורים, לוגואים, שמות מוצרים ושירותים, עיצובים וסיסמאות הם סימני מסחר של שירותי האמבלברגר או השותפים שלו. אסור לכם להשתמש בסימנים כאלה ללא אישור בכתב מראש של שירותי האמבלברגר.',
+      
+      'copyright.page.biblicalContent.title': 'תוכן מקראי',
+      'copyright.page.biblicalContent.csb': 'ציטוטי הכתובים המסומנים CSB® נלקחו מהתנ"ך הנוצרי הסטנדרטי®, זכויות יוצרים © 2017 על ידי הולמן ביבל פאבלישרס. בשימוש באישור. התנ"ך הנוצרי הסטנדרטי® ו-CSB® הם סימני מסחר רשומים פדרלית של הולמן ביבל פאבלישרס.',
+      'copyright.page.biblicalContent.esv': 'ציטוטי הכתובים המסומנים ESV® הם מהתנ"ך ESV® (התנ"ך הקדוש, גרסה סטנדרטית באנגלית®), זכויות יוצרים © 2001 על ידי קרוסוויי, משרד פרסום של מוציאים לאור של בשורות טובות. בשימוש באישור. כל הזכויות שמורות.',
+      'copyright.page.biblicalContent.niv': 'ציטוטי הכתובים המסומנים NIV® נלקחו מהתנ"ך הקדוש, הגרסה הבינלאומית החדשה®, NIV®. זכויות יוצרים © 1973, 1978, 1984, 2011 על ידי ביבליקה, בע"מ™ בשימוש באישור זונדרוון. כל הזכויות שמורות ברחבי העולם. www.zondervan.com ה-"NIV" ו-"הגרסה הבינלאומית החדשה" הם סימני מסחר רשומים במשרד הפטנטים וסימני המסחר של ארצות הברית על ידי ביבליקה, בע"מ™',
+      
+      'copyright.page.educationalUse.title': 'שימוש חינוכי ומיניסטריאלי',
+      'copyright.page.educationalUse.text': 'אנו מעודדים את השימוש בחומרים שלנו למטרות חינוכיות ומיניסטריאליות. אתם יכולים להוריד ולהדפיס תוכן מהאתר שלנו לשימוש לא מסחרי, חינוכי, אישי או קהילתי, בתנאי ש:',
+      'copyright.page.educationalUse.rule1': 'אתם לא משנים את התוכן',
+      'copyright.page.educationalUse.rule2': 'אתם כוללים ייחוס מתאים לשירותי האמבלברגר',
+      'copyright.page.educationalUse.rule3': 'אתם לא מסירים שום הודעת זכויות יוצרים או הודעות קניין אחרות',
+      'copyright.page.educationalUse.rule4': 'אתם לא משתמשים בתוכן באופן שמרמז ששירותי האמבלברגר תומכים בכם או בשימוש שלכם',
+      
+      'copyright.page.permission.title': 'בקשות אישור',
+      'copyright.page.permission.text': 'לאישור להשתמש בתוכן מהאתר שלנו מעבר להיקף המתואר לעיל, אנא צרו איתנו קשר ב:',
+      'copyright.page.permission.link': 'טופס מקוון',
+      'copyright.page.permission.contactText': 'צרו איתנו קשר באמצעות',
+      
+      'copyright.page.infringement.title': 'הפרת זכויות יוצרים',
+      'copyright.page.infringement.text': 'אם אתם מאמינים שעבודת זכויות היוצרים שלכם שימשה באתר שלנו באופן שמהווה הפרת זכויות יוצרים, אנא ספקו לנו את המידע הבא:',
+      'copyright.page.infringement.item1': 'תיאור של עבודת זכויות היוצרים שאתם טוענים שהופרה',
+      'copyright.page.infringement.item2': 'תיאור של איפה החומר המפר לכאורה ממוקם באתר שלנו',
+      'copyright.page.infringement.item3': 'מידע ליצירת קשר שלכם, כולל כתובת, מספר טלפון וכתובת אימייל',
+      'copyright.page.infringement.item4': 'הצהרה שלכם שיש לכם אמונה טובה שהשימוש השנוי במחלוקת אינו מורשה על ידי בעל זכויות היוצרים, הסוכן שלו, או החוק',
+      'copyright.page.infringement.item5': 'הצהרה שלכם, שנעשית תחת עונש של עדות שקר, שהמידע בהודעה שלכם מדויק ושאתם בעל זכויות היוצרים או מורשים לפעול בשם בעל זכויות היוצרים',
+      'copyright.page.infringement.notice': 'הודעות כאלה יש לשלוח ל:',
+      'copyright.page.infringement.contact': 'שירותי האמבלברגר\nלתשומת לב: סוכן זכויות יוצרים\nצרו איתנו קשר באמצעות הטופס המקוון שלנו.',
     }
   }
 };

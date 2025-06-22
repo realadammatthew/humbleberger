@@ -11,95 +11,95 @@ const CopyrightPageHebrew = () => {
   return (
     <>
       <Head>
-        <title>זכויות יוצרים - משרדי האמבלברגר</title>
+        <title>{t('copyright.page.title')}</title>
         <meta
           name="description"
-          content={t('legal.copyright.description')}
+          content={t('copyright.page.description')}
         />
-        <link rel="stylesheet" href="/styles.css" />
       </Head>
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
         <section>
-          <h2>הודעת זכויות יוצרים</h2>
+          <h2>{t('copyright.page.heading')}</h2>
 
           <div className="copyright-content">
             <p>
-              <em>עודכן לאחרונה: 18 באפריל 2025</em>
+              <em>{t('copyright.page.lastUpdated')}</em>
             </p>
 
-            <h3>תוכן האתר</h3>
+            <h3>{t('copyright.page.websiteContent.title')}</h3>
             <p>
-              © {new Date().getFullYear()} משרדי האמבלברגר. כל הזכויות שמורות. התוכן באתר זה, לרבות אך לא רק טקסט, גרפיקה, סמלילים, תמונות, קטעי שמע, הורדות דיגיטליות וקבצי נתונים, הוא רכושם של משרדי האמבלברגר ומוגן על ידי חוקי זכויות היוצרים של ארצות הברית והבינלאומיים.
+              {t('copyright.page.websiteContent.text', { year: new Date().getFullYear() })}
             </p>
 
-            <h3>סימנים מסחריים</h3>
+            <h3>{t('copyright.page.trademarks.title')}</h3>
             <p>
-              השם משרדי האמבלברגר, הלוגו וכל השמות, הלוגואים, שמות המוצרים והשירותים, העיצובים והסיסמאות הקשורים הם סימנים מסחריים של משרדי האמבלברגר או שלוחותיה. אינך רשאי להשתמש בסימנים אלה ללא אישור מראש ובכתב ממשרדי האמבלברגר.
+              {t('copyright.page.trademarks.text')}
             </p>
 
-            <h3>תוכן מקראי</h3>
+            <h3>{t('copyright.page.biblicalContent.title')}</h3>
             <p>
-              ציטוטי כתובים המסומנים CSB® לקוחים מהתנ"ך הנוצרי הסטנדרטי®, זכויות יוצרים © 2017 על ידי Holman Bible Publishers. בשימוש באישור. התנ"ך הנוצרי הסטנדרטי® ו-CSB® הם סימנים מסחריים רשומים פדרלית של Holman Bible Publishers.
+              {t('copyright.page.biblicalContent.csb')}
             </p>
             <p>
-              ציטוטי כתובים המסומנים ESV® הם מהתנ"ך ESV® (התנ"ך הקדוש, הגרסה האנגלית הסטנדרטית®), זכויות יוצרים © 2001 על ידי Crossway, שירות הוצאה לאור של Good News Publishers. בשימוש באישור. כל הזכויות שמורות.
+              {t('copyright.page.biblicalContent.esv')}
             </p>
             <p>
-              ציטוטי כתובים המסומנים NIV® לקוחים מהתנ"ך הקדוש, הגרסה הבינלאומית החדשה®, NIV®. זכויות יוצרים © 1973, 1978, 1984, 2011 על ידי Biblica, Inc.™ בשימוש באישור של Zondervan. כל הזכויות שמורות ברחבי העולם. www.zondervan.com "NIV" ו"הגרסה הבינלאומית החדשה" הם סימנים מסחריים רשומים במשרד הפטנטים והסימנים המסחריים של ארצות הברית על ידי Biblica, Inc.™
+              {t('copyright.page.biblicalContent.niv')}
             </p>
 
-            <h3>שימוש חינוכי ושירותי</h3>
+            <h3>{t('copyright.page.educationalUse.title')}</h3>
             <p>
-              אנו מעודדים שימוש בחומרים שלנו למטרות חינוכיות ושירותיות. באפשרותך להוריד ולהדפיס תוכן מאתרנו לשימוש לא מסחרי, חינוכי, אישי או קהילתי, ובלבד ש:
+              {t('copyright.page.educationalUse.text')}
             </p>
             <ul>
-              <li>לא תשנה את התוכן</li>
-              <li>תכלול ייחוס הולם למשרדי האמבלברגר</li>
+              <li>{t('copyright.page.educationalUse.rule1')}</li>
+              <li>{t('copyright.page.educationalUse.rule2')}</li>
               <li>
-                לא תסיר כל הודעת זכויות יוצרים או קניין רוחני אחרת
+                {t('copyright.page.educationalUse.rule3')}
               </li>
               <li>
-                לא תשתמש בתוכן באופן המרמז שמשרדי האמבלברגר תומכים בך או בשימוש שלך
+                {t('copyright.page.educationalUse.rule4')}
               </li>
             </ul>
 
-            <h3>בקשות לאישור</h3>
+            <h3>{t('copyright.page.permission.title')}</h3>
             <p>
-              לקבלת אישור לשימוש בתוכן מאתרנו מעבר לתחום המתואר לעיל, אנא צור עמנו קשר ב:
+              {t('copyright.page.permission.text')}
             </p>
             <p>
-              צור עמנו קשר באמצעות <a href="/he/contact" style={{ color: "#2563eb" }}>הטופס המקוון שלנו</a>.
+              {t('copyright.page.permission.contactText')} <a href="/he/contact" style={{ color: "#2563eb" }}>{t('copyright.page.permission.link')}</a>.
             </p>
 
-            <h3>הפרת זכויות יוצרים</h3>
+            <h3>{t('copyright.page.infringement.title')}</h3>
             <p>
-              אם אתה מאמין שעבודתך המוגנת בזכויות יוצרים שימשה באתרנו באופן המהווה הפרת זכויות יוצרים, אנא ספק לנו את המידע הבא:
+              {t('copyright.page.infringement.text')}
             </p>
             <ul>
               <li>
-                תיאור של העבודה המוגנת בזכויות יוצרים שלטענתך הופרה
+                {t('copyright.page.infringement.item1')}
               </li>
               <li>
-                תיאור של מיקום החומר המפר לכאורה באתרנו
+                {t('copyright.page.infringement.item2')}
               </li>
               <li>
-                פרטי הקשר שלך, כולל כתובת, מספר טלפון וכתובת דוא"ל
+                {t('copyright.page.infringement.item3')}
               </li>
               <li>
-                הצהרה מטעמך כי יש לך אמונה בתום לב שהשימוש השנוי במחלוקת אינו מורשה על ידי בעל זכויות היוצרים, סוכנו או החוק
+                {t('copyright.page.infringement.item4')}
               </li>
               <li>
-                הצהרה מטעמך, הנעשית תחת עונש של עדות שקר, שהמידע בהודעתך מדויק וכי אתה בעל זכויות היוצרים או מורשה לפעול בשם בעל זכויות היוצרים
+                {t('copyright.page.infringement.item5')}
               </li>
             </ul>
 
-            <p>יש לשלוח הודעות כאלה ל:</p>
+            <p>{t('copyright.page.infringement.notice')}</p>
             <p>
-              משרדי האמבלברגר
-              <br />
-              לידי: סוכן זכויות יוצרים
-              <br />
-              צור עמנו קשר באמצעות <a href="/he/contact" style={{ color: "#2563eb" }}>הטופס המקוון שלנו</a>.
+              {t('copyright.page.infringement.contact').split('\n').map((line, index) => (
+                <span key={index}>
+                  {line}
+                  {index < 2 && <br />}
+                </span>
+              ))}
             </p>
           </div>
         </section>
