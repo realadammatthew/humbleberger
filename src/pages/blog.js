@@ -4,16 +4,35 @@ import matter from 'gray-matter';
 import withBanner from '../utils/with-banner';
 import ReturnToHome from '../components/return-to-home';
 import Search from '../components/search';
+import Pagination from '../components/pagination';
 import Link from 'next/link';
 import CallToActionButtons from '../components/call-to-action-buttons';
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect } from 'react';
+import { useRouter } from 'next/router';
 
-const BlogPage = ({ posts }) => {
+const POSTS_PER_PAGE = 10;
+
+const BlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) => {
+  const router = useRouter();
   const [displayedPosts, setDisplayedPosts] = useState(posts);
+  const [isSearchActive, setIsSearchActive] = useState(false);
+
+  // Update displayed posts when posts prop changes (for pagination)
+  useEffect(() => {
+    if (!isSearchActive) {
+      setDisplayedPosts(posts);
+    }
+  }, [posts, isSearchActive]);
 
   const handleSearchResults = useCallback((results) => {
     setDisplayedPosts(results);
-  }, []);
+    setIsSearchActive(results.length !== allPosts.length);
+  }, [allPosts.length]);
+
+  const handleSearchClear = useCallback(() => {
+    setIsSearchActive(false);
+    setDisplayedPosts(posts);
+  }, [posts]);
 
   return (
     <main>
@@ -45,7 +64,7 @@ const BlogPage = ({ posts }) => {
           </a>
         </div>
         
-        <Search posts={posts} onSearchResults={handleSearchResults} />
+        <Search posts={allPosts} onSearchResults={handleSearchResults} onSearchClear={handleSearchClear} />
         
         <div className="toc-list">
           {displayedPosts.map(post => (
@@ -61,6 +80,16 @@ const BlogPage = ({ posts }) => {
             </Link>
           ))}
         </div>
+
+        {/* Show pagination only when not searching and there are multiple pages */}
+        {!isSearchActive && totalPages > 1 && (
+          <Pagination 
+            currentPage={currentPage} 
+            totalPages={totalPages} 
+            baseUrl="/blog"
+          />
+        )}
+
         <CallToActionButtons />
       </section>
       <ReturnToHome />
@@ -68,9 +97,9 @@ const BlogPage = ({ posts }) => {
   );
 };
 
-export async function getStaticProps() {
+export async function getServerSideProps({ query }) {
   const files = fs.readdirSync(path.join('src', 'copy'));
-  const posts = files.map(filename => {
+  const allPosts = files.map(filename => {
     const slug = filename.replace('.md', '');
     const markdownWithMeta = fs.readFileSync(path.join('src', 'copy', filename), 'utf-8');
     const { data, content } = matter(markdownWithMeta);
@@ -92,17 +121,37 @@ export async function getStaticProps() {
       content: content // Include full content for search
     };
   });
+
   // Sort by date descending if available, but keep "Who is Yeshua?" at the top
-  const whoIsYeshuaPost = posts.find(post => post.slug === 'who-is-yeshua');
-  const otherPosts = posts.filter(post => post.slug !== 'who-is-yeshua');
+  const whoIsYeshuaPost = allPosts.find(post => post.slug === 'who-is-yeshua');
+  const otherPosts = allPosts.filter(post => post.slug !== 'who-is-yeshua');
 
   otherPosts.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
   const sortedPosts = whoIsYeshuaPost ? [whoIsYeshuaPost, ...otherPosts] : otherPosts;
 
+  // Calculate pagination
+  const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE);
+  const currentPage = parseInt(query.page) || 1;
+
+  // Validate page number
+  if (currentPage < 1 || currentPage > totalPages) {
+    return {
+      notFound: true,
+    };
+  }
+
+  // Get posts for current page
+  const startIndex = (currentPage - 1) * POSTS_PER_PAGE;
+  const endIndex = startIndex + POSTS_PER_PAGE;
+  const posts = sortedPosts.slice(startIndex, endIndex);
+
   return {
     props: {
-      posts: sortedPosts,
+      posts,
+      currentPage,
+      totalPages,
+      allPosts: sortedPosts, // Pass all posts for search functionality
     },
   };
 }
