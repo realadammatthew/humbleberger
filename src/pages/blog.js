@@ -98,7 +98,8 @@ const BlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) => {
 };
 
 export async function getStaticProps({ params }) {
-  const files = fs.readdirSync(path.join('src', 'copy'));
+  const files = fs.readdirSync(path.join('src', 'copy'))
+    .filter(filename => filename.endsWith('.md')); // Only include .md files, not directories
   const allPosts = files.map(filename => {
     const slug = filename.replace('.md', '');
     const markdownWithMeta = fs.readFileSync(path.join('src', 'copy', filename), 'utf-8');

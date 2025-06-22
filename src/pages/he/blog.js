@@ -98,10 +98,31 @@ const HebrewBlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) =>
 };
 
 export async function getStaticProps({ params }) {
-  const files = fs.readdirSync(path.join('src', 'copy'));
+  // Read from Hebrew copy directory
+  const hebrewCopyPath = path.join('src', 'copy', 'he');
+  const englishCopyPath = path.join('src', 'copy');
+  
+  let files = [];
+  
+  // Try to read Hebrew files first
+  try {
+    files = fs.readdirSync(hebrewCopyPath);
+  } catch (error) {
+    // If Hebrew directory doesn't exist, fall back to English
+    files = fs.readdirSync(englishCopyPath);
+  }
+  
   const allPosts = files.map(filename => {
     const slug = filename.replace('.md', '');
-    const markdownWithMeta = fs.readFileSync(path.join('src', 'copy', filename), 'utf-8');
+    
+    // Try Hebrew file first, then fall back to English
+    let markdownWithMeta;
+    try {
+      markdownWithMeta = fs.readFileSync(path.join(hebrewCopyPath, filename), 'utf-8');
+    } catch (error) {
+      markdownWithMeta = fs.readFileSync(path.join(englishCopyPath, filename), 'utf-8');
+    }
+    
     const { data, content } = matter(markdownWithMeta);
 
     // Get all non-empty lines

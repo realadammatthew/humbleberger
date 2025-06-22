@@ -39,7 +39,20 @@ const HebrewPost = ({ content, data }) => {
 };
 
 export async function getStaticPaths() {
-  const files = fs.readdirSync(path.join('src', 'copy'));
+  // Get all available files from both Hebrew and English directories
+  const hebrewCopyPath = path.join('src', 'copy', 'he');
+  const englishCopyPath = path.join('src', 'copy');
+  
+  let files = [];
+  
+  // Try to read Hebrew files first
+  try {
+    files = fs.readdirSync(hebrewCopyPath);
+  } catch (error) {
+    // If Hebrew directory doesn't exist, fall back to English
+    files = fs.readdirSync(englishCopyPath);
+  }
+  
   const paths = files.map((filename) => ({
     params: {
       id: filename.replace('.md', ''),
@@ -52,7 +65,17 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params: { id } }) {
-  const markdownWithMeta = fs.readFileSync(path.join('src', 'copy', id + '.md'), 'utf-8');
+  // Try Hebrew file first, then fall back to English
+  const hebrewCopyPath = path.join('src', 'copy', 'he');
+  const englishCopyPath = path.join('src', 'copy');
+  
+  let markdownWithMeta;
+  try {
+    markdownWithMeta = fs.readFileSync(path.join(hebrewCopyPath, id + '.md'), 'utf-8');
+  } catch (error) {
+    markdownWithMeta = fs.readFileSync(path.join(englishCopyPath, id + '.md'), 'utf-8');
+  }
+  
   const { data, content } = matter(markdownWithMeta);
   // Get first non-empty line, remove leading # and whitespace
   const firstLine = content.split('\n').find(line => line.trim().length > 0) || '';

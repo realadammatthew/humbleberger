@@ -39,7 +39,8 @@ const Post = ({ content, data }) => {
 };
 
 export async function getStaticPaths() {
-  const files = fs.readdirSync(path.join('src', 'copy'));
+  const files = fs.readdirSync(path.join('src', 'copy'))
+    .filter(filename => filename.endsWith('.md')); // Only include .md files, not directories
   const paths = files.map((filename) => ({
     params: {
       id: filename.replace('.md', ''),
