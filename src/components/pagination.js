@@ -9,7 +9,17 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
   if (totalPages <= 1) return null;
 
   const getPageUrl = (page) => {
-    const hebrewBaseUrl = isHebrew ? `/he${baseUrl}` : baseUrl;
+    // Check if we're on a Hebrew page by looking at the current path
+    const isHebrewPage = typeof window !== 'undefined' && window.location.pathname.startsWith('/he');
+    
+    let hebrewBaseUrl;
+    if (isHebrewPage) {
+      // If the baseUrl already starts with /he, don't add it again
+      hebrewBaseUrl = baseUrl.startsWith('/he') ? baseUrl : `/he${baseUrl}`;
+    } else {
+      hebrewBaseUrl = baseUrl;
+    }
+    
     if (page === 1) return hebrewBaseUrl;
     return `${hebrewBaseUrl}/page/${page}`;
   };
@@ -63,14 +73,17 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
     return pages;
   };
 
+  // Determine if we're on a Hebrew page for the display text
+  const isHebrewPage = typeof window !== 'undefined' && window.location.pathname.startsWith('/he');
+
   return (
-    <nav className="pagination" aria-label={isHebrew ? 'ניווט פוסטים בבלוג' : 'Blog posts pagination'} style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
+    <nav className="pagination" aria-label={isHebrewPage ? 'ניווט פוסטים בבלוג' : 'Blog posts pagination'} style={{ direction: isHebrewPage ? 'rtl' : 'ltr' }}>
       <div className="pagination-container">
         {/* Previous button */}
         {currentPage > 1 && (
           <Link href={getPageUrl(currentPage - 1)} legacyBehavior>
-            <a className="pagination-nav pagination-prev" aria-label={isHebrew ? 'עמוד קודם' : 'Previous page'}>
-              {isHebrew ? 'הקודם ←' : '← Previous'}
+            <a className="pagination-nav pagination-prev" aria-label={isHebrewPage ? 'עמוד קודם' : 'Previous page'}>
+              {isHebrewPage ? 'הקודם ←' : '← Previous'}
             </a>
           </Link>
         )}
@@ -83,8 +96,8 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
         {/* Next button */}
         {currentPage < totalPages && (
           <Link href={getPageUrl(currentPage + 1)} legacyBehavior>
-            <a className="pagination-nav pagination-next" aria-label={isHebrew ? 'עמוד הבא' : 'Next page'}>
-              {isHebrew ? '→ הבא' : 'Next →'}
+            <a className="pagination-nav pagination-next" aria-label={isHebrewPage ? 'עמוד הבא' : 'Next page'}>
+              {isHebrewPage ? '→ הבא' : 'Next →'}
             </a>
           </Link>
         )}
