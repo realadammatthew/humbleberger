@@ -157,7 +157,7 @@ const Copyright = () => {
           </Link>
           <span style={{ color: "#888" }}>|</span>
           <Link
-            href="https://chat.humbleberger.org/en?translation=csb"
+            href={isHebrew ? "https://chat.humbleberger.org/he?translation=csb" : "https://chat.humbleberger.org/en?translation=csb"}
             legacyBehavior
           >
             <a
