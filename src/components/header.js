@@ -1,8 +1,17 @@
 import Head from "next/head";
 import { useTranslation } from "react-i18next";
+import { useLanguage } from "../hooks/useLanguage";
+import { useRouter } from "next/router";
 
 const Header = () => {
   const { t, i18n } = useTranslation();
+  const { isHebrew } = useLanguage();
+  const router = useRouter();
+  
+  // Generate dynamic URLs based on current language
+  const currentUrl = isHebrew ? `${t('urls.site')}/he${router.asPath}` : `${t('urls.site')}${router.asPath}`;
+  const canonicalUrl = isHebrew ? `${t('urls.site')}/he` : `${t('urls.site')}`;
+
   return (
     <Head>
       <meta charSet="UTF-8" />
@@ -17,7 +26,7 @@ const Header = () => {
         content={t("header.keywords")}
       />
       <meta name="robots" content="index, follow" />
-      <link rel="canonical" href="https://humbleberger.org/" />
+      <link rel="canonical" href={canonicalUrl} />
       <meta
         property="og:title"
         content={t("header.ogTitle")}
@@ -27,12 +36,12 @@ const Header = () => {
         content={t("header.ogDescription")}
       />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://humbleberger.org/" />
+      <meta property="og:url" content={currentUrl} />
       <meta
         property="og:image"
-        content="https://humbleberger.org/social-preview.png"
+        content={t("urls.socialPreview")}
       />
-      <meta property="og:site_name" content="Humbleberger Ministries" />
+      <meta property="og:site_name" content={t("header.title")} />
       <meta property="og:locale" content={i18n.language === 'he' ? 'he_IL' : 'en_US'} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta
@@ -45,7 +54,7 @@ const Header = () => {
       />
       <meta
         name="twitter:image"
-        content="https://humbleberger.org/social-preview.png"
+        content={t("urls.socialPreview")}
       />
       <script
         type="application/ld+json"
@@ -53,63 +62,64 @@ const Header = () => {
           __html: `{
           "@context": "https://schema.org",
           "@type": "NonprofitOrganization",
-          "name": "Humbleberger Ministries",
-          "url": "https://humbleberger.org",
-          "logo": "https://humbleberger.org/logo.png",
+          "name": "${t("header.title")}",
+          "url": "${t('urls.site')}",
+          "logo": "${t('urls.logo')}",
           "description": "${t("header.structuredDataDescription")}",
           "founder": {
             "@type": "Person",
-            "name": "Daniel J. Cross",
-            "email": "shalom@humbleberger.org",
-            "url": "https://humbleberger.org"
+            "name": "${t('person.founder.name')}",
+            "email": "${t('person.founder.email')}",
+            "url": "${t('urls.site')}"
           },
-          "email": "shalom@humbleberger.org",
+          "email": "${t('person.founder.email')}",
           "address": {
             "@type": "PostalAddress",
             "addressRegion": "NC",
             "addressCountry": "US"
           },
           "nonprofitStatus": "https://schema.org/Nonprofit501c3",
-          "taxID": "33-4533201",
+          "taxID": "${t('common.fein.number')}",
           "areaServed": "Worldwide",
           "sameAs": [
-            "https://x.com/humbleberger"
+            "${t('urls.twitter')}"
           ],
           "hasPart": [
             {
               "@type": "WebPage",
               "name": "${t("header.statementOfFaith")}",
-              "url": "https://humbleberger.org/statement-of-faith"
+              "url": "${t('urls.site')}${t('urls.internal.statementOfFaith')}"
             },
             {
               "@type": "WebPage",
               "name": "${t("header.statementOnAntisemitism")}",
-              "url": "https://humbleberger.org/anti-semitism"
+              "url": "${t('urls.site')}${t('urls.internal.antisemitism')}"
             },
             {
               "@type": "WebPage",
               "name": "${t("header.countingTheCost")}",
-              "url": "https://humbleberger.org/counting-the-cost"
+              "url": "${t('urls.site')}${t('urls.internal.countingCost')}"
             },
             {
               "@type": "DonateAction",
               "name": "${t("header.donate")}",
-              "url": "https://donorbox.org/humbleberger-ministries",
-              "target": "https://donorbox.org/humbleberger-ministries"
+              "url": "${t('urls.donate')}",
+              "target": "${t('urls.donate')}"
             }
           ]
         }`,
         }}
       />
-      <meta name="author" content="Humbleberger Ministries" />
+      <meta name="author" content={t("header.title")} />
       <meta name="theme-color" content="#101828" />
       <meta name="language" content={i18n.language === 'he' ? 'he-IL' : 'en-US'} />
       <meta
         name="copyright"
         content={t("header.copyright")}
       />
-      <link rel="alternate" hrefLang="en" href="https://humbleberger.org/" />
-      <link rel="alternate" type="application/rss+xml" title="Humbleberger Ministries Blog RSS Feed" href="https://humbleberger.org/rss.xml" />
+      <link rel="alternate" hrefLang="en" href={`${t('urls.site')}/`} />
+      <link rel="alternate" hrefLang="he" href={`${t('urls.site')}/he`} />
+      <link rel="alternate" type="application/rss+xml" title={t("header.rssTitle")} href={`${t('urls.site')}${t('urls.internal.rss')}`} />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />

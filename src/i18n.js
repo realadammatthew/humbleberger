@@ -221,6 +221,20 @@ const resources = {
       'urls.internal.whoIsYeshuaFromHome': '/blog/who-is-yeshua?from=home',
       'urls.internal.fromTrenchesFromHome': '/blog/from-the-trenches-an-evangelism-guide?from=home',
       'urls.internal.shemaFromHome': '/blog/yeshua-and-the-shema?from=home',
+      
+      // Header URLs
+      'urls.site': 'https://humbleberger.org',
+      'urls.logo': 'https://humbleberger.org/logo.png',
+      'urls.socialPreview': 'https://humbleberger.org/social-preview.png',
+      
+      // Person names
+      'person.founder.name': 'Daniel J. Cross',
+      'person.founder.email': 'shalom@humbleberger.org',
+      
+      // Common terms
+      'common.rss': 'RSS',
+      'common.fein.title': 'FEIN',
+      'common.fein.number': '33-4533201',
     }
   },
   he: {
@@ -442,6 +456,20 @@ const resources = {
       'urls.internal.whoIsYeshuaFromHome': '/he/blog/who-is-yeshua?from=home',
       'urls.internal.fromTrenchesFromHome': '/he/blog/from-the-trenches-an-evangelism-guide?from=home',
       'urls.internal.shemaFromHome': '/he/blog/yeshua-and-the-shema?from=home',
+      
+      // Header URLs
+      'urls.site': 'https://humbleberger.org/he',
+      'urls.logo': 'https://humbleberger.org/logo.png',
+      'urls.socialPreview': 'https://humbleberger.org/social-preview.png',
+      
+      // Person names
+      'person.founder.name': 'דניאל גיי קרוס',
+      'person.founder.email': 'shalom@humbleberger.org',
+      
+      // Common terms
+      'common.rss': 'RSS',
+      'common.fein.title': 'FEIN',
+      'common.fein.number': '33-4533201',
     }
   }
 };

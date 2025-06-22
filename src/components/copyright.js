@@ -188,7 +188,7 @@ const Copyright = () => {
                 textDecoration: "underline",
               }}
             >
-              RSS
+              {t('common.rss')}
             </a>
           </Link>
           <span style={{ color: "#888" }}>|</span>
@@ -280,7 +280,7 @@ const Copyright = () => {
           </Link>
         </div>
         <p style={{ fontSize: "0.7rem", marginTop: "1rem", color: "#666" }}>
-          FEIN: 33-4533201
+          {t('common.fein.title')}: {t('common.fein.number')}
         </p>
       </div>
     </footer>
