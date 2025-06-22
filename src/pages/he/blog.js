@@ -129,14 +129,14 @@ export async function getStaticProps({ params }) {
     const contentLines = content.split('\n').filter(line => line.trim().length > 0);
     
     // First line is the title (without the #)
-    const mdTitle = contentLines[0].replace(/^#+\s*/, '');
+    const mdTitle = contentLines[0] ? contentLines[0].replace(/^#+\s*/, '') : (data.title || slug);
     
     // Second line is the subtitle/excerpt (without any markdown)
     const excerpt = contentLines[1] ? contentLines[1].replace(/\*\*/g, '') : '';
 
     return {
       slug,
-      title: mdTitle || data.title || slug,
+      title: mdTitle,
       date: data.date || '',
       excerpt: excerpt,
       content: content // Include full content for search

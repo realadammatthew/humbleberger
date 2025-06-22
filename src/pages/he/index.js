@@ -91,7 +91,7 @@ const HebrewHome = () => (
           <div className="button-group">
             <a
               className="button"
-              href="https://chat.humbleberger.org/en?translation=csb"
+              href="https://chat.humbleberger.org/he?translation=csb"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -105,7 +105,7 @@ const HebrewHome = () => (
             <div className="other-buttons-grid">
               <a
                 className="button"
-                href="https://app.logos.com/books/LLS%3ACSB/references/bible%2Bcsb2.64.1.1?layout=reading&rightSidebar=closed"
+                href="../../assets/Modern-Hebrew-New-Testament.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
