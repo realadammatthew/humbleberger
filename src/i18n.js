@@ -348,6 +348,10 @@ const resources = {
       'urls.encountering.hasMessiahCome': '/blog/has-messiah-already-come?from=encountering-messiah',
       'urls.encountering.whatWillMessiahDo': '/blog/what-will-the-messiah-do?from=encountering-messiah',
       'urls.encountering.whatIsSin': '/blog/what-is-sin?from=encountering-messiah',
+      
+      // Mission Page
+      'mission.title': 'Our Mission',
+      'mission.content': 'Humbleberger Ministries exists to glorify God by proclaiming the gospel of Jesus Christ, with a focused calling to bring the good news to the Jewish people in cities like New York and Tel Aviv. Rooted in the spirit of the Apostle Paul, our mission is to evangelize, disciple, and raise up faithful preachers and teachers to plant and shepherd churches across the globe. While our primary focus is Jewish missions, we stand fully on the Great Commission, seeking to reach all the lost and serve the global Church as the Lord leads.',
     }
   },
   he: {
@@ -696,6 +700,10 @@ const resources = {
       'urls.encountering.hasMessiahCome': '/he/blog/has-messiah-already-come?from=encountering-messiah',
       'urls.encountering.whatWillMessiahDo': '/he/blog/what-will-the-messiah-do?from=encountering-messiah',
       'urls.encountering.whatIsSin': '/he/blog/what-is-sin?from=encountering-messiah',
+      
+      // Mission Page
+      'mission.title': 'המשימה שלנו',
+      'mission.content': 'שירותי האמבלברגר קיימים כדי להלל את אלוהים על ידי הכרזת הבשורה של ישוע המשיח, עם קריאה ממוקדת להביא את הבשורה הטובה לעם היהודי בערים כמו ניו יורק ותל אביב. מושרשים ברוחו של השליח פאולוס, המשימה שלנו היא לבשר, לחנך ולהקים מטיפים ומורים נאמנים לנטוע ולרעות כנסיות ברחבי העולם. בעוד שהמיקוד העיקרי שלנו הוא משימות יהודיות, אנו עומדים במלואם על הצו הגדול, מבקשים להגיע לכל האבודים ולשרת את הכנסייה הגלובלית כפי שהאדון מוביל.',
     }
   }
 };

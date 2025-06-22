@@ -1,13 +1,11 @@
 import Link from "next/link";
 import { useTranslation } from "react-i18next";
-import { useLanguage } from "../../hooks/useLanguage";
 import withBanner from "../../utils/with-banner";
 import CookieBanner from "../../components/cookies";
 import LanguageSwitcher from "../../components/language-switcher";
 
 const HebrewHome = () => {
   const { t } = useTranslation();
-  const { isHebrew } = useLanguage();
 
   return (
     <>
