@@ -1,22 +1,27 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
+import { useTranslation } from "react-i18next";
+import { useLanguage } from "../hooks/useLanguage";
 
 const ReturnToBlogPosts = ({ referrer }) => {
-  const [returnUrl, setReturnUrl] = useState("/blog");
-  const [returnText, setReturnText] = useState("Blog Posts");
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
+  const [returnUrl, setReturnUrl] = useState(isHebrew ? "/he/blog" : "/blog");
+  const [returnText, setReturnText] = useState(t('blog.title'));
   const router = useRouter();
 
   useEffect(() => {
     // If a specific referrer is provided, use it
     if (referrer) {
-      setReturnUrl(referrer);
+      const hebrewReferrer = isHebrew ? `/he${referrer}` : referrer;
+      setReturnUrl(hebrewReferrer);
       if (referrer === "/encountering-messiah") {
-        setReturnText("Encountering Messiah");
+        setReturnText(isHebrew ? 'פגישה עם המשיח' : 'Encountering Messiah');
       } else if (referrer === "/") {
-        setReturnText("Home");
+        setReturnText(t('common.home'));
       } else {
-        setReturnText("Blog Posts");
+        setReturnText(t('blog.title'));
       }
       return;
     }
@@ -24,14 +29,14 @@ const ReturnToBlogPosts = ({ referrer }) => {
     // Check URL parameters for referrer information
     if (typeof window !== "undefined" && router.query.from) {
       if (router.query.from === "encountering-messiah") {
-        setReturnUrl("/encountering-messiah");
-        setReturnText("Encountering Messiah");
+        setReturnUrl(isHebrew ? "/he/encountering-messiah" : "/encountering-messiah");
+        setReturnText(isHebrew ? 'פגישה עם המשיח' : 'Encountering Messiah');
       } else if (router.query.from === "home") {
-        setReturnUrl("/");
-        setReturnText("Home");
+        setReturnUrl(isHebrew ? "/he" : "/");
+        setReturnText(t('common.home'));
       }
     }
-  }, [referrer, router.query.from]);
+  }, [referrer, router.query.from, isHebrew, t]);
 
   return (
     <nav style={{ marginTop: "2rem", textAlign: "center" }}>
@@ -43,7 +48,7 @@ const ReturnToBlogPosts = ({ referrer }) => {
             fontWeight: 600,
           }}
         >
-          ← Return to {returnText}
+          {isHebrew ? '← חזרה ל' : '← Return to '}{returnText}
         </a>
       </Link>
     </nav>

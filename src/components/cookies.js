@@ -1,7 +1,12 @@
 import { useEffect, useState } from "react";
+import { useTranslation } from "react-i18next";
+import { useLanguage } from "../hooks/useLanguage";
 
 export default function CookieBanner() {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
   const [visible, setVisible] = useState(false);
+  
   useEffect(() => {
     if (
       typeof window !== "undefined" &&
@@ -10,11 +15,14 @@ export default function CookieBanner() {
       setVisible(true);
     }
   }, []);
+  
   const acceptCookies = () => {
     localStorage.setItem("cookiesAccepted", "true");
     setVisible(false);
   };
+  
   if (!visible) return null;
+  
   return (
     <div
       id="cookie-banner"
@@ -28,6 +36,7 @@ export default function CookieBanner() {
         padding: "1rem",
         zIndex: 1000,
         boxShadow: "0 -2px 10px rgba(0,0,0,0.2)",
+        direction: isHebrew ? 'rtl' : 'ltr',
       }}
     >
       <div
@@ -43,8 +52,7 @@ export default function CookieBanner() {
         }}
       >
         <p style={{ margin: 0, color: "white" }}>
-          This website uses cookies to ensure you get the best experience. By
-          continuing to use this site, you consent to our use of cookies.
+          {t('cookies.message')}
         </p>
         <button
           id="accept-cookies"
@@ -59,7 +67,7 @@ export default function CookieBanner() {
             transition: "background-color 0.3s",
           }}
         >
-          Accept
+          {t('cookies.accept')}
         </button>
       </div>
     </div>

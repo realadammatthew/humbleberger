@@ -4,11 +4,15 @@ import matter from 'gray-matter';
 import { marked } from 'marked';
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
+import { useTranslation } from 'react-i18next';
+import { useLanguage } from '../../../hooks/useLanguage';
 import withBanner from '../../../utils/with-banner';
 import ReturnToBlogPosts from '../../../components/return-to-blog-posts';
 import CallToActionButtons from '../../../components/call-to-action-buttons';
 
 const HebrewPost = ({ content, data }) => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
   const [referrer, setReferrer] = useState(null);
   const router = useRouter();
 

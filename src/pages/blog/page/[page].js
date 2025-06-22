@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { useTranslation } from 'react-i18next';
+import { useLanguage } from '../../../hooks/useLanguage';
 import withBanner from '../../../utils/with-banner';
 import ReturnToHome from '../../../components/return-to-home';
 import Search from '../../../components/search';
@@ -13,6 +15,8 @@ import { useRouter } from 'next/router';
 const POSTS_PER_PAGE = 10;
 
 const BlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
   const router = useRouter();
   const [displayedPosts, setDisplayedPosts] = useState(posts);
   const [isSearchActive, setIsSearchActive] = useState(false);
@@ -35,10 +39,10 @@ const BlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) => {
   }, [posts]);
 
   return (
-    <main>
+    <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
       <section>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
-          <h2 className="blog-list-title">Blog Posts</h2>
+          <h2 className="blog-list-title">{t('blog.title')}</h2>
           <a 
             href="/rss.xml" 
             style={{ 
@@ -49,7 +53,7 @@ const BlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) => {
               alignItems: 'center',
               gap: '0.5rem'
             }}
-            title="Subscribe to RSS Feed"
+            title={isHebrew ? 'הרשמה ל-RSS' : 'Subscribe to RSS Feed'}
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -68,7 +72,7 @@ const BlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) => {
         
         <div className="toc-list">
           {displayedPosts.map(post => (
-            <Link href={`/blog/${post.slug}`} key={post.slug} legacyBehavior>
+            <Link href={isHebrew ? `/he/blog/${post.slug}` : `/blog/${post.slug}`} key={post.slug} legacyBehavior>
               <a className="toc-item">
                 <div className="toc-item-content">
                   <h3 className="toc-item-title">{post.title}</h3>
@@ -109,7 +113,7 @@ export async function getStaticProps({ params }) {
     const contentLines = content.split('\n').filter(line => line.trim().length > 0);
     
     // First line is the title (without the #)
-    const mdTitle = contentLines[0].replace(/^#+\s*/, '');
+    const mdTitle = contentLines[0] ? contentLines[0].replace(/^#+\s*/, '') : '';
     
     // Second line is the subtitle/excerpt (without any markdown)
     const excerpt = contentLines[1] ? contentLines[1].replace(/\*\*/g, '') : '';

@@ -1,11 +1,17 @@
 import Link from 'next/link';
+import { useTranslation } from 'react-i18next';
+import { useLanguage } from '../hooks/useLanguage';
 
 const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
+
   if (totalPages <= 1) return null;
 
   const getPageUrl = (page) => {
-    if (page === 1) return baseUrl;
-    return `${baseUrl}/page/${page}`;
+    const hebrewBaseUrl = isHebrew ? `/he${baseUrl}` : baseUrl;
+    if (page === 1) return hebrewBaseUrl;
+    return `${hebrewBaseUrl}/page/${page}`;
   };
 
   const renderPageNumbers = () => {
@@ -58,13 +64,13 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
   };
 
   return (
-    <nav className="pagination" aria-label="Blog posts pagination">
+    <nav className="pagination" aria-label={isHebrew ? 'ניווט פוסטים בבלוג' : 'Blog posts pagination'} style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
       <div className="pagination-container">
         {/* Previous button */}
         {currentPage > 1 && (
           <Link href={getPageUrl(currentPage - 1)} legacyBehavior>
-            <a className="pagination-nav pagination-prev" aria-label="Previous page">
-              ← Previous
+            <a className="pagination-nav pagination-prev" aria-label={isHebrew ? 'עמוד קודם' : 'Previous page'}>
+              {isHebrew ? 'הקודם ←' : '← Previous'}
             </a>
           </Link>
         )}
@@ -77,8 +83,8 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
         {/* Next button */}
         {currentPage < totalPages && (
           <Link href={getPageUrl(currentPage + 1)} legacyBehavior>
-            <a className="pagination-nav pagination-next" aria-label="Next page">
-              Next →
+            <a className="pagination-nav pagination-next" aria-label={isHebrew ? 'עמוד הבא' : 'Next page'}>
+              {isHebrew ? '→ הבא' : 'Next →'}
             </a>
           </Link>
         )}
@@ -86,7 +92,7 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
       
       {/* Page info */}
       <div className="pagination-info">
-        Page {currentPage} of {totalPages}
+        {t('pagination.page')} {currentPage} {t('pagination.of')} {totalPages}
       </div>
     </nav>
   );

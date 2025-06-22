@@ -1,41 +1,26 @@
-import { useRouter } from 'next/router';
-import Link from 'next/link';
+import { useTranslation } from 'react-i18next';
+import { useLanguage } from '../hooks/useLanguage';
 
 const LanguageSwitcher = () => {
-  const router = useRouter();
-  const currentPath = router.asPath;
-  
-  // Determine if we're on a Hebrew page
-  const isHebrew = currentPath.startsWith('/he');
-  
-  // Get the English equivalent path
-  const getEnglishPath = () => {
-    if (isHebrew) {
-      return currentPath.replace('/he', '') || '/';
-    }
-    return currentPath;
-  };
-  
-  // Get the Hebrew equivalent path
-  const getHebrewPath = () => {
-    if (!isHebrew) {
-      return `/he${currentPath}`;
-    }
-    return currentPath;
-  };
+  const { t } = useTranslation();
+  const { currentLanguage, switchLanguage, isHebrew } = useLanguage();
 
   return (
     <div className="language-switcher">
-      <Link href={getEnglishPath()} legacyBehavior>
-        <a className={`lang-btn ${!isHebrew ? 'active' : ''}`}>
-          🇺🇸
-        </a>
-      </Link>
-      <Link href={getHebrewPath()} legacyBehavior>
-        <a className={`lang-btn ${isHebrew ? 'active' : ''}`}>
-          🇮🇱
-        </a>
-      </Link>
+      <button 
+        className={`lang-btn ${!isHebrew ? 'active' : ''}`}
+        onClick={() => switchLanguage('en')}
+        title={t('language.switch')}
+      >
+        🇺🇸 {t('language.english')}
+      </button>
+      <button 
+        className={`lang-btn ${isHebrew ? 'active' : ''}`}
+        onClick={() => switchLanguage('he')}
+        title={t('language.switch')}
+      >
+        🇮🇱 {t('language.hebrew')}
+      </button>
       <style jsx>{`
         .language-switcher {
           position: fixed;
@@ -62,6 +47,9 @@ const LanguageSwitcher = () => {
           font-weight: bold;
           transition: all 0.3s ease;
           border: 2px solid transparent;
+          background: none;
+          cursor: pointer;
+          font-family: inherit;
         }
         
         .lang-btn:hover {

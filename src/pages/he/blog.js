@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { useTranslation } from 'react-i18next';
+import { useLanguage } from '../../hooks/useLanguage';
 import withBanner from '../../utils/with-banner';
 import ReturnToHome from '../../components/return-to-home';
 import Search from '../../components/search';
@@ -13,6 +15,8 @@ import { useRouter } from 'next/router';
 const POSTS_PER_PAGE = 10;
 
 const HebrewBlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
   const router = useRouter();
   const [displayedPosts, setDisplayedPosts] = useState(posts);
   const [isSearchActive, setIsSearchActive] = useState(false);
@@ -38,7 +42,7 @@ const HebrewBlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) =>
     <main style={{ direction: 'rtl', textAlign: 'right' }}>
       <section>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
-          <h2 className="blog-list-title">פוסטים בבלוג</h2>
+          <h2 className="blog-list-title">{t('blog.title')}</h2>
           <a 
             href="/rss.xml" 
             style={{ 

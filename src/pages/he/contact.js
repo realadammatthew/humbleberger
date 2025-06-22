@@ -1,10 +1,14 @@
 import Head from "next/head";
+import { useTranslation } from "react-i18next";
+import { useLanguage } from "../../hooks/useLanguage";
 import withBanner from "../../utils/with-banner";
 import ReturnToHome from "../../components/return-to-home";
 import { useState } from "react";
 import { useRouter } from "next/router";
 
 const HebrewContactPage = () => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
   const [submitting, setSubmitting] = useState(false);
   const router = useRouter();
 
@@ -40,18 +44,17 @@ const HebrewContactPage = () => {
   return (
     <>
       <Head>
-        <title>צרו קשר - משרדים המאוחדים של המבלברגר</title>
+        <title>{t('contact.title')} - {isHebrew ? 'משרדים של האמבלברגר' : 'Humbleberger Ministries'}</title>
         <meta
           name="description"
-          content="צרו קשר עם משרדים המאוחדים של המבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו."
+          content={isHebrew ? 'צרו קשר עם משרדים של האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.' : 'Get in touch with Humbleberger Ministries. Send us a message through our contact form.'}
         />
       </Head>
       <main style={{ direction: 'rtl', textAlign: 'right' }}>
         <section>
-          <h2>צרו קשר</h2>
+          <h2>{t('contact.title')}</h2>
           <p style={{ textAlign: "center", marginBottom: "2rem" }}>
-            יש לכם שאלה, בקשה לתפילה, או רוצים ליצור קשר? שלחו לנו הודעה למטה,
-            ונחזור אליכם בהקדם האפשרי.
+            {t('contact.description')}
           </p>
           <form
             onSubmit={handleSubmit}
@@ -70,7 +73,7 @@ const HebrewContactPage = () => {
                 htmlFor="name"
                 style={{ display: "block", marginBottom: "0.5rem" }}
               >
-                השם שלכם
+                {t('contact.name')}
               </label>
               <input
                 type="text"
@@ -93,7 +96,7 @@ const HebrewContactPage = () => {
                 htmlFor="email"
                 style={{ display: "block", marginBottom: "0.5rem" }}
               >
-                האימייל שלכם
+                {t('contact.email')}
               </label>
               <input
                 type="email"
@@ -116,7 +119,7 @@ const HebrewContactPage = () => {
                 htmlFor="message"
                 style={{ display: "block", marginBottom: "0.5rem" }}
               >
-                הודעה
+                {t('contact.message')}
               </label>
               <textarea
                 id="message"
@@ -146,7 +149,7 @@ const HebrewContactPage = () => {
                   opacity: submitting ? 0.6 : 1,
                 }}
               >
-                {submitting ? "שולח..." : "שלח הודעה"}
+                {submitting ? "שולח..." : t('contact.send')}
               </button>
             </div>
           </form>

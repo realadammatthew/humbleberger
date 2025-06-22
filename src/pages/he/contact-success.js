@@ -1,16 +1,23 @@
+import { useTranslation } from "react-i18next";
+import { useLanguage } from "../../hooks/useLanguage";
 import ReturnToHome from "../../components/return-to-home";
 import withBanner from "../../utils/with-banner";
 
-const HebrewContactSuccess = () => (
-  <main style={{ direction: 'rtl', textAlign: 'right' }}>
-    <section>
-      <h2>תודה לכם!</h2>
-      <p style={{ textAlign: "center", fontSize: "1.3rem" }}>
-        ההודעה שלכם נשלחה בהצלחה. נחזור אליכם בהקדם האפשרי.
-      </p>
-    </section>
-    <ReturnToHome />
-  </main>
-);
+const HebrewContactSuccess = () => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
+
+  return (
+    <main style={{ direction: 'rtl', textAlign: 'right' }}>
+      <section>
+        <h2>{t('contact.success.title')}</h2>
+        <p style={{ textAlign: "center", fontSize: "1.3rem" }}>
+          {t('contact.success.message')}
+        </p>
+      </section>
+      <ReturnToHome />
+    </main>
+  );
+};
 
 export default withBanner(HebrewContactSuccess); 

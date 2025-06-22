@@ -1,6 +1,10 @@
 import { useState, useEffect } from 'react';
+import { useTranslation } from 'react-i18next';
+import { useLanguage } from '../hooks/useLanguage';
 
 const Search = ({ posts, onSearchResults, onSearchClear }) => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
   const [searchTerm, setSearchTerm] = useState('');
   const [searchResults, setSearchResults] = useState([]);
   const [isSearching, setIsSearching] = useState(false);
@@ -42,11 +46,11 @@ const Search = ({ posts, onSearchResults, onSearchClear }) => {
   };
 
   return (
-    <div className="search-container">
+    <div className="search-container" style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
       <div className="search-input-wrapper">
         <input
           type="text"
-          placeholder="Search blog posts..."
+          placeholder={t('search.placeholder')}
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           className="search-input"
@@ -71,8 +75,8 @@ const Search = ({ posts, onSearchResults, onSearchClear }) => {
           <button
             onClick={handleClearSearch}
             className="search-clear"
-            aria-label="Clear search"
-            title="Clear search"
+            aria-label={isHebrew ? 'נקה חיפוש' : 'Clear search'}
+            title={isHebrew ? 'נקה חיפוש' : 'Clear search'}
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -89,9 +93,14 @@ const Search = ({ posts, onSearchResults, onSearchClear }) => {
       {searchTerm && (
         <div className="search-results-info">
           {searchResults.length === 0 ? (
-            <p>No posts found for "{searchTerm}"</p>
+            <p>{isHebrew ? `לא נמצאו פוסטים עבור "${searchTerm}"` : `No posts found for "${searchTerm}"`}</p>
           ) : (
-            <p>Found {searchResults.length} post{searchResults.length !== 1 ? 's' : ''} for "{searchTerm}"</p>
+            <p>
+              {isHebrew 
+                ? `נמצאו ${searchResults.length} פוסט${searchResults.length !== 1 ? 'ים' : ''} עבור "${searchTerm}"`
+                : `Found ${searchResults.length} post${searchResults.length !== 1 ? 's' : ''} for "${searchTerm}"`
+              }
+            </p>
           )}
         </div>
       )}
