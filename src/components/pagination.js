@@ -5,7 +5,7 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
 
   const getPageUrl = (page) => {
     if (page === 1) return baseUrl;
-    return `${baseUrl}?page=${page}`;
+    return `${baseUrl}/page/${page}`;
   };
 
   const renderPageNumbers = () => {

@@ -1,12 +1,12 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import withBanner from '../utils/with-banner';
-import ReturnToHome from '../components/return-to-home';
-import Search from '../components/search';
-import Pagination from '../components/pagination';
+import withBanner from '../../../utils/with-banner';
+import ReturnToHome from '../../../components/return-to-home';
+import Search from '../../../components/search';
+import Pagination from '../../../components/pagination';
 import Link from 'next/link';
-import CallToActionButtons from '../components/call-to-action-buttons';
+import CallToActionButtons from '../../../components/call-to-action-buttons';
 import { useState, useCallback, useEffect } from 'react';
 import { useRouter } from 'next/router';
 
@@ -132,7 +132,14 @@ export async function getStaticProps({ params }) {
 
   // Calculate pagination
   const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE);
-  const currentPage = 1; // This is always page 1 for the main blog page
+  const currentPage = parseInt(params.page);
+
+  // Validate page number
+  if (currentPage < 1 || currentPage > totalPages) {
+    return {
+      notFound: true,
+    };
+  }
 
   // Get posts for current page
   const startIndex = (currentPage - 1) * POSTS_PER_PAGE;
@@ -149,4 +156,23 @@ export async function getStaticProps({ params }) {
   };
 }
 
-export default withBanner(BlogPage);
+// Add getStaticPaths to pre-generate paginated pages
+export async function getStaticPaths() {
+  const files = fs.readdirSync(path.join('src', 'copy'));
+  const totalPosts = files.length;
+  const totalPages = Math.ceil(totalPosts / POSTS_PER_PAGE);
+
+  const paths = [];
+  
+  // Generate paths for pages 2 and up (page 1 is handled by /blog)
+  for (let page = 2; page <= totalPages; page++) {
+    paths.push({ params: { page: page.toString() } });
+  }
+
+  return {
+    paths,
+    fallback: false,
+  };
+}
+
+export default withBanner(BlogPage); 
