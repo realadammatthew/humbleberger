@@ -454,6 +454,51 @@ const resources = {
       
       'statement.item20.title': '20. Final Affirmation',
       'statement.item20.content': 'We believe that Scripture alone is the supreme authority, that salvation is by grace alone through faith alone in Christ alone, for the glory of God alone.',
+      
+      // Terms of Use Page
+      'terms.title': 'Terms of Use',
+      'terms.lastUpdated': 'Last Updated: April 18, 2025',
+      'terms.intro': 'Welcome to the Humbleberger Ministries website. By accessing or using our website, you agree to be bound by these Terms of Use. Please read them carefully.',
+      
+      'terms.acceptance.title': 'Acceptance of Terms',
+      'terms.acceptance.content': 'By accessing and using this website, you accept and agree to be bound by these Terms of Use, our Privacy Policy, and any other policies that may be published on our website. If you do not agree to these terms, please do not use our website.',
+      
+      'terms.content.title': 'Use of Content',
+      'terms.content.content': 'The content on our website, including but not limited to text, graphics, logos, images, audio clips, and software, is owned by or licensed to Humbleberger Ministries and is protected by copyright and other intellectual property laws. You may access and view the content for personal, non-commercial use only. You may not reproduce, distribute, modify, create derivative works of, publicly display, or exploit any content from our website without our prior written permission.',
+      
+      'terms.conduct.title': 'User Conduct',
+      'terms.conduct.intro': 'When using our website, you agree not to:',
+      'terms.conduct.item1': 'Violate any applicable laws or regulations',
+      'terms.conduct.item2': 'Infringe upon the rights of others',
+      'terms.conduct.item3': 'Use our website in any manner that could disable, overburden, or impair the site',
+      'terms.conduct.item4': 'Attempt to gain unauthorized access to any part of our website',
+      'terms.conduct.item5': 'Use our website to transmit any malicious software or code',
+      'terms.conduct.item6': 'Engage in any conduct that restricts or inhibits anyone\'s use of our website',
+      
+      'terms.links.title': 'Links to Third-Party Websites',
+      'terms.links.content': 'Our website may contain links to third-party websites. These links are provided for your convenience only. We have no control over the content of these websites and accept no responsibility for them or for any loss or damage that may arise from your use of them. The inclusion of a link to a third-party website does not imply our endorsement of that website.',
+      
+      'terms.userContent.title': 'User-Generated Content',
+      'terms.userContent.content': 'If you submit any content to our website, including comments or feedback, you grant Humbleberger Ministries a non-exclusive, royalty-free, perpetual, and worldwide license to use, reproduce, modify, adapt, publish, translate, and distribute such content in any media. You represent that you have the right to grant such a license.',
+      
+      'terms.disclaimer.title': 'Disclaimer of Warranties',
+      'terms.disclaimer.content': 'Our website and its content are provided "as is" and "as available" without any warranties of any kind, either express or implied. We do not warrant that our website will be uninterrupted or error-free, that defects will be corrected, or that our website or the servers that make it available are free of viruses or other harmful components.',
+      
+      'terms.liability.title': 'Limitation of Liability',
+      'terms.liability.content': 'To the fullest extent permitted by applicable law, Humbleberger Ministries shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, data, or use, arising out of or in connection with your use of our website.',
+      
+      'terms.indemnification.title': 'Indemnification',
+      'terms.indemnification.content': 'You agree to indemnify, defend, and hold harmless Humbleberger Ministries and its officers, directors, employees, agents, and affiliates from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys\' fees) arising from your use of our website or your violation of these Terms of Use.',
+      
+      'terms.changes.title': 'Changes to Terms',
+      'terms.changes.content': 'We reserve the right to modify these Terms of Use at any time. Any changes will be effective immediately upon posting the revised Terms of Use on our website. Your continued use of our website after the posting of revised Terms of Use constitutes your acceptance of such changes.',
+      
+      'terms.governing.title': 'Governing Law',
+      'terms.governing.content': 'These Terms of Use shall be governed by and construed in accordance with the laws of the State of North Carolina, without regard to its conflict of law provisions.',
+      
+      'terms.contact.title': 'Contact Us',
+      'terms.contact.content': 'If you have any questions about these Terms of Use, please contact us using our',
+      'terms.contact.link': 'online form',
     }
   },
   he: {
@@ -908,6 +953,51 @@ const resources = {
       
       'statement.item20.title': '20. אישור סופי',
       'statement.item20.content': 'אנו מאמינים שהכתובים לבדם הם הסמכות העליונה, שהישועה היא בחסד בלבד דרך אמונה בלבד במשיח בלבד, למען תהילת אלוהים בלבד.',
+      
+      // Terms of Use Page
+      'terms.title': 'תנאי שימוש',
+      'terms.lastUpdated': 'עודכן לאחרונה: 18 באפריל 2025',
+      'terms.intro': 'ברוכים הבאים לאתר משרדי האמבלברגר. על ידי גישה או שימוש באתר שלנו, אתה מסכים להיות מחויב לתנאי שימוש אלה. אנא קרא אותם בעיון.',
+      
+      'terms.acceptance.title': 'קבלת התנאים',
+      'terms.acceptance.content': 'על ידי גישה ושימוש באתר זה, אתה מקבל ומסכים להיות מחויב לתנאי שימוש אלה, למדיניות הפרטיות שלנו ולכל מדיניות אחרת שעשויה להתפרסם באתר שלנו. אם אינך מסכים לתנאים אלה, אנא אל תשתמש באתר שלנו.',
+      
+      'terms.content.title': 'שימוש בתוכן',
+      'terms.content.content': 'התוכן באתר שלנו, לרבות אך לא רק טקסט, גרפיקה, סמלילים, תמונות, קטעי שמע ותוכנה, הוא בבעלות או ברישיון של משרדי האמבלברגר ומוגן על ידי חוקי זכויות יוצרים וקניין רוחני אחרים. באפשרותך לגשת ולצפות בתוכן לשימוש אישי ולא מסחרי בלבד. אינך רשאי לשכפל, להפיץ, לשנות, ליצור עבודות נגזרות, להציג בפומבי או לנצל כל תוכן מאתרנו ללא אישורנו מראש ובכתב.',
+      
+      'terms.conduct.title': 'התנהגות משתמשים',
+      'terms.conduct.intro': 'בעת השימוש באתר שלנו, אתה מסכים לא:',
+      'terms.conduct.item1': 'להפר כל חוק או תקנה החלים',
+      'terms.conduct.item2': 'לפגוע בזכויותיהם של אחרים',
+      'terms.conduct.item3': 'להשתמש באתר שלנו בכל דרך שעלולה להשבית, להעמיס או לפגוע באתר',
+      'terms.conduct.item4': 'לנסות לקבל גישה בלתי מורשית לכל חלק מאתרנו',
+      'terms.conduct.item5': 'להשתמש באתר שלנו כדי להעביר כל תוכנה או קוד זדוניים',
+      'terms.conduct.item6': 'לעסוק בכל התנהגות המגבילה או מונעת את השימוש של כל אדם באתר שלנו',
+      
+      'terms.links.title': 'קישורים לאתרי צד שלישי',
+      'terms.links.content': 'האתר שלנו עשוי להכיל קישורים לאתרי צד שלישי. קישורים אלה מסופקים לנוחיותך בלבד. אין לנו שליטה על התוכן של אתרים אלה ואיננו מקבלים אחריות עליהם או על כל אובדן או נזק שעלול לנבוע מהשימוש שלך בהם. הכללת קישור לאתר צד שלישי אינה מרמזת על תמיכתנו באתר זה.',
+      
+      'terms.userContent.title': 'תוכן שנוצר על ידי משתמשים',
+      'terms.userContent.content': 'אם אתה מגיש תוכן כלשהו לאתר שלנו, כולל הערות או משוב, אתה מעניק למשרדי האמבלברגר רישיון לא בלעדי, ללא תמלוגים, תמידי ועולמי להשתמש, לשכפל, לשנות, להתאים, לפרסם, לתרגם ולהפיץ תוכן כזה בכל מדיה. אתה מצהיר שיש לך את הזכות להעניק רישיון כזה.',
+      
+      'terms.disclaimer.title': 'הסרת אחריות',
+      'terms.disclaimer.content': 'האתר שלנו ותכניו מסופקים "כמות שהם" ו"כזמינים" ללא כל אחריות מכל סוג שהוא, בין אם מפורשת או משתמעת. איננו מתחייבים שהאתר שלנו יהיה ללא הפרעות או שגיאות, שפגמים יתוקנו, או שהאתר שלנו או השרתים המאפשרים את זמינותו נקיים מוירוסים או מרכיבים מזיקים אחרים.',
+      
+      'terms.liability.title': 'הגבלת אחריות',
+      'terms.liability.content': 'במידה המרבית המותרת על פי החוק החל, משרדי האמבלברגר לא יהיו אחראים לכל נזק עקיף, מקרי, מיוחד, תוצאתי או עונשי, לרבות אובדן רווחים, נתונים או שימוש, הנובע מהשימוש שלך באתר שלנו או בקשר אליו.',
+      
+      'terms.indemnification.title': 'שיפוי',
+      'terms.indemnification.content': 'אתה מסכים לשפות, להגן ולהחזיק את משרדי האמבלברגר ונושאי המשרה, הדירקטורים, העובדים, הסוכנים והשותפים שלהם מכל וכל תביעות, התחייבויות, נזקים, הפסדים, עלויות, הוצאות או עמלות (לרבות שכר טרחת עורכי דין סביר) הנובעים מהשימוש שלך באתר שלנו או מהפרת תנאי שימוש אלה.',
+      
+      'terms.changes.title': 'שינויים בתנאים',
+      'terms.changes.content': 'אנו שומרים לעצמנו את הזכות לשנות תנאי שימוש אלה בכל עת. כל שינוי ייכנס לתוקף מיד עם פרסום תנאי השימוש המתוקנים באתר שלנו. המשך השימוש שלך באתר שלנו לאחר פרסום תנאי השימוש המתוקנים מהווה את קבלתך לשינויים אלה.',
+      
+      'terms.governing.title': 'החוק החל',
+      'terms.governing.content': 'תנאי שימוש אלה יחולו ויפורשו בהתאם לחוקי מדינת צפון קרוליינה, ללא התחשבות בהוראות ניגוד החוקים שלה.',
+      
+      'terms.contact.title': 'צור קשר',
+      'terms.contact.content': 'אם יש לך שאלות לגבי תנאי שימוש אלה, אנא צור עמנו קשר באמצעות',
+      'terms.contact.link': 'הטופס המקוון שלנו',
     }
   }
 };
