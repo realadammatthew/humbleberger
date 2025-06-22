@@ -9,7 +9,7 @@ const CallToActionButtons = () => {
     <div className="blog-post-ctas" style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
       <a
         className="button"
-        href="https://chat.humbleberger.org/en?translation=csb"
+        href={isHebrew ? "https://chat.humbleberger.org/he?translation=csb" : "https://chat.humbleberger.org/en?translation=csb"}
         target="_blank"
         rel="noopener noreferrer"
       >
