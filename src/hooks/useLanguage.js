@@ -24,7 +24,8 @@ export const useLanguage = () => {
     if (newLanguage === 'he') {
       // Switch to Hebrew
       if (currentPath.startsWith('/he')) {
-        newPath = currentPath; // Already Hebrew
+        // Already on Hebrew page, don't change the path
+        return;
       } else {
         newPath = `/he${currentPath}`;
       }
@@ -34,7 +35,8 @@ export const useLanguage = () => {
         newPath = currentPath.replace('/he', '');
         if (!newPath) newPath = '/';
       } else {
-        newPath = currentPath; // Already English
+        // Already on English page, don't change the path
+        return;
       }
     }
 

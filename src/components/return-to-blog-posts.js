@@ -14,7 +14,13 @@ const ReturnToBlogPosts = ({ referrer }) => {
   useEffect(() => {
     // If a specific referrer is provided, use it
     if (referrer) {
-      const hebrewReferrer = isHebrew ? `/he${referrer}` : referrer;
+      let hebrewReferrer;
+      if (isHebrew) {
+        // If the referrer already starts with /he, don't add it again
+        hebrewReferrer = referrer.startsWith('/he') ? referrer : `/he${referrer}`;
+      } else {
+        hebrewReferrer = referrer;
+      }
       setReturnUrl(hebrewReferrer);
       if (referrer === "/encountering-messiah") {
         setReturnText(isHebrew ? 'פגישה עם המשיח' : 'Encountering Messiah');
