@@ -6,13 +6,13 @@ const resources = {
     translation: {
       // Header
       'header.title': 'Humbleberger Ministries - Proclaiming the Gospel of Yeshua',
-      'header.description': 'Proclaiming the gospel of Yeshua (Jesus) with a special heart for the Jewish people. Find answers about Yeshua, the Bible, and our mission.',
+      'header.description': 'Proclaiming the gospel of Yeshua with a special heart for the Jewish people. Find answers about Yeshua, the Bible, and our mission.',
       'header.keywords': 'Yeshua, Jesus, Messiah, Jewish, gospel, ministry, Bible, evangelism',
       'header.ogTitle': 'Humbleberger Ministries - Proclaiming the Gospel of Yeshua',
-      'header.ogDescription': 'Proclaiming the gospel of Yeshua (Jesus) with a special heart for the Jewish people.',
+      'header.ogDescription': 'Proclaiming the gospel of Yeshua with a special heart for the Jewish people.',
       'header.twitterTitle': 'Humbleberger Ministries - Proclaiming the Gospel of Yeshua',
-      'header.twitterDescription': 'Proclaiming the gospel of Yeshua (Jesus) with a special heart for the Jewish people.',
-      'header.structuredDataDescription': 'Proclaiming the gospel of Yeshua (Jesus) with a special heart for the Jewish people.',
+      'header.twitterDescription': 'Proclaiming the gospel of Yeshua with a special heart for the Jewish people.',
+      'header.structuredDataDescription': 'Proclaiming the gospel of Yeshua with a special heart for the Jewish people.',
       'header.statementOfFaith': 'Statement of Faith',
       'header.statementOnAntisemitism': 'Statement on Anti-Semitism',
       'header.countingTheCost': 'Counting the Cost',
@@ -30,7 +30,7 @@ const resources = {
       
       // Home Page
       'home.about.title': 'About the Mission',
-      'home.about.welcome': 'Welcome to Humbleberger Ministries – where we proclaim the gospel of Yeshua (Jesus) with a special heart for the Jewish people. Our mission is rooted in Romans 1:16: "For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek."',
+      'home.about.welcome': 'Welcome to Humbleberger Ministries – where we proclaim the gospel of Yeshua with a special heart for the Jewish people. Our mission is rooted in Romans 1:16: "For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek."',
       'home.about.description': 'Through discipleship, street outreach, and digital tools, we\'re equipping believers to reach those searching for truth with love and truth. Got questions? You can chat with us or find a Bible-believing church near you.',
       'home.cta.whoIsYeshua': 'Who is Yeshua?',
       'home.cta.encounteringMessiah': 'Encountering Messiah',
@@ -73,7 +73,7 @@ const resources = {
       
       // Mission
       'mission.title': 'Our Mission',
-      'mission.description': 'At Humbleberger Ministries, we are passionate about sharing the gospel of Yeshua (Jesus) with everyone, with a special heart for the Jewish people.',
+      'mission.description': 'At Humbleberger Ministries, we are passionate about sharing the gospel of Yeshua with everyone, with a special heart for the Jewish people.',
       
       // Footer/Copyright
       'copyright.text': '© 2025 Humbleberger Ministries. All rights reserved.',
@@ -315,24 +315,24 @@ const resources = {
       
       // Anti-Semitism Page
       'antiSemitism.title': 'Statement on Antisemitism - Humbleberger Ministries',
-      'antiSemitism.description': 'Humbleberger Ministries\' statement on antisemitism and our commitment to biblical truth and love for the Jewish people.',
       'antiSemitism.heading': 'Statement on Antisemitism, Jewish Identity, and Gospel Love',
-      'antiSemitism.intro': 'As a ministry founded upon the gospel of Jesus Christ and committed to the salvation of the Jewish people and the nations, Humbleberger Ministries stands firmly and unequivocally against all forms of antisemitism, both past and present, whether political, cultural, social, or theological.',
+      'antiSemitism.description': 'Humbleberger Ministries\' statement on antisemitism and our commitment to biblical truth and love for the Jewish people.',
+      'antiSemitism.intro': 'As a ministry founded upon the gospel of Messiah Yeshua and committed to the salvation of the Jewish people and the nations, Humbleberger Ministries stands firmly and unequivocally against all forms of antisemitism, both past and present, whether political, cultural, social, or theological.',
       
       'antiSemitism.section1.title': 'I. A Posture of Love and Respect',
-      'antiSemitism.section1.content': 'Humbleberger Ministries is deeply committed to honoring the Jewish people as beloved in God\'s redemptive history and heritage. We grieve the ways Jewish communities have suffered throughout history, including injustices carried out in the name of Christianity. As followers of Jesus, we are called to walk in humility and love — not only in doctrine, but in how we carry and communicate the gospel.',
+      'antiSemitism.section1.content': 'Humbleberger Ministries is deeply committed to honoring the Jewish people as beloved in God’s redemptive history and heritage. We grieve the ways Jewish communities have suffered throughout history, including injustices carried out in the name of Christianity. As followers of Yeshua, we are called to walk in humility and love — not only in doctrine, but in how we carry and communicate the gospel.',
       
       'antiSemitism.section2.title': 'II. Honoring the Jewish People and Their Calling',
-      'antiSemitism.section2.content': 'We recognize and rejoice in the unique role of the Jewish people in God\'s redemptive plan. The covenants, the promises, the patriarchs, the prophets, and ultimately the Messiah have come through them (Romans 9:4–5). We do not seek to erase Jewish identity or heritage, but to affirm its deep significance — believing that its fullest expression is found in Yeshua, the Messiah promised in the Hebrew Scriptures.',
+      'antiSemitism.section2.content': 'We recognize and rejoice in the unique role of the Jewish people in God’s redemptive plan. The covenants, the promises, the patriarchs, the prophets, and ultimately the Messiah have come through them (Romans 9:4–5). We do not seek to erase Jewish identity or heritage, but to affirm its deep significance — believing that its fullest expression is found in Yeshua, the Messiah promised in the Hebrew Scriptures.',
       
       'antiSemitism.section3.title': 'III. A Ministry of Invitation, Not Coercion',
-      'antiSemitism.section3.content': 'We believe that Jesus is the Messiah of Israel and Savior of the world. With deep respect, we seek to share this good news with Jewish people not through pressure or argument, but through Scripture, prayer, relationship, and testimony — always grounded in love and reverence.',
+      'antiSemitism.section3.content': 'We believe that Yeshua is the Messiah of Israel and Savior of the world. With deep respect, we seek to share this good news with Jewish people not through pressure or argument, but through Scripture, prayer, relationship, and testimony — always grounded in love and reverence.',
       
       'antiSemitism.section4.title': 'IV. A Commitment to Reconciliation and Integrity',
-      'antiSemitism.section4.content': 'We acknowledge the Church\'s need to walk humbly before the Jewish people, recognizing past failures and seeking to be a bridge, not a barrier. We stand against every form of antisemitism — not simply as a historical evil, but as something contrary to the heart of God.',
+      'antiSemitism.section4.content': 'We acknowledge the Church’s need to walk humbly before the Jewish people, recognizing past failures and seeking to be a bridge, not a barrier. We stand against every form of antisemitism — not simply as a historical evil, but as something contrary to the heart of God.',
       
       'antiSemitism.section5.title': 'V. Our Heart for the Jewish People',
-      'antiSemitism.section5.content': 'Our desire is not to win arguments but to share hope. We long for Jewish people everywhere to encounter the Messiah foretold in their own Scriptures — the One who fulfills the law and the prophets, brings peace with God, and invites all people, Jew and Gentile, into one redeemed family in Christ.',
+      'antiSemitism.section5.content': 'Our desire is not to win arguments but to share hope. We long for Jewish people everywhere to encounter the Messiah foretold in their own Scriptures — the One who fulfills the law and the prophets, brings peace with God, and invites all people, Jew and Gentile, into one redeemed family in Messiah Yeshua.',
       
       // Copyright Page
       'copyright.page.title': 'Copyright - Humbleberger Ministries',
@@ -389,71 +389,71 @@ const resources = {
       
       // Mission Page
       'mission.title': 'Our Mission',
-      'mission.content': 'Humbleberger Ministries exists to glorify God by proclaiming the gospel of Jesus Christ, with a focused calling to bring the good news to the Jewish people in cities like New York and Tel Aviv. Rooted in the spirit of the Apostle Paul, our mission is to evangelize, disciple, and raise up faithful preachers and teachers to plant and shepherd churches across the globe. While our primary focus is Jewish missions, we stand fully on the Great Commission, seeking to reach all the lost and serve the global Church as the Lord leads.',
+      'mission.content': 'Humbleberger Ministries exists to glorify God by proclaiming the gospel of Yeshua the Messiah, with a focused calling to bring the good news to the Jewish people in the cities of New York and Tel Aviv. Rooted in the spirit of the Apostle Paul, our mission is to evangelize, disciple, and raise up faithful preachers and teachers to plant and shepherd churches across the globe. While our primary focus is Jewish missions, we stand fully on the Great Commission, seeking to reach all the lost and serve the global Church as the Lord leads.',
       
       // Statement of Faith Page
       'statement.title': 'Statement of Faith',
       'statement.description': 'These are the biblical principles and theological beliefs that guide our ministry.',
       
-      'statement.item1.title': '1. Authority and Unity of Scripture',
-      'statement.item1.content': 'We believe that all Scripture - both Old and New Testaments - is the inspired, inerrant, and infallible Word of God. It is the final and sufficient authority in all matters of faith, doctrine, and practice. The Hebrew Scriptures are foundational and point directly to the Messiah, Yeshua the Messiah.',
+      'statement.item1.title': '1. The Authority and Unity of Scripture',
+      'statement.item1.content': 'We believe that the entire Bible — both the Old and New Testaments — is the inspired, inerrant, and infallible Word of God. It is the final and sufficient authority in all matters of faith, doctrine, and practice. The Hebrew Scriptures are foundational and point directly to Yeshua the Messiah.',
       
       'statement.item2.title': '2. The Triune God',
-      'statement.item2.content': 'We believe in one God, eternally existing in three persons: Father, Son, and Holy Spirit. Each is fully God, equal in glory, power, and essence, yet distinct in role and relationship.',
+      'statement.item2.content': 'We believe in one God, eternally existing in three Persons: Father, Son, and Holy Spirit. Each is fully God, equal in glory, power, and essence, yet distinct in role and relation.',
       
-      'statement.item3.title': '3. Person and Work of Christ',
+      'statement.item3.title': '3. The Person and Work of Messiah',
       'statement.item3.content': 'Yeshua the Messiah, fully God and fully man, was conceived by the Holy Spirit and born of a virgin. He lived a sinless life, died a substitutionary death on the cross, rose bodily from the dead, and now reigns at the right hand of the Father. Salvation is found in Him alone.',
       
       'statement.item4.title': '4. Salvation by Grace Through Faith',
-      'statement.item4.content': 'Salvation is by grace alone, through faith alone, in Christ alone. This includes regeneration, justification, sanctification, and glorification. It is a free gift from God and cannot be earned by works or human effort.',
+      'statement.item4.content': 'Salvation is by grace alone, through faith alone, in Messiah alone. This includes regeneration, justification, sanctification, and glorification. It is the free gift of God and cannot be earned by works or human effort.',
       
       'statement.item5.title': '5. Believer\'s Baptism by Immersion',
-      'statement.item5.content': 'We believe baptism is for believers only, as a public declaration of faith and obedience to Christ. It is done by immersion in water, symbolizing the believer\'s union with Christ in His death, burial, and resurrection. It does not save but is commanded by Yeshua for all who follow Him.',
+      'statement.item5.content': 'We believe baptism is for believers only, as a public profession of faith and obedience to Messiah. It is by immersion, symbolizing the believer’s union with Messiah in His death, burial, and resurrection. It is not salvific but is commanded by Yeshua for all who follow Him.',
       
       'statement.item6.title': '6. The Church',
-      'statement.item6.content': 'The church consists of all true believers in Christ. The local church is an autonomous body of baptized believers committed to worship, fellowship, teaching, ordinances, and mission. Christ is the head of the church.',
+      'statement.item6.content': 'The Church consists of all true believers in Messiah. The local church is an autonomous body of baptized believers committed to worship, fellowship, teaching, the ordinances, and mission. Messiah Yeshua is the head of the Church.',
       
       'statement.item7.title': '7. Spiritual Gifts',
-      'statement.item7.content': 'We affirm the ongoing presence and operation of spiritual gifts within the church as described in the New Testament. We believe these gifts should be exercised in a spirit of humility, under the authority of Scripture, and in accordance with the order and purpose taught in the New Testament.',
+      'statement.item7.content': 'We affirm the continuing presence and operation of spiritual gifts within the Church, as described in the New Testament. We believe these gifts are to be exercised in a spirit of humility, under the authority of Scripture, and in accordance with the order and purpose taught in the New Testament.',
       
-      'statement.item8.title': '8. Holy Spirit Guidance and Personal Experience',
-      'statement.item8.content': 'We affirm the supreme authority of Scripture while also recognizing the Holy Spirit\'s ongoing personal guidance. Spirit-led experience is sacred and legitimate when it submits to Scripture, is tested by wisdom, and is practiced in community.',
+      'statement.item8.title': '8. The Guidance of the Holy Spirit and Personal Experience',
+      'statement.item8.content': 'We affirm the authority of Scripture as supreme yet also recognize the Holy Spirit’s ongoing personal guidance. Spirit-led experience is sacred and legitimate when submitted to Scripture, discerned with wisdom, and practiced in community.',
       
       'statement.item9.title': '9. Biblical Anthropology: Gender and Identity',
-      'statement.item9.content': 'We affirm that all people are created by God in His image with inherent dignity and worth. We believe God intentionally created humanity as male and female, both equal in value and distinct in role. We affirm that marriage is a sacred covenant between one man and one woman, designed by God for human flourishing. We uphold the sanctity of life from conception to natural death, trusting in God\'s good design for human identity and purpose.',
+      'statement.item9.content': 'We affirm that all people are created by God in His image with inherent dignity and worth. We believe that God intentionally created humanity as male and female, and that both are equal in value and distinct in role. We affirm that marriage is a sacred covenant between one man and one woman, designed by God for human flourishing. We uphold the sanctity of life from conception to natural death, trusting in God’s good design for human identity and purpose.',
       
       'statement.item10.title': '10. Doctrine of Humanity and Transhumanism',
-      'statement.item10.content': 'We affirm that humanity, created in the image of God, is a sacred and purposeful design. We believe attempts to alter or enhance human nature through technological, genetic, or artificial means oppose God\'s intent for human identity and dignity. We affirm that human worth is not found in artificial enhancements, but in being fearfully and wonderfully made by our Creator.',
+      'statement.item10.content': 'We affirm that humanity, created in the image of God, is a sacred and purposeful design. We believe that attempts to alter or enhance human nature through technological, genetic, or artificial means oppose God\'s intention for human identity and dignity. We affirm that human value is not found in artificial enhancements, but in being fearfully and wonderfully made by our Creator.',
       
-      'statement.item11.title': '11. God\'s Redemptive Plan and Jewish Evangelism Hope',
-      'statement.item11.content': 'We believe God\'s salvation plan, revealed throughout all Scripture, has always been by grace through faith - and fulfilled in Yeshua, the Messiah. In Christ, God draws both Jews and Gentiles into one redeemed people, united by the Spirit and anchored in New Covenant promises. Out of honoring the gospel\'s "to the Jew first" priority (Romans 1:16), we embrace a special calling to lovingly share the good news of Yeshua with Jewish people worldwide, inviting them to receive the Messiah prophesied in their Scriptures.',
+      'statement.item11.title': '11. God’s Redemptive Plan and the Hope of Jewish Evangelism',
+      'statement.item11.content': 'We believe that God’s plan of salvation, revealed throughout the Scriptures, has always been by grace through faith — and is fulfilled in Yeshua, the Messiah. In Messiah, God is drawing both Jews and Gentiles into one redeemed people, united by the Spirit and anchored in the promises of the New Covenant. Honoring the priority of the gospel “to the Jew first” (Romans 1:16), we embrace a particular calling to lovingly share the good news of Yeshua with Jewish people around the world, inviting them to receive the Messiah foretold in their own Scriptures.',
       
-      'statement.item12.title': '12. Love for the Jewish People and Fulfillment of God\'s Promise',
-      'statement.item12.content': 'We affirm God\'s eternal covenant love for the Jewish people and recognize the rich spiritual heritage given through them - the patriarchs, prophets, Scriptures, and ultimately the Messiah. We honor Jewish identity as part of God\'s redemptive plan and believe the promises of the Hebrew Scriptures find their fulfillment in Yeshua, the Messiah of Israel. In this faith, we approach the Jewish people not with pressure or coercion, but with humility, gratitude, and hope - longing to share the good news of Yeshua with deep compassion and respect.',
+      'statement.item12.title': '12. Love for the Jewish People and the Fulfillment of God’s Promise',
+      'statement.item12.content': 'We affirm God’s enduring covenantal love for the Jewish people and recognize the rich spiritual heritage given through them — the patriarchs, the prophets, the Scriptures, and ultimately the Messiah. We honor Jewish identity as part of God’s redemptive plan and believe that the promises of the Hebrew Scriptures find their fulfillment in Yeshua, the Messiah of Israel. In this conviction, we approach Jewish people not with pressure or coercion, but with humility, gratitude, and hope — longing to share the good news of Yeshua with compassion and deep respect.',
       
       'statement.item13.title': '13. Non-Political Affiliation',
-      'statement.item13.content': 'We as an organization are non-political in nature. We do not promote any political party or ideology. Our citizenship is in heaven, and our mission is spiritual: to proclaim the gospel and advance the kingdom of Christ.',
+      'statement.item13.content': 'We as an organization are not political in nature. We do not promote any party or ideology. Our citizenship is in heaven, and our mission is spiritual: to proclaim the gospel and advance the kingdom of Messiah.',
       
       'statement.item14.title': '14. Spiritual Warfare',
       'statement.item14.content': 'We affirm the reality of spiritual warfare. The gospel is proclaimed in contested territory. We are equipped with the full armor of God and empowered by the Spirit to resist the enemy and advance the gospel in power and truth.',
       
       'statement.item15.title': '15. The Great Commission and Global Missions',
-      'statement.item15.content': 'We exist to make disciples of all nations, and especially of the Jewish people. We proclaim the gospel, plant churches, disciple believers, and establish leaders. We affirm Christ\'s command to go to all the world until every people group has heard. We follow the biblical pattern of gospel spread from Jerusalem to Judea, to Samaria, and to the ends of the earth (Acts 1:8), laboring first for the Jewish people and then for the nations. Our evangelism is grounded in Scripture, both Old and New Testaments.',
+      'statement.item15.content': 'We exist to make disciples of all nations, especially the Jewish people. We proclaim the gospel, plant churches, disciple believers, and raise up leaders. We affirm Messiah’s command to go into all the world until every people hears. We follow the biblical pattern of gospel expansion from Jerusalem to Judea, Samaria, and the ends of the earth (Acts 1:8), laboring first for the Jewish people and then for the nations. Our evangelism is grounded in Scripture, both Old and New Testaments.',
       
       'statement.item16.title': '16. Truth and Exclusivity of the Gospel',
-      'statement.item16.content': 'We affirm that Yeshua is the only way to God, and that salvation is found in Him alone. We affirm the absolute truth and authority of God\'s Word across all generations. While we communicate with diverse cultures in humility and compassion, we hold to the exclusive truth of the gospel without compromise.',
+      'statement.item16.content': 'We affirm that Yeshua is the only way to God, and that salvation is found in Him alone. We affirm the absolute truth and authority of God’s Word in all generations. While we engage diverse cultures with humility and compassion, we hold fast to the exclusive truth of the gospel without compromise.',
       
-      'statement.item17.title': '17. Church Witness in a Secular World',
-      'statement.item17.content': 'We affirm the existence of a personal, holy, and sovereign God who created and sustains all things. We affirm that true knowledge and wisdom begin with the fear of the Lord, and that any worldview that denies God\'s existence is ultimately incomplete and spiritually bankrupt.',
+      'statement.item17.title': '17. The Witness of the Church in a Secular World',
+      'statement.item17.content': 'We affirm the existence of a personal, holy, and sovereign God, who created and sustains all things. We affirm that true knowledge and wisdom begin with the fear of the Lord, and that any worldview which denies God\'s existence is ultimately incomplete and spiritually bankrupt.',
       
-      'statement.item18.title': '18. Sanctity of Life',
-      'statement.item18.content': 'We affirm the sanctity of all human life from conception to natural death. Every person bears the image of God and deserves respect and protection. We affirm that all people, regardless of ability, age, or social status, are fearfully and wonderfully made.',
+      'statement.item18.title': '18. The Sanctity of Life',
+      'statement.item18.content': 'We affirm the sanctity of all human life from conception to natural death. Every person bears the image of God and deserves dignity and protection. We affirm that all people, regardless of ability, age, or social status, are fearfully and wonderfully made.',
       
-      'statement.item19.title': '19. Unity in Essentials, Liberty in Non-Essentials',
-      'statement.item19.content': 'We do not divide over secondary issues. We respect diverse views on creation, eschatology, spiritual gifts, and theological systems like Reformed theology. However, we do not affirm classical dispensationalism, as we believe God has one people in Christ. We strive for unity in the gospel and grace in all things, provided these positions uphold the inerrancy and authority of Scripture. We affirm, for example, the historical reality of Adam and Eve, as Yeshua Himself spoke of them as real persons (Matthew 19:4-6).',
+      'statement.item19.title': '19. Unity in the Essentials, Liberty in the Non-Essentials',
+      'statement.item19.content': 'We do not divide over secondary issues. We respect diverse views on creation, eschatology, spiritual gifts, and theological systems such as Reformed theology. However, we do not affirm classical dispensationalism, as we believe God has one people in Messiah Yeshua. We strive for unity in the gospel and charity in all things, provided that these positions uphold the inerrancy and authority of Scripture. We affirm, for example, the historical reality of Adam and Eve, as Yeshua Himself spoke of them as literal persons (Matthew 19:4–6).',
       
       'statement.item20.title': '20. Final Affirmation',
-      'statement.item20.content': 'We believe that Scripture alone is the supreme authority, that salvation is by grace alone through faith alone in Christ alone, for the glory of God alone.',
+      'statement.item20.content': 'We affirm these doctrines not as a cold creed but as a living confession — a call to proclaim Messiah to all people, especially to the Jewish people, with clarity, compassion, and boldness. We pledge to hold fast to the truth, preach the Word in season and out, and go wherever the Lord leads — from New York to Tel Aviv — until every knee bows and every tongue confesses that Yeshua the Messiah is Lord, to the glory of God the Father. Amen.',
       
       // Terms of Use Page
       'terms.title': 'Terms of Use',
@@ -504,20 +504,20 @@ const resources = {
   he: {
     translation: {
       // Header
-      'header.title': 'שירותי האמבלברגר - מכריזים את הבשורה של ישוע',
-      'header.description': 'מכריזים את הבשורה של ישוע (ישו) עם לב מיוחד לעם היהודי. מצאו תשובות לגבי ישוע, התנ"ך והמשימה שלנו.',
-      'header.keywords': 'ישוע, ישו, משיח, יהודי, בשורה, משרד, תנ"ך, אוונגליזם',
-      'header.ogTitle': 'שירותי האמבלברגר - מכריזים את הבשורה של ישוע',
-      'header.ogDescription': 'מכריזים את הבשורה של ישוע (ישו) עם לב מיוחד לעם היהודי.',
-      'header.twitterTitle': 'שירותי האמבלברגר - מכריזים את הבשורה של ישוע',
-      'header.twitterDescription': 'מכריזים את הבשורה של ישוע (ישו) עם לב מיוחד לעם היהודי.',
-      'header.structuredDataDescription': 'מכריזים את הבשורה של ישוע (ישו) עם לב מיוחד לעם היהודי.',
+      'header.title': 'שירות האמבלברגר — מכריזים את בשורת ישוע המשיח',
+      'header.description': 'מבשרים את הבשורה של ישוע באהבה מיוחדת לעם היהודי. בואו למצוא תשובות על ישוע, על התנ"ך ועל השליחות שלנו.',
+      'header.keywords': 'ישוע, Jesus, המשיח, Messiah, יהודי, Jewish, הבשורה, Gospel, שירות, Ministry, תנ"ך, Bible, בישור, Evangelism, אמונה, Faith, גאולה, Salvation, נבואות המשיח, Messianic Prophecy, הברית החדשה, New Testament, משיחיות, Messianic Judaism',
+      'header.ogTitle': 'שירות האמבלברגר — מכריזים את בשורת ישוע המשיח',
+      'header.ogDescription': 'מבשרים את בשורת ישוע עם אהבה מיוחדת לעם ישראל.',
+      'header.twitterTitle': 'שירות האמבלברגר — מכריזים את בשורת ישוע המשיח',
+      'header.twitterDescription': 'מבשרים את בשורת ישוע עם אהבה מיוחדת לעם ישראל.',
+      'header.structuredDataDescription': 'מבשרים את בשורת ישוע עם אהבה מיוחדת לעם ישראל.',
       'header.statementOfFaith': 'הצהרת אמונה',
       'header.statementOnAntisemitism': 'הצהרה נגד אנטישמיות',
-      'header.countingTheCost': 'ספירת העלות',
-      'header.donate': 'תרמו',
-      'header.copyright': '© 2025 שירותי האמבלברגר. כל הזכויות שמורות.',
-      'header.mission': 'המשימה',
+      'header.countingTheCost': 'ספירת המחיר',
+      'header.donate': 'תרום',
+      'header.copyright': '© 2025 שירות האמבלברגר. כל הזכויות שמורות.',
+      'header.mission': 'שליחות',
       'header.blog': 'בלוג',
       'header.contact': 'צור קשר',
       'header.home': 'בית',
@@ -528,25 +528,25 @@ const resources = {
       'language.hebrew': 'עברית',
       
       // Home Page
-      'home.about.title': 'אודות המשימה',
-      'home.about.welcome': 'ברוכים הבאים לשירותי האמבלברגר – שם אנו מכריזים את הבשורה של ישוע עם לב מיוחד לעם היהודי. המשימה שלנו מושרשת ברומים א:טז: "כי אינני בוש בבשורה, כי היא כוח אלוהים לישועה לכל המאמין, ליהודי בראשונה וגם ליווני."',
-      'home.about.description': 'דרך תלמידות, פעילות רחוב וכלים דיגיטליים, אנו מכשירים מאמינים להגיע לאלה המחפשים אמת באהבה ובאמת. יש לכם שאלות? אתם יכולים לצ\'וטט איתנו או למצוא כנסייה מאמינה בקרבת מקום.',
+      'home.about.title': 'על השליחות',
+      'home.about.welcome': 'ברוכים הבאים לשירות האמבלברגר – כאן אנו מכריזים את בשורת ישוע עם לב מיוחד לעם היהודי. השליחות שלנו מושרשת ברומים א׳:16: "כי אינני בוש בבשורה, שכן היא כוח אלוהים להושיע לכל המאמין, ליהודי בראשונה וגם ליווני."',
+      'home.about.description': 'באמצעות תלמידות, פעילות רחוב וכלים דיגיטליים, אנו מציידים מאמינים להגיע למחפשי האמת באהבה ובאמת.',
       'home.cta.whoIsYeshua': 'מי הוא ישוע?',
-      'home.cta.encounteringMessiah': 'פגישה עם המשיח',
-      'home.connect.title': 'התחברו אלינו',
-      'home.connect.subtitle': '🤔 סקרנים לגבי ישוע או התנ"ך? נשמח לצ\'וטט איתכם!',
-      'home.connect.chat': '💬 צ\'וטטו איתנו',
+      'home.cta.encounteringMessiah': 'מפגש עם המשיח',
+      'home.connect.title': 'התחברו איתנו',
+      'home.connect.subtitle': '🤔 סקרנים לגבי ישוע או התנ"ך? נשמח לשוחח אתכם.',
+      'home.connect.chat': '💬 דברו איתנו',
       'home.connect.blog': '🌐 קראו את הבלוג שלנו',
-      'home.connect.bible': '📖 קראו את התנ"ך',
+      'home.connect.bible': '📖 קראו את הברית החדשה בעברית',
       'home.connect.synagogue': '📍 מצאו בית כנסת מקומי',
-      'home.connect.newsletter': '📰 קבלו את הניוזלטר שלנו',
+      'home.connect.newsletter': '📰 קבלו את העלון שלנו',
       'home.connect.contact': '📬 צרו קשר',
-      'home.connect.follow': '𝕏 עקבו אחרינו ב-X',
+      'home.connect.follow': '𝕏 עקבו אחרינו בטוויטר',
       'home.connect.donate': '❤️ תרמו',
       
       // Blog
       'blog.title': 'פוסטים בבלוג',
-      'blog.readMore': 'קרא עוד',
+      'blog.readMore': 'קראו עוד',
       'blog.backToBlog': '← חזרה לבלוג',
       'blog.backToHome': '← חזרה לבית',
       'blog.page': 'עמוד',
@@ -554,49 +554,49 @@ const resources = {
       'blog.previous': 'הקודם',
       'blog.next': 'הבא',
       'blog.noPosts': 'לא נמצאו פוסטים בבלוג.',
-      'blog.rssTitle': 'הירשמו ל-RSS Feed',
+      'blog.rssTitle': 'הירשמו להזנת RSS',
       
       // Contact
       'contact.title': 'צרו קשר',
-      'contact.description': 'יש לכם שאלות לגבי ישוע, התנ"ך או המשרד שלנו? נשמח לשמוע מכם!',
+      'contact.description': 'יש לכם שאלות על ישוע, על התנ"ך או על השירות שלנו? נשמח לשמוע מכם!',
       'contact.name': 'שם',
       'contact.email': 'אימייל',
       'contact.message': 'הודעה',
       'contact.send': 'שלח הודעה',
       'contact.sending': 'שולח...',
       'contact.success.title': 'ההודעה נשלחה!',
-      'contact.success.message': 'תודה על ההודעה שלכם! נחזור אליכם בקרוב.',
+      'contact.success.message': 'תודה על ההודעה! נחזור אליכם בקרוב.',
       'contact.success.back': '← חזרה לבית',
       'contact.error.submit': 'אירעה שגיאה בשליחת הטופס. אנא נסו שוב.',
       'contact.error.unexpected': 'אירעה שגיאה בלתי צפויה. אנא נסו שוב מאוחר יותר.',
       
       // Mission
-      'mission.title': 'המשימה שלנו',
-      'mission.description': 'בשירותי האמבלברגר, אנו נלהבים לחלוק את הבשורה של ישוע עם כולם, עם לב מיוחד לעם היהודי.',
+      'mission.title': 'השליחות שלנו',
+      'mission.description': 'בשירות האמבלברגר אנו מלאי תשוקה לשתף את בשורת ישוע עם כולם, עם לב מיוחד לעם היהודי.',
       
       // Footer/Copyright
-      'copyright.text': '© 2025 שירותי האמבלברגר. כל הזכויות שמורות.',
+      'copyright.text': '© 2025 שירות האמבלברגר. כל הזכויות שמורות.',
       'copyright.privacy': 'מדיניות פרטיות',
       'copyright.terms': 'תנאי שימוש',
       'copyright.statement': 'הצהרת אמונה',
-      'copyright.legal': 'שירותי האמבלברגר רשומים כחוק במדינת צפון קרוליינה וברשות המיסים של ארצות הברית כארגון ללא מטרות רווח. כל התרומות מוכרות לצורכי מס.',
+      'copyright.legal': 'שירות האמבלברגר רשום כחוק בארצות הברית כארגון ללא מטרות רווח. כל התרומות מוכרות לצורכי מס לפי החוק האמריקאי.',
       
       // Cookie Banner
-      'cookies.message': 'אנו משתמשים בעוגיות כדי לשפר את החוויה שלכם. בהמשך הביקור באתר זה אתם מסכימים לשימוש שלנו בעוגיות.',
-      'cookies.accept': 'קבל',
+      'cookies.message': 'אנו משתמשים בעוגיות כדי לשפר את חוויית השימוש שלך. בהמשך השימוש באתר, הנך מסכים לשימוש בעוגיות.',
+      'cookies.accept': 'אישור',
       'cookies.learnMore': 'למידע נוסף',
       
       // Site Banner
-      'banner.message': '🎉 חדש: הגרסה העברית של האתר שלנו זמינה כעת!',
-      'banner.link': 'צפה באתר העברי',
-      'banner.logoAlt': 'לוגו שירותי האמבלברגר',
-      'banner.jewishEvangelism': 'אוונגליזם יהודי.',
+      'banner.message': '🎉 חדש: הגרסה העברית של האתר זמינה כעת!',
+      'banner.link': 'צפו באתר בעברית',
+      'banner.logoAlt': 'הלוגו של שירות האמבלברגר',
+      'banner.jewishEvangelism': 'בישור בקרב יהודים.',
       'banner.gospelProclamation': 'הכרזת הבשורה.',
-      'banner.messiahCentered': 'משימה ממוקדת משיח.',
-      'banner.ministryReference': '– משרד ירמיהו כ:ט –',
+      'banner.messiahCentered': 'שליחות ממוקדת במשיח.',
+      'banner.ministryReference': '– ירמיהו 20:9 –',
       
       // Search
-      'search.placeholder': 'חפש פוסטים בבלוג...',
+      'search.placeholder': 'חיפוש בפוסטים בבלוג...',
       'search.noResults': 'לא נמצאו תוצאות.',
       'search.clear': 'נקה חיפוש',
       'search.loading': 'טוען...',
@@ -606,146 +606,146 @@ const resources = {
       'pagination.next': 'הבא',
       'pagination.page': 'עמוד',
       'pagination.of': 'מתוך',
-      'pagination.ariaLabel': 'ניווט פוסטים בבלוג',
-      'pagination.prevAria': 'עמוד קודם',
-      'pagination.nextAria': 'עמוד הבא',
+      'pagination.ariaLabel': 'ניווט דפים של פוסטים בבלוג',
+      'pagination.prevAria': 'העמוד הקודם',
+      'pagination.nextAria': 'העמוד הבא',
       
       // Legal Pages
       'legal.privacy.title': 'מדיניות פרטיות',
       'legal.terms.title': 'תנאי שימוש',
       'legal.statement.title': 'הצהרת אמונה',
       'legal.antiSemitism.title': 'הצהרה נגד אנטישמיות',
-      'legal.privacy.description': 'מדיניות הפרטיות של אתר שירותי האמבלברגר.',
-      'legal.terms.description': 'תנאי השימוש של אתר שירותי האמבלברגר.',
-      'legal.statement.description': 'הצהרת האמונה והאמונות הליבה של שירותי האמבלברגר.',
-      'legal.antiSemitism.description': 'הצהרת שירותי האמבלברגר על אנטישמיות ומחויבותנו לאמת המקראית ולאהבת העם היהודי.',
-      'legal.copyright.description': 'מידע על זכויות יוצרים עבור שירותי האמבלברגר.',
+      'legal.privacy.description': 'מדיניות פרטיות עבור אתר שירות האמבלברגר.',
+      'legal.terms.description': 'תנאי שימוש עבור אתר שירות האמבלברגר.',
+      'legal.statement.description': 'הצהרת אמונה ואמונות היסוד של שירות האמבלברגר.',
+      'legal.antiSemitism.description': 'הצהרת שירות האמבלברגר נגד אנטישמיות והמחויבות שלנו לאמת מקראית ולאהבה לעם היהודי.',
+      'legal.copyright.description': 'מידע על זכויות היוצרים של שירות האמבלברגר.',
       
       // Privacy Policy Page
       'privacy.title': 'מדיניות פרטיות',
       'privacy.lastUpdated': 'עודכן לאחרונה: 18 באפריל 2025',
-      'privacy.intro': 'במשרדי האמבלברגר, אנו מחויבים להגן על פרטיותך ולהבטיח את אבטחת המידע האישי שלך. מדיניות פרטיות זו מתארת כיצד אנו אוספים, משתמשים ושומרים על המידע שאתה מספק בעת השימוש באתר ובשירותים שלנו.',
+      'privacy.intro': 'בשירות האמבלברגר אנו מחויבים לשמירה על פרטיותך ולהבטחת אבטחת המידע האישי שלך. מדיניות פרטיות זו מתארת כיצד אנו אוספים, משתמשים ושומרים על המידע שאתה מספק בעת השימוש באתר ובשירותים שלנו.',
       
       'privacy.collect.title': 'המידע שאנו אוספים',
-      'privacy.collect.content': 'אנו עשויים לאסוף מידע אישי כגון שמך, כתובת הדואר האלקטרוני שלך ומיקומך כאשר אתה מוסר מידע זה מרצונך דרך אתר האינטרנט שלנו, למשל בעת הרשמה לניוזלטר שלנו או יצירת קשר עמנו. בנוסף, אנו אוספים באופן אוטומטי מידע מסוים על מכשירך, כולל כתובת ה-IP שלך, סוג הדפדפן ומערכת ההפעלה.',
+      'privacy.collect.content': 'אנו עשויים לאסוף מידע אישי כגון שמך, כתובת האימייל והמיקום שלך כאשר אתה מוסר מידע זה מרצונך באתר, למשל בעת הרשמה לעלון שלנו או יצירת קשר איתנו. בנוסף, אנו אוספים באופן אוטומטי מידע מסוים על המכשיר שלך, כולל כתובת ה-IP, סוג הדפדפן ומערכת ההפעלה.',
       
       'privacy.use.title': 'כיצד אנו משתמשים במידע שלך',
-      'privacy.use.intro': 'אנו משתמשים במידע שאנו אוספים כדי:',
-      'privacy.use.item1': 'להשיב לפניותיך ולספק לך מידע על שירותנו',
-      'privacy.use.item2': 'לשלוח לך את הניוזלטר שלנו ועדכונים על פעילויותינו (כמתך)',
-      'privacy.use.item3': 'לשפר את האתר והשירותים שלנו',
-      'privacy.use.item4': 'למלא כל מטרה ספציפית שלשמה סיפקת את המידע',
+      'privacy.use.intro': 'אנו משתמשים במידע שאנו אוספים לצורך:',
+      'privacy.use.item1': 'מענה לפניותיך וסיפוק מידע על השירות שלנו',
+      'privacy.use.item2': 'שליחת עלון ועדכונים על הפעילויות שלנו (בכפוף להסכמתך)',
+      'privacy.use.item3': 'שיפור האתר והשירותים שלנו',
+      'privacy.use.item4': 'מילוי כל מטרה ספציפית שלשמה מסרת את המידע',
       
-      'privacy.cookies.title': 'עוגיות וטכנולוגיות מעקב',
-      'privacy.cookies.content': 'האתר שלנו משתמש בעוגיות ובטכנולוגיות מעקב דומות כדי לשפר את חווית הגלישה שלך ולאסוף מידע על אופן השימוש שלך באתר שלנו. באפשרותך לנהל את העדפות העוגיות שלך דרך הגדרות הדפדפן שלך.',
+      'privacy.cookies.title': 'קובצי Cookie וטכנולוגיות מעקב',
+      'privacy.cookies.content': 'האתר שלנו משתמש בקובצי Cookie ובטכנולוגיות מעקב דומות כדי לשפר את חוויית הגלישה שלך ולאסוף מידע על השימוש שלך באתר. באפשרותך לנהל את העדפות ה-Cookie שלך דרך הגדרות הדפדפן.',
       
-      'privacy.thirdParty.title': 'ספקי שירות של צד שלישי',
-      'privacy.thirdParty.content': 'אנו עשויים לחלוק את המידע שלך עם ספקי שירות מהימנים של צד שלישי המסייעים לנו בתפעול האתר שלנו, בניהול שירותנו או במתן שירות לך. צדדים שלישיים אלה מחויבים לשמור על סודיות המידע שלך.',
+      'privacy.thirdParty.title': 'ספקי שירות חיצוניים',
+      'privacy.thirdParty.content': 'אנו עשויים לשתף את המידע שלך עם ספקי שירות חיצוניים מהימנים המסייעים לנו בהפעלת האתר, בניהול השירות או במתן שירות עבורך. צדדים שלישיים אלה מחויבים לשמור על סודיות המידע שלך.',
       
-      'privacy.rights.title': 'זכויותיך',
-      'privacy.rights.intro': 'יש לך את הזכות:',
-      'privacy.rights.item1': 'לגשת למידע האישי שאנו מחזיקים עליך',
+      'privacy.rights.title': 'הזכויות שלך',
+      'privacy.rights.intro': 'ברשותך הזכות:',
+      'privacy.rights.item1': 'לקבל גישה למידע האישי שאנו מחזיקים עליך',
       'privacy.rights.item2': 'לבקש תיקון של מידע לא מדויק',
       'privacy.rights.item3': 'לבקש מחיקה של המידע שלך',
-      'privacy.rights.item4': 'לבטל את הסכמתך לקבלת תקשורת מאיתנו',
+      'privacy.rights.item4': 'לבקש להפסיק קבלת תקשורת מאיתנו',
       
       'privacy.children.title': 'פרטיות ילדים',
       'privacy.children.content': 'האתר שלנו אינו מיועד לילדים מתחת לגיל 13. איננו אוספים ביודעין מידע אישי מילדים מתחת לגיל 13.',
       
       'privacy.changes.title': 'שינויים במדיניות פרטיות זו',
-      'privacy.changes.content': 'אנו עשויים לעדכן מדיניות פרטיות זו מעת לעת כדי לשקף שינויים בפרקטיקות שלנו או מסיבות תפעוליות, משפטיות או רגולטוריות אחרות. המדיניות המעודכנת תפורסם בעמוד זה עם תאריך "עודכן לאחרונה" מתוקן.',
+      'privacy.changes.content': 'אנו עשויים לעדכן מדיניות פרטיות זו מעת לעת כדי לשקף שינויים בנוהגינו או מסיבות תפעוליות, משפטיות או רגולטוריות אחרות. המדיניות המעודכנת תפורסם בדף זה עם תאריך "עודכן לאחרונה" חדש.',
       
       'privacy.contact.title': 'צור קשר',
-      'privacy.contact.content': 'אם יש לך שאלות או חששות לגבי מדיניות הפרטיות שלנו, אנא צור עמנו קשר באמצעות',
+      'privacy.contact.content': 'אם יש לך שאלות או חששות בנוגע למדיניות הפרטיות שלנו, אנא צור קשר באמצעות',
       'privacy.contact.link': 'הטופס המקוון שלנו',
       
       // Encountering Messiah Page
-      'encountering.title': 'פגישה עם המשיח: מסע ללבבות יהודיים',
-      'encountering.subtitle': 'שאלות עתיקות. מחפשים מודרניים. תקווה אחת מובטחת.',
+      'encountering.title': 'מפגש עם המשיח: מסע ללבבות יהודיים',
+      'encountering.subtitle': 'שאלות עתיקות. מחפשים בני זמננו. תקווה אחת מובטחת.',
       'encountering.comingSoon': '(בקרוב)',
       
-      'encountering.section1.title': '1. שאלות יסודיות על ישוע',
+      'encountering.section1.title': '1. שאלות יסוד על ישוע',
       'encountering.section1.subtitle': 'עובדות בסיסיות על חייו, מותו, תחייתו וזהותו',
       'encountering.section1.whoIsYeshua': 'מי הוא ישוע?',
       'encountering.section1.didYeshuaExist': 'האם ישוע באמת היה קיים?',
-      'encountering.section1.wasYeshuaSinless': 'האם ישוע היה באמת ללא חטא?',
-      'encountering.section1.wasYeshuaBornVirgin': 'האם ישוע נולד באמת מבתולה?',
-      'encountering.section1.didYeshuaDieCross': 'האם ישוע באמת מת על צלב?',
-      'encountering.section1.didYeshuaRise': 'האם ישוע באמת קם מהמתים?',
-      'encountering.section1.didYeshuaAscend': 'האם ישוע באמת עלה לשמיים?',
-      'encountering.section1.isYeshuaAlive': 'האם ישוע עדיין חי היום?',
+      'encountering.section1.wasYeshuaSinless': 'האם ישוע באמת היה ללא חטא?',
+      'encountering.section1.wasYeshuaBornVirgin': 'האם ישוע נולד באמת מהעלמה?',
+      'encountering.section1.didYeshuaDieCross': 'האם ישוע באמת מת על הצלב?',
+      'encountering.section1.didYeshuaRise': 'האם ישוע באמת קם לתחייה מהמתים?',
+      'encountering.section1.didYeshuaAscend': 'האם ישוע באמת עלה השמימה?',
+      'encountering.section1.isYeshuaAlive': 'האם ישוע חי גם היום?',
       
-      'encountering.section2.title': '2. משיחיות בתנ"ך',
-      'encountering.section2.subtitle': 'שאלות זהות וציפייה משיחית',
-      'encountering.section2.couldYeshuaBeMessiah': 'האם ישוע יכול להיות המשיח שנחזה בתנ"ך?',
+      'encountering.section2.title': '2. המשיחיות בתנ"ך',
+      'encountering.section2.subtitle': 'שאלות של זהות וציפייה משיחית',
+      'encountering.section2.couldYeshuaBeMessiah': 'האם ישוע יכול להיות המשיח שהתנ"ך ניבא עליו?',
       'encountering.section2.hasMessiahCome': 'האם ייתכן שהמשיח כבר בא?',
-      'encountering.section2.whatWillMessiahDo': 'מה אומרים כתבי הקודש העבריים שהמשיח יעשה?',
+      'encountering.section2.whatWillMessiahDo': 'מה כתבי הקודש אומרים שהמשיח יעשה?',
       'encountering.section2.whatDoesTanakhSay': 'מה אומר התנ"ך על המשיח?',
       
-      'encountering.section3.title': '3. נבואה משיחית ומימוש',
-      'encountering.section3.subtitle': 'נבואות ספציפיות ומימוש בישוע',
-      'encountering.section3.daniel9': 'מה אומר דניאל ט\' על מועד בואו של המשיח?',
+      'encountering.section3.title': '3. נבואות משיחיות והתגשמותן',
+      'encountering.section3.subtitle': 'נבואות ספציפיות והתגשמותן בישוע',
+      'encountering.section3.daniel9': 'מה אומר דניאל ט\' על מועד בוא המשיח?',
       'encountering.section3.isaiah53': 'למי או למה מתייחס ישעיהו נ"ג בתנ"ך?',
-      'encountering.section3.jeremiah31': 'מה אומר ירמיהו ל"א על \'הברית החדשה\' בתנ"ך?',
-      'encountering.section3.fulfillsNotReplaces': 'האם יש דרכים שבהן ישוע מגשים, במקום להחליף, את כתבי הקודש העבריים?',
+      'encountering.section3.jeremiah31': 'מה אומר ירמיהו ל"א על "הברית החדשה" בתנ"ך?',
+      'encountering.section3.fulfillsNotReplaces': 'האם ישוע ממלא את כתבי הקודש במקום להחליפם?',
       'encountering.section3.redemption': 'מה מלמד התנ"ך על גאולה?',
       
       'encountering.section4.title': '4. כפרה, חטא וישועה',
-      'encountering.section4.subtitle': 'איך עובדת הישועה; חטא, כפרה, חיי העולם הבא',
+      'encountering.section4.subtitle': 'כיצד פועלת הישועה: חטא, כפרה וחיי נצח',
       'encountering.section4.whatIsSin': 'מהו חטא?',
-      'encountering.section4.sacrificeRole': 'איזה תפקיד מילא הקורבן בכפרה בתורה, וכיצד מטפלים בו כיום?',
-      'encountering.section4.atonementWithoutTemple': 'איך מבינים כפרה היום ללא בית המקדש?',
-      'encountering.section4.rightRelationship': 'מה זה אומר להיות ביחסים נכונים עם אלוהים?',
+      'encountering.section4.sacrificeRole': 'מה היה תפקיד הקורבן בכפרה בתורה וכיצד מתמודדים עם זה היום?',
+      'encountering.section4.atonementWithoutTemple': 'כיצד מבינים כיום כפרה ללא בית המקדש?',
+      'encountering.section4.rightRelationship': 'מה פירוש להיות בקשר נכון עם אלוהים?',
       'encountering.section4.whatToDoSaved': 'מה עליי לעשות כדי להיוושע?',
-      'encountering.section4.becomeJewishChristian': 'איך אני הופך להיות יהודי משיחי?',
-      'encountering.section4.goToHeaven': 'מה זה אומר ללכת לגן עדן?',
-      'encountering.section4.hellExists': 'האם הגיהנום קיים?',
+      'encountering.section4.becomeJewishChristian': 'כיצד אוכל להפוך ליהודי מאמין בישוע?',
+      'encountering.section4.goToHeaven': 'מה פירוש להגיע לגן עדן?',
+      'encountering.section4.hellExists': 'האם גיהנום קיים?',
       
       'encountering.section5.title': '5. זהות יהודית ואמונה משיחית',
-      'encountering.section5.subtitle': 'מאמינים יהודים בישוע ושאלות יהודיות-נוצריות',
-      'encountering.section5.jewishAndBelieve': 'האם אדם יכול להיות יהודי ולהאמין בישוע?',
-      'encountering.section5.whySomeBelieve': 'מדוע חלק מהיהודים מאמינים בישוע כיום?',
-      'encountering.section5.whySomeReject': 'מדוע חלק מהיהודים דוחים את הרעיון של ישוע כמשיח?',
+      'encountering.section5.subtitle': 'יהודים מאמינים בישוע ושאלות יהודיות-נוצריות',
+      'encountering.section5.jewishAndBelieve': 'האם אפשר להיות יהודי ולהאמין בישוע?',
+      'encountering.section5.whySomeBelieve': 'מדוע יש יהודים שמאמינים בישוע כיום?',
+      'encountering.section5.whySomeReject': 'מדוע יש יהודים הדוחים את הרעיון שישוע הוא המשיח?',
       
-      'encountering.section6.title': '6. שמירת תורה ומנהג נוצרי',
-      'encountering.section6.subtitle': 'תורה, מצוות ואיך חיים יהודים משיחיים',
-      'encountering.section6.all613Mitzvot': 'האם עליי לשמור את כל תרי"ג המצוות?',
+      'encountering.section6.title': '6. שמירת תורה וחיים נוצריים',
+      'encountering.section6.subtitle': 'חוק, מצוות ואורח חייהם של יהודים משיחיים',
+      'encountering.section6.all613Mitzvot': 'האם עליי לשמור את כל 613 המצוות?',
       'encountering.section6.keepKosher': 'האם יהודים משיחיים שומרים כשרות?',
       'encountering.section6.keepShabbat': 'האם יהודים משיחיים שומרים שבת?',
       
-      'encountering.section7.title': '7. פגישה אישית עם המשיח',
-      'encountering.section7.subtitle': 'מערכת יחסים אישית ומפגש רוחני',
-      'encountering.section7.encounterYeshua': 'איך אני יכול לפגוש את ישוע באופן אישי היום?',
-      'encountering.section7.personalRelationship': 'מה זה אומר להיות במערכת יחסים אישית עם המשיח?',
-      'encountering.section7.recognizeVoice': 'איך אני יכול לזהות את קול המשיח בחיי?',
-      
+      'encountering.section7.title': '7. לפגוש את המשיח באופן אישי',
+      'encountering.section7.subtitle': 'קשר אישי ומפגש רוחני',
+      'encountering.section7.encounterYeshua': 'כיצד אוכל לפגוש את ישוע באופן אישי כיום?',
+      'encountering.section7.personalRelationship': 'מה פירוש קשר אישי עם המשיח?',
+      'encountering.section7.recognizeVoice': 'כיצד אוכל לזהות את קול המשיח בחיי?',
+            
       // Common
       'common.loading': 'טוען...',
       'common.error': 'אירעה שגיאה.',
-      'common.back': 'חזור',
+      'common.back': 'חזרה',
       'common.home': 'בית',
       'common.contact': 'צור קשר',
       'common.blog': 'בלוג',
-      'common.mission': 'משימה',
-      'common.donate': 'תרמו',
+      'common.mission': 'שליחות',
+      'common.donate': 'תרום',
       'common.copyright': 'זכויות יוצרים',
-      'common.subscribe': 'הרשמה',
+      'common.subscribe': 'הירשמו',
       'common.chat': 'צ\'אט',
-      'common.returnTo': '← חזרה ל',
+      'common.returnTo': '← חזרה אל',
       'common.returnToHome': '← חזרה לבית',
       
       // Navigation
       'nav.antisemitism': 'הצהרה נגד אנטישמיות',
-      'nav.encounteringMessiah': 'פגישה עם המשיח',
-      'nav.shema': 'השמע',
-      'nav.fromTrenches': 'מהשוחות',
+      'nav.encounteringMessiah': 'מפגש עם המשיח',
+      'nav.shema': 'שמע ישראל',
+      'nav.fromTrenches': 'מהשטח',
       'nav.whoIsYeshua': 'מי הוא ישוע?',
-      'nav.countingCost': 'ספירת העלות',
+      'nav.countingCost': 'ספירת המחיר',
       
       // Buttons
       'button.donate': '❤️ תרמו',
-      'button.subscribe': '📰 הרשמה',
-      'button.chat': '💬 צ\'אט',
+      'button.subscribe': '📰 הירשמו',
+      'button.chat': '💬 דברו איתנו',
       'button.clearSearch': 'נקה חיפוש',
       
       // Search
@@ -753,15 +753,14 @@ const resources = {
       'search.resultsFound': 'נמצאו {{count}} פוסט{{plural}} עבור "{{searchTerm}}"',
       
       // RSS
-      'rss.subscribe': 'הרשמה ל-RSS',
+      'rss.subscribe': 'הירשמו להזנת RSS',
       
       // Page Titles
-      'pageTitle.contact': 'צרו קשר - שירותי האמבלברגר',
-      'pageTitle.contactSuccess': 'ההודעה נשלחה! - שירותי האמבלברגר',
-      'pageTitle.contactSuccessHebrew': 'ההודעה נשלחה! - שירותי האמבלברגר',
+      'pageTitle.contact': 'צרו קשר - שירות האמבלברגר',
+      'pageTitle.contactSuccess': 'ההודעה נשלחה! - שירות האמבלברגר',
       
       // Meta Descriptions
-      'meta.contact': 'צרו קשר עם שירותי האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.',
+      'meta.contact': 'צרו קשר עם שירות האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.',
       
       // Organization Name
       'org.name': 'שירותי\nהאמבלברגר',
@@ -810,68 +809,68 @@ const resources = {
       
       // Common terms
       'common.rss': 'RSS',
-      'common.fein.title': 'FEIN',
+      'common.fein.title': 'מספר זיהוי מעסיק',
       'common.fein.number': '33-4533201',
       
       // Anti-Semitism Page
-      'antiSemitism.title': 'הצהרה נגד אנטישמיות - שירותי האמבלברגר',
-      'antiSemitism.description': 'הצהרת שירותי האמבלברגר על אנטישמיות ומחויבותנו לאמת המקראית ולאהבת העם היהודי.',
+      'antiSemitism.title': 'הצהרה נגד אנטישמיות - שירות האמבלברגר',
       'antiSemitism.heading': 'הצהרה נגד אנטישמיות, זהות יהודית ואהבת הבשורה',
-      'antiSemitism.intro': 'כמשרד המבוסס על בשורת ישוע המשיח ומחויב לישועת העם היהודי והעמים, שירותי האמבלברגר עומדים בתקיפות ובלא סייג נגד כל צורות האנטישמיות, בעבר ובהווה, בין אם פוליטיות, תרבותיות, חברתיות או תאולוגיות.',
+      'antiSemitism.description': 'הצהרת שירות האמבלברגר נגד אנטישמיות והמחויבות שלנו לאמת מקראית ולאהבה לעם היהודי.',
+      'antiSemitism.intro': 'כשירות המבוסס על בשורת ישוע המשיח ומחויב לישועה של העם היהודי והעמים, שירות האמבלברגר עומד בנחישות ובאופן בלתי מתפשר נגד כל צורות האנטישמיות, בעבר ובהווה, בין אם פוליטיות, תרבותיות, חברתיות או תאולוגיות.',
       
-      'antiSemitism.section1.title': 'I. עמדה של אהבה וכבוד',
-      'antiSemitism.section1.content': 'שירותי האמבלברגר מחויבים עמוקות לכבוד העם היהודי כאהוב בהיסטוריה הגואלת של אלוהים ובמורשת. אנו מתאבלים על הדרכים שבהן קהילות יהודיות סבלו לאורך ההיסטוריה, כולל עוולות שבוצעו בשם הנצרות. כחסידי ישוע, אנו נקראים ללכת בענווה ובאהבה — לא רק בתורה, אלא באופן שבו אנו נושאים ומתקשרים את הבשורה.',
+      'antiSemitism.section1.title': 'א. עמדת אהבה וכבוד',
+      'antiSemitism.section1.content': 'שירות האמבלברגר מחויב בכנות לכבד את העם היהודי כאהוב בהיסטוריה ובמורשת הגאולה של אלוהים. אנו מתאבלים על הדרכים שבהן סבלו הקהילות היהודיות לאורך ההיסטוריה, כולל עוולות שנעשו בשם הנצרות. כמאמינים בישוע, אנו נקראים ללכת בענווה ובאהבה — לא רק בתיאולוגיה, אלא גם באופן בו אנו נושאים ומעבירים את הבשורה.',
       
-      'antiSemitism.section2.title': 'II. כבוד לעם היהודי ולקריאתם',
-      'antiSemitism.section2.content': 'אנו מכירים ומשמחים בתפקיד הייחודי של העם היהודי בתוכנית הגואלת של אלוהים. הבריתות, ההבטחות, האבות, הנביאים, ולבסוף המשיח הגיעו דרכם (רומים ט:4-5). אנו לא מבקשים למחוק זהות או מורשת יהודית, אלא לאשר את המשמעות העמוקה שלה — מאמינים שהביטוי המלא ביותר שלה נמצא בישוע, המשיח שהובטח בכתבי הקודש העבריים.',
-      
-      'antiSemitism.section3.title': 'III. משרד של הזמנה, לא כפייה',
-      'antiSemitism.section3.content': 'אנו מאמינים שישוע הוא המשיח של ישראל ומושיע העולם. בכבוד עמוק, אנו מבקשים לחלוק את הבשורה הטובה הזו עם אנשים יהודים לא דרך לחץ או ויכוח, אלא דרך הכתובים, תפילה, מערכת יחסים ועדות — תמיד מבוססים באהבה ויראת כבוד.',
-      
-      'antiSemitism.section4.title': 'IV. מחויבות לפיוס ויושרה',
-      'antiSemitism.section4.content': 'אנו מכירים בצורך של הכנסייה ללכת בענווה לפני העם היהודי, להכיר בכישלונות העבר ולבקש להיות גשר, לא מחסום. אנו עומדים נגד כל צורה של אנטישמיות — לא פשוט כרע היסטורי, אלא כדבר הסותר את לב אלוהים.',
-      
-      'antiSemitism.section5.title': 'V. ליבנו לעם היהודי',
-      'antiSemitism.section5.content': 'הרצון שלנו הוא לא לנצח ויכוחים אלא לחלוק תקווה. אנו משתוקקים שאנשים יהודים בכל מקום יפגשו את המשיח שניבא בכתבי הקודש שלהם — זה שממלא את התורה והנביאים, מביא שלום עם אלוהים, ומזמין את כל האנשים, יהודים וגויים, למשפחה אחת נגאלת במשיח.',
-      
+      'antiSemitism.section2.title': 'ב. כבוד לעם היהודי ולייעודם',
+      'antiSemitism.section2.content': 'אנו מכירים ושמחים בתפקיד הייחודי של העם היהודי בתכנית הגאולה של אלוהים. הבריתות, ההבטחות, האבות, הנביאים ובסופו של דבר המשיח באו דרכם (רומים ט:4–5). איננו מבקשים למחוק את הזהות או המורשת היהודית, אלא לאשר את המשמעות העמוקה שלה — באמונה שהביטוי המלא ביותר שלה נמצא בישוע, המשיח המובטח בכתבי הקודש העבריים.',
+
+      'antiSemitism.section3.title': 'ג. משרד של הזמנה, לא כפייה',
+      'antiSemitism.section3.content': 'אנו מאמינים שישוע הוא המשיח של ישראל וגואל העולם. בכבוד עמוק, אנו מבקשים לשתף את הבשורה הטובה עם העם היהודי לא באמצעות לחץ או וויכוח, אלא באמצעות כתובים, תפילה, מערכת יחסים ועדות — תמיד מבוסס על אהבה ויראה.',
+
+      'antiSemitism.section4.title': 'ד. מחויבות לגישור ויושרה',
+      'antiSemitism.section4.content': 'אנו מכירים בצורך של הכנסייה ללכת בענווה מול העם היהודי, להכיר בכשלונות העבר ולשאוף להיות גשר ולא מחסום. אנו עומדים נגד כל צורה של אנטישמיות — לא רק כרוע היסטורי, אלא כמשהו שסותר את לב האלוהים.',
+
+      'antiSemitism.section5.title': 'ה. ליבנו לעם היהודי',
+      'antiSemitism.section5.content': 'רצוננו אינו לנצח ויכוחים אלא לשתף תקווה. אנו משתוקקים שכל יהודי יפגוש את המשיח שניבאו בכתבי הקודש שלהם — אותו שממלא את התורה והנביאים, מביא שלום עם האל, ומזמין את כל העם, יהודים וגויים, למשפחה גאולה אחת במשיח.',
+
       // Copyright Page
-      'copyright.page.title': 'זכויות יוצרים - שירותי האמבלברגר',
-      'copyright.page.description': 'מידע על זכויות יוצרים עבור שירותי האמבלברגר.',
-      'copyright.page.heading': 'הודעה על זכויות יוצרים',
+      'copyright.page.title': 'זכויות יוצרים - שירות האמבלברגר',
+      'copyright.page.description': 'מידע על זכויות היוצרים של שירות האמבלברגר.',
+      'copyright.page.heading': 'הודעת זכויות יוצרים',
       'copyright.page.lastUpdated': 'עודכן לאחרונה: 18 באפריל 2025',
       
       'copyright.page.websiteContent.title': 'תוכן האתר',
-      'copyright.page.websiteContent.text': '© {{year}} שירותי האמבלברגר. כל הזכויות שמורות. התוכן באתר זה, כולל אך לא מוגבל לטקסט, גרפיקה, לוגואים, תמונות, קטעי אודיו, הורדות דיגיטליות וקומפילציות נתונים, הוא רכושו של שירותי האמבלברגר ומוגן על ידי חוקי זכויות יוצרים של ארצות הברית והבינלאומיים.',
+      'copyright.page.websiteContent.text': '© {{year}} שירות האמבלברגר. כל הזכויות שמורות. התוכן באתר זה, לרבות אך לא מוגבל לטקסט, גרפיקה, לוגואים, תמונות, קטעי שמע, הורדות דיגיטליות ואיסופי נתונים, הוא רכושה של שירות האמבלברגר ומוגן על ידי חוקי זכויות יוצרים של ארצות הברית והחוק הבינלאומי.',
       
       'copyright.page.trademarks.title': 'סימני מסחר',
-      'copyright.page.trademarks.text': 'שם שירותי האמבלברגר, הלוגו וכל השמות הקשורים, לוגואים, שמות מוצרים ושירותים, עיצובים וסיסמאות הם סימני מסחר של שירותי האמבלברגר או השותפים שלו. אסור לכם להשתמש בסימנים כאלה ללא אישור בכתב מראש של שירותי האמבלברגר.',
-      
+      'copyright.page.trademarks.text': 'שם שירות האמבלברגר, הלוגו וכל השמות, הלוגואים, שמות המוצרים והשירותים, העיצובים והסיסמאות קשורים ושייכים לשירות האמבלברגר או לשותפיו. אין להשתמש בסימנים אלו ללא אישור בכתב מראש משירות האמבלברגר.',
+
       'copyright.page.biblicalContent.title': 'תוכן מקראי',
-      'copyright.page.biblicalContent.csb': 'ציטוטי הכתובים המסומנים CSB® נלקחו מהתנ"ך הנוצרי הסטנדרטי®, זכויות יוצרים © 2017 על ידי הולמן ביבל פאבלישרס. בשימוש באישור. התנ"ך הנוצרי הסטנדרטי® ו-CSB® הם סימני מסחר רשומים פדרלית של הולמן ביבל פאבלישרס.',
-      'copyright.page.biblicalContent.esv': 'ציטוטי הכתובים המסומנים ESV® הם מהתנ"ך ESV® (התנ"ך הקדוש, גרסה סטנדרטית באנגלית®), זכויות יוצרים © 2001 על ידי קרוסוויי, משרד פרסום של מוציאים לאור של בשורות טובות. בשימוש באישור. כל הזכויות שמורות.',
-      'copyright.page.biblicalContent.niv': 'ציטוטי הכתובים המסומנים NIV® נלקחו מהתנ"ך הקדוש, הגרסה הבינלאומית החדשה®, NIV®. זכויות יוצרים © 1973, 1978, 1984, 2011 על ידי ביבליקה, בע"מ™ בשימוש באישור זונדרוון. כל הזכויות שמורות ברחבי העולם. www.zondervan.com ה-"NIV" ו-"הגרסה הבינלאומית החדשה" הם סימני מסחר רשומים במשרד הפטנטים וסימני המסחר של ארצות הברית על ידי ביבליקה, בע"מ™',
+      'copyright.page.biblicalContent.csb': 'ציטוטי כתבי הקודש המסומנים CSB® נלקחו מ-Christian Standard Bible®, זכויות יוצרים © 2017 על ידי Holman Bible Publishers. בשימוש בהיתר. Christian Standard Bible® ו-CSB® הם סימני מסחר רשומים של Holman Bible Publishers.',
+      'copyright.page.biblicalContent.esv': 'ציטוטי כתבי הקודש המסומנים ESV® הם מ-ESV® Bible (The Holy Bible, English Standard Version®), זכויות יוצרים © 2001 על ידי Crossway, משרד הוצאה לאור של Good News Publishers. בשימוש בהיתר. כל הזכויות שמורות.',
+      'copyright.page.biblicalContent.niv': 'ציטוטי כתבי הקודש המסומנים NIV® נלקחו מ-Holy Bible, New International Version®, NIV®. זכויות יוצרים © 1973, 1978, 1984, 2011 על ידי Biblica, Inc.™ בשימוש בהיתר של Zondervan. כל הזכויות שמורות בעולם. www.zondervan.com. "NIV" ו-"New International Version" הם סימני מסחר רשומים במשרד הפטנטים וסימני המסחר של ארצות הברית על ידי Biblica, Inc.™',
       
-      'copyright.page.educationalUse.title': 'שימוש חינוכי ומיניסטריאלי',
-      'copyright.page.educationalUse.text': 'אנו מעודדים את השימוש בחומרים שלנו למטרות חינוכיות ומיניסטריאליות. אתם יכולים להוריד ולהדפיס תוכן מהאתר שלנו לשימוש לא מסחרי, חינוכי, אישי או קהילתי, בתנאי ש:',
-      'copyright.page.educationalUse.rule1': 'אתם לא משנים את התוכן',
-      'copyright.page.educationalUse.rule2': 'אתם כוללים ייחוס מתאים לשירותי האמבלברגר',
-      'copyright.page.educationalUse.rule3': 'אתם לא מסירים שום הודעת זכויות יוצרים או הודעות קניין אחרות',
-      'copyright.page.educationalUse.rule4': 'אתם לא משתמשים בתוכן באופן שמרמז ששירותי האמבלברגר תומכים בכם או בשימוש שלכם',
-      
-      'copyright.page.permission.title': 'בקשות אישור',
-      'copyright.page.permission.text': 'לאישור להשתמש בתוכן מהאתר שלנו מעבר להיקף המתואר לעיל, אנא צרו איתנו קשר ב:',
-      'copyright.page.permission.link': 'טופס מקוון',
-      'copyright.page.permission.contactText': 'צרו איתנו קשר באמצעות',
-      
+      'copyright.page.educationalUse.title': 'שימוש חינוכי ושליחותי',
+      'copyright.page.educationalUse.text': 'אנו מעודדים שימוש בחומרים שלנו למטרות חינוכיות ושליחות. ניתן להוריד ולהדפיס תוכן מהאתר שלנו לשימוש לא מסחרי, חינוכי, אישי או קהילתי, בכפוף לתנאים הבאים:',
+      'copyright.page.educationalUse.rule1': 'לא לשנות את התוכן',
+      'copyright.page.educationalUse.rule2': 'לציין שיוך מתאים לשירות האמבלברגר',
+      'copyright.page.educationalUse.rule3': 'לא להסיר כל הודעות זכויות יוצרים או הודעות קניין רוחני אחרות',
+      'copyright.page.educationalUse.rule4': 'לא להשתמש בתוכן באופן שמרמז ששירות האמבלברגר מאשר את השימוש או את המשתמש',
+
+      'copyright.page.permission.title': 'בקשות הרשאה',
+      'copyright.page.permission.text': 'להרשאות לשימוש בתוכן האתר מעבר לתחום המפורט לעיל, אנא צרו קשר באמצעות:',
+      'copyright.page.permission.link': 'הטופס המקוון',
+      'copyright.page.permission.contactText': 'צרו קשר באמצעות',
+
       'copyright.page.infringement.title': 'הפרת זכויות יוצרים',
-      'copyright.page.infringement.text': 'אם אתם מאמינים שעבודת זכויות היוצרים שלכם שימשה באתר שלנו באופן שמהווה הפרת זכויות יוצרים, אנא ספקו לנו את המידע הבא:',
-      'copyright.page.infringement.item1': 'תיאור של עבודת זכויות היוצרים שאתם טוענים שהופרה',
-      'copyright.page.infringement.item2': 'תיאור של איפה החומר המפר לכאורה ממוקם באתר שלנו',
-      'copyright.page.infringement.item3': 'מידע ליצירת קשר שלכם, כולל כתובת, מספר טלפון וכתובת אימייל',
-      'copyright.page.infringement.item4': 'הצהרה שלכם שיש לכם אמונה טובה שהשימוש השנוי במחלוקת אינו מורשה על ידי בעל זכויות היוצרים, הסוכן שלו, או החוק',
-      'copyright.page.infringement.item5': 'הצהרה שלכם, שנעשית תחת עונש של עדות שקר, שהמידע בהודעה שלכם מדויק ושאתם בעל זכויות היוצרים או מורשים לפעול בשם בעל זכויות היוצרים',
+      'copyright.page.infringement.text': 'אם אתם סבורים שעבודתכם מוגנת בזכויות יוצרים שומשה באתר שלנו באופן המהווה הפרה, אנא ספקו לנו את המידע הבא:',
+      'copyright.page.infringement.item1': 'תיאור של העבודה המוגנת בזכויות יוצרים שלדעתכם הופרה',
+      'copyright.page.infringement.item2': 'תיאור של מיקום החומר החשוד כהפרה באתר שלנו',
+      'copyright.page.infringement.item3': 'פרטי יצירת קשר שלכם, כולל כתובת, מספר טלפון וכתובת אימייל',
+      'copyright.page.infringement.item4': 'הצהרה ממכם כי יש לכם אמונה טובה שהשימוש המפורש אינו מורשה על ידי בעל הזכויות, סוכנו או החוק',
+      'copyright.page.infringement.item5': 'הצהרה מכם, תחת עונש של שבועת שקר, שהמידע בהודעה הוא נכון ושהינכם בעלי הזכויות או מורשים לפעול מטעמם',
       'copyright.page.infringement.notice': 'הודעות כאלה יש לשלוח ל:',
-      'copyright.page.infringement.contact': 'שירותי האמבלברגר\nלתשומת לב: סוכן זכויות יוצרים\nצרו איתנו קשר באמצעות הטופס המקוון שלנו.',
+      'copyright.page.infringement.contact': 'שירות האמבלברגר\nלידיעת: נציג זכויות יוצרים\nצרו קשר באמצעות הטופס המקוון שלנו.',
       
       // Encountering Messiah URLs
       'urls.encountering.whoIsYeshua': '/he/blog/who-is-yeshua?from=encountering-messiah',
@@ -888,116 +887,116 @@ const resources = {
       'urls.encountering.whatIsSin': '/he/blog/what-is-sin?from=encountering-messiah',
       
       // Mission Page
-      'mission.title': 'המשימה שלנו',
-      'mission.content': 'שירותי האמבלברגר קיימים כדי להלל את אלוהים על ידי הכרזת הבשורה של ישוע המשיח, עם קריאה ממוקדת להביא את הבשורה הטובה לעם היהודי בערים כמו ניו יורק ותל אביב. מושרשים ברוחו של השליח פאולוס, המשימה שלנו היא לבשר, לחנך ולהקים מטיפים ומורים נאמנים לנטוע ולרעות כנסיות ברחבי העולם. בעוד שהמיקוד העיקרי שלנו הוא משימות יהודיות, אנו עומדים במלואם על הצו הגדול, מבקשים להגיע לכל האבודים ולשרת את הכנסייה הגלובלית כפי שהאדון מוביל.',
-      
+      'mission.title': 'השליחות שלנו',
+      'mission.content': 'שירות האמבלברגר קיים לכבוד האלוהים על ידי הכרזת בשורת ישוע המשיח, עם שליחות ממוקדת להביא את הבשורה הטובה לעם היהודי בערים ניו יורק ותל אביב. מושרש ברוחו של השליח פאולוס, השליחות שלנו היא לבשר, לתלמיד ולגדל מטיפים ומורים נאמנים לייסד ולרעות כנסיות ברחבי העולם. בעוד שהמוקד העיקרי שלנו הוא שליחות ליהודים, אנו עומדים במלואנו על המשלוח הגדול, ומבקשים להגיע לכל האובדים ולשרת את הכנסייה העולמית ככל שהאדון מוביל.',
+
       // Statement of Faith Page
       'statement.title': 'הצהרת אמונה',
-      'statement.description': 'אלה הם העקרונות המקראיים והאמונות התיאולוגיות המנחות את שירותנו.',
+      'statement.description': 'אלו הן העקרונות המקראיים והאמונות התאולוגיות המנחות את שליחותנו.',
       
-      'statement.item1.title': '1. סמכות ואחדות הכתובים',
-      'statement.item1.content': 'אנו מאמינים שכל התנ"ך - הן הברית הישנה והן הברית החדשה - הוא דבר אלוהים שנכתב בהשראתו, ללא טעויות ובלתי ניתן לערעור. הוא הסמכות הסופית והמספקת בכל ענייני אמונה, דוקטרינה ומעשה. כתבי הקודש העבריים הם יסודיים ומצביעים ישירות על המשיח, ישוע המשיח.',
+      'statement.item1.title': '1. הסמכות והאחדות של כתבי הקודש',
+      'statement.item1.content': 'אנו מאמינים שכל התנ"ך — הן הברית הישנה והן הברית החדשה — הוא דבר האלוהים המושפע, נטול הטעויות ובלתי ניתן לטעות. הוא הסמכות הסופית והמספקת בכל ענייני אמונה, דוקטרינה ומעשה. כתבי הקודש העבריים הם יסודיים ומצביעים ישירות על ישוע המשיח.',
       
-      'statement.item2.title': '2. האל המשולש',
-      'statement.item2.content': 'אנו מאמינים באל אחד, הקיים נצחית בשלוש אישיויות: האב, הבן ורוח הקודש. כל אחד מהם הוא אלוהים במלואו, שווה בתהילה, בכוח ובמהות, אך נבדל בתפקיד וביחס.',
+      'statement.item2.title': '2. האל השלושה-אחד',
+      'statement.item2.content': 'אנו מאמינים באל אחד, הקיים לנצח בשלוש ישויות: האב, הבן ורוח הקודש. כל אחד מהם הוא אלוהים במלואו, שווה בכבוד, בכח ובמהות, אך נבדל בתפקיד וביחס.',
       
-      'statement.item3.title': '3. אישיותו ועבודתו של המשיח',
-      'statement.item3.content': 'ישוע המשיח, אלוהים במלואו ואדם במלואו, נהרה על ידי רוח הקודש ונולד מבתולה. הוא חי חיים ללא חטא, מת מות חלופי על הצלב, קם לתחייה גופנית מן המתים, וכעת מולך לימין האב. הישועה נמצאת בו לבדו.',
-      
-      'statement.item4.title': '4. ישועה בחסד דרך אמונה',
-      'statement.item4.content': 'הישועה היא בחסד בלבד, דרך אמונה בלבד, במשיח בלבד. זה כולל לידה מחדש, הצדקה, קידוש והאדרה. זוהי מתנה חינמית מאלוהים ואינה ניתנת להשגה על ידי מעשים או מאמץ אנושי.',
-      
-      'statement.item5.title': '5. טבילת מאמינים בטבילה במים',
-      'statement.item5.content': 'אנו מאמינים שטבילה היא למאמינים בלבד, כהצהרה פומבית על אמונה וציות למשיח. היא נעשית בטבילה במים, המסמלת את איחוד המאמין עם המשיח במותו, קבורתו ותחייתו. היא אינה מושיעה אך מצווה על ידי ישוע לכל ההולכים אחריו.',
-      
-      'statement.item6.title': '6. הקהילה',
-      'statement.item6.content': 'הקהילה מורכבת מכל המאמינים האמיתיים במשיח. הקהילה המקומית היא גוף אוטונומי של מאמינים טבולים המחויבים לפולחן, לחברותא, להוראה, לסקרמנטים ולמשימה. המשיח הוא ראש הקהילה.',
-      
+      'statement.item3.title': '3. האיש והמעשה של המשיח',
+      'statement.item3.content': 'ישוע המשיח, אלוהים במלואו ואדם במלואו, הוחדר על ידי רוח הקודש ונולד מבתולה. חי חיים נטולי חטא, מת מוות תחליפי על הצלב, קם לתחייה בגוף, וכעת שולט לימין האב. הישועה נמצאת בו בלבד.',
+
+      'statement.item4.title': '4. הישועה בחסד דרך האמונה',
+      'statement.item4.content': 'הישועה היא בחסד בלבד, דרך האמונה בלבד, במשיח בלבד. זה כולל לידה מחדש, צדקה, קודש ותהילה. היא מתנת האלוהים החינמית ואינה ניתנת להשגה במעשים או במאמצים אנושיים.',
+
+      'statement.item5.title': '5. הטבילה של המאמין בטבילה',
+      'statement.item5.content': 'אנו מאמינים שהטבילה מיועדת למאמינים בלבד, כהודעה פומבית של אמונה וצייתנות למשיח. היא בטבילה, המסמלת את האיחוד של המאמין עם המשיח במותו, בקברו ותחייתו. היא אינה מצילה, אך מצווה עליה ישוע לכל המאמינים בו.',
+
+      'statement.item6.title': '6. הכנסייה',
+      'statement.item6.content': 'הכנסייה מורכבת מכל המאמינים האמיתיים במשיח. הכנסייה המקומית היא גוף עצמאי של מאמינים המטבלים ומחויבים לעבודה, לקהילה, ללימוד, לטקסים ולשליחות. ישוע המשיח הוא ראש הכנסייה.',
+
       'statement.item7.title': '7. מתנות רוחניות',
-      'statement.item7.content': 'אנו מאשרים את נוכחותן ופעולתן המתמשכת של מתנות רוחניות בתוך הקהילה, כפי שמתואר בברית החדשה. אנו מאמינים שיש להפעיל מתנות אלה ברוח של ענווה, תחת סמכות הכתובים, ובהתאם לסדר ולמטרה הנלמדים בברית החדשה.',
-      
-      'statement.item8.title': '8. הדרכת רוח הקודש וחוויה אישית',
-      'statement.item8.content': 'אנו מאשרים את סמכות הכתובים כעליונה אך גם מכירים בהדרכתה האישית המתמשכת של רוח הקודש. חוויה המובלת על ידי הרוח היא קדושה ולגיטימית כאשר היא נכנעת לכתובים, נבחנת בחוכמה ומתורגלת בקהילה.',
-      
+      'statement.item7.content': 'אנו מאשרים את המשך הנוכחות והפעלת המתנות הרוחניות בכנסייה, כפי שמתואר בברית החדשה. אנו מאמינים שיש להשתמש במתנות אלה ברוח של ענווה, תחת סמכות כתבי הקודש ובהתאם לסדר ולמטרה הנלמדים בברית החדשה.',
+
+      'statement.item8.title': '8. הדרכת רוח הקודש והחוויה האישית',
+      'statement.item8.content': 'אנו מאשרים את סמכות כתבי הקודש כעליונה אך גם מכירים בהדרכה האישית המתמשכת של רוח הקודש. חוויה המונחית ברוח היא קדושה ולגיטימית כאשר היא נשלטת על ידי כתבי הקודש, נשקלת בחכמה ומבוצעת בקהילה.',
+
       'statement.item9.title': '9. אנתרופולוגיה מקראית: מגדר וזהות',
-      'statement.item9.content': 'אנו מאשרים שכל האנשים נבראו על ידי אלוהים בצלמו עם כבוד וערך מובנים. אנו מאמינים שאלוהים ברא בכוונה את האנושות כזכר ונקבה, ושניהם שווים בערכם ונבדלים בתפקידם. אנו מאשרים שנישואין הם ברית קדושה בין איש אחד לאישה אחת, שנועדה על ידי אלוהים לשגשוג אנושי. אנו מקיימים את קדושת החיים מההתעברות ועד המוות הטבעי, בוטחים בעיצובו הטוב של אלוהים לזהות ולמטרה האנושית.',
-      
-      'statement.item10.title': '10. דוקטרינת האנושות וטרנס-הומניזם',
-      'statement.item10.content': 'אנו מאשרים שהאנושות, שנבראה בצלם אלוהים, היא עיצוב קדוש ומכוון. אנו מאמינים שניסיונות לשנות או לשפר את הטבע האנושי באמצעים טכנולוגיים, גנטיים או מלאכותיים מתנגדים לכוונתו של אלוהים לזהות ולכבוד האנושי. אנו מאשרים שערך האדם אינו נמצא בשיפורים מלאכותיים, אלא בכך שנבראנו באופן מעורר יראה ופליאה על ידי בוראנו.',
-      
-      'statement.item11.title': '11. תוכנית הגאולה של אלוהים ותקוות האוונגליזם היהודי',
-      'statement.item11.content': 'אנו מאמינים שתוכנית הישועה של אלוהים, שנחשפה לאורך כל הכתובים, תמיד הייתה בחסד דרך אמונה - והתגשמה בישוע, המשיח. במשיח, אלוהים מושך הן יהודים והן גויים לעם גאול אחד, מאוחד על ידי הרוח ומעוגן בהבטחות הברית החדשה. מתוך כיבוד עדיפות הבשורה "ליהודי תחילה" (רומים א:16), אנו מאמצים קריאה מיוחדת לחלוק באהבה את הבשורה הטובה של ישוע עם העם היהודי ברחבי העולם, ומזמינים אותם לקבל את המשיח שנחזה בכתביהם.',
-      
+      'statement.item9.content': 'אנו מאשרים שכל בני האדם נבראו בצלם אלוהים עם כבוד ומעלת ערך טבעית. אנו מאמינים שאלוהים יצר בכוונה את האנושות כזכר ונקבה, וששניהם שווים בערך ונבדלים בתפקיד. אנו מאשרים שנישואין הם ברית קדושה בין גבר לאישה, שנועדה לשגשוג האנושי. אנו מחזיקים בקדושת החיים מרגע ההריון ועד המוות הטבעי, בביטחון בתכנית האלוהים לזהות ולמטרת האדם.',
+
+      'statement.item10.title': '10. דוקטרינת האדם והטרנס-הומניזם',
+      'statement.item10.content': 'אנו מאשרים שהאנושות, שנבראה בצלם אלוהים, היא יצירה קדושה ובעלת מטרה. אנו מאמינים שניסיונות לשנות או לשפר את טבע האדם באמצעים טכנולוגיים, גנטיים או מלאכותיים עומדים בניגוד לכוונת אלוהים לזהות האדם ולכבודו. אנו מאשרים שערך האדם לא נמצא בשיפורים מלאכותיים, אלא בבריאה הנהדרת והמפוחדת על ידי בוראנו.',
+
+      'statement.item11.title': '11. תכנית הגאולה של אלוהים ותקוות הבישור ליהודים',
+      'statement.item11.content': 'אנו מאמינים שתכנית הישועה של אלוהים, שנחשפה לאורך כתבי הקודש, תמיד הייתה בחסד דרך אמונה — ומתגשמת בישוע המשיח. במשיח, אלוהים מושך יחד יהודים וגויים לעם גאולה אחד, המאוחד ברוח ומושרש בהבטחות הברית החדשה. מתוך כבוד לפריוריטה של הבשורה "ליהודי ראשון" (רומים א:16), אנו מקבלים שליחות מיוחדת לשתף באהבה את הבשורה הטובה של ישוע עם העם היהודי ברחבי העולם, ומזמינים אותם לקבל את המשיח שניבאו בכתבי הקודש שלהם.',
+
       'statement.item12.title': '12. אהבה לעם היהודי והגשמת הבטחת אלוהים',
-      'statement.item12.content': 'אנו מאשרים את אהבת הברית הנצחית של אלוהים לעם היהודי ומכירים במורשת הרוחנית העשירה שניתנה דרכם - האבות, הנביאים, הכתובים, ובסופו של דבר המשיח. אנו מכבדים את הזהות היהודית כחלק מתוכנית הגאולה של אלוהים ומאמינים שהבטחות כתבי הקודש העבריים מוצאות את הגשמתן בישוע, משיח ישראל. באמונה זו, אנו ניגשים לעם היהודי לא בלחץ או בכפייה, אלא בענווה, בהכרת תודה ובתקווה - ומשתוקקים לחלוק את הבשורה הטובה של ישוע בחמלה ובכבוד עמוק.',
-      
-      'statement.item13.title': '13. אי-השתייכות פוליטית',
-      'statement.item13.content': 'אנו כארגון איננו פוליטיים באופיינו. איננו מקדמים שום מפלגה או אידיאולוגיה. אזרחותנו היא בשמיים, ומשימתנו היא רוחנית: להכריז את הבשורה ולקדם את מלכות המשיח.',
-      
+      'statement.item12.content': 'אנו מאשרים את אהבת הברית המתמשכת של אלוהים לעם היהודי ומכירים במורשת הרוחנית העשירה שניתנה דרכם — האבות, הנביאים, כתבי הקודש, ובסופו של דבר המשיח. אנו מכבדים את הזהות היהודית כחלק מתכנית הגאולה של אלוהים ומאמינים שהבטחות כתבי הקודש העבריים מתגשמות בישוע, משיח ישראל. באמונה זו, אנו ניגשים לעם היהודי לא בלחץ או כפייה, אלא בענווה, בהכרת תודה ובתקווה — משתוקקים לשתף את הבשורה הטובה של ישוע ברחמים וכבוד עמוק.',
+
+      'statement.item13.title': '13. אי-שייכות פוליטית',
+      'statement.item13.content': 'אנו כארגון איננו פוליטיים מטבענו. איננו מקדמים מפלגה או אידיאולוגיה כלשהי. אזרחותנו היא בשמים, ושליחותנו רוחנית: להכריז את הבשורה ולקדם את ממלכת המשיח.',
+
       'statement.item14.title': '14. מלחמה רוחנית',
-      'statement.item14.content': 'אנו מאשרים את מציאות המלחמה הרוחנית. הבשורה מוכרזת בשטח שנוי במחלוקת. אנו מצוידים בשריון המלא של אלוהים ומועצמים על ידי הרוח להתנגד לאויב ולקדם את הבשורה בכוח ובאמת.',
-      
-      'statement.item15.title': '15. השליחות הגדולה והמשימות העולמיות',
-      'statement.item15.content': 'אנו קיימים כדי לעשות תלמידים מכל העמים, ובמיוחד מהעם היהודי. אנו מכריזים את הבשורה, נוטעים קהילות, מתלמדים מאמינים ומקימים מנהיגים. אנו מאשרים את מצוותו של המשיח ללכת לכל העולם עד שכל עם ישמע. אנו הולכים לפי הדפוס המקראי של התפשטות הבשורה מירושלים ליהודה, לשומרון ולקצוות הארץ (מעשי השליחים א:8), עמלים תחילה למען העם היהודי ואז למען העמים. האוונגליזם שלנו מעוגן בכתובים, הן בברית הישנה והן בברית החדשה.',
-      
-      'statement.item16.title': '16. אמת ובלעדיות הבשורה',
-      'statement.item16.content': 'אנו מאשרים שישוע הוא הדרך היחידה לאלוהים, ושהישועה נמצאת בו לבדו. אנו מאשרים את האמת והסמכות המוחלטות של דבר אלוהים בכל הדורות. בעוד אנו מתקשרים עם תרבויות מגוונות בענווה ובחמלה, אנו מחזיקים באמת הבלעדית של הבשורה ללא פשרות.',
-      
-      'statement.item17.title': '17. עדת הקהילה בעולם חילוני',
-      'statement.item17.content': 'אנו מאשרים את קיומו של אלוהים אישי, קדוש וריבוני, שברא ומקיים את כל הדברים. אנו מאשרים שידע וחוכמה אמיתיים מתחילים ביראת ה' + '"' + 'אלוהים' + '"' + ', וכי כל השקפת עולם השוללת את קיום אלוהים היא בסופו של דבר לא שלמה ופושטת רגל מבחינה רוחנית. ',
-      
+      'statement.item14.content': 'אנו מאשרים את המציאות של המלחמה הרוחנית. הבשורה מוקדמת בשטחי מחלוקת. אנו מצוידים בשריון האל המלא ומונחים ברוח לעמוד מול האויב ולקדם את הבשורה בכח ובאמת.',
+
+      'statement.item15.title': '15. המשלוח הגדול ושליחות עולמית',
+      'statement.item15.content': 'אנו קיימים לעשות תלמידים מכל העמים, במיוחד העם היהודי. אנו מבשרים את הבשורה, מייסדים כנסיות, מלמדים מאמינים ומגדלים מנהיגים. אנו מאשרים את צו המשיח ללכת לכל העולם עד שכל עם ישמע. אנו פועלים על פי דפוס ההרחבה המקראי מהירושלים ליהודה, שומרון ולקצה הארץ (מעשי השליחים א:8), עובדים תחילה למען העם היהודי ואחר כך למען העמים. הבישור שלנו מושרש בכתבי הקודש, הן של הברית הישנה והן של הברית החדשה.',
+
+      'statement.item16.title': '16. אמת וייחודיות הבשורה',
+      'statement.item16.content': 'אנו מאשרים שישוע הוא הדרך היחידה לאלוהים, ושהישועה נמצאת בו בלבד. אנו מאשרים את האמת המוחלטת והסמכות של דבר האל בכל הדורות. בעוד שאנו פועלים עם תרבויות שונות בענווה וחמלה, אנו נאחזים באמיתות הבלעדיות של הבשורה ללא פשרות.',
+
+      'statement.item17.title': '17. עדות הכנסייה בעולם החילוני',
+      'statement.item17.content': 'אנו מאשרים את קיומו של אלוהים אישי, קדוש וריבוני, שברא ומחזק את כל הבריאה. אנו מאשרים שהדעת והחכמה האמיתית מתחילות ביראת ה\', וכל השקפת עולם המכחישה את קיומו של אלוהים היא בסופו של דבר לא שלמה ורוחנית ריקה.',
+
       'statement.item18.title': '18. קדושת החיים',
-      'statement.item18.content': 'אנו מאשרים את קדושת כל חיי אדם מההתעברות ועד המוות הטבעי. כל אדם נושא את צלם אלוהים וראוי לכבוד והגנה. אנו מאשרים שכל האנשים, ללא קשר ליכולת, גיל או מעמד חברתי, נבראו באופן מעורר יראה ופליאה.',
-      
-      'statement.item19.title': '19. אחדות ביסודות, חירות בשוליים',
-      'statement.item19.content': 'איננו מתפלגים על נושאים משניים. אנו מכבדים דעות מגוונות על בריאה, אסכטולוגיה, מתנות רוחניות ומערכות תיאולוגיות כמו תיאולוגיה רפורמית. עם זאת, איננו מאשרים דפנסציונליזם קלאסי, מכיוון שאנו מאמינים שיש לאלוהים עם אחד במשיח. אנו שואפים לאחדות בבשורה ולחסד בכל הדברים, ובלבד שעמדות אלה מקיימות את אי-טעותם וסמכותם של הכתובים. אנו מאשרים, למשל, את המציאות ההיסטורית של אדם וחווה, כפי שישוע עצמו דיבר עליהם כאישים ממשיים (מתי יט:4-6).',
-      
-      'statement.item20.title': '20. אישור סופי',
-      'statement.item20.content': 'אנו מאמינים שהכתובים לבדם הם הסמכות העליונה, שהישועה היא בחסד בלבד דרך אמונה בלבד במשיח בלבד, למען תהילת אלוהים בלבד.',
-      
+      'statement.item18.content': 'אנו מאשרים את קדושת כל החיים האנושיים מרגע ההריון ועד המוות הטבעי. כל אדם נושא את דמות האל וראוי לכבוד ולהגנה. אנו מאשרים שכל אדם, ללא קשר ליכולת, גיל או מצב חברתי, נברא ביראת כבוד ובפלא.',
+
+      'statement.item19.title': '19. אחדות במהות, חופש בשוליים',
+      'statement.item19.content': 'איננו מתפלגים על נושאים משניים. אנו מכבדים דעות שונות בנושאים כמו בריאה, אחרית הימים, מתנות רוחניות ומערכות תאולוגיות כגון התאולוגיה הרפורמית. עם זאת, איננו מאשרים דיספנסציונליזם קלאסי, שכן אנו מאמינים שאלוהים יש עם אחד במשיח ישוע. אנו שואפים לאחדות בבשורה ולחסד בכל הדברים, כל עוד עמדות אלו שומרות על אי־טעויות וסמכות כתבי הקודש. לדוגמה, אנו מאשרים את המציאות ההיסטורית של אדם וחוה, כפי שישוע עצמו דיבר עליהם כאנשים אמיתיים (מתי י"ט:4–6).',
+
+      'statement.item20.title': '20. האישור הסופי',
+      'statement.item20.content': 'אנו מאשרים דוקטרינות אלו לא כעקרון קר ויבש, אלא כהודאה חיה — קריאה להכריז את המשיח לכל העם, במיוחד לעם היהודי, בבהירות, בחמלה ובאומץ. אנו מתחייבים להיאחז באמת, לדרוש את דבר האל בזמנים טובים ורעים, וללכת לכל מקום שהאדון יוביל — מניו יורק ועד תל אביב — עד שכל ברך תכרע וכל לשון תודה שישוע המשיח הוא האדון, לכבוד אלוהים האב. אמן.',
+
       // Terms of Use Page
       'terms.title': 'תנאי שימוש',
       'terms.lastUpdated': 'עודכן לאחרונה: 18 באפריל 2025',
-      'terms.intro': 'ברוכים הבאים לאתר משרדי האמבלברגר. על ידי גישה או שימוש באתר שלנו, אתה מסכים להיות מחויב לתנאי שימוש אלה. אנא קרא אותם בעיון.',
-      
+      'terms.intro': 'ברוכים הבאים לאתר שירות האמבלברגר. בשימוש באתר זה, אתה מסכים להיות כפוף לתנאי השימוש הללו. אנא קרא אותם בעיון.',
+
       'terms.acceptance.title': 'קבלת התנאים',
-      'terms.acceptance.content': 'על ידי גישה ושימוש באתר זה, אתה מקבל ומסכים להיות מחויב לתנאי שימוש אלה, למדיניות הפרטיות שלנו ולכל מדיניות אחרת שעשויה להתפרסם באתר שלנו. אם אינך מסכים לתנאים אלה, אנא אל תשתמש באתר שלנו.',
-      
+      'terms.acceptance.content': 'בשימוש ובגישה לאתר זה, אתה מקבל ומסכים להיות כפוף לתנאי השימוש הללו, למדיניות הפרטיות שלנו, וכל מדיניות אחרת שפורסמה באתר. אם אינך מסכים לתנאים אלה, אנא אל תשתמש באתר.',
+
       'terms.content.title': 'שימוש בתוכן',
-      'terms.content.content': 'התוכן באתר שלנו, לרבות אך לא רק טקסט, גרפיקה, סמלילים, תמונות, קטעי שמע ותוכנה, הוא בבעלות או ברישיון של משרדי האמבלברגר ומוגן על ידי חוקי זכויות יוצרים וקניין רוחני אחרים. באפשרותך לגשת ולצפות בתוכן לשימוש אישי ולא מסחרי בלבד. אינך רשאי לשכפל, להפיץ, לשנות, ליצור עבודות נגזרות, להציג בפומבי או לנצל כל תוכן מאתרנו ללא אישורנו מראש ובכתב.',
-      
-      'terms.conduct.title': 'התנהגות משתמשים',
-      'terms.conduct.intro': 'בעת השימוש באתר שלנו, אתה מסכים לא:',
-      'terms.conduct.item1': 'להפר כל חוק או תקנה החלים',
-      'terms.conduct.item2': 'לפגוע בזכויותיהם של אחרים',
-      'terms.conduct.item3': 'להשתמש באתר שלנו בכל דרך שעלולה להשבית, להעמיס או לפגוע באתר',
-      'terms.conduct.item4': 'לנסות לקבל גישה בלתי מורשית לכל חלק מאתרנו',
-      'terms.conduct.item5': 'להשתמש באתר שלנו כדי להעביר כל תוכנה או קוד זדוניים',
-      'terms.conduct.item6': 'לעסוק בכל התנהגות המגבילה או מונעת את השימוש של כל אדם באתר שלנו',
-      
-      'terms.links.title': 'קישורים לאתרי צד שלישי',
-      'terms.links.content': 'האתר שלנו עשוי להכיל קישורים לאתרי צד שלישי. קישורים אלה מסופקים לנוחיותך בלבד. אין לנו שליטה על התוכן של אתרים אלה ואיננו מקבלים אחריות עליהם או על כל אובדן או נזק שעלול לנבוע מהשימוש שלך בהם. הכללת קישור לאתר צד שלישי אינה מרמזת על תמיכתנו באתר זה.',
-      
+      'terms.content.content': 'התוכן באתר שלנו, לרבות אך לא מוגבל לטקסט, גרפיקה, לוגואים, תמונות, קטעי שמע ותוכנה, הוא בבעלות או ברישיון שירות האמבלברגר ומוגן בזכויות יוצרים ובחוקי קניין רוחני אחרים. מותר לך לצפות בתוכן לשימוש אישי ולא מסחרי בלבד. אין להעתיק, להפיץ, לשנות, ליצור יצירות נגזרות, להציג בפומבי או לנצל כל תוכן מהאתר ללא אישור בכתב מראש.',
+
+      'terms.conduct.title': 'התנהגות המשתמש',
+      'terms.conduct.intro': 'בשימוש באתר שלנו, אתה מסכים שלא:',
+      'terms.conduct.item1': 'להפר כל חוק או תקנה רלוונטיים',
+      'terms.conduct.item2': 'להפר זכויות של אחרים',
+      'terms.conduct.item3': 'להשתמש באתר באופן שעלול להשבית, להעמיס יתר על המידה או לפגוע באתר',
+      'terms.conduct.item4': 'לנסות להשיג גישה לא מורשית לכל חלק באתר',
+      'terms.conduct.item5': 'להשתמש באתר להעברת תוכנות או קודים מזיקים',
+      'terms.conduct.item6': 'לעסוק בהתנהגות המגבילה או מונעת שימוש של אחרים באתר',
+
+      'terms.links.title': 'קישורים לאתרים צד שלישי',
+      'terms.links.content': 'באתר שלנו ייתכן שיש קישורים לאתרים צד שלישי. קישורים אלה מסופקים לנוחותך בלבד. אין לנו שליטה על תוכנם ואיננו אחראים להם או לכל נזק שייגרם משימושך בהם. הכללת קישור לאתר צד שלישי אינה מהווה המלצה מצידנו.',
+
       'terms.userContent.title': 'תוכן שנוצר על ידי משתמשים',
-      'terms.userContent.content': 'אם אתה מגיש תוכן כלשהו לאתר שלנו, כולל הערות או משוב, אתה מעניק למשרדי האמבלברגר רישיון לא בלעדי, ללא תמלוגים, תמידי ועולמי להשתמש, לשכפל, לשנות, להתאים, לפרסם, לתרגם ולהפיץ תוכן כזה בכל מדיה. אתה מצהיר שיש לך את הזכות להעניק רישיון כזה.',
-      
-      'terms.disclaimer.title': 'הסרת אחריות',
-      'terms.disclaimer.content': 'האתר שלנו ותכניו מסופקים "כמות שהם" ו"כזמינים" ללא כל אחריות מכל סוג שהוא, בין אם מפורשת או משתמעת. איננו מתחייבים שהאתר שלנו יהיה ללא הפרעות או שגיאות, שפגמים יתוקנו, או שהאתר שלנו או השרתים המאפשרים את זמינותו נקיים מוירוסים או מרכיבים מזיקים אחרים.',
-      
+      'terms.userContent.content': 'אם תשלח תוכן לאתר שלנו, כולל תגובות או משוב, אתה מעניק לשירות האמבלברגר רישיון בלתי בלעדי, חופשי מתמלוגים, לתקופה בלתי מוגבלת ולעולם כולו להשתמש, לשכפל, לשנות, להתאים, לפרסם, לתרגם ולהפיץ תוכן זה בכל מדיה. אתה מצהיר שיש לך את הזכות להעניק רישיון זה.',
+
+      'terms.disclaimer.title': 'כתב ויתור על אחריות',
+      'terms.disclaimer.content': 'האתר והתוכן בו מסופקים "כמו שהם" ו"כפי שהם זמינים" ללא אחריות מכל סוג, מפורשת או משתמעת. איננו מתחייבים שהאתר יהיה ללא הפרעות או שגיאות, שהפגמים יתוקנו, או שהאתר או השרתים יהיו נקיים מוירוסים או רכיבים מזיקים אחרים.',
+
       'terms.liability.title': 'הגבלת אחריות',
-      'terms.liability.content': 'במידה המרבית המותרת על פי החוק החל, משרדי האמבלברגר לא יהיו אחראים לכל נזק עקיף, מקרי, מיוחד, תוצאתי או עונשי, לרבות אובדן רווחים, נתונים או שימוש, הנובע מהשימוש שלך באתר שלנו או בקשר אליו.',
-      
-      'terms.indemnification.title': 'שיפוי',
-      'terms.indemnification.content': 'אתה מסכים לשפות, להגן ולהחזיק את משרדי האמבלברגר ונושאי המשרה, הדירקטורים, העובדים, הסוכנים והשותפים שלהם מכל וכל תביעות, התחייבויות, נזקים, הפסדים, עלויות, הוצאות או עמלות (לרבות שכר טרחת עורכי דין סביר) הנובעים מהשימוש שלך באתר שלנו או מהפרת תנאי שימוש אלה.',
-      
+      'terms.liability.content': 'במידה המרבית המותרת על פי החוק, שירות האמבלברגר לא יהיה אחראי לנזקים עקיפים, מקריים, מיוחדים, נזקים נסיבתיים או עונשיים, כולל אובדן רווחים, נתונים או שימוש, הנובעים או קשורים לשימושך באתר.',
+
+      'terms.indemnification.title': 'פיצוי',
+      'terms.indemnification.content': 'אתה מסכים לפצות, להגן ולהחזיק חסרי פגיעה את שירות האמבלברגר, עובדיו, מנהליו, סוכניו ושותפיו מכל טענה, אחריות, נזק, הפסד, עלות, הוצאה או תשלום (כולל שכר טרחה סבירים) הנובעים משימושך באתר או מהפרת תנאי השימוש הללו.',
+
       'terms.changes.title': 'שינויים בתנאים',
-      'terms.changes.content': 'אנו שומרים לעצמנו את הזכות לשנות תנאי שימוש אלה בכל עת. כל שינוי ייכנס לתוקף מיד עם פרסום תנאי השימוש המתוקנים באתר שלנו. המשך השימוש שלך באתר שלנו לאחר פרסום תנאי השימוש המתוקנים מהווה את קבלתך לשינויים אלה.',
-      
-      'terms.governing.title': 'החוק החל',
-      'terms.governing.content': 'תנאי שימוש אלה יחולו ויפורשו בהתאם לחוקי מדינת צפון קרוליינה, ללא התחשבות בהוראות ניגוד החוקים שלה.',
-      
+      'terms.changes.content': 'אנו שומרים לעצמנו את הזכות לשנות את תנאי השימוש בכל עת. שינויים ייכנסו לתוקף מיד עם פרסום תנאי השימוש המעודכנים באתר. השימוש המתמשך באתר לאחר פרסום השינויים מהווה הסכמתך להם.',
+
+      'terms.governing.title': 'חוק חל',
+      'terms.governing.content': 'תנאי השימוש הללו ינוהלו ויפורשו בהתאם לחוקי מדינת צפון קרוליינה, ללא התייחסות לסתירות בחוק.',
+
       'terms.contact.title': 'צור קשר',
-      'terms.contact.content': 'אם יש לך שאלות לגבי תנאי שימוש אלה, אנא צור עמנו קשר באמצעות',
+      'terms.contact.content': 'אם יש לך שאלות בנוגע לתנאי השימוש הללו, אנא צור קשר באמצעות',
       'terms.contact.link': 'הטופס המקוון שלנו',
     }
   }
