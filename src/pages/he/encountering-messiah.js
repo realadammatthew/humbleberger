@@ -26,14 +26,14 @@ const EncounteringMessiahHebrew = () => {
               <p><em>{t('encountering.section1.subtitle')}</em></p>
               
               <ul>
-                <li><a href="/he/blog/who-is-yeshua?from=encountering-messiah">מי הוא ישוע?</a></li>
-                <li><a href="/he/blog/did-yeshua-really-exist?from=encountering-messiah">האם ישוע באמת היה קיים?</a></li>
-                <li><a href="/he/blog/was-yeshua-really-sinless?from=encountering-messiah">האם ישוע היה באמת ללא חטא?</a></li>
-                <li><a href="/he/blog/was-yeshua-really-born-of-a-virgin?from=encountering-messiah">האם ישוע נולד באמת מבתולה?</a></li>
-                <li><a href="/he/blog/did-yeshua-really-die-on-a-cross?from=encountering-messiah">האם ישוע באמת מת על צלב?</a></li>
-                <li><a href="/he/blog/did-yeshua-really-rise-from-the-dead?from=encountering-messiah">האם ישוע באמת קם מהמתים?</a></li>
-                <li><a href="/he/blog/did-yeshua-really-ascend-into-heaven?from=encountering-messiah">האם ישוע באמת עלה לשמיים?</a></li>
-                <li><a href="/he/blog/is-yeshua-still-alive-today?from=encountering-messiah">האם ישוע עדיין חי היום?</a></li>
+                <li><a href={t('urls.encountering.whoIsYeshua')}>{t('encountering.section1.whoIsYeshua')}</a></li>
+                <li><a href={t('urls.encountering.didYeshuaExist')}>{t('encountering.section1.didYeshuaExist')}</a></li>
+                <li><a href={t('urls.encountering.wasYeshuaSinless')}>{t('encountering.section1.wasYeshuaSinless')}</a></li>
+                <li><a href={t('urls.encountering.wasYeshuaBornVirgin')}>{t('encountering.section1.wasYeshuaBornVirgin')}</a></li>
+                <li><a href={t('urls.encountering.didYeshuaDieCross')}>{t('encountering.section1.didYeshuaDieCross')}</a></li>
+                <li><a href={t('urls.encountering.didYeshuaRise')}>{t('encountering.section1.didYeshuaRise')}</a></li>
+                <li><a href={t('urls.encountering.didYeshuaAscend')}>{t('encountering.section1.didYeshuaAscend')}</a></li>
+                <li><a href={t('urls.encountering.isYeshuaAlive')}>{t('encountering.section1.isYeshuaAlive')}</a></li>
               </ul>
             </div>
 
@@ -44,10 +44,10 @@ const EncounteringMessiahHebrew = () => {
               <p><em>{t('encountering.section2.subtitle')}</em></p>
               
               <ul>
-                <li><a href="/he/blog/could-yeshua-be-the-messiah?from=encountering-messiah">האם ישוע יכול להיות המשיח שנחזה בתנ"ך?</a></li>
-                <li><a href="/he/blog/has-messiah-already-come?from=encountering-messiah">האם ייתכן שהמשיח כבר בא?</a></li>
-                <li><a href="/he/blog/what-will-the-messiah-do?from=encountering-messiah">מה אומרים כתבי הקודש העבריים שהמשיח יעשה?</a></li>
-                <li><em>מה אומר התנ"ך על המשיח?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><a href={t('urls.encountering.couldYeshuaBeMessiah')}>{t('encountering.section2.couldYeshuaBeMessiah')}</a></li>
+                <li><a href={t('urls.encountering.hasMessiahCome')}>{t('encountering.section2.hasMessiahCome')}</a></li>
+                <li><a href={t('urls.encountering.whatWillMessiahDo')}>{t('encountering.section2.whatWillMessiahDo')}</a></li>
+                <li><em>{t('encountering.section2.whatDoesTanakhSay')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
               </ul>
             </div>
 
@@ -58,11 +58,11 @@ const EncounteringMessiahHebrew = () => {
               <p><em>{t('encountering.section3.subtitle')}</em></p>
               
               <ul>
-                <li><em>מה אומר דניאל ט' על מועד בואו של המשיח?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>למי או למה מתייחס ישעיהו נ"ג בתנ"ך?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>מה אומר ירמיהו ל"א על 'הברית החדשה' בתנ"ך?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>האם יש דרכים שבהן ישוע מגשים, במקום להחליף, את כתבי הקודש העבריים?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>מה מלמד התנ"ך על גאולה?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section3.daniel9')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section3.isaiah53')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section3.jeremiah31')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section3.fulfillsNotReplaces')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section3.redemption')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
               </ul>
             </div>
 
@@ -73,14 +73,14 @@ const EncounteringMessiahHebrew = () => {
               <p><em>{t('encountering.section4.subtitle')}</em></p>
               
               <ul>
-                <li><a href="/he/blog/what-is-sin?from=encountering-messiah">מהו חטא?</a></li>
-                <li><em>איזה תפקיד מילא הקורבן בכפרה בתורה, וכיצד מטפלים בו כיום?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>איך מבינים כפרה היום ללא בית המקדש?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>מה זה אומר להיות ביחסים נכונים עם אלוהים?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>מה עליי לעשות כדי להיוושע?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>איך אני הופך להיות יהודי משיחי?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>מה זה אומר ללכת לגן עדן?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>האם הגיהנום קיים?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><a href={t('urls.encountering.whatIsSin')}>{t('encountering.section4.whatIsSin')}</a></li>
+                <li><em>{t('encountering.section4.sacrificeRole')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section4.atonementWithoutTemple')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section4.rightRelationship')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section4.whatToDoSaved')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section4.becomeJewishChristian')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section4.goToHeaven')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section4.hellExists')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
               </ul>
             </div>
 
@@ -91,9 +91,9 @@ const EncounteringMessiahHebrew = () => {
               <p><em>{t('encountering.section5.subtitle')}</em></p>
               
               <ul>
-                <li><em>האם אדם יכול להיות יהודי ולהאמין בישוע?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>מדוע חלק מהיהודים מאמינים בישוע כיום?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>מדוע חלק מהיהודים דוחים את הרעיון של ישוע כמשיח?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section5.jewishAndBelieve')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section5.whySomeBelieve')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section5.whySomeReject')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
               </ul>
             </div>
 
@@ -104,9 +104,9 @@ const EncounteringMessiahHebrew = () => {
               <p><em>{t('encountering.section6.subtitle')}</em></p>
               
               <ul>
-                <li><em>האם עליי לשמור את כל תרי"ג המצוות?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>האם יהודים משיחיים שומרים כשרות?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>האם יהודים משיחיים שומרים שבת?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section6.all613Mitzvot')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section6.keepKosher')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section6.keepShabbat')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
               </ul>
             </div>
 
@@ -117,9 +117,9 @@ const EncounteringMessiahHebrew = () => {
               <p><em>{t('encountering.section7.subtitle')}</em></p>
               
               <ul>
-                <li><em>איך אני יכול לפגוש באופן אישי את ישוע היום?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>מה זה אומר לקיים יחסים אישיים עם המשיח?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
-                <li><em>איך אני יכול לזהות את קולו של המשיח בחיי?</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section7.encounterYeshua')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section7.personalRelationship')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
+                <li><em>{t('encountering.section7.recognizeVoice')}</em> <span className="coming-soon">{t('encountering.comingSoon')}</span></li>
               </ul>
             </div>
 
