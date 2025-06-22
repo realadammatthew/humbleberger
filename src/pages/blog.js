@@ -53,7 +53,7 @@ const BlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) => {
               alignItems: 'center',
               gap: '0.5rem'
             }}
-            title={isHebrew ? 'הרשמה ל-RSS' : 'Subscribe to RSS Feed'}
+            title={t('rss.subscribe')}
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"

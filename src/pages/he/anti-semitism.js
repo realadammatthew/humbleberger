@@ -2,9 +2,11 @@ import Head from "next/head";
 import ReturnToHome from "../../components/return-to-home";
 import withBanner from "../../utils/with-banner";
 import { useLanguage } from "../../hooks/useLanguage";
+import { useTranslation } from "react-i18next";
 
 const AntiSemitismHebrew = () => {
   const { isHebrew } = useLanguage();
+  const { t } = useTranslation();
 
   return (
     <>
@@ -12,7 +14,7 @@ const AntiSemitismHebrew = () => {
         <title>הצהרה על אנטישמיות - משרדי האמבלברגר</title>
         <meta
           name="description"
-          content="הצהרת משרדי האמבלברגר על אנטישמיות ומחויבותנו לאמת המקראית ולאהבת העם היהודי."
+          content={t('legal.antiSemitism.description')}
         />
       </Head>
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>

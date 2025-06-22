@@ -31,11 +31,11 @@ const ContactPage = () => {
         router.push(isHebrew ? "/he/contact-success/" : "/contact-success/");
       } else {
         // You can add more robust error handling here
-        alert(isHebrew ? "אירעה שגיאה בשליחת הטופס. אנא נסה שוב." : "There was an error submitting the form. Please try again.");
+        alert(t('contact.error.submit'));
       }
     } catch (error) {
       console.error("Form submission error:", error);
-      alert(isHebrew ? "אירעה שגיאה בלתי צפויה. אנא נסה שוב מאוחר יותר." : "An unexpected error occurred. Please try again later.");
+      alert(t('contact.error.unexpected'));
     } finally {
       setSubmitting(false);
     }
@@ -44,10 +44,10 @@ const ContactPage = () => {
   return (
     <>
       <Head>
-        <title>{t('contact.title')} - {isHebrew ? 'שירותי האמבלברגר' : 'Humbleberger Ministries'}</title>
+        <title>{isHebrew ? t('pageTitle.contactHebrew') : t('pageTitle.contact')}</title>
         <meta
           name="description"
-          content={isHebrew ? 'צרו קשר עם שירותי האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.' : 'Get in touch with Humbleberger Ministries. Send us a message through our contact form.'}
+          content={isHebrew ? t('meta.contactHebrew') : t('meta.contact')}
         />
       </Head>
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
@@ -149,7 +149,7 @@ const ContactPage = () => {
                   opacity: submitting ? 0.6 : 1,
                 }}
               >
-                {submitting ? (isHebrew ? "שולח..." : "Sending...") : t('contact.send')}
+                {submitting ? t('contact.sending') : t('contact.send')}
               </button>
             </div>
           </form>

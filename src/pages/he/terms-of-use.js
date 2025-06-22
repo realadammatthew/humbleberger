@@ -3,9 +3,11 @@ import withBanner from "../../utils/with-banner";
 import Link from "next/link";
 import ReturnToHome from "../../components/return-to-home";
 import { useLanguage } from "../../hooks/useLanguage";
+import { useTranslation } from "react-i18next";
 
 const TermsOfUseHebrew = () => {
   const { isHebrew } = useLanguage();
+  const { t } = useTranslation();
 
   return (
     <>
@@ -13,7 +15,7 @@ const TermsOfUseHebrew = () => {
         <title>תנאי שימוש - משרדי האמבלברגר</title>
         <meta
           name="description"
-          content="תנאי השימוש של אתר משרדי האמבלברגר."
+          content={t('legal.terms.description')}
         />
       </Head>
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>

@@ -11,7 +11,7 @@ const ContactSuccessPage = () => {
   return (
     <>
       <Head>
-        <title>{t('contact.success.title')} - {isHebrew ? 'שירותי האמבלברגר' : 'Humbleberger Ministries'}</title>
+        <title>{isHebrew ? t('pageTitle.contactSuccessHebrew') : t('pageTitle.contactSuccess')}</title>
       </Head>
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
         <section style={{ textAlign: "center" }}>

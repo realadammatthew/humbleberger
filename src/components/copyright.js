@@ -21,7 +21,7 @@ const Copyright = () => {
           }}
         >
           {isHebrew 
-            ? 'שירותי האמבלברגר רשומים כחוק במדינת צפון קרוליינה וברשות המיסים של ארצות הברית כארגון ללא מטרות רווח. כל התרומות מוכרות לצורכי מס.'
+            ? t('copyright.legal')
             : 'Humbleberger Ministries is officially registered with the state of North Carolina and the Internal Revenue Service as a 501(c)(3) non-profit organization. All donations are tax-deductible.'
           }
         </p>
@@ -34,7 +34,7 @@ const Copyright = () => {
                 textDecoration: "underline",
               }}
             >
-              {isHebrew ? 'ספירת העלות' : 'Counting the Cost'}
+              {t('nav.countingCost')}
             </a>
           </Link>
           <span style={{ color: "#666" }}>|</span>
@@ -46,7 +46,7 @@ const Copyright = () => {
                 textDecoration: "underline",
               }}
             >
-              {isHebrew ? 'מי הוא ישוע?' : 'Who is Yeshua?'}
+              {t('nav.whoIsYeshua')}
             </a>
           </Link>
           <span style={{ color: "#666" }}>|</span>
@@ -58,7 +58,7 @@ const Copyright = () => {
                 textDecoration: "underline",
               }}
             >
-              {isHebrew ? 'מהשוחות' : 'From the Trenches'}
+              {t('nav.fromTrenches')}
             </a>
           </Link>
           <span style={{ color: "#666" }}>|</span>
@@ -70,7 +70,7 @@ const Copyright = () => {
                 textDecoration: "underline",
               }}
             >
-              {isHebrew ? 'השמע' : 'The Shema'}
+              {t('nav.shema')}
             </a>
           </Link>
           <span style={{ color: "#666" }}>|</span>
@@ -82,7 +82,7 @@ const Copyright = () => {
                 textDecoration: "underline",
               }}
             >
-              {isHebrew ? 'פגישה עם המשיח' : 'Encountering Messiah'}
+              {t('nav.encounteringMessiah')}
             </a>
           </Link>
         </div>
@@ -129,7 +129,7 @@ const Copyright = () => {
                 textDecoration: "underline",
               }}
             >
-              {isHebrew ? 'הצהרה נגד אנטישמיות' : 'Statement on Antisemitism'}
+              {t('nav.antisemitism')}
             </a>
           </Link>
         </div>
@@ -167,7 +167,7 @@ const Copyright = () => {
                 textDecoration: "underline",
               }}
             >
-              {isHebrew ? 'צ\'אט' : 'Chat'}
+              {t('common.chat')}
             </a>
           </Link>
           <span style={{ color: "#888" }}>|</span>
@@ -204,7 +204,7 @@ const Copyright = () => {
                 textDecoration: "underline",
               }}
             >
-              {isHebrew ? 'הרשמה' : 'Subscribe'}
+              {t('common.subscribe')}
             </a>
           </Link>
           <span style={{ color: "#888" }}>|</span>
@@ -219,7 +219,7 @@ const Copyright = () => {
                 textDecoration: "underline",
               }}
             >
-              {isHebrew ? 'תרמו' : 'Donate'}
+              {t('common.donate')}
             </a>
           </Link>
         </div>
@@ -266,7 +266,7 @@ const Copyright = () => {
                 textDecoration: "underline",
               }}
             >
-              {isHebrew ? 'זכויות יוצרים' : 'Copyright'}
+              {t('common.copyright')}
             </a>
           </Link>
           <span style={{ color: "#888" }}>|</span>

@@ -13,7 +13,7 @@ const CallToActionButtons = () => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        {isHebrew ? '💬 צ\'אט' : '💬 Chat'}
+        {t('button.chat')}
       </a>
       <a
         className="button"
@@ -21,7 +21,7 @@ const CallToActionButtons = () => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        {isHebrew ? '📰 הרשמה' : '📰 Subscribe'}
+        {t('button.subscribe')}
       </a>
       <a
         className="button donate-button"
@@ -29,7 +29,7 @@ const CallToActionButtons = () => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        {isHebrew ? '❤️ תרמו' : '❤️ Donate'}
+        {t('button.donate')}
       </a>
     </div>
   );

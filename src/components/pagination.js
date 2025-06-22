@@ -77,13 +77,13 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
   const isHebrewPage = typeof window !== 'undefined' && window.location.pathname.startsWith('/he');
 
   return (
-    <nav className="pagination" aria-label={isHebrewPage ? 'ניווט פוסטים בבלוג' : 'Blog posts pagination'} style={{ direction: isHebrewPage ? 'rtl' : 'ltr' }}>
+    <nav className="pagination" aria-label={t('pagination.ariaLabel')} style={{ direction: isHebrewPage ? 'rtl' : 'ltr' }}>
       <div className="pagination-container">
         {/* Previous button */}
         {currentPage > 1 && (
           <Link href={getPageUrl(currentPage - 1)} legacyBehavior>
-            <a className="pagination-nav pagination-prev" aria-label={isHebrewPage ? 'עמוד קודם' : 'Previous page'}>
-              {isHebrewPage ? 'הקודם ←' : '← Previous'}
+            <a className="pagination-nav pagination-prev" aria-label={t('pagination.prevAria')}>
+              {t('pagination.previous')}
             </a>
           </Link>
         )}
@@ -96,8 +96,8 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
         {/* Next button */}
         {currentPage < totalPages && (
           <Link href={getPageUrl(currentPage + 1)} legacyBehavior>
-            <a className="pagination-nav pagination-next" aria-label={isHebrewPage ? 'עמוד הבא' : 'Next page'}>
-              {isHebrewPage ? '→ הבא' : 'Next →'}
+            <a className="pagination-nav pagination-next" aria-label={t('pagination.nextAria')}>
+              {t('pagination.next')}
             </a>
           </Link>
         )}

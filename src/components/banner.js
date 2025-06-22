@@ -35,7 +35,7 @@ const Banner = () => {
             <a>
               <img
                 src="/logo.png"
-                alt={isHebrew ? "לוגו שירותי האמבלברגר" : "Humbleberger Ministries Logo"}
+                alt={t('banner.logoAlt')}
                 style={{ maxWidth: "120px", height: "auto" }}
               />
             </a>
@@ -75,7 +75,7 @@ const Banner = () => {
             maxWidth: "600px",
           }}
         >
-          {isHebrew ? 'אוונגליזם יהודי.' : 'Jewish Evangelism.'}
+          {t('banner.jewishEvangelism')}
         </p>
         <p
           style={{
@@ -85,7 +85,7 @@ const Banner = () => {
             maxWidth: "600px",
           }}
         >
-          {isHebrew ? 'הכרזת הבשורה.' : 'Gospel Proclamation.'}
+          {t('banner.gospelProclamation')}
         </p>
         <p
           style={{
@@ -97,7 +97,7 @@ const Banner = () => {
             fontStyle: "italic",
           }}
         >
-          {isHebrew ? 'משימה ממוקדת משיח.' : 'Messiah-Centered Mission.'}
+          {t('banner.messiahCentered')}
         </p>
         <p
           style={{
@@ -107,11 +107,7 @@ const Banner = () => {
             maxWidth: "600px",
           }}
         >
-          {isHebrew ? (
-            <>– <em>משרד <b>ירמיהו כ:ט</b></em> –</>
-          ) : (
-            <>– <em>A <b>Jeremiah 20:9</b> Ministry</em> –</>
-          )}
+          {t('banner.ministryReference')}
         </p>
       </div>
     </header>

@@ -75,8 +75,8 @@ const Search = ({ posts, onSearchResults, onSearchClear }) => {
           <button
             onClick={handleClearSearch}
             className="search-clear"
-            aria-label={isHebrew ? 'נקה חיפוש' : 'Clear search'}
-            title={isHebrew ? 'נקה חיפוש' : 'Clear search'}
+            aria-label={t('button.clearSearch')}
+            title={t('button.clearSearch')}
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -93,13 +93,14 @@ const Search = ({ posts, onSearchResults, onSearchClear }) => {
       {searchTerm && (
         <div className="search-results-info">
           {searchResults.length === 0 ? (
-            <p>{isHebrew ? `לא נמצאו פוסטים עבור "${searchTerm}"` : `No posts found for "${searchTerm}"`}</p>
+            <p>{t('search.noResultsFor', { searchTerm })}</p>
           ) : (
             <p>
-              {isHebrew 
-                ? `נמצאו ${searchResults.length} פוסט${searchResults.length !== 1 ? 'ים' : ''} עבור "${searchTerm}"`
-                : `Found ${searchResults.length} post${searchResults.length !== 1 ? 's' : ''} for "${searchTerm}"`
-              }
+              {t('search.resultsFound', { 
+                count: searchResults.length, 
+                plural: searchResults.length !== 1 ? (isHebrew ? 'ים' : 's') : '',
+                searchTerm 
+              })}
             </p>
           )}
         </div>

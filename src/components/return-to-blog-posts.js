@@ -26,7 +26,7 @@ const ReturnToBlogPosts = ({ referrer }) => {
       }
       setReturnUrl(hebrewReferrer);
       if (referrer === "/encountering-messiah") {
-        setReturnText(isHebrewPage ? 'פגישה עם המשיח' : 'Encountering Messiah');
+        setReturnText(t('nav.encounteringMessiah'));
       } else if (referrer === "/") {
         setReturnText(t('common.home'));
       } else {
@@ -39,7 +39,7 @@ const ReturnToBlogPosts = ({ referrer }) => {
     if (typeof window !== "undefined" && router.query.from) {
       if (router.query.from === "encountering-messiah") {
         setReturnUrl(isHebrewPage ? "/he/encountering-messiah" : "/encountering-messiah");
-        setReturnText(isHebrewPage ? 'פגישה עם המשיח' : 'Encountering Messiah');
+        setReturnText(t('nav.encounteringMessiah'));
       } else if (router.query.from === "home") {
         setReturnUrl(isHebrewPage ? "/he" : "/");
         setReturnText(t('common.home'));
@@ -57,7 +57,7 @@ const ReturnToBlogPosts = ({ referrer }) => {
             fontWeight: 600,
           }}
         >
-          {isHebrewPage ? '← חזרה ל' : '← Return to '}{returnText}
+          {t('common.returnTo')}{returnText}
         </a>
       </Link>
     </nav>

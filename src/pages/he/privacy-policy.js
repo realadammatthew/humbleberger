@@ -2,9 +2,11 @@ import Head from "next/head";
 import ReturnToHome from "../../components/return-to-home";
 import withBanner from "../../utils/with-banner";
 import { useLanguage } from "../../hooks/useLanguage";
+import { useTranslation } from "react-i18next";
 
 const PrivacyPolicyHebrew = () => {
   const { isHebrew } = useLanguage();
+  const { t } = useTranslation();
 
   return (
     <>
@@ -12,7 +14,7 @@ const PrivacyPolicyHebrew = () => {
         <title>מדיניות פרטיות - משרדי האמבלברגר</title>
         <meta
           name="description"
-          content="מדיניות הפרטיות של אתר משרדי האמבלברגר."
+          content={t('legal.privacy.description')}
         />
       </Head>
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>

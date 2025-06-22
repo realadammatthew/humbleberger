@@ -2,9 +2,11 @@ import Head from "next/head";
 import ReturnToHome from "../../components/return-to-home";
 import withBanner from "../../utils/with-banner";
 import { useLanguage } from "../../hooks/useLanguage";
+import { useTranslation } from "react-i18next";
 
 const CopyrightPageHebrew = () => {
   const { isHebrew } = useLanguage();
+  const { t } = useTranslation();
 
   return (
     <>
@@ -12,7 +14,7 @@ const CopyrightPageHebrew = () => {
         <title>זכויות יוצרים - משרדי האמבלברגר</title>
         <meta
           name="description"
-          content="מידע על זכויות יוצרים עבור משרדי האמבלברגר."
+          content={t('legal.copyright.description')}
         />
         <link rel="stylesheet" href="/styles.css" />
       </Head>

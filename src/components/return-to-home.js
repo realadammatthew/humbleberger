@@ -16,7 +16,7 @@ const ReturnToHome = () => {
             fontWeight: 600,
           }}
         >
-          {isHebrew ? '← חזרה לבית' : '← Return to Home'}
+          {t('common.returnToHome')}
         </a>
       </Link>
     </nav>
