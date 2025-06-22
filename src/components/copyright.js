@@ -20,13 +20,10 @@ const Copyright = () => {
             textAlign: "center",
           }}
         >
-          {isHebrew 
-            ? t('copyright.legal')
-            : 'Humbleberger Ministries is officially registered with the state of North Carolina and the Internal Revenue Service as a 501(c)(3) non-profit organization. All donations are tax-deductible.'
-          }
+          {t('copyright.legal')}
         </p>
         <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "0.5rem", marginTop: "1.5rem" }}>
-          <Link href={isHebrew ? "/he/blog/counting-the-cost?from=home" : "/blog/counting-the-cost?from=home"} legacyBehavior>
+          <Link href={t('urls.internal.countingCostFromHome')} legacyBehavior>
             <a
               style={{
                 color: "#666",
@@ -38,7 +35,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#666" }}>|</span>
-          <Link href={isHebrew ? "/he/blog/who-is-yeshua?from=home" : "/blog/who-is-yeshua?from=home"} legacyBehavior>
+          <Link href={t('urls.internal.whoIsYeshuaFromHome')} legacyBehavior>
             <a
               style={{
                 color: "#666",
@@ -50,7 +47,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#666" }}>|</span>
-          <Link href={isHebrew ? "/he/blog/from-the-trenches-an-evangelism-guide?from=home" : "/blog/from-the-trenches-an-evangelism-guide?from=home"} legacyBehavior>
+          <Link href={t('urls.internal.fromTrenchesFromHome')} legacyBehavior>
             <a
               style={{
                 color: "#666",
@@ -62,7 +59,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#666" }}>|</span>
-          <Link href={isHebrew ? "/he/blog/yeshua-and-the-shema?from=home" : "/blog/yeshua-and-the-shema?from=home"} legacyBehavior>
+          <Link href={t('urls.internal.shemaFromHome')} legacyBehavior>
             <a
               style={{
                 color: "#666",
@@ -74,7 +71,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#666" }}>|</span>
-          <Link href={isHebrew ? "/he/encountering-messiah" : "/encountering-messiah"} legacyBehavior>
+          <Link href={t('urls.internal.encounteringMessiah')} legacyBehavior>
             <a
               style={{
                 color: "#666",
@@ -97,7 +94,7 @@ const Copyright = () => {
             gap: "0.5rem",
           }}
         >
-          <Link href={isHebrew ? "/he/mission" : "/mission"} legacyBehavior>
+          <Link href={t('urls.internal.mission')} legacyBehavior>
             <a
               style={{
                 color: "#666",
@@ -109,7 +106,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#666" }}>|</span>
-          <Link href={isHebrew ? "/he/statement-of-faith" : "/statement-of-faith"} legacyBehavior>
+          <Link href={t('urls.internal.statementOfFaith')} legacyBehavior>
             <a
               style={{
                 color: "#666",
@@ -121,7 +118,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#666" }}>|</span>
-          <Link href={isHebrew ? "/he/anti-semitism" : "/anti-semitism"} legacyBehavior>
+          <Link href={t('urls.internal.antisemitism')} legacyBehavior>
             <a
               style={{
                 color: "#666",
@@ -144,7 +141,7 @@ const Copyright = () => {
             gap: "0.5rem",
           }}
         >
-          <Link href={isHebrew ? "/he" : "/"} legacyBehavior>
+          <Link href={t('urls.internal.home')} legacyBehavior>
             <a
               style={{
                 color: "#888",
@@ -157,7 +154,7 @@ const Copyright = () => {
           </Link>
           <span style={{ color: "#888" }}>|</span>
           <Link
-            href={isHebrew ? "https://chat.humbleberger.org/he?translation=csb" : "https://chat.humbleberger.org/en?translation=csb"}
+            href={t('urls.chat')}
             legacyBehavior
           >
             <a
@@ -171,7 +168,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#888" }}>|</span>
-          <Link href={isHebrew ? "/he/blog" : "/blog"} legacyBehavior>
+          <Link href={t('urls.internal.blog')} legacyBehavior>
             <a
               style={{
                 color: "#888",
@@ -183,7 +180,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#888" }}>|</span>
-          <Link href={isHebrew ? "/rss-he.xml" : "/rss.xml"} legacyBehavior>
+          <Link href={t('urls.internal.rss')} legacyBehavior>
             <a
               style={{
                 color: "#888",
@@ -196,7 +193,7 @@ const Copyright = () => {
           </Link>
           <span style={{ color: "#888" }}>|</span>
 
-          <Link href={isHebrew ? "https://mailchi.mp/2757d0257dda/humbleberger-ministries-he" : "https://eepurl.com/ja6zNY"} legacyBehavior>
+          <Link href={t('urls.newsletter')} legacyBehavior>
             <a
               style={{
                 color: "#888",
@@ -209,7 +206,7 @@ const Copyright = () => {
           </Link>
           <span style={{ color: "#888" }}>|</span>
           <Link
-            href="https://donorbox.org/humbleberger-ministries"
+            href={t('urls.donate')}
             legacyBehavior
           >
             <a
@@ -234,7 +231,7 @@ const Copyright = () => {
             gap: "0.5rem",
           }}
         >
-          <Link href={isHebrew ? "/he/privacy-policy" : "/privacy-policy"} legacyBehavior>
+          <Link href={t('urls.internal.privacyPolicy')} legacyBehavior>
             <a
               style={{
                 color: "#888",
@@ -246,7 +243,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#888" }}>|</span>
-          <Link href={isHebrew ? "/he/terms-of-use" : "/terms-of-use"} legacyBehavior>
+          <Link href={t('urls.internal.termsOfUse')} legacyBehavior>
             <a
               style={{
                 color: "#888",
@@ -258,7 +255,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#888" }}>|</span>
-          <Link href={isHebrew ? "/he/copyright" : "/copyright"} legacyBehavior>
+          <Link href={t('urls.internal.copyright')} legacyBehavior>
             <a
               style={{
                 color: "#888",
@@ -270,7 +267,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#888" }}>|</span>
-          <Link href={isHebrew ? "/he/contact" : "/contact"} legacyBehavior>
+          <Link href={t('urls.internal.contact')} legacyBehavior>
             <a
               style={{
                 color: "#888",

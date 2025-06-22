@@ -28,7 +28,7 @@ const ContactPage = () => {
       });
 
       if (response.ok) {
-        router.push(isHebrew ? "/he/contact-success/" : "/contact-success/");
+        router.push(t('urls.internal.contactSuccess'));
       } else {
         // You can add more robust error handling here
         alert(t('contact.error.submit'));

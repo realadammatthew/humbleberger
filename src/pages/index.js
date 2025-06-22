@@ -23,7 +23,7 @@ const Home = () => {
           </p>
           <div className="home-cta-buttons">
             <a
-              href={isHebrew ? "/he/blog/who-is-yeshua?from=home" : "/blog/who-is-yeshua?from=home"}
+              href={t('urls.internal.whoIsYeshuaFromHome')}
               className="button"
               style={{
                 display: "inline-flex",
@@ -48,7 +48,7 @@ const Home = () => {
               {t('home.cta.whoIsYeshua')}
             </a>
             <a
-              href={isHebrew ? "/he/encountering-messiah" : "/encountering-messiah"}
+              href={t('urls.internal.encounteringMessiah')}
               className="button"
               style={{
                 display: "inline-flex",
@@ -92,13 +92,13 @@ const Home = () => {
             <div className="button-group">
               <a
                 className="button"
-                href="https://chat.humbleberger.org/en?translation=csb"
+                href={t('urls.chat')}
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 {t('home.connect.chat')}
               </a>
-              <Link href={isHebrew ? "/he/blog" : "/blog"} legacyBehavior>
+              <Link href={t('urls.internal.blog')} legacyBehavior>
                 <a className="button">
                   {t('home.connect.blog')}
                 </a>
@@ -114,7 +114,7 @@ const Home = () => {
                 </a>
                 <a
                   className="button"
-                  href="https://www.9marks.org/church-search/"
+                  href={t('urls.synagogue')}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -122,18 +122,18 @@ const Home = () => {
                 </a>
                 <a
                   className="button"
-                  href="https://eepurl.com/ja6zNY"
+                  href={t('urls.newsletter')}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   {t('home.connect.newsletter')}
                 </a>
-                <a className="button" href={isHebrew ? "/he/contact" : "/contact"}>
+                <a className="button" href={t('urls.internal.contact')}>
                   {t('home.connect.contact')}
                 </a>
                 <a
                   className="button"
-                  href="https://x.com/humbleberger"
+                  href={t('urls.twitter')}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -141,7 +141,7 @@ const Home = () => {
                 </a>
                 <a
                   className="button donate-button"
-                  href="https://donorbox.org/humbleberger-ministries"
+                  href={t('urls.donate')}
                   target="_blank"
                   rel="noopener noreferrer"
                 >

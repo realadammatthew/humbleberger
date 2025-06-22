@@ -189,6 +189,38 @@ const resources = {
       
       // Organization Name
       'org.name': 'Humbleberger\nMinistries',
+      
+      // URLs
+      'urls.chat': 'https://chat.humbleberger.org/en?translation=csb',
+      'urls.newsletter': 'https://eepurl.com/ja6zNY',
+      'urls.donate': 'https://donorbox.org/humbleberger-ministries',
+      'urls.synagogue': 'https://www.9marks.org/church-search/',
+      'urls.twitter': 'https://x.com/humbleberger',
+      'urls.bible': 'https://app.logos.com/books/LLS%3ACSB/references/bible%2Bcsb2.64.1.1?layout=reading&rightSidebar=closed',
+      
+      // Internal URLs
+      'urls.internal.blog': '/blog',
+      'urls.internal.home': '/',
+      'urls.internal.contact': '/contact',
+      'urls.internal.mission': '/mission',
+      'urls.internal.encounteringMessiah': '/encountering-messiah',
+      'urls.internal.countingCost': '/blog/counting-the-cost',
+      'urls.internal.whoIsYeshua': '/blog/who-is-yeshua',
+      'urls.internal.fromTrenches': '/blog/from-the-trenches-an-evangelism-guide',
+      'urls.internal.shema': '/blog/yeshua-and-the-shema',
+      'urls.internal.antisemitism': '/anti-semitism',
+      'urls.internal.statementOfFaith': '/statement-of-faith',
+      'urls.internal.privacyPolicy': '/privacy-policy',
+      'urls.internal.termsOfUse': '/terms-of-use',
+      'urls.internal.copyright': '/copyright',
+      'urls.internal.rss': '/rss.xml',
+      'urls.internal.contactSuccess': '/contact-success',
+      
+      // Internal URLs with parameters
+      'urls.internal.countingCostFromHome': '/blog/counting-the-cost?from=home',
+      'urls.internal.whoIsYeshuaFromHome': '/blog/who-is-yeshua?from=home',
+      'urls.internal.fromTrenchesFromHome': '/blog/from-the-trenches-an-evangelism-guide?from=home',
+      'urls.internal.shemaFromHome': '/blog/yeshua-and-the-shema?from=home',
     }
   },
   he: {
@@ -378,6 +410,38 @@ const resources = {
       
       // Organization Name
       'org.name': 'שירותי\nהאמבלברגר',
+      
+      // URLs
+      'urls.chat': 'https://chat.humbleberger.org/he?translation=csb',
+      'urls.newsletter': 'https://mailchi.mp/2757d0257dda/humbleberger-ministries-he',
+      'urls.donate': 'https://donorbox.org/humbleberger-ministries',
+      'urls.synagogue': 'https://app.kehila.org/he/directory',
+      'urls.twitter': 'https://x.com/humbleberger',
+      'urls.bible': '/assets/Modern-Hebrew-New-Testament.pdf',
+      
+      // Internal URLs
+      'urls.internal.blog': '/he/blog',
+      'urls.internal.home': '/he',
+      'urls.internal.contact': '/he/contact',
+      'urls.internal.mission': '/he/mission',
+      'urls.internal.encounteringMessiah': '/he/encountering-messiah',
+      'urls.internal.countingCost': '/he/blog/counting-the-cost',
+      'urls.internal.whoIsYeshua': '/he/blog/who-is-yeshua',
+      'urls.internal.fromTrenches': '/he/blog/from-the-trenches-an-evangelism-guide',
+      'urls.internal.shema': '/he/blog/yeshua-and-the-shema',
+      'urls.internal.antisemitism': '/he/anti-semitism',
+      'urls.internal.statementOfFaith': '/he/statement-of-faith',
+      'urls.internal.privacyPolicy': '/he/privacy-policy',
+      'urls.internal.termsOfUse': '/he/terms-of-use',
+      'urls.internal.copyright': '/he/copyright',
+      'urls.internal.rss': '/rss-he.xml',
+      'urls.internal.contactSuccess': '/he/contact-success',
+      
+      // Internal URLs with parameters
+      'urls.internal.countingCostFromHome': '/he/blog/counting-the-cost?from=home',
+      'urls.internal.whoIsYeshuaFromHome': '/he/blog/who-is-yeshua?from=home',
+      'urls.internal.fromTrenchesFromHome': '/he/blog/from-the-trenches-an-evangelism-guide?from=home',
+      'urls.internal.shemaFromHome': '/he/blog/yeshua-and-the-shema?from=home',
     }
   }
 };

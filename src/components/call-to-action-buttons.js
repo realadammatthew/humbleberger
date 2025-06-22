@@ -9,7 +9,7 @@ const CallToActionButtons = () => {
     <div className="blog-post-ctas" style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
       <a
         className="button"
-        href={isHebrew ? "https://chat.humbleberger.org/he?translation=csb" : "https://chat.humbleberger.org/en?translation=csb"}
+        href={t('urls.chat')}
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -17,7 +17,7 @@ const CallToActionButtons = () => {
       </a>
       <a
         className="button"
-        href={isHebrew ? "https://mailchi.mp/2757d0257dda/humbleberger-ministries-he" : "https://eepurl.com/ja6zNY"}
+        href={t('urls.newsletter')}
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -25,7 +25,7 @@ const CallToActionButtons = () => {
       </a>
       <a
         className="button donate-button"
-        href="https://donorbox.org/humbleberger-ministries"
+        href={t('urls.donate')}
         target="_blank"
         rel="noopener noreferrer"
       >

@@ -23,7 +23,7 @@ const HebrewHome = () => {
           </p>
           <div className="home-cta-buttons">
             <a
-              href="/he/blog/who-is-yeshua?from=home"
+              href={t('urls.internal.whoIsYeshuaFromHome')}
               className="button"
               style={{
                 display: "inline-flex",
@@ -48,7 +48,7 @@ const HebrewHome = () => {
               {t('home.cta.whoIsYeshua')}
             </a>
             <a
-              href="/he/encountering-messiah"
+              href={t('urls.internal.encounteringMessiah')}
               className="button"
               style={{
                 display: "inline-flex",
@@ -92,13 +92,13 @@ const HebrewHome = () => {
             <div className="button-group">
               <a
                 className="button"
-                href="https://chat.humbleberger.org/he?translation=csb"
+                href={t('urls.chat')}
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 {t('home.connect.chat')}
               </a>
-              <Link href="/he/blog" legacyBehavior>
+              <Link href={t('urls.internal.blog')} legacyBehavior>
                 <a className="button">
                   {t('home.connect.blog')}
                 </a>
@@ -106,7 +106,7 @@ const HebrewHome = () => {
               <div className="other-buttons-grid">
                 <a
                   className="button"
-                  href="../../assets/Modern-Hebrew-New-Testament.pdf"
+                  href={t('urls.bible')}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -114,7 +114,7 @@ const HebrewHome = () => {
                 </a>
                 <a
                   className="button"
-                  href="https://app.kehila.org/he/directory"
+                  href={t('urls.synagogue')}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -122,18 +122,18 @@ const HebrewHome = () => {
                 </a>
                 <a
                   className="button"
-                  href="https://mailchi.mp/2757d0257dda/humbleberger-ministries-he"
+                  href={t('urls.newsletter')}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   {t('home.connect.newsletter')}
                 </a>
-                <a className="button" href="/he/contact">
+                <a className="button" href={t('urls.internal.contact')}>
                   {t('home.connect.contact')}
                 </a>
                 <a
                   className="button"
-                  href="https://x.com/humbleberger"
+                  href={t('urls.twitter')}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -141,7 +141,7 @@ const HebrewHome = () => {
                 </a>
                 <a
                   className="button donate-button"
-                  href="https://donorbox.org/humbleberger-ministries"
+                  href={t('urls.donate')}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
