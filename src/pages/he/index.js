@@ -1,30 +1,28 @@
 import Link from "next/link";
-import withBanner from "../utils/with-banner";
-import CookieBanner from "../components/cookies";
-import LanguageSwitcher from "../components/language-switcher";
+import withBanner from "../../utils/with-banner";
+import CookieBanner from "../../components/cookies";
+import LanguageSwitcher from "../../components/language-switcher";
 
-const Home = () => (
+const HebrewHome = () => (
   <>
     <LanguageSwitcher />
-    <main>
+    <main style={{ direction: 'rtl', textAlign: 'right' }}>
       <section>
-        <h2>About the Mission</h2>
+        <h2>אודות המשימה</h2>
         <p style={{textAlign: "center", fontSize: "1.6rem"}}>
-          Welcome to Humbleberger Ministries – where we proclaim the gospel of
-          Yeshua (Jesus) with a special heart for the Jewish people. Our mission
-          is rooted in Romans 1:16: "For I am not ashamed of the gospel, because
-          it is the power of God for salvation to everyone who believes, first
-          to the Jew, and also to the Greek."
+          ברוכים הבאים למשרדים המאוחדים של המבלברגר – שם אנו מכריזים על הבשורה של
+          ישוע (ישו) עם לב מיוחד לעם היהודי. המשימה שלנו מושרשת ברומים א':16: "כי
+          אינני בוש בבשורה, כי היא כוח אלוהים לישועה לכל המאמין, ליהודי בראשונה,
+          וגם ליווני."
         </p>
         <p style={{textAlign: "center", fontSize: "1.3rem"}}>
-          Through discipleship, street outreach, and digital tools, we're
-          equipping believers to reach those searching for truth with love and
-          truth. Got questions? You can chat with us or find a Bible-believing
-          church near you.
+          דרך תלמידות, הפצה ברחובות, וכלים דיגיטליים, אנו מכשירים מאמינים להגיע
+          לאלה המחפשים אמת באהבה ובאמת. יש לכם שאלות? אתם יכולים לצ'וטט איתנו או
+          למצוא כנסייה מאמינה בתנ"ך לידכם.
         </p>
         <div className="home-cta-buttons">
           <a
-            href="/blog/who-is-yeshua?from=home"
+            href="/he/blog/who-is-yeshua?from=home"
             className="button"
             style={{
               display: "inline-flex",
@@ -46,10 +44,10 @@ const Home = () => (
               letterSpacing: "0.05em"
             }}
           >
-            Who is Yeshua?
+            מי הוא ישוע?
           </a>
           <a
-            href="/encountering-messiah"
+            href="/he/encountering-messiah"
             className="button"
             style={{
               display: "inline-flex",
@@ -71,13 +69,13 @@ const Home = () => (
               letterSpacing: "0.05em"
             }}
           >
-            Encountering Messiah
+            פגישה עם המשיח
           </a>
         </div>
       </section>
       <section>
         <div style={{ margin: "2rem 0", textAlign: "center" }}>
-          <h2>Connect With Us</h2>
+          <h2>צרו קשר איתנו</h2>
           <p
             style={{
               fontWeight: "bold",
@@ -88,7 +86,7 @@ const Home = () => (
               color: "#fff",
             }}
           >
-            🤔 Curious about Yeshua or the Bible? We'd love to chat with you!
+            🤔 סקרנים לגבי ישוע או התנ"ך? נשמח לצ'וטט איתכם!
           </p>
           <div className="button-group">
             <a
@@ -97,11 +95,11 @@ const Home = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              💬 Chat with Us
+              💬 צ'וטטו איתנו
             </a>
-            <Link href="/blog" legacyBehavior>
+            <Link href="/he/blog" legacyBehavior>
               <a className="button">
-                🌐 Read Our Blog
+                🌐 קראו את הבלוג שלנו
               </a>
             </Link>
             <div className="other-buttons-grid">
@@ -111,7 +109,7 @@ const Home = () => (
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                📖 Read the Bible
+                📖 קראו את התנ"ך
               </a>
               <a
                 className="button"
@@ -119,7 +117,7 @@ const Home = () => (
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                📍 Find a Local Synagogue
+                📍 מצאו בית כנסת מקומי
               </a>
               <a
                 className="button"
@@ -127,10 +125,10 @@ const Home = () => (
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                📰 Get Our Newsletter
+                📰 קבלו את הניוזלטר שלנו
               </a>
-              <a className="button" href="/contact">
-                📬 Contact Us
+              <a className="button" href="/he/contact">
+                📬 צרו קשר
               </a>
               <a
                 className="button"
@@ -138,7 +136,7 @@ const Home = () => (
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                𝕏 Follow Us on X
+                𝕏 עקבו אחרינו ב-X
               </a>
               <a
                 className="button donate-button"
@@ -146,7 +144,7 @@ const Home = () => (
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                ❤️ Donate
+                ❤️ תרמו
               </a>
             </div>
           </div>
@@ -157,4 +155,4 @@ const Home = () => (
   </>
 );
 
-export default withBanner(Home);
+export default withBanner(HebrewHome); 
