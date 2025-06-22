@@ -44,7 +44,7 @@ const HebrewBlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) =>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
           <h2 className="blog-list-title">{t('blog.title')}</h2>
           <a 
-            href="/rss.xml" 
+            href="/rss-he.xml" 
             style={{ 
               color: '#ffd700', 
               textDecoration: 'none', 
