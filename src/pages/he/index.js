@@ -114,7 +114,7 @@ const HebrewHome = () => {
                 </a>
                 <a
                   className="button"
-                  href="https://www.9marks.org/church-search/"
+                  href="https://app.kehila.org/he/directory"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
