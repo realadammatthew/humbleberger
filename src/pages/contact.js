@@ -44,10 +44,10 @@ const ContactPage = () => {
   return (
     <>
       <Head>
-        <title>{isHebrew ? t('pageTitle.contactHebrew') : t('pageTitle.contact')}</title>
+        <title>{t('pageTitle.contact')}</title>
         <meta
           name="description"
-          content={isHebrew ? t('meta.contactHebrew') : t('meta.contact')}
+          content={t('meta.contact')}
         />
       </Head>
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
@@ -58,7 +58,7 @@ const ContactPage = () => {
           </p>
           <form
             onSubmit={handleSubmit}
-            action="https://formspree.io/f/xnnvbwvz"
+            action={t('urls.contactForm')}
             method="POST"
             style={{
               display: "flex",

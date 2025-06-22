@@ -1,11 +1,9 @@
 import { useTranslation } from "react-i18next";
-import { useLanguage } from "../../hooks/useLanguage";
 import ReturnToHome from "../../components/return-to-home";
 import withBanner from "../../utils/with-banner";
 
 const HebrewContactSuccess = () => {
   const { t } = useTranslation();
-  const { isHebrew } = useLanguage();
 
   return (
     <main style={{ direction: 'rtl', textAlign: 'right' }}>

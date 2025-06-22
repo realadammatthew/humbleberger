@@ -180,12 +180,9 @@ const resources = {
       // Page Titles
       'pageTitle.contact': 'Contact Us - Humbleberger Ministries',
       'pageTitle.contactSuccess': 'Message Sent! - Humbleberger Ministries',
-      'pageTitle.contactHebrew': 'Contact Us - שירותי האמבלברגר',
-      'pageTitle.contactSuccessHebrew': 'ההודעה נשלחה! - שירותי האמבלברגר',
       
       // Meta Descriptions
       'meta.contact': 'Get in touch with Humbleberger Ministries. Send us a message through our contact form.',
-      'meta.contactHebrew': 'צרו קשר עם שירותי האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.',
       
       // Organization Name
       'org.name': 'Humbleberger\nMinistries',
@@ -197,6 +194,7 @@ const resources = {
       'urls.synagogue': 'https://www.9marks.org/church-search/',
       'urls.twitter': 'https://x.com/humbleberger',
       'urls.bible': 'https://app.logos.com/books/LLS%3ACSB/references/bible%2Bcsb2.64.1.1?layout=reading&rightSidebar=closed',
+      'urls.contactForm': 'https://formspree.io/f/xnnvbwvz',
       
       // Internal URLs
       'urls.internal.blog': '/blog',
@@ -235,6 +233,27 @@ const resources = {
       'common.rss': 'RSS',
       'common.fein.title': 'FEIN',
       'common.fein.number': '33-4533201',
+      
+      // Anti-Semitism Page
+      'antiSemitism.title': 'Statement on Antisemitism - Humbleberger Ministries',
+      'antiSemitism.description': 'Humbleberger Ministries\' statement on antisemitism and our commitment to biblical truth and love for the Jewish people.',
+      'antiSemitism.heading': 'Statement on Antisemitism, Jewish Identity, and Gospel Love',
+      'antiSemitism.intro': 'As a ministry founded upon the gospel of Jesus Christ and committed to the salvation of the Jewish people and the nations, Humbleberger Ministries stands firmly and unequivocally against all forms of antisemitism, both past and present, whether political, cultural, social, or theological.',
+      
+      'antiSemitism.section1.title': 'I. A Posture of Love and Respect',
+      'antiSemitism.section1.content': 'Humbleberger Ministries is deeply committed to honoring the Jewish people as beloved in God\'s redemptive history and heritage. We grieve the ways Jewish communities have suffered throughout history, including injustices carried out in the name of Christianity. As followers of Jesus, we are called to walk in humility and love — not only in doctrine, but in how we carry and communicate the gospel.',
+      
+      'antiSemitism.section2.title': 'II. Honoring the Jewish People and Their Calling',
+      'antiSemitism.section2.content': 'We recognize and rejoice in the unique role of the Jewish people in God\'s redemptive plan. The covenants, the promises, the patriarchs, the prophets, and ultimately the Messiah have come through them (Romans 9:4–5). We do not seek to erase Jewish identity or heritage, but to affirm its deep significance — believing that its fullest expression is found in Yeshua, the Messiah promised in the Hebrew Scriptures.',
+      
+      'antiSemitism.section3.title': 'III. A Ministry of Invitation, Not Coercion',
+      'antiSemitism.section3.content': 'We believe that Jesus is the Messiah of Israel and Savior of the world. With deep respect, we seek to share this good news with Jewish people not through pressure or argument, but through Scripture, prayer, relationship, and testimony — always grounded in love and reverence.',
+      
+      'antiSemitism.section4.title': 'IV. A Commitment to Reconciliation and Integrity',
+      'antiSemitism.section4.content': 'We acknowledge the Church\'s need to walk humbly before the Jewish people, recognizing past failures and seeking to be a bridge, not a barrier. We stand against every form of antisemitism — not simply as a historical evil, but as something contrary to the heart of God.',
+      
+      'antiSemitism.section5.title': 'V. Our Heart for the Jewish People',
+      'antiSemitism.section5.content': 'Our desire is not to win arguments but to share hope. We long for Jewish people everywhere to encounter the Messiah foretold in their own Scriptures — the One who fulfills the law and the prophets, brings peace with God, and invites all people, Jew and Gentile, into one redeemed family in Christ.',
     }
   },
   he: {
@@ -413,14 +432,11 @@ const resources = {
       'rss.subscribe': 'הרשמה ל-RSS',
       
       // Page Titles
-      'pageTitle.contact': 'Contact Us - Humbleberger Ministries',
-      'pageTitle.contactSuccess': 'Message Sent! - Humbleberger Ministries',
-      'pageTitle.contactHebrew': 'צרו קשר - שירותי האמבלברגר',
-      'pageTitle.contactSuccessHebrew': 'ההודעה נשלחה! - שירותי האמבלברגר',
+      'pageTitle.contact': 'צרו קשר - שירותי האמבלברגר',
+      'pageTitle.contactSuccess': 'ההודעה נשלחה! - שירותי האמבלברגר',
       
       // Meta Descriptions
-      'meta.contact': 'Get in touch with Humbleberger Ministries. Send us a message through our contact form.',
-      'meta.contactHebrew': 'צרו קשר עם שירותי האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.',
+      'meta.contact': 'צרו קשר עם שירותי האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.',
       
       // Organization Name
       'org.name': 'שירותי\nהאמבלברגר',
@@ -432,6 +448,7 @@ const resources = {
       'urls.synagogue': 'https://app.kehila.org/he/directory',
       'urls.twitter': 'https://x.com/humbleberger',
       'urls.bible': '/assets/Modern-Hebrew-New-Testament.pdf',
+      'urls.contactForm': 'https://formspree.io/f/xnnvbwvz',
       
       // Internal URLs
       'urls.internal.blog': '/he/blog',
@@ -470,6 +487,27 @@ const resources = {
       'common.rss': 'RSS',
       'common.fein.title': 'FEIN',
       'common.fein.number': '33-4533201',
+      
+      // Anti-Semitism Page
+      'antiSemitism.title': 'הצהרה נגד אנטישמיות - שירותי האמבלברגר',
+      'antiSemitism.description': 'הצהרת שירותי האמבלברגר על אנטישמיות ומחויבותנו לאמת המקראית ולאהבת העם היהודי.',
+      'antiSemitism.heading': 'הצהרה נגד אנטישמיות, זהות יהודית ואהבת הבשורה',
+      'antiSemitism.intro': 'כמשרד המבוסס על בשורת ישוע המשיח ומחויב לישועת העם היהודי והעמים, שירותי האמבלברגר עומדים בתקיפות ובלא סייג נגד כל צורות האנטישמיות, בעבר ובהווה, בין אם פוליטיות, תרבותיות, חברתיות או תאולוגיות.',
+      
+      'antiSemitism.section1.title': 'I. עמדה של אהבה וכבוד',
+      'antiSemitism.section1.content': 'שירותי האמבלברגר מחויבים עמוקות לכבוד העם היהודי כאהוב בהיסטוריה הגואלת של אלוהים ובמורשת. אנו מתאבלים על הדרכים שבהן קהילות יהודיות סבלו לאורך ההיסטוריה, כולל עוולות שבוצעו בשם הנצרות. כחסידי ישוע, אנו נקראים ללכת בענווה ובאהבה — לא רק בתורה, אלא באופן שבו אנו נושאים ומתקשרים את הבשורה.',
+      
+      'antiSemitism.section2.title': 'II. כבוד לעם היהודי ולקריאתם',
+      'antiSemitism.section2.content': 'אנו מכירים ומשמחים בתפקיד הייחודי של העם היהודי בתוכנית הגואלת של אלוהים. הבריתות, ההבטחות, האבות, הנביאים, ולבסוף המשיח הגיעו דרכם (רומים ט:4-5). אנו לא מבקשים למחוק זהות או מורשת יהודית, אלא לאשר את המשמעות העמוקה שלה — מאמינים שהביטוי המלא ביותר שלה נמצא בישוע, המשיח שהובטח בכתבי הקודש העבריים.',
+      
+      'antiSemitism.section3.title': 'III. משרד של הזמנה, לא כפייה',
+      'antiSemitism.section3.content': 'אנו מאמינים שישוע הוא המשיח של ישראל ומושיע העולם. בכבוד עמוק, אנו מבקשים לחלוק את הבשורה הטובה הזו עם אנשים יהודים לא דרך לחץ או ויכוח, אלא דרך הכתובים, תפילה, מערכת יחסים ועדות — תמיד מבוססים באהבה ויראת כבוד.',
+      
+      'antiSemitism.section4.title': 'IV. מחויבות לפיוס ויושרה',
+      'antiSemitism.section4.content': 'אנו מכירים בצורך של הכנסייה ללכת בענווה לפני העם היהודי, להכיר בכישלונות העבר ולבקש להיות גשר, לא מחסום. אנו עומדים נגד כל צורה של אנטישמיות — לא פשוט כרע היסטורי, אלא כדבר הסותר את לב אלוהים.',
+      
+      'antiSemitism.section5.title': 'V. ליבנו לעם היהודי',
+      'antiSemitism.section5.content': 'הרצון שלנו הוא לא לנצח ויכוחים אלא לחלוק תקווה. אנו משתוקקים שאנשים יהודים בכל מקום יפגשו את המשיח שניבא בכתבי הקודש שלהם — זה שממלא את התורה והנביאים, מביא שלום עם אלוהים, ומזמין את כל האנשים, יהודים וגויים, למשפחה אחת נגאלת במשיח.',
     }
   }
 };
