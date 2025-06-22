@@ -44,10 +44,10 @@ const ContactPage = () => {
   return (
     <>
       <Head>
-        <title>{t('contact.title')} - {isHebrew ? 'משרדים של האמבלברגר' : 'Humbleberger Ministries'}</title>
+        <title>{t('contact.title')} - {isHebrew ? 'שירותי האמבלברגר' : 'Humbleberger Ministries'}</title>
         <meta
           name="description"
-          content={isHebrew ? 'צרו קשר עם משרדים של האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.' : 'Get in touch with Humbleberger Ministries. Send us a message through our contact form.'}
+          content={isHebrew ? 'צרו קשר עם שירותי האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.' : 'Get in touch with Humbleberger Ministries. Send us a message through our contact form.'}
         />
       </Head>
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>

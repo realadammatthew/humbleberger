@@ -122,7 +122,7 @@ const HebrewHome = () => {
                 </a>
                 <a
                   className="button"
-                  href="https://eepurl.com/ja6zNY"
+                  href="https://mailchi.mp/2757d0257dda/humbleberger-ministries-he"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

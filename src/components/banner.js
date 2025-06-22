@@ -35,7 +35,7 @@ const Banner = () => {
             <a>
               <img
                 src="/logo.png"
-                alt={isHebrew ? "לוגו משרדים של האמבלברגר" : "Humbleberger Ministries Logo"}
+                alt={isHebrew ? "לוגו שירותי האמבלברגר" : "Humbleberger Ministries Logo"}
                 style={{ maxWidth: "120px", height: "auto" }}
               />
             </a>
@@ -54,7 +54,7 @@ const Banner = () => {
           >
             {isHebrew ? (
               <>
-                משרדים של
+                שירותי
                 <br />
                 האמבלברגר
               </>

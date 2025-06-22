@@ -141,7 +141,7 @@ Hebrew blog posts are stored in `src/copy/he/` and follow the same structure as 
 
 **כותרת משנה בעברית**
 
-**משרדים של האמבלברגר**
+**שירותי האמבלברגר**
 ---
 
 תוכן בעברית כאן...

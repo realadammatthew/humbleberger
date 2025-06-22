@@ -21,7 +21,7 @@ const Copyright = () => {
           }}
         >
           {isHebrew 
-            ? 'משרדים של האמבלברגר רשומים רשמית במדינת צפון קרוליינה ובשירות הכנסות הפנים כארגון ללא מטרות רווח 501(c)(3). כל התרומות ניתנות לניכוי מס.'
+            ? 'שירותי האמבלברגר רשומים כחוק במדינת צפון קרוליינה וברשות המיסים של ארצות הברית כארגון ללא מטרות רווח. כל התרומות מוכרות לצורכי מס.'
             : 'Humbleberger Ministries is officially registered with the state of North Carolina and the Internal Revenue Service as a 501(c)(3) non-profit organization. All donations are tax-deductible.'
           }
         </p>
@@ -183,7 +183,7 @@ const Copyright = () => {
             </a>
           </Link>
           <span style={{ color: "#888" }}>|</span>
-          <Link href="/rss.xml" legacyBehavior>
+          <Link href={isHebrew ? "/rss-he.xml" : "/rss.xml"} legacyBehavior>
             <a
               style={{
                 color: "#888",
@@ -196,7 +196,7 @@ const Copyright = () => {
           </Link>
           <span style={{ color: "#888" }}>|</span>
 
-          <Link href="https://eepurl.com/ja6zNY" legacyBehavior>
+          <Link href={isHebrew ? "https://mailchi.mp/2757d0257dda/humbleberger-ministries-he" : "https://eepurl.com/ja6zNY"} legacyBehavior>
             <a
               style={{
                 color: "#888",

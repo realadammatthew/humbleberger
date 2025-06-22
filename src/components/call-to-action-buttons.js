@@ -17,7 +17,7 @@ const CallToActionButtons = () => {
       </a>
       <a
         className="button"
-        href="https://eepurl.com/ja6zNY"
+        href={isHebrew ? "https://mailchi.mp/2757d0257dda/humbleberger-ministries-he" : "https://eepurl.com/ja6zNY"}
         target="_blank"
         rel="noopener noreferrer"
       >
