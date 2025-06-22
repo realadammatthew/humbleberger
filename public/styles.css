@@ -525,10 +525,32 @@ section h2 {
 
 .search-loading {
   position: absolute;
-  right: 1rem;
+  right: 2.5rem;
   top: 50%;
   transform: translateY(-50%);
-  color: #2563eb;
+  color: #a0aec0;
+}
+
+.search-clear {
+  position: absolute;
+  right: 2.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: #a0aec0;
+  cursor: pointer;
+  padding: 0.25rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.search-clear:hover {
+  color: #e2e8f0;
+  background: rgba(160, 174, 192, 0.1);
 }
 
 .spinner {
@@ -568,5 +590,111 @@ section h2 {
   
   .search-loading {
     right: 0.8rem;
+  }
+}
+
+/* Pagination Styles */
+.pagination {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.pagination-nav {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background: linear-gradient(135deg, #2563eb 0%, #1a237e 100%);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.pagination-nav:hover {
+  background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.pagination-pages {
+  display: flex;
+  gap: 0.25rem;
+  align-items: center;
+}
+
+.pagination-page {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.5rem;
+  height: 2.5rem;
+  padding: 0 0.5rem;
+  background: #2d3748;
+  color: #e2e8f0;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: 1px solid #4a5568;
+}
+
+.pagination-page:hover {
+  background: #4a5568;
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+.pagination-page-active {
+  background: linear-gradient(135deg, #2563eb 0%, #1a237e 100%);
+  color: #fff;
+  border-color: #2563eb;
+  font-weight: 600;
+}
+
+.pagination-page-active:hover {
+  background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+}
+
+.pagination-ellipsis {
+  color: #a0aec0;
+  padding: 0 0.5rem;
+  font-weight: 500;
+}
+
+.pagination-info {
+  color: #a0aec0;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+@media (max-width: 600px) {
+  .pagination-container {
+    gap: 0.25rem;
+  }
+  
+  .pagination-nav {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.875rem;
+  }
+  
+  .pagination-page {
+    min-width: 2rem;
+    height: 2rem;
+    font-size: 0.875rem;
+  }
+  
+  .pagination-pages {
+    gap: 0.125rem;
   }
 }
