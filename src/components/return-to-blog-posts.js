@@ -1,22 +1,36 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
+import { useTranslation } from "react-i18next";
+import { useLanguage } from "../hooks/useLanguage";
 
 const ReturnToBlogPosts = ({ referrer }) => {
-  const [returnUrl, setReturnUrl] = useState("/blog");
-  const [returnText, setReturnText] = useState("Blog Posts");
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
   const router = useRouter();
+  
+  // Determine if we're on a Hebrew page by checking the current path
+  const isHebrewPage = router.asPath.startsWith('/he');
+  const [returnUrl, setReturnUrl] = useState(isHebrewPage ? "/he/blog" : "/blog");
+  const [returnText, setReturnText] = useState(t('blog.title'));
 
   useEffect(() => {
     // If a specific referrer is provided, use it
     if (referrer) {
-      setReturnUrl(referrer);
-      if (referrer === "/encountering-messiah") {
-        setReturnText("Encountering Messiah");
-      } else if (referrer === "/") {
-        setReturnText("Home");
+      let hebrewReferrer;
+      if (isHebrewPage) {
+        // If the referrer already starts with /he, don't add it again
+        hebrewReferrer = referrer.startsWith('/he') ? referrer : `/he${referrer}`;
       } else {
-        setReturnText("Blog Posts");
+        hebrewReferrer = referrer;
+      }
+      setReturnUrl(hebrewReferrer);
+      if (referrer === "/encountering-messiah") {
+        setReturnText(t('nav.encounteringMessiah'));
+      } else if (referrer === "/") {
+        setReturnText(t('common.home'));
+      } else {
+        setReturnText(t('blog.title'));
       }
       return;
     }
@@ -24,14 +38,14 @@ const ReturnToBlogPosts = ({ referrer }) => {
     // Check URL parameters for referrer information
     if (typeof window !== "undefined" && router.query.from) {
       if (router.query.from === "encountering-messiah") {
-        setReturnUrl("/encountering-messiah");
-        setReturnText("Encountering Messiah");
+        setReturnUrl(isHebrewPage ? "/he/encountering-messiah" : "/encountering-messiah");
+        setReturnText(t('nav.encounteringMessiah'));
       } else if (router.query.from === "home") {
-        setReturnUrl("/");
-        setReturnText("Home");
+        setReturnUrl(isHebrewPage ? "/he" : "/");
+        setReturnText(t('common.home'));
       }
     }
-  }, [referrer, router.query.from]);
+  }, [referrer, router.query.from, isHebrewPage, t]);
 
   return (
     <nav style={{ marginTop: "2rem", textAlign: "center" }}>
@@ -43,7 +57,7 @@ const ReturnToBlogPosts = ({ referrer }) => {
             fontWeight: 600,
           }}
         >
-          ← Return to {returnText}
+          {t('common.returnTo')}{returnText}
         </a>
       </Link>
     </nav>

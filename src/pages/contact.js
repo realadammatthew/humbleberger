@@ -1,10 +1,14 @@
 import Head from "next/head";
+import { useTranslation } from "react-i18next";
+import { useLanguage } from "../hooks/useLanguage";
 import withBanner from "../utils/with-banner";
 import ReturnToHome from "../components/return-to-home";
 import { useState } from "react";
 import { useRouter } from "next/router";
 
 const ContactPage = () => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
   const [submitting, setSubmitting] = useState(false);
   const router = useRouter();
 
@@ -24,14 +28,14 @@ const ContactPage = () => {
       });
 
       if (response.ok) {
-        router.push("/contact-success/");
+        router.push(t('urls.internal.contactSuccess'));
       } else {
         // You can add more robust error handling here
-        alert("There was an error submitting the form. Please try again.");
+        alert(t('contact.error.submit'));
       }
     } catch (error) {
       console.error("Form submission error:", error);
-      alert("An unexpected error occurred. Please try again later.");
+      alert(t('contact.error.unexpected'));
     } finally {
       setSubmitting(false);
     }
@@ -40,22 +44,21 @@ const ContactPage = () => {
   return (
     <>
       <Head>
-        <title>Contact Us - Humbleberger Ministries</title>
+        <title>{t('pageTitle.contact')}</title>
         <meta
           name="description"
-          content="Get in touch with Humbleberger Ministries. Send us a message through our contact form."
+          content={t('meta.contact')}
         />
       </Head>
-      <main>
+      <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
         <section>
-          <h2>Contact Us</h2>
+          <h2>{t('contact.title')}</h2>
           <p style={{ textAlign: "center", marginBottom: "2rem" }}>
-            Have a question, a prayer request, or want to get in touch? Send us a
-            message below, and we'll get back to you as soon as possible.
+            {t('contact.description')}
           </p>
           <form
             onSubmit={handleSubmit}
-            action="https://formspree.io/f/xnnvbwvz"
+            action={t('urls.contactForm')}
             method="POST"
             style={{
               display: "flex",
@@ -70,7 +73,7 @@ const ContactPage = () => {
                 htmlFor="name"
                 style={{ display: "block", marginBottom: "0.5rem" }}
               >
-                Your Name
+                {t('contact.name')}
               </label>
               <input
                 type="text"
@@ -93,7 +96,7 @@ const ContactPage = () => {
                 htmlFor="email"
                 style={{ display: "block", marginBottom: "0.5rem" }}
               >
-                Your Email
+                {t('contact.email')}
               </label>
               <input
                 type="email"
@@ -116,7 +119,7 @@ const ContactPage = () => {
                 htmlFor="message"
                 style={{ display: "block", marginBottom: "0.5rem" }}
               >
-                Message
+                {t('contact.message')}
               </label>
               <textarea
                 id="message"
@@ -146,7 +149,7 @@ const ContactPage = () => {
                   opacity: submitting ? 0.6 : 1,
                 }}
               >
-                {submitting ? "Sending..." : "Send Message"}
+                {submitting ? t('contact.sending') : t('contact.send')}
               </button>
             </div>
           </form>

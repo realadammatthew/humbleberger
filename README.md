@@ -10,11 +10,14 @@ This is the official website for [Humbleberger Ministries](https://humbleberger.
 - [Netlify](https://www.netlify.com/) for hosting and deployment
 - Automatic sitemap generation
 - SEO optimized
+- **Bilingual support (English/Hebrew)** with react-i18next
 
 ## 🌟 Features
 
 - Fast, static site generation
 - Blog system with markdown support
+- **Complete Hebrew translation** with dedicated Hebrew pages and content
+- **Language switcher** for seamless English/Hebrew navigation
 - Automatic sitemap generation
 - Mobile-friendly responsive design
 - SEO optimized with meta tags
@@ -23,8 +26,31 @@ This is the official website for [Humbleberger Ministries](https://humbleberger.
 - Cookie consent management
 - Accessibility focused
 
+## 🌐 Bilingual Support
+
+The website features complete bilingual support with:
+
+### Language Structure
+- **English**: Default language at root URLs (e.g., `/`, `/blog`, `/mission`)
+- **Hebrew**: Hebrew pages under `/he/` prefix (e.g., `/he/`, `/he/blog`, `/he/mission`)
+- **Language Switcher**: Fixed position language toggle in top-right corner
+- **Automatic Detection**: Language detection based on URL path
+
+### Hebrew Content
+- **Complete Hebrew Translation**: All pages, blog posts, and UI elements translated
+- **Hebrew Blog Posts**: Dedicated Hebrew markdown files in `src/copy/he/`
+- **Hebrew Pages**: Complete Hebrew page implementations in `src/pages/he/`
+- **RTL Support**: Proper right-to-left text rendering for Hebrew content
+
+### Internationalization
+- **react-i18next**: Full internationalization framework
+- **Translation Keys**: Organized translation system in `src/i18n.js`
+- **Dynamic Content**: All user-facing text supports both languages
+- **SEO Optimization**: Hebrew-specific meta tags and structured data
+
 ## 📄 Pages
 
+### English Pages
 - [Home](https://humbleberger.org/) - Main landing page
 - [Blog](https://humbleberger.org/blog) - Articles and teachings
 - [Our Mission](https://humbleberger.org/mission) - Mission statement
@@ -34,6 +60,17 @@ This is the official website for [Humbleberger Ministries](https://humbleberger.
 - [Privacy Policy](https://humbleberger.org/privacy-policy) - Our privacy practices
 - [Terms of Use](https://humbleberger.org/terms-of-use) - Website usage terms
 - [Copyright](https://humbleberger.org/copyright) - Copyright information
+
+### Hebrew Pages (עברית)
+- [דף הבית](https://humbleberger.org/he/) - Main landing page in Hebrew
+- [בלוג](https://humbleberger.org/he/blog) - Articles and teachings in Hebrew
+- [המשימה שלנו](https://humbleberger.org/he/mission) - Mission statement in Hebrew
+- [הצהרת אמונה](https://humbleberger.org/he/statement-of-faith) - Detailed theological convictions in Hebrew
+- [הצהרה נגד אנטישמיות](https://humbleberger.org/he/anti-semitism) - Our stance regarding Jewish identity and respect in Hebrew
+- [ספירת העלות](https://humbleberger.org/he/counting-the-cost) - Article on the challenges faced by Jewish believers in Hebrew
+- [מדיניות פרטיות](https://humbleberger.org/he/privacy-policy) - Our privacy practices in Hebrew
+- [תנאי שימוש](https://humbleberger.org/he/terms-of-use) - Website usage terms in Hebrew
+- [זכויות יוצרים](https://humbleberger.org/he/copyright) - Copyright information in Hebrew
 
 ## 🚀 Getting Started
 
@@ -95,11 +132,42 @@ Blog posts are written in Markdown format and stored in `src/copy/`. Each post s
 Your content here...
 ```
 
+### Hebrew Blog Posts
+
+Hebrew blog posts are stored in `src/copy/he/` and follow the same structure as English posts:
+
+```markdown
+# כותרת בעברית
+
+**כותרת משנה בעברית**
+
+**שירותי האמבלברגר**
+---
+
+תוכן בעברית כאן...
+```
+
+**Important Notes for Hebrew Content:**
+- Use proper Hebrew typography and punctuation
+- Ensure RTL (right-to-left) text rendering works correctly
+- Maintain consistent terminology between English and Hebrew versions
+- Update both language versions when adding new content
+
 ### Adding New Pages
 
-1. Create a new `.js` file in `src/pages/`
-2. Add the page URL to the sitemap generator if needed
-3. Update navigation if required
+1. Create a new `.js` file in `src/pages/` for English
+2. Create a corresponding `.js` file in `src/pages/he/` for Hebrew
+3. Add translation keys to `src/i18n.js` for both languages
+4. Add the page URL to the sitemap generator if needed
+5. Update navigation if required
+
+### Bilingual Content Guidelines
+
+- **Consistency**: Ensure both language versions convey the same message
+- **Cultural Sensitivity**: Adapt content appropriately for Hebrew-speaking audiences
+- **SEO**: Include Hebrew-specific meta tags and keywords
+- **Navigation**: Update language switcher to handle new pages
+- **Testing**: Verify both language versions work correctly
 
 ## 🛠️ Available Scripts
 
@@ -113,8 +181,16 @@ Your content here...
 The site automatically deploys to Netlify when changes are pushed to the `main` branch. The deployment process includes:
 
 1. Building the Next.js application
-2. Generating the sitemap
-3. Applying Netlify redirects for clean URLs
+2. Generating the sitemap (includes both English and Hebrew URLs)
+3. Generating RSS feeds for both languages
+4. Applying Netlify redirects for clean URLs
+
+### RSS Feeds
+- **English RSS**: `https://humbleberger.org/rss.xml`
+- **Hebrew RSS**: `https://humbleberger.org/rss-he.xml`
+
+### Sitemap
+The automatically generated sitemap includes all pages in both languages, ensuring proper SEO indexing for both English and Hebrew content.
 
 ## 🔢 Organization Info
 

@@ -1,3 +1,4 @@
+import '../i18n'; // Initialize i18n
 import Header from "../components/header";
 import Banner from "../components/banner";
 import Copyright from "../components/copyright";

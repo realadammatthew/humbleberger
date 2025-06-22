@@ -1,11 +1,27 @@
 import Link from 'next/link';
+import { useTranslation } from 'react-i18next';
+import { useLanguage } from '../hooks/useLanguage';
 
 const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
+
   if (totalPages <= 1) return null;
 
   const getPageUrl = (page) => {
-    if (page === 1) return baseUrl;
-    return `${baseUrl}/page/${page}`;
+    // Check if we're on a Hebrew page by looking at the current path
+    const isHebrewPage = typeof window !== 'undefined' && window.location.pathname.startsWith('/he');
+    
+    let hebrewBaseUrl;
+    if (isHebrewPage) {
+      // If the baseUrl already starts with /he, don't add it again
+      hebrewBaseUrl = baseUrl.startsWith('/he') ? baseUrl : `/he${baseUrl}`;
+    } else {
+      hebrewBaseUrl = baseUrl;
+    }
+    
+    if (page === 1) return hebrewBaseUrl;
+    return `${hebrewBaseUrl}/page/${page}`;
   };
 
   const renderPageNumbers = () => {
@@ -57,14 +73,17 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
     return pages;
   };
 
+  // Determine if we're on a Hebrew page for the display text
+  const isHebrewPage = typeof window !== 'undefined' && window.location.pathname.startsWith('/he');
+
   return (
-    <nav className="pagination" aria-label="Blog posts pagination">
+    <nav className="pagination" aria-label={t('pagination.ariaLabel')} style={{ direction: isHebrewPage ? 'rtl' : 'ltr' }}>
       <div className="pagination-container">
         {/* Previous button */}
         {currentPage > 1 && (
           <Link href={getPageUrl(currentPage - 1)} legacyBehavior>
-            <a className="pagination-nav pagination-prev" aria-label="Previous page">
-              ← Previous
+            <a className="pagination-nav pagination-prev" aria-label={t('pagination.prevAria')}>
+              {t('pagination.previous')}
             </a>
           </Link>
         )}
@@ -77,8 +96,8 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
         {/* Next button */}
         {currentPage < totalPages && (
           <Link href={getPageUrl(currentPage + 1)} legacyBehavior>
-            <a className="pagination-nav pagination-next" aria-label="Next page">
-              Next →
+            <a className="pagination-nav pagination-next" aria-label={t('pagination.nextAria')}>
+              {t('pagination.next')}
             </a>
           </Link>
         )}
@@ -86,7 +105,7 @@ const Pagination = ({ currentPage, totalPages, baseUrl = '/blog' }) => {
       
       {/* Page info */}
       <div className="pagination-info">
-        Page {currentPage} of {totalPages}
+        {t('pagination.page')} {currentPage} {t('pagination.of')} {totalPages}
       </div>
     </nav>
   );

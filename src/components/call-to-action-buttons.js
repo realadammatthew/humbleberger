@@ -1,30 +1,38 @@
-const CallToActionButtons = () => (
-  <div className="blog-post-ctas">
-    <a
-      className="button"
-      href="https://chat.humbleberger.org/en?translation=csb"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      💬 Chat
-    </a>
-    <a
-      className="button"
-      href="https://eepurl.com/ja6zNY"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      📰 Subscribe
-    </a>
-    <a
-      className="button donate-button"
-      href="https://donorbox.org/humbleberger-ministries"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      ❤️ Donate
-    </a>
-  </div>
-);
+import { useTranslation } from 'react-i18next';
+import { useLanguage } from '../hooks/useLanguage';
+
+const CallToActionButtons = () => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
+
+  return (
+    <div className="blog-post-ctas" style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
+      <a
+        className="button"
+        href={t('urls.chat')}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {t('button.chat')}
+      </a>
+      <a
+        className="button"
+        href={t('urls.newsletter')}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {t('button.subscribe')}
+      </a>
+      <a
+        className="button donate-button"
+        href={t('urls.donate')}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {t('button.donate')}
+      </a>
+    </div>
+  );
+};
 
 export default CallToActionButtons; 

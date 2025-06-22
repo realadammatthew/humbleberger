@@ -1,23 +1,29 @@
 import Head from "next/head";
+import { useTranslation } from "react-i18next";
+import { useLanguage } from "../hooks/useLanguage";
 import ReturnToHome from "../components/return-to-home";
 import withBanner from "../utils/with-banner";
 
-const ContactSuccessPage = () => (
-  <>
-    <Head>
-      <title>Message Sent - Humbleberger Ministries</title>
-    </Head>
-    <main>
-      <section style={{ textAlign: "center" }}>
-        <h2>Message Sent!</h2>
-        <p style={{ fontSize: "1.2rem", marginBottom: "2rem" }}>
-          Thank you for getting in touch. We've received your message and will
-          get back to you shortly.
-        </p>
-      </section>
-      <ReturnToHome />
-    </main>
-  </>
-);
+const ContactSuccessPage = () => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
+
+  return (
+    <>
+      <Head>
+        <title>{t('pageTitle.contactSuccess')}</title>
+      </Head>
+      <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
+        <section style={{ textAlign: "center" }}>
+          <h2>{t('contact.success.title')}</h2>
+          <p style={{ fontSize: "1.2rem", marginBottom: "2rem" }}>
+            {t('contact.success.message')}
+          </p>
+        </section>
+        <ReturnToHome />
+      </main>
+    </>
+  );
+};
 
 export default withBanner(ContactSuccessPage); 
