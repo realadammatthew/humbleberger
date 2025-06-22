@@ -113,7 +113,7 @@ const Home = () => (
               </a>
               <a
                 className="button"
-                href="https://www.google.com/maps/search/?api=1&query=messianic+church+near+me"
+                href="https://www.9marks.org/church-search/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
