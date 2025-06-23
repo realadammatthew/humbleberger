@@ -39,7 +39,7 @@ const HebrewBlogPage = ({ posts, currentPage = 1, totalPages = 1, allPosts }) =>
   }, [posts]);
 
   return (
-    <main style={{ direction: 'rtl', textAlign: 'right' }}>
+    <main style={{ direction: 'rtl', textAlign: 'right' }} className="hebrew">
       <section>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
           <h2 className="blog-list-title">{t('blog.title')}</h2>
