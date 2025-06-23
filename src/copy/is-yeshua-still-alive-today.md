@@ -4,7 +4,7 @@
 
 **Humbleberger Ministries**
 
-For many of my Jewish friends, the claim that Yeshua (Jesus) is alive today may seem incredible. It sounds, perhaps, like a purely Christian belief, far removed from Jewish tradition. Yet, the earliest followers of Yeshua were Jews, deeply rooted in the Hebrew Scriptures, who were absolutely convinced that their Messiah had not only died but had risen and now lives forever. I invite you to walk with me as we explore this profound truth together.
+For many of my Jewish friends, the claim that Yeshua is alive today may seem incredible. It sounds, perhaps, like a purely Christian belief, far removed from Jewish tradition. Yet, the earliest followers of Yeshua were Jews, deeply rooted in the Hebrew Scriptures, who were absolutely convinced that their Messiah had not only died but had risen and now lives forever. I invite you to walk with me as we explore this profound truth together.
 
 ### The Hebrew Scriptures Whispered It First
 
@@ -27,7 +27,7 @@ After Yeshua's death, His followers were devastated. But on the third day, somet
 * Over 500 people saw Him at once, according to 1 Corinthians 15.
 * Even skeptics like His brother James and the persecutor Paul were convinced after encountering the risen Lord.
 
-These encounters were not mystical visions or hallucinations. The disciples touched Him, ate with Him, and spoke with Him for forty days before He ascended to heaven. Their complete transformation—from fearful deserters to bold witnesses willing to die for their testimony—points to something real and life-changing. As the Apostle Paul declared, "Since Christ has been raised from the dead, He cannot die again; death no longer has mastery over Him" (Romans 6:9).
+These encounters were not mystical visions or hallucinations. The disciples touched Him, ate with Him, and spoke with Him for forty days before He ascended to heaven. Their complete transformation—from fearful deserters to bold witnesses willing to die for their testimony—points to something real and life-changing. As the Apostle Paul declared, "Since Messiah has been raised from the dead, He cannot die again; death no longer has mastery over Him" (Romans 6:9).
 
 ### Why the Resurrection Matters Today
 

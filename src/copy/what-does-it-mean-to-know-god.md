@@ -8,7 +8,7 @@ In our busy world, it's easy to confuse knowing *about* God with actually *knowi
 
 Packer begins by drawing a crucial distinction: *"One can know a great deal about God without much knowledge of Him."* We can fill our minds with correct doctrine, yet still miss the heart of the Christian life. True knowledge of God is not merely intellectual; it is deeply personal and relational. It's not just about gathering information but about being known by God and growing in love for Him.
 
-At the very center of knowing God is a relationship of love. Packer reminds us, *"Knowing God is more than knowing about Him; it is a matter of dealing with Him as He opens up to you."* This is not a cold, distant acquaintance. It is warm fellowship, much like a child enjoys with a loving father. Through the work of Christ, we are adopted into God's family, welcomed into His presence not as strangers, but as beloved sons and daughters.
+At the very center of knowing God is a relationship of love. Packer reminds us, *"Knowing God is more than knowing about Him; it is a matter of dealing with Him as He opens up to you."* This is not a cold, distant acquaintance. It is warm fellowship, much like a child enjoys with a loving father. Through the work of Messiah, we are adopted into God's family, welcomed into His presence not as strangers, but as beloved sons and daughters.
 
 This relationship brings profound transformation. As Packer beautifully puts it, those who know God will experience:
 

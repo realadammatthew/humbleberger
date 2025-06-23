@@ -24,7 +24,7 @@ Jewish identity is deeply communal. To accept Yeshua as Messiah is, for many, se
 
 The fear isn't hypothetical. It's based in real stories. A Jewish woman in Tel Aviv loses her job because she shared her testimony. A young man in Brooklyn finds himself suddenly without friends or family because he got baptized. A Holocaust survivor in Florida confides that her synagogue no longer welcomes her.
 
-These are not fictional scenarios—they are the stories we carry with us. And they echo the warning of Jesus Himself:
+These are not fictional scenarios—they are the stories we carry with us. And they echo the warning of Yeshua Himself:
 
 > "Do not suppose that I came to bring peace to the earth. I did not come to bring peace, but a sword… a man's enemies will be the members of his own household." (Matthew 10:34–36)
 
@@ -70,4 +70,4 @@ Yeshua is the Messiah of Israel. He is the Lamb who was slain and the Lion of Ju
 
 Don't let fear steal the joy God offers. Don't let tradition blind you to the One who fulfilled it. Count the cost—then lift your eyes.
 
-**The reward is Christ Himself.**
+**The reward is Messiah Himself.**

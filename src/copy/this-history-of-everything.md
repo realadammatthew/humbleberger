@@ -4,7 +4,7 @@
 
 **Humbleberger Ministries**
 
-When we talk about "The History of Everything," there are many ways to look at it. Today, I want to humbly share with you one such perspective that I personally find deeply fascinating and spiritually profound. This view comes from a **Jewish Christian Young Earth Creationist, Pre-Tribulation, Pre-Millennial** framework. I emphasize that this is just one of many interpretative frameworks, and I encourage each of you to pray, meditate, and study the Scriptures to form your own convictions as the Spirit leads.
+When we talk about "The History of Everything," there are many ways to look at it. Today, I want to humbly share with you one such perspective that I personally find deeply fascinating and spiritually profound. This view comes from a **Jewish-Christian Young Earth Creationist, Pre-Tribulation, Pre-Millennial** framework. I emphasize that this is just one of many interpretative frameworks, and I encourage each of you to pray, meditate, and study the Scriptures to form your own convictions as the Spirit leads.
 
 ## Creation & Fall (\~4004 BC)
 
@@ -16,7 +16,7 @@ In response to the corruption of mankind, God judged the earth with a global flo
 
 ## The Patriarchs and the Nation of Israel (\~2000 BC)
 
-God called Abraham, establishing a covenant promising land, descendants, and blessing to all nations. This covenant would ultimately point to the Messiah, Jesus Christ.
+God called Abraham, establishing a covenant promising land, descendants, and blessing to all nations. This covenant would ultimately point to the Messiah, Yeshua of Nazareth.
 
 ## The Exodus and the Kingdom (\~1446 BC to \~1000 BC)
 
@@ -26,9 +26,9 @@ God delivered Israel from Egypt, gave the Law at Sinai, and later established th
 
 Israel faced judgment and exile due to unfaithfulness but was later allowed to return and rebuild the Temple in Jerusalem.
 
-## The First Coming of Christ (\~4-6 BC to AD 33)
+## The First Coming of Messiah (\~4-6 BC to AD 33)
 
-Jesus was born in Bethlehem, lived a sinless life, was crucified, and rose from the dead, offering salvation to all who believe. The Church was established at Pentecost, initiating the Church Age.
+Yeshua was born in Bethlehem, lived a sinless life, was crucified, and rose from the dead, offering salvation to all who believe. The Church was established at Pentecost, initiating the Church Age.
 
 ## Church History (AD 33 to Modern Day)
 
@@ -42,19 +42,19 @@ In fulfillment of prophecies like Ezekiel 37 and Luke 21:24, Israel was re-estab
 
 Here is where it gets particularly exciting and speculative from my personal perspective:
 
-* **The Rapture:** Christ could come at any moment to rapture His Church (1 Thessalonians 4:13-18).
+* **The Rapture:** Messiah could come at any moment to rapture His Church (1 Thessalonians 4:13-18).
 * **The Tribulation:** A seven-year period of global judgment and the rise of the Antichrist (Daniel 9; Revelation 6-19).
-* **The Second Coming:** Jesus returns visibly to defeat the Antichrist and establish His Millennial Kingdom (\~2032).
-* **The Millennial Kingdom:** Christ reigns for 1,000 years on earth (Revelation 20:1-6).
+* **The Second Coming:** Yeshua returns visibly to defeat the Antichrist and establish His Millennial Kingdom (\~2032).
+* **The Millennial Kingdom:** Yeshua reigns for 1,000 years on earth (Revelation 20:1-6).
 * **The Final Judgment and Eternal State:** After Satan's final rebellion, unbelievers are judged, and God creates a New Heaven and New Earth where believers dwell with Him forever (Revelation 20-22).
 
 ## A Word of Encouragement
 
-While I personally believe that Christ's return could be imminent, even possibly within our lifetime, I also acknowledge that "no one knows the day or the hour" (Matthew 24:36). My aim is not to set dates but to encourage readiness, vigilance, and devotion to Christ. Every believer is encouraged to study Scripture prayerfully and arrive at their own understanding.
+While I personally believe that Messiah's return could be imminent, even possibly within our lifetime, I also acknowledge that "no one knows the day or the hour" (Matthew 24:36). My aim is not to set dates but to encourage readiness, vigilance, and devotion to Messiah. Every believer is encouraged to study Scripture prayerfully and arrive at their own understanding.
 
 Regardless of your eschatological views, may we all live each day with the joyful anticipation of His coming, faithfully serving until He returns.
 
-**Maranatha - Come, Lord Jesus!**
+**Maranatha - Come, Lord Yeshua!**
 
 ---
 

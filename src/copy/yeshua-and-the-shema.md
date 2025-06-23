@@ -1,4 +1,4 @@
-# The Shema: From The Christian Perspective
+# The Shema: From The Jewish-Christian Perspective
 
 **Understanding Its Meaning in Light of Jewish-Christian Doctrine**
 
@@ -26,34 +26,34 @@ In this reading, the emphasis shifts from God’s quantity to God’s exclusivit
 
 Block points out that within the broader context of Deuteronomy, Moses’ concern is pastoral and covenantal. The real threat to Israel is not external enemies but internal idolatry—the temptation to give their hearts to other gods. The Shema, therefore, is not a metaphysical treatise but a covenantal call: love God completely, serve Him alone, and let no rival claim your devotion.
 
-## The Shema in Jesus' Teaching
+## The Shema in Yeshua's Teaching
 
-Interestingly, the Shema also plays a central role in the teachings of Jesus. In Mark 12:29-31, when asked about the greatest commandment, Jesus affirms the Shema:
+Interestingly, the Shema also plays a central role in the teachings of Yeshua. In Mark 12:29-31, when asked about the greatest commandment, Yeshua affirms the Shema:
 
-> "The most important one," answered Jesus, "is this: 'Hear, O Israel: The Lord our God, the Lord is one. Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.'"
+> "The most important one," answered Yeshua, "is this: 'Hear, O Israel: The Lord our God, the Lord is one. Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.'"
 
-Block emphasizes that Jesus was not debating God's nature here but reaffirming the Shema's call to singular devotion. Jesus, as a faithful Jew, highlights that loving God entirely is at the heart of the covenant.
+Block emphasizes that Yeshua was not debating God's nature here but reaffirming the Shema's call to singular devotion. Yeshua, as a faithful Jew, highlights that loving God entirely is at the heart of the covenant.
 
 ## The Shema and Early Christian Faith
 
 The Apostle Paul deepens this connection in 1 Corinthians 8:6:
 
-> "Yet for us there is but one God, the Father, from whom all things came and for whom we live; and there is but one Lord, Jesus Christ, through whom all things came and through whom we live."
+> "Yet for us there is but one God, the Father, from whom all things came and for whom we live; and there is but one Lord, Messiah Yeshua, through whom all things came and through whom we live."
 
-Here, Paul echoes the language of the Shema but applies it directly to Jesus Christ. Block argues that for Paul, Jesus is included within the unique identity of Yahweh, thereby affirming the exclusive sovereignty of God while recognizing the Lordship of Christ.
+Here, Paul echoes the language of the Shema but applies it directly to Messiah Yeshua. Block argues that for Paul, Yeshua is included within the unique identity of Yahweh, thereby affirming the exclusive sovereignty of God while recognizing the Lordship of Messiah.
 
 ## A Covenant of Total Commitment
 
-For Jewish believers who follow Jesus as the Messiah, Block’s interpretation offers a profound understanding: the Shema is not negated but fulfilled in Christ. The demand for exclusive allegiance to Yahweh remains; what is revealed in the New Testament is that Jesus Himself embodies Yahweh’s presence among His people.
+For Jewish believers who follow Yeshua as the Messiah, Block’s interpretation offers a profound understanding: the Shema is not negated but fulfilled in Messiah. The demand for exclusive allegiance to Yahweh remains; what is revealed in the New Testament is that Yeshua Himself embodies Yahweh’s presence among His people.
 
 Thus, the Shema invites every believer to:
 
 * Love God with total devotion (heart, soul, strength);
 * Reject any rival gods (whether ancient idols or modern allegiances);
-* Recognize in Jesus the full expression of God’s covenantal love and authority.
+* Recognize in Yeshua the full expression of God’s covenantal love and authority.
 
 ## Conclusion: The Shema as a Daily Cry of Allegiance
 
-Block concludes his study with a powerful vision: the true Israelite is one who proclaims daily, "Yahweh our God! Yahweh alone!" For Jewish Christians, this proclamation affirms the enduring covenant of Israel fulfilled in Jesus the Messiah. It is not merely recited but lived out in exclusive devotion to the God who has revealed Himself fully in Christ.
+Block concludes his study with a powerful vision: the true Israelite is one who proclaims daily, "Yahweh our God! Yahweh alone!" For Jewish-Christians, this proclamation affirms the enduring covenant of Israel fulfilled in Yeshua the Messiah. It is not merely recited but lived out in exclusive devotion to the God who has revealed Himself fully in Messiah.
 
 As we recite or meditate upon the Shema, may it continually call us to renewed allegiance, covenantal love, and wholehearted devotion to the one true God—Father, Son, and Holy Spirit.

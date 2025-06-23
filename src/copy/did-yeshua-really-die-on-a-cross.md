@@ -4,14 +4,14 @@
 
 **Humbleberger Ministries**
 
-For many Jewish people, the Christian teaching that Yeshua (Jesus) was crucified as the Messiah is difficult to understand. The idea of a suffering, crucified Messiah seems foreign, even offensive. Yet this very claim lies at the heart of the Christian faith. Was Yeshua really crucified? And if so, what does it mean?
+For many Jewish people, the Christian teaching that Yeshua was crucified as the Messiah is difficult to understand. The idea of a suffering, crucified Messiah seems foreign, even offensive. Yet this very claim lies at the heart of the Christian faith. Was Yeshua really crucified? And if so, what does it mean?
 
 ### The Historical Evidence: More Certain Than We Think
 
 Surprisingly, the historical evidence for Yeshua's crucifixion is overwhelming. The four Gospels unanimously record His public execution by crucifixion under Pontius Pilate. But even non-Christian sources confirm it:
 
 * The Roman historian **Tacitus** (c. 116 AD) wrote that "Christus... suffered the extreme penalty during the reign of Tiberius, at the hands of Pontius Pilatus."
-* The Jewish historian **Josephus** (c. 93 AD) recorded that Jesus was "condemned to be crucified and to die" under Pilate.
+* The Jewish historian **Josephus** (c. 93 AD) recorded that Yeshua was "condemned to be crucified and to die" under Pilate.
 * The **Babylonian Talmud** mentions that "on the eve of Passover they hanged Yeshu the Nazarene," using a term that can refer to crucifixion.
 * Even hostile pagan writers like **Lucian** mocked Christians for worshiping "the crucified sage."
 
@@ -19,7 +19,7 @@ Virtually all modern historians—Jewish, Christian, secular—agree that Yeshua
 
 ### But Why Would the Messiah Be Crucified?
 
-For many, the real stumbling block isn't whether Jesus died on a cross, but whether the Messiah could die like that at all. After all, doesn't Deuteronomy 21:23 say, "Cursed is anyone hung on a tree"?
+For many, the real stumbling block isn't whether Yeshua died on a cross, but whether the Messiah could die like that at all. After all, doesn't Deuteronomy 21:23 say, "Cursed is anyone hung on a tree"?
 
 Indeed it does. And this is precisely where the Christian understanding turns what looks like a curse into hope. The apostle Paul, himself a Torah-trained Jew, wrote: "Messiah redeemed us from the curse of the law by becoming a curse for us" (Galatians 3:13). Yeshua took upon Himself the curse that we deserved. Isaiah 53 describes this very idea: "He was pierced for our transgressions... the Lord has laid on Him the iniquity of us all."
 

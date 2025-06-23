@@ -4,7 +4,7 @@
 
 **Humbleberger Ministries**
 
-One of the most extraordinary claims of the New Testament is that Yeshua (Jesus) lived a completely sinless life. For many, especially within the Jewish community, this is a bold claim that raises honest and important questions. How could anyone be entirely without sin? Didn't Scripture itself say, "There is no one who does not sin" (1 Kings 8:46)? Let's explore this claim together with humility, respect, and an open heart.
+One of the most extraordinary claims of the New Testament is that Yeshua lived a completely sinless life. For many, especially within the Jewish community, this is a bold claim that raises honest and important questions. How could anyone be entirely without sin? Didn't Scripture itself say, "There is no one who does not sin" (1 Kings 8:46)? Let's explore this claim together with humility, respect, and an open heart.
 
 ### What Does the Hebrew Bible Say?
 
@@ -22,13 +22,13 @@ The New Testament builds on these themes, portraying Yeshua as the fulfillment o
 
 Even those outside His circle testified to His innocence. Pontius Pilate, the Roman governor, declared, "I find no fault in him." One of the criminals crucified alongside Him confessed, "This man has done nothing wrong."
 
-### But Didn’t Jesus Break the Sabbath?
+### But Didn’t Yeshua Break the Sabbath?
 
 Some object that Yeshua broke Torah, for example by healing on the Sabbath. However, when we carefully read these stories, we see that He was not violating God’s law but challenging man-made traditions that had been added to it. Yeshua reminded His critics that "it is lawful to do good on the Sabbath" (Matthew 12:12). In healing on Shabbat, He was fulfilling—not breaking—the true intent of Torah: mercy, life, and restoration.
 
-### Why Jesus Had to Be Sinless
+### Why Yeshua Had to Be Sinless
 
-The claim of Jesus' sinlessness is not just theological trivia—it’s central to His mission. The Torah requires that sacrificial animals be without defect; this pointed forward to a sinless Messiah who could serve as the perfect atonement for human sin. Yeshua's sinlessness qualified Him to be the ultimate Passover Lamb, whose blood brings deliverance—not just from Egypt, but from the slavery of sin.
+The claim of Yeshua's sinlessness is not just theological trivia—it’s central to His mission. The Torah requires that sacrificial animals be without defect; this pointed forward to a sinless Messiah who could serve as the perfect atonement for human sin. Yeshua's sinlessness qualified Him to be the ultimate Passover Lamb, whose blood brings deliverance—not just from Egypt, but from the slavery of sin.
 
 As Isaiah prophesied, "The Lord has laid on Him the iniquity of us all" (Isaiah 53:6). Because Yeshua was sinless, He could bear our sins. His resurrection then becomes God's ultimate affirmation that He was indeed without sin—"death could not hold Him" (Acts 2:24).
 

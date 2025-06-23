@@ -11,7 +11,7 @@
 One of the most important—and sometimes most confusing—ideas in Christianity is the belief in the **Trinity**. Christians believe in **one God**, but that this one God exists as **three distinct persons**:
 
 * **God the Father**
-* **God the Son (Yeshua/Jesus the Messiah)**
+* **God the Son (Yeshua the Messiah)**
 * **God the Holy Spirit**
 
 This doesn’t mean we believe in three gods. Christianity holds firmly to the truth of **one God**, just as it’s written in the **Shema**:
@@ -34,27 +34,27 @@ Throughout Scripture, God is shown as personal—not an abstract force, but a Be
 
 ### The Father, Son, and Spirit Work Together
 
-In the New Testament, we see something amazing: God the Father, Son, and Spirit working in perfect unity. One clear example is at **Jesus’ baptism**:
+In the New Testament, we see something amazing: God the Father, Son, and Spirit working in perfect unity. One clear example is at **Yeshua's baptism**:
 
 > "As Yeshua was baptized, the heavens opened, the Spirit of God came down like a dove, and a voice from heaven said, ‘This is My beloved Son.’" *(Matthew 3:16–17)*
 
 All three persons of the Trinity are present:
 
-* **The Son (Jesus/Yeshua)** in the water
+* **The Son (Yeshua)** in the water
 * **The Spirit** descending
 * **The Father** speaking from heaven
 
 ---
 
-## Who Is Jesus in All This?
+## Who Is Yeshua in All This?
 
 For those from a Jewish background, the idea of God becoming human can sound strange. But the Hebrew Scriptures (Old Testament) speak of a coming Messiah who would be both **God’s servant** and **God Himself** in some mysterious way (see Isaiah 9:6, Micah 5:2).
 
-Christians believe that **Yeshua (Jesus)** is that promised **Jewish Messiah**. The Gospel of John starts like this:
+Christians believe that **Yeshua** is that promised **Jewish Messiah**. The Gospel of John starts like this:
 
 > “In the beginning was the Word, and the Word was with God, and the Word was God... and the Word became flesh and dwelt among us.” *(John 1:1,14)*
 
-Jesus is described as:
+Yeshua is described as:
 
 * **Pre-existent** (He existed before He was born)
 * **Divine** (He is called “God”)
@@ -100,9 +100,9 @@ But each is also **distinct**. The Father is not the Son, the Son is not the Spi
 
 The Trinity reveals that **God is relational**. Even before creation, God existed in perfect love and fellowship within Himself. This is why **love** is central to who God is.
 
-### 2. It Helps Us Understand Jesus
+### 2. It Helps Us Understand Yeshua
 
-We don’t believe that Jesus was just a good teacher or prophet. He is **God in the flesh**, come to rescue humanity from sin and bring us back to Himself.
+We don’t believe that Yeshua was just a good teacher or prophet. He is **God in the flesh**, come to rescue humanity from sin and bring us back to Himself.
 
 ### 3. It Explains Salvation
 
@@ -117,7 +117,7 @@ Salvation is something the whole Trinity is involved in.
 
 Christians don’t believe in three gods—we believe in **one God who is three persons**. This belief is based on the full picture of the Bible and is at the heart of what makes Christianity unique.
 
-We don’t claim to fully understand the Trinity, but we trust the God who revealed Himself in this way. And most importantly, we believe that **Yeshua (Jesus)** is the promised **Jewish Messiah**, and through Him, we come to know the **one true God**—Father, Son, and Holy Spirit.
+We don’t claim to fully understand the Trinity, but we trust the God who revealed Himself in this way. And most importantly, we believe that **Yeshua** is the promised **Jewish Messiah**, and through Him, we come to know the **one true God**—Father, Son, and Holy Spirit.
 
 > “Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.”
 > *(Matthew 28:19)*

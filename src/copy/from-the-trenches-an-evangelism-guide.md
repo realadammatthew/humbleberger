@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Evangelism isn't reserved for the uniquely gifted; it's the call of every believer. Whether you're reaching out to your neighbor, your coworker, or people on the street, the mission remains the same: to proclaim the transformative love of Jesus Christ with humility, grace, and boldness, trusting the Holy Spirit to work in hearts (Romans 1:16).
+Evangelism isn't reserved for the uniquely gifted; it's the call of every believer. Whether you're reaching out to your neighbor, your coworker, or people on the street, the mission remains the same: to proclaim the transformative love of Messiah Yeshua with humility, grace, and boldness, trusting the Holy Spirit to work in hearts (Romans 1:16).
 
 This guide provides a practical, Spirit-filled roadmap for sharing the Gospel through prayer and street evangelism both at home and in public venues.
 
@@ -16,7 +16,7 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 ### 1. Gospel-Centered
 
-* **The Message:** God's holiness, human sin, Christ's sacrificial death and resurrection, and the invitation to repentance and faith.
+* **The Message:** God's holiness, human sin, Messiah's sacrificial death and resurrection, and the invitation to repentance and faith.
 * **The Power:** Trust in the Gospel itself as the power of God for salvation (Romans 1:16).
 
 ### 2. Spirit-Led
@@ -25,7 +25,7 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 ### 3. Loving and Pastoral
 
-* Engage with compassion. Listen attentively, avoid judgmentalism, and always point people to Jesus (John 3:17; 1 Corinthians 13:1).
+* Engage with compassion. Listen attentively, avoid judgmentalism, and always point people to Yeshua (John 3:17; 1 Corinthians 13:1).
 
 ### 4. Humble and Respectful
 
@@ -43,7 +43,7 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 * **Prayer:** Spend dedicated time daily asking God for boldness and guidance.
 * **Scripture Meditation:** Memorize key Gospel verses (John 3:16, Romans 5:8, 2 Corinthians 5:17).
-* **Testimony Practice:** Prepare a 1-minute personal testimony: life before Christ, your encounter with Jesus, and how He has changed you.
+* **Testimony Practice:** Prepare a 1-minute personal testimony: life before Messiah, your encounter with Yeshua, and how He has changed you.
 * **Fasting (Optional):** Consider fasting as a way to seek God's power and clarity (Mark 9:29).
 
 ### Practical Preparation
@@ -67,14 +67,14 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 ### Conversations
 
 * **Listen First:** Reflect back what people share (e.g., "It sounds like you’ve been hurt by church before.")
-* **Empathize:** "I'm so sorry you’ve experienced that. Can I share how Jesus changed my life?"
+* **Empathize:** "I'm so sorry you’ve experienced that. Can I share how Yeshua changed my life?"
 * **Share the Gospel Simply:**
 
   * God loves you and desires a relationship with you (John 3:16).
   * We all sin and fall short of God’s standard (Romans 3:23).
-  * Jesus died and rose again to offer forgiveness (Romans 5:8).
+  * Yeshua died and rose again to offer forgiveness (Romans 5:8).
   * We are called to repent and trust in Him (Acts 3:19).
-* **Invite a Response:** "Would you like to pray to trust Jesus today?"
+* **Invite a Response:** "Would you like to pray to trust Yeshua today?"
 
 ### Handling Hostility
 
@@ -97,7 +97,7 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 * Ask permission: "May I pray for you?"
 * Keep prayers short, Spirit-led, and focused on God’s love and peace.
-* Sample prayer: "Father, thank You for \[name]. Please bring peace to their situation and reveal Your love. In Jesus’ name, Amen."
+* Sample prayer: "Father, thank You for \[name]. Please bring peace to their situation and reveal Your love. In Yeshua's name, Amen."
 * Always offer follow-up contact info for your church or small group.
 
 ---
@@ -140,7 +140,7 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 * Affirm sin ("God loves you just as you are; no need to change.").
 * Ask invasive questions ("Are you gay? Do you need to be fixed?").
 
-Always keep the focus on Jesus' love and the hope of transformation through the Gospel.
+Always keep the focus on Yeshua's love and the hope of transformation through the Gospel.
 
 ---
 

@@ -11,7 +11,7 @@
 Every person at some point asks big questions like:
 **Why am I here? What does it mean to be human? Is there a purpose to my life?**
 
-The Bible gives us a clear and beautiful answer: we are made by God, in His image, with incredible value and a meaningful purpose. But we’re also broken—and in need of restoration. And that restoration comes through **Jesus (Yeshua), the Jewish Messiah**.
+The Bible gives us a clear and beautiful answer: we are made by God, in His image, with incredible value and a meaningful purpose. But we’re also broken—and in need of restoration. And that restoration comes through **Yeshua, the Jewish Messiah**.
 
 ---
 
@@ -61,9 +61,9 @@ Still, our **core value hasn’t changed**. We are **damaged by sin**, but not w
 
 ---
 
-## Jesus Shows Us True Humanity
+## Yeshua Shows Us True Humanity
 
-Jesus (Yeshua), the Jewish Messiah, wasn’t just fully God—He was also **fully human**. And His life shows us what **real humanity** is supposed to look like.
+Yeshua, the Jewish Messiah, wasn’t just fully God—He was also **fully human**. And His life shows us what **real humanity** is supposed to look like.
 
 * He loved people deeply
 * He cared for the poor and outcast
@@ -71,13 +71,13 @@ Jesus (Yeshua), the Jewish Messiah, wasn’t just fully God—He was also **full
 * He depended on God completely
 * He suffered real pain and showed real compassion
 
-Jesus is the perfect example of what it means to be human. And more than that—He came to **restore us** to what we were meant to be.
+Yeshua is the perfect example of what it means to be human. And more than that—He came to **restore us** to what we were meant to be.
 
 ---
 
 ## A New Identity Through Faith
 
-When we believe in Jesus, we don’t just get forgiven—we get **recreated**. The Bible says:
+When we believe in Yeshua, we don’t just get forgiven—we get **recreated**. The Bible says:
 
 > “If anyone is in Messiah, they are a new creation.” *(2 Corinthians 5:17)*
 
@@ -85,10 +85,10 @@ That means:
 
 * Our past does not define us
 * We are adopted into God’s family
-* We are being shaped to become more like Jesus
+* We are being shaped to become more like Yeshua
 * One day, we will be raised to eternal life with new, glorified bodies
 
-We were made for **glory**, and through Jesus, that glory is being restored.
+We were made for **glory**, and through Yeshua, that glory is being restored.
 
 ---
 
@@ -118,7 +118,7 @@ To be human is a gift.
 To be human is to be **made in God’s image**.
 But we are also broken—and that’s why we need a Savior.
 
-Through **Jesus the Messiah**, we are not just forgiven; we are made whole. He shows us what humanity was meant to be. And when we follow Him, we begin to become more like Him—more fully alive, more fully human.
+Through **Yeshua the Messiah**, we are not just forgiven; we are made whole. He shows us what humanity was meant to be. And when we follow Him, we begin to become more like Him—more fully alive, more fully human.
 
 > “See what kind of love the Father has given us, that we should be called children of God—and that is what we are!”
 > *(1 John 3:1)*
