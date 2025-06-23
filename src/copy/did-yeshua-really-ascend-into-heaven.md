@@ -4,7 +4,7 @@
 
 **Humbleberger Ministries**
 
-Among the most awe-inspiring claims of Christianity is that Yeshua (Jesus), after rising from the dead, physically ascended into heaven. For many of my Jewish brothers and sisters, this may sound strange or even fantastical. Yet, for the early Jewish followers of Yeshua, the ascension was not just believable—it was central to their hope, their joy, and their boldness to proclaim him as Messiah.
+Among the most awe-inspiring claims of Christianity is that Yeshua, after rising from the dead, physically ascended into heaven. For many of my Jewish brothers and sisters, this may sound strange or even fantastical. Yet, for the early Jewish followers of Yeshua, the ascension was not just believable—it was central to their hope, their joy, and their boldness to proclaim him as Messiah.
 
 Let’s walk through this together, as friends seeking truth, rooted in the Hebrew Scriptures and open to God’s unfolding plan.
 
@@ -30,7 +30,7 @@ In short, the idea of a glorified human being brought into God’s heavenly real
 The ascension wasn’t just about Yeshua departing; it launched the next phase of God’s plan:
 
 **1. Yeshua is enthroned as King.**
-The ascension was his coronation. As Peter preached to his fellow Jews at Pentecost: “God has made this Jesus, whom you crucified, both Lord and Messiah” (Acts 2:36). Yeshua reigns today from heaven, guiding history toward its completion.
+The ascension was his coronation. As Peter preached to his fellow Jews at Pentecost: “God has made this Yeshua, whom you crucified, both Lord and Messiah” (Acts 2:36). Yeshua reigns today from heaven, guiding history toward its completion.
 
 **2. Yeshua serves as our High Priest.**
 The ascended Messiah now intercedes for us before the Father (Hebrews 4:14-16). Like the high priest entering the Holy of Holies, Yeshua entered heaven with his own atoning blood, securing forgiveness and access to God for all who trust him.
@@ -39,7 +39,7 @@ The ascended Messiah now intercedes for us before the Father (Hebrews 4:14-16). 
 Ten days after the ascension, on Shavuot (Pentecost), the Spirit descended on his followers, empowering them to proclaim the good news to Israel and the nations (Acts 2). This outpouring was the first fruit of his reign in heaven.
 
 **4. Yeshua’s return is certain.**
-The angels assured the disciples: "This same Jesus... will come back in the same way you have seen him go into heaven" (Acts 1:11). The ascension points us forward to his glorious return and the ultimate fulfillment of God’s promises.
+The angels assured the disciples: "This same Yeshua... will come back in the same way you have seen him go into heaven" (Acts 1:11). The ascension points us forward to his glorious return and the ultimate fulfillment of God’s promises.
 
 ### Addressing Honest Objections
 

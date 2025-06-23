@@ -8,7 +8,7 @@ Among the bold claims of the New Testament, few are more surprising than this: Y
 
 ### What the Hebrew Scriptures Teach
 
-The Hebrew Bible does hint at something extraordinary regarding the Messiah's birth. In Isaiah 7:14, the prophet says: "Therefore the Lord Himself will give you a sign: Behold, the young woman (*almah*) will conceive and bear a son, and will call his name Immanuel." While *almah* means "young woman," it typically refers to a maiden of marriageable age, normally a virgin. When Jewish scholars translated Isaiah into Greek (the Septuagint) two centuries before Jesus, they rendered *almah* as *parthenos*, meaning "virgin." They clearly saw the possibility of a miraculous conception.
+The Hebrew Bible does hint at something extraordinary regarding the Messiah's birth. In Isaiah 7:14, the prophet says: "Therefore the Lord Himself will give you a sign: Behold, the young woman (*almah*) will conceive and bear a son, and will call his name Immanuel." While *almah* means "young woman," it typically refers to a maiden of marriageable age, normally a virgin. When Jewish scholars translated Isaiah into Greek (the Septuagint) two centuries before Yeshua, they rendered *almah* as *parthenos*, meaning "virgin." They clearly saw the possibility of a miraculous conception.
 
 Even more, Isaiah 9:6 describes a child who will be called "Mighty God" and "Prince of Peace," and Jeremiah 23:5-6 speaks of a Davidic king whose name will be "The Lord Our Righteousness." These titles suggest a Messiah who is not merely human but embodies God's very presence.
 
@@ -36,9 +36,9 @@ While *almah* means "young woman," its use in Isaiah 7:14 leaves open the possib
 
 The virgin birth isn’t just an oddity—it’s central to Yeshua’s mission:
 
-1. **It shows salvation is entirely God's work.** Just as no man contributed to Jesus' conception, so our salvation comes solely from God, not human effort.
+1. **It shows salvation is entirely God's work.** Just as no man contributed to Yeshua's conception, so our salvation comes solely from God, not human effort.
 
-2. **It allows Jesus to be fully God and fully man.** Born of Mary, He shares our humanity. Conceived by the Spirit, He is truly divine. Only this union allows Him to fully represent both God and man.
+2. **It allows Yeshua to be fully God and fully man.** Born of Mary, He shares our humanity. Conceived by the Spirit, He is truly divine. Only this union allows Him to fully represent both God and man.
 
 3. **It ensures His sinlessness.** Because He was not conceived in the usual way, He did not inherit Adam’s sinful nature. As the angel said, "the child... will be called holy."
 

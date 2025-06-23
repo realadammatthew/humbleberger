@@ -10,7 +10,7 @@
 
 We live in a world full of brokenness. We see injustice, violence, selfishness, and pain all around us. But the Bible teaches that the root cause of all of it is something deeper—something inside us. That problem is called **sin**.
 
-**Sin is not just doing bad things—it’s the condition of being separated from God.** It is a spiritual sickness that touches every part of human life. And yet, the good news is that God hasn’t left us in this condition. Through **Jesus (Yeshua), the Messiah**, God offers us a way back to healing and wholeness.
+**Sin is not just doing bad things—it’s the condition of being separated from God.** It is a spiritual sickness that touches every part of human life. And yet, the good news is that God hasn’t left us in this condition. Through **Yeshua, the Messiah**, God offers us a way back to healing and wholeness.
 
 ---
 
@@ -50,7 +50,7 @@ Even **King David**, one of Israel’s greatest leaders, said:
 
 ## Is There Any Hope?
 
-Yes—and this is the heart of the message of Jesus (Yeshua). The Bible says:
+Yes—and this is the heart of the message of Yeshua. The Bible says:
 
 > “While we were still sinners, the Messiah died for us.” *(Romans 5:8)*
 
@@ -62,7 +62,7 @@ Through **faith in Him**, anyone can be forgiven and made new.
 
 ## What Happens When We Trust in the Messiah?
 
-When we trust in Jesus, a few incredible things happen:
+When we trust in Yeshua, a few incredible things happen:
 
 1. **We are forgiven.** Our sins—past, present, and future—are washed away.
 2. **We are made alive.** Ephesians 2 says we were “dead in our sins,” but now we are spiritually alive.
@@ -81,7 +81,7 @@ Understanding sin isn’t about making people feel guilty. It’s about helping 
 
 Sin is real. We see its effects every day—in the world and in our own hearts. But God did not leave us stuck. **The story of the Bible is the story of a God who runs toward sinners**, not away from them.
 
-Through **Jesus the Messiah**, we can be forgiven, freed, and restored to the relationship with God we were always meant to have.
+Through **Yeshua the Messiah**, we can be forgiven, freed, and restored to the relationship with God we were always meant to have.
 
 > “If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.”
 > *(1 John 1:9)*

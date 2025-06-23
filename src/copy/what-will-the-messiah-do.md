@@ -29,9 +29,9 @@ Daniel sees a vision of "one like a Son of Man" receiving dominion and glory fro
 **Atone for Sin and Bring Healing**
 Perhaps most strikingly, Isaiah 53 describes a Servant who would suffer and die for the sins of others: "He was pierced for our transgressions... and by His wounds we are healed." This Servant is rejected, yet His suffering brings atonement and peace.
 
-### The Christian Understanding: Yeshua as Messiah
+### The Jewish-Christian Understanding: Yeshua as Messiah
 
-As a Jewish believer in Yeshua (Jesus), I believe these prophecies are fulfilled in Him—and yet, not all at once. The Messiah’s mission unfolds in two beautiful stages:
+As a Jewish believer in Yeshua, I believe these prophecies are fulfilled in Him—and yet, not all at once. The Messiah’s mission unfolds in two beautiful stages:
 
 **First Coming: The Suffering Servant**
 Yeshua was born in Bethlehem (Micah 5:2), descended from David, and lived a life of perfect obedience to God. He was rejected by many, pierced on the cross, and willingly gave His life as an atonement for sin, fulfilling Isaiah 53 and Psalm 22. His resurrection from the dead confirmed His identity, much like Isaiah 53:11 foresees: "After the suffering of his soul, he will see the light of life."
@@ -41,7 +41,7 @@ Many of the kingdom promises—world peace, the final gathering of Israel, unive
 
 ### Answering Honest Questions
 
-**"If Jesus is Messiah, why is there no world peace?"**
+**"If Yeshua is Messiah, why is there no world peace?"**
 The prophets foresaw both suffering and reigning roles for the Messiah. Yeshua fulfilled the suffering servant prophecies in His first coming and will fulfill the reigning king prophecies at His return.
 
 **"Why didn't He rebuild the Temple?"**

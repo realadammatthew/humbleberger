@@ -11,7 +11,7 @@
 People throughout history have asked:
 **Is there a God? And if so, how do we know who He is?**
 
-The Bible’s answer is this: **Yes, God exists—and He has made Himself known**. He is not distant or hidden. In fact, the story of the Bible is the story of a God who **reveals** Himself, not just to a few, but to the whole world. And the fullest revelation of God is found in **Jesus (Yeshua), the Jewish Messiah**.
+The Bible’s answer is this: **Yes, God exists—and He has made Himself known**. He is not distant or hidden. In fact, the story of the Bible is the story of a God who **reveals** Himself, not just to a few, but to the whole world. And the fullest revelation of God is found in **Yeshua, the Jewish Messiah**.
 
 ---
 
@@ -25,7 +25,7 @@ This is how God shows Himself through the **natural world** and in **every human
 
 ### 2. **Special Revelation**
 
-This is how God speaks more directly—through **Scripture**, the **prophets**, and most clearly, through **Yeshua (Jesus)**.
+This is how God speaks more directly—through **Scripture**, the **prophets**, and most clearly, through **Yeshua**.
 
 Let’s look at both of these.
 
@@ -55,15 +55,15 @@ God has left His fingerprints everywhere: in the stars, in the seasons, in our d
 ### Hebrews 1:1–3
 
 > “In the past, God spoke to our ancestors through the prophets... but in these last days He has spoken to us by His Son.”
-> God used many ways to speak in the past—but His **clearest and final word** is **Yeshua (Jesus)**.
+> God used many ways to speak in the past—but His **clearest and final word** is **Yeshua**.
 
 ### John 1:1–18
 
-Jesus is called the **Word**—meaning He is **God’s message in human form**. He is eternal, divine, and through Him all things were created. When we look at Jesus, we see God clearly.
+Yeshua is called the **Word**—meaning He is **God’s message in human form**. He is eternal, divine, and through Him all things were created. When we look at Yeshua, we see God clearly.
 
 ### Mark 12:35–37
 
-In a powerful moment, Jesus quotes from the Psalms to reveal that the promised Messiah is not just David’s son—He is **David’s Lord**. Jesus reveals **who God really is** through Scripture, and in **His own identity**.
+In a powerful moment, Yeshua quotes from the Psalms to reveal that the promised Messiah is not just David’s son—He is **David’s Lord**. Yeshua reveals **who God really is** through Scripture, and in **His own identity**.
 
 ---
 
@@ -96,13 +96,13 @@ Understanding how God reveals Himself changes everything:
 * **We are not alone.** God made the first move to reach out to us.
 * **We have no excuse to ignore Him.** Even creation and conscience point us toward God.
 * **We need the Bible to truly know Him.** Nature shows us there is a God, but **only Scripture reveals His name, His plan, and His Son**.
-* **Jesus is the full picture.** To know God fully, we must know **Yeshua, the Messiah**, who is God made flesh.
+* **Yeshua is the full picture.** To know God fully, we must know **Yeshua, the Messiah**, who is God made flesh.
 
 ---
 
 ## Final Thoughts
 
-God has revealed Himself to all people—first in **creation**, then in **Scripture**, and most clearly in **Yeshua the Messiah**. Creation tells us **there is a God**. The Bible tells us **who He is**. And Jesus shows us **what He’s like**.
+God has revealed Himself to all people—first in **creation**, then in **Scripture**, and most clearly in **Yeshua the Messiah**. Creation tells us **there is a God**. The Bible tells us **who He is**. And Yeshua shows us **what He’s like**.
 
 > “The Word became flesh and made His dwelling among us. We have seen His glory...”
 > *(John 1:14)*

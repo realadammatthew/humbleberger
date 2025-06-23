@@ -142,7 +142,7 @@ To many Jews, embracing Yeshua is seen as leaving Judaism. But in truth, it is r
 
 As Rabbi Shaul (Paul) wrote:
 
-> *"Christ (Messiah) has become a servant of the Jews on behalf of God’s truth, to confirm the promises made to the patriarchs."* (**Romans 15:8**)
+> *"Messiah has become a servant of the Jews on behalf of God’s truth, to confirm the promises made to the patriarchs."* (**Romans 15:8**)
 
 ---
 

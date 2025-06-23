@@ -198,7 +198,7 @@ const resources = {
       'encountering.section4.atonementWithoutTemple': 'How do you understand atonement today without the Temple?',
       'encountering.section4.rightRelationship': 'What does it mean to be in right relationship with God?',
       'encountering.section4.whatToDoSaved': 'What do I need to do to be saved?',
-      'encountering.section4.becomeJewishChristian': 'How do I become a Jewish Christian?',
+      'encountering.section4.becomeJewishChristian': 'How do I become a Jewish-Christian?',
       'encountering.section4.goToHeaven': 'What does it mean to go to heaven?',
       'encountering.section4.hellExists': 'Does hell exist?',
       
@@ -208,11 +208,11 @@ const resources = {
       'encountering.section5.whySomeBelieve': 'Why do some Jewish people believe in Yeshua today?',
       'encountering.section5.whySomeReject': 'Why do some Jewish people reject the idea of Yeshua as Messiah?',
       
-      'encountering.section6.title': '6. TORAH OBSERVANCE & CHRISTIAN PRACTICE',
-      'encountering.section6.subtitle': 'Law, mitzvot, and how Jewish Christians live',
+      'encountering.section6.title': '6. TORAH OBSERVANCE & JEWISH-CHRISTIAN PRACTICE',
+      'encountering.section6.subtitle': 'Law, mitzvot, and how Jewish-Christians live',
       'encountering.section6.all613Mitzvot': 'Do I need to follow all 613 mitzvot?',
-      'encountering.section6.keepKosher': 'Do Jewish Christians keep kosher?',
-      'encountering.section6.keepShabbat': 'Do Jewish Christians keep Shabbat?',
+      'encountering.section6.keepKosher': 'Do Jewish-Christians keep kosher?',
+      'encountering.section6.keepShabbat': 'Do Jewish-Christians keep Shabbat?',
       
       'encountering.section7.title': '7. MEETING THE MESSIAH PERSONALLY',
       'encountering.section7.subtitle': 'Personal relationship and spiritual encounter',
@@ -763,7 +763,7 @@ const resources = {
       'meta.contact': 'צרו קשר עם שירות האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.',
       
       // Organization Name
-      'org.name': 'שירותי\nהאמבלברגר',
+      'org.name': 'שירות\nהאמבלברגר',
       
       // URLs
       'urls.chat': 'https://chat.humbleberger.org/he?translation=csb',

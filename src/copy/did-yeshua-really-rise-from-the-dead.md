@@ -4,7 +4,7 @@
 
 **Humbleberger Ministries**
 
-For many of my fellow Jewish brothers and sisters, the Christian claim that Yeshua (Jesus) rose bodily from the dead is perhaps the most difficult part of the gospel to accept. Yet, it is also the very heart of Christian faith. As Paul, himself a Torah-trained Jew, once said, "If Messiah has not been raised, your faith is futile" (1 Corinthians 15:17).
+For many of my fellow Jewish brothers and sisters, the Christian claim that Yeshua rose bodily from the dead is perhaps the most difficult part of the gospel to accept. Yet, it is also the very heart of Christian faith. As Paul, himself a Torah-trained Jew, once said, "If Messiah has not been raised, your faith is futile" (1 Corinthians 15:17).
 
 So did Yeshua really rise from the dead? And if so, what does this mean for us as Jewish people? Let's explore this together with both warmth and honesty.
 
@@ -56,7 +56,7 @@ The resurrection of Yeshua is not just a miraculous event; it’s the climax of 
 
 Dear Jewish friend, I understand the weight of this claim. It is not easy to consider that Messiah might have come—and that we, as a people, missed Him. But I invite you to examine the evidence, both from history and from our own Scriptures.
 
-The first followers of Yeshua were all Jews. They did not abandon Judaism; they believed Yeshua was the fulfillment of the Torah and Prophets. As Peter preached in Jerusalem shortly after the resurrection: "This Jesus God raised up, and of that we all are witnesses" (Acts 2:32).
+The first followers of Yeshua were all Jews. They did not abandon Judaism; they believed Yeshua was the fulfillment of the Torah and Prophets. As Peter preached in Jerusalem shortly after the resurrection: "This Yeshua God raised up, and of that we all are witnesses" (Acts 2:32).
 
 The tomb was empty. The witnesses were many. The Scriptures pointed forward. The Messiah lives.
 

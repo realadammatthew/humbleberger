@@ -43,7 +43,7 @@ The Bible is filled with stories and teachings that show how God continues to wo
 ### 2. **God holds everything together**
 
 > “All things were created through Him and for Him... and in Him all things hold together.” *(Colossians 1:16–17)*
-> Jesus (Yeshua), the Messiah, is not just our Savior—He is the one who **sustains** the entire universe.
+> Yeshua, the Messiah, is not just our Savior—He is the one who **sustains** the entire universe.
 
 ### 3. **God works for our good**
 
