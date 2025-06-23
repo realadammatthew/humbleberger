@@ -7,7 +7,7 @@ const resources = {
       // Header
       'header.title': 'Humbleberger Ministries - Proclaiming the Gospel of Yeshua',
       'header.description': 'Proclaiming the gospel of Yeshua with a special heart for the Jewish people. Find answers about Yeshua, the Bible, and our mission.',
-      'header.keywords': 'Yeshua, Jesus, Messiah, Jewish, gospel, ministry, Bible, evangelism',
+      'header.keywords': 'Yeshua, Jesus, Messiah, Jewish, gospel, ministry, Bible, evangelism, Christian, Christianity, Jewish-Christian, Jewish-Christianity',
       'header.ogTitle': 'Humbleberger Ministries - Proclaiming the Gospel of Yeshua',
       'header.ogDescription': 'Proclaiming the gospel of Yeshua with a special heart for the Jewish people.',
       'header.twitterTitle': 'Humbleberger Ministries - Proclaiming the Gospel of Yeshua',
@@ -507,7 +507,7 @@ const resources = {
       // Header
       'header.title': 'שירות האמבלברגר — מכריזים את בשורת ישוע המשיח',
       'header.description': 'מבשרים את הבשורה של ישוע באהבה מיוחדת לעם היהודי. בואו למצוא תשובות על ישוע, על התנ"ך ועל השליחות שלנו.',
-      'header.keywords': 'ישוע, Jesus, המשיח, Messiah, יהודי, Jewish, הבשורה, Gospel, שירות, Ministry, תנ"ך, Bible, בישור, Evangelism, אמונה, Faith, גאולה, Salvation, נבואות המשיח, Messianic Prophecy, הברית החדשה, New Testament, משיחיות, Messianic Judaism',
+      'header.keywords': 'ישוע, Jesus, המשיח, Messiah, יהודי, Jewish, הבשורה, Gospel, שירות, Ministry, תנ"ך, Bible, בישור, Evangelism, אמונה, Faith, גאולה, Salvation, נבואות המשיח, Messianic Prophecy, הברית החדשה, New Testament, משיחיות, Messianic Judaism, Christian, Christianity, Jewish-Christian, Jewish-Christianity',
       'header.ogTitle': 'שירות האמבלברגר — מכריזים את בשורת ישוע המשיח',
       'header.ogDescription': 'מבשרים את בשורת ישוע עם אהבה מיוחדת לעם ישראל.',
       'header.twitterTitle': 'שירות האמבלברגר — מכריזים את בשורת ישוע המשיח',
