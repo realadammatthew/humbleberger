@@ -770,7 +770,7 @@ const resources = {
       // URLs
       'urls.chat': 'https://chat.humbleberger.org/he?translation=csb',
       'urls.newsletter': 'https://mailchi.mp/2757d0257dda/humbleberger-ministries-he',
-      'urls.donate': 'https://donorbox.org/humbleberger-ministries',
+      'urls.donate': 'https://donorbox.org/humbleberger-ministries-he',
       'urls.synagogue': 'https://app.kehila.org/he/directory',
       'urls.twitter': 'https://x.com/humbleberger',
       'urls.bible': '/assets/Modern-Hebrew-New-Testament.pdf',
