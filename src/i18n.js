@@ -22,6 +22,7 @@ const resources = {
       'header.blog': 'Blog',
       'header.contact': 'Contact',
       'header.home': 'Home',
+      'header.rssTitle': 'Subscribe to RSS Feed',
       
       // Language Switcher
       'language.switch': 'Switch Language',
@@ -320,16 +321,16 @@ const resources = {
       'antiSemitism.intro': 'As a ministry founded upon the gospel of Messiah Yeshua and committed to the salvation of the Jewish people and the nations, Humbleberger Ministries stands firmly and unequivocally against all forms of antisemitism, both past and present, whether political, cultural, social, or theological.',
       
       'antiSemitism.section1.title': 'I. A Posture of Love and Respect',
-      'antiSemitism.section1.content': 'Humbleberger Ministries is deeply committed to honoring the Jewish people as beloved in God’s redemptive history and heritage. We grieve the ways Jewish communities have suffered throughout history, including injustices carried out in the name of Christianity. As followers of Yeshua, we are called to walk in humility and love — not only in doctrine, but in how we carry and communicate the gospel.',
+      'antiSemitism.section1.content': 'Humbleberger Ministries is deeply committed to honoring the Jewish people as beloved in God\'s redemptive history and heritage. We grieve the ways Jewish communities have suffered throughout history, including injustices carried out in the name of Christianity. As followers of Yeshua, we are called to walk in humility and love — not only in doctrine, but in how we carry and communicate the gospel.',
       
       'antiSemitism.section2.title': 'II. Honoring the Jewish People and Their Calling',
-      'antiSemitism.section2.content': 'We recognize and rejoice in the unique role of the Jewish people in God’s redemptive plan. The covenants, the promises, the patriarchs, the prophets, and ultimately the Messiah have come through them (Romans 9:4–5). We do not seek to erase Jewish identity or heritage, but to affirm its deep significance — believing that its fullest expression is found in Yeshua, the Messiah promised in the Hebrew Scriptures.',
+      'antiSemitism.section2.content': 'We recognize and rejoice in the unique role of the Jewish people in God\'s redemptive plan. The covenants, the promises, the patriarchs, the prophets, and ultimately the Messiah have come through them (Romans 9:4–5). We do not seek to erase Jewish identity or heritage, but to affirm its deep significance — believing that its fullest expression is found in Yeshua, the Messiah promised in the Hebrew Scriptures.',
       
       'antiSemitism.section3.title': 'III. A Ministry of Invitation, Not Coercion',
       'antiSemitism.section3.content': 'We believe that Yeshua is the Messiah of Israel and Savior of the world. With deep respect, we seek to share this good news with Jewish people not through pressure or argument, but through Scripture, prayer, relationship, and testimony — always grounded in love and reverence.',
       
       'antiSemitism.section4.title': 'IV. A Commitment to Reconciliation and Integrity',
-      'antiSemitism.section4.content': 'We acknowledge the Church’s need to walk humbly before the Jewish people, recognizing past failures and seeking to be a bridge, not a barrier. We stand against every form of antisemitism — not simply as a historical evil, but as something contrary to the heart of God.',
+      'antiSemitism.section4.content': 'We acknowledge the Church\'s need to walk humbly before the Jewish people, recognizing past failures and seeking to be a bridge, not a barrier. We stand against every form of antisemitism — not simply as a historical evil, but as something contrary to the heart of God.',
       
       'antiSemitism.section5.title': 'V. Our Heart for the Jewish People',
       'antiSemitism.section5.content': 'Our desire is not to win arguments but to share hope. We long for Jewish people everywhere to encounter the Messiah foretold in their own Scriptures — the One who fulfills the law and the prophets, brings peace with God, and invites all people, Jew and Gentile, into one redeemed family in Messiah Yeshua.',
@@ -408,7 +409,7 @@ const resources = {
       'statement.item4.content': 'Salvation is by grace alone, through faith alone, in Messiah alone. This includes regeneration, justification, sanctification, and glorification. It is the free gift of God and cannot be earned by works or human effort.',
       
       'statement.item5.title': '5. Believer\'s Baptism by Immersion',
-      'statement.item5.content': 'We believe baptism is for believers only, as a public profession of faith and obedience to Messiah. It is by immersion, symbolizing the believer’s union with Messiah in His death, burial, and resurrection. It is not salvific but is commanded by Yeshua for all who follow Him.',
+      'statement.item5.content': 'We believe baptism is for believers only, as a public profession of faith and obedience to Messiah. It is by immersion, symbolizing the believer\'s union with Messiah in His death, burial, and resurrection. It is not salvific but is commanded by Yeshua for all who follow Him.',
       
       'statement.item6.title': '6. The Church',
       'statement.item6.content': 'The Church consists of all true believers in Messiah. The local church is an autonomous body of baptized believers committed to worship, fellowship, teaching, the ordinances, and mission. Messiah Yeshua is the head of the Church.',
@@ -417,19 +418,19 @@ const resources = {
       'statement.item7.content': 'We affirm the continuing presence and operation of spiritual gifts within the Church, as described in the New Testament. We believe these gifts are to be exercised in a spirit of humility, under the authority of Scripture, and in accordance with the order and purpose taught in the New Testament.',
       
       'statement.item8.title': '8. The Guidance of the Holy Spirit and Personal Experience',
-      'statement.item8.content': 'We affirm the authority of Scripture as supreme yet also recognize the Holy Spirit’s ongoing personal guidance. Spirit-led experience is sacred and legitimate when submitted to Scripture, discerned with wisdom, and practiced in community.',
+      'statement.item8.content': 'We affirm the authority of Scripture as supreme yet also recognize the Holy Spirit\'s ongoing personal guidance. Spirit-led experience is sacred and legitimate when submitted to Scripture, discerned with wisdom, and practiced in community.',
       
       'statement.item9.title': '9. Biblical Anthropology: Gender and Identity',
-      'statement.item9.content': 'We affirm that all people are created by God in His image with inherent dignity and worth. We believe that God intentionally created humanity as male and female, and that both are equal in value and distinct in role. We affirm that marriage is a sacred covenant between one man and one woman, designed by God for human flourishing. We uphold the sanctity of life from conception to natural death, trusting in God’s good design for human identity and purpose.',
+      'statement.item9.content': 'We affirm that all people are created by God in His image with inherent dignity and worth. We believe that God intentionally created humanity as male and female, and that both are equal in value and distinct in role. We affirm that marriage is a sacred covenant between one man and one woman, designed by God for human flourishing. We uphold the sanctity of life from conception to natural death, trusting in God\'s good design for human identity and purpose.',
       
       'statement.item10.title': '10. Doctrine of Humanity and Transhumanism',
       'statement.item10.content': 'We affirm that humanity, created in the image of God, is a sacred and purposeful design. We believe that attempts to alter or enhance human nature through technological, genetic, or artificial means oppose God\'s intention for human identity and dignity. We affirm that human value is not found in artificial enhancements, but in being fearfully and wonderfully made by our Creator.',
       
-      'statement.item11.title': '11. God’s Redemptive Plan and the Hope of Jewish Evangelism',
-      'statement.item11.content': 'We believe that God’s plan of salvation, revealed throughout the Scriptures, has always been by grace through faith — and is fulfilled in Yeshua, the Messiah. In Messiah, God is drawing both Jews and Gentiles into one redeemed people, united by the Spirit and anchored in the promises of the New Covenant. Honoring the priority of the gospel “to the Jew first” (Romans 1:16), we embrace a particular calling to lovingly share the good news of Yeshua with Jewish people around the world, inviting them to receive the Messiah foretold in their own Scriptures.',
+      'statement.item11.title': '11. God\'s Redemptive Plan and the Hope of Jewish Evangelism',
+      'statement.item11.content': 'We believe that God\'s plan of salvation, revealed throughout the Scriptures, has always been by grace through faith — and is fulfilled in Yeshua, the Messiah. In Messiah, God is drawing both Jews and Gentiles into one redeemed people, united by the Spirit and anchored in the promises of the New Covenant. Honoring the priority of the gospel "to the Jew first" (Romans 1:16), we embrace a particular calling to lovingly share the good news of Yeshua with Jewish people around the world, inviting them to receive the Messiah foretold in their own Scriptures.',
       
-      'statement.item12.title': '12. Love for the Jewish People and the Fulfillment of God’s Promise',
-      'statement.item12.content': 'We affirm God’s enduring covenantal love for the Jewish people and recognize the rich spiritual heritage given through them — the patriarchs, the prophets, the Scriptures, and ultimately the Messiah. We honor Jewish identity as part of God’s redemptive plan and believe that the promises of the Hebrew Scriptures find their fulfillment in Yeshua, the Messiah of Israel. In this conviction, we approach Jewish people not with pressure or coercion, but with humility, gratitude, and hope — longing to share the good news of Yeshua with compassion and deep respect.',
+      'statement.item12.title': '12. Love for the Jewish People and the Fulfillment of God\'s Promise',
+      'statement.item12.content': 'We affirm God\'s enduring covenantal love for the Jewish people and recognize the rich spiritual heritage given through them — the patriarchs, the prophets, the Scriptures, and ultimately the Messiah. We honor Jewish identity as part of God\'s redemptive plan and believe that the promises of the Hebrew Scriptures find their fulfillment in Yeshua, the Messiah of Israel. In this conviction, we approach Jewish people not with pressure or coercion, but with humility, gratitude, and hope — longing to share the good news of Yeshua with compassion and deep respect.',
       
       'statement.item13.title': '13. Non-Political Affiliation',
       'statement.item13.content': 'We as an organization are not political in nature. We do not promote any party or ideology. Our citizenship is in heaven, and our mission is spiritual: to proclaim the gospel and advance the kingdom of Messiah.',
@@ -438,10 +439,10 @@ const resources = {
       'statement.item14.content': 'We affirm the reality of spiritual warfare. The gospel is proclaimed in contested territory. We are equipped with the full armor of God and empowered by the Spirit to resist the enemy and advance the gospel in power and truth.',
       
       'statement.item15.title': '15. The Great Commission and Global Missions',
-      'statement.item15.content': 'We exist to make disciples of all nations, especially the Jewish people. We proclaim the gospel, plant churches, disciple believers, and raise up leaders. We affirm Messiah’s command to go into all the world until every people hears. We follow the biblical pattern of gospel expansion from Jerusalem to Judea, Samaria, and the ends of the earth (Acts 1:8), laboring first for the Jewish people and then for the nations. Our evangelism is grounded in Scripture, both Old and New Testaments.',
+      'statement.item15.content': 'We exist to make disciples of all nations, especially the Jewish people. We proclaim the gospel, plant churches, disciple believers, and raise up leaders. We affirm Messiah\'s command to go into all the world until every people hears. We follow the biblical pattern of gospel expansion from Jerusalem to Judea, Samaria, and the ends of the earth (Acts 1:8), laboring first for the Jewish people and then for the nations. Our evangelism is grounded in Scripture, both Old and New Testaments.',
       
       'statement.item16.title': '16. Truth and Exclusivity of the Gospel',
-      'statement.item16.content': 'We affirm that Yeshua is the only way to God, and that salvation is found in Him alone. We affirm the absolute truth and authority of God’s Word in all generations. While we engage diverse cultures with humility and compassion, we hold fast to the exclusive truth of the gospel without compromise.',
+      'statement.item16.content': 'We affirm that Yeshua is the only way to God, and that salvation is found in Him alone. We affirm the absolute truth and authority of God\'s Word in all generations. While we engage diverse cultures with humility and compassion, we hold fast to the exclusive truth of the gospel without compromise.',
       
       'statement.item17.title': '17. The Witness of the Church in a Secular World',
       'statement.item17.content': 'We affirm the existence of a personal, holy, and sovereign God, who created and sustains all things. We affirm that true knowledge and wisdom begin with the fear of the Lord, and that any worldview which denies God\'s existence is ultimately incomplete and spiritually bankrupt.',
@@ -521,6 +522,7 @@ const resources = {
       'header.blog': 'בלוג',
       'header.contact': 'צור קשר',
       'header.home': 'בית',
+      'header.rssTitle': 'הירשמו להזנת RSS',
       
       // Language Switcher
       'language.switch': 'החלף שפה',
@@ -799,7 +801,7 @@ const resources = {
       'urls.internal.shemaFromHome': '/he/blog/yeshua-and-the-shema?from=home',
       
       // Header URLs
-      'urls.site': 'https://humbleberger.org/he',
+      'urls.site': 'https://humbleberger.org',
       'urls.logo': 'https://humbleberger.org/logo.png',
       'urls.socialPreview': 'https://humbleberger.org/social-preview.png',
       

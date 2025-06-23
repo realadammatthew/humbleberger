@@ -12,6 +12,10 @@ const Header = () => {
   const currentUrl = isHebrew ? `${t('urls.site')}/he${router.asPath}` : `${t('urls.site')}${router.asPath}`;
   const canonicalUrl = isHebrew ? `${t('urls.site')}/he` : `${t('urls.site')}`;
 
+  // Fix alternate hreflang URLs
+  const englishAlternateUrl = `${t('urls.site')}/`;
+  const hebrewAlternateUrl = `${t('urls.site')}/he`;
+
   return (
     <Head>
       <meta charSet="UTF-8" />
@@ -63,14 +67,14 @@ const Header = () => {
           "@context": "https://schema.org",
           "@type": "NonprofitOrganization",
           "name": "${t("header.title")}",
-          "url": "${t('urls.site')}",
+          "url": "${canonicalUrl}",
           "logo": "${t('urls.logo')}",
           "description": "${t("header.structuredDataDescription")}",
           "founder": {
             "@type": "Person",
             "name": "${t('person.founder.name')}",
             "email": "${t('person.founder.email')}",
-            "url": "${t('urls.site')}"
+            "url": "${canonicalUrl}"
           },
           "email": "${t('person.founder.email')}",
           "address": {
@@ -88,17 +92,17 @@ const Header = () => {
             {
               "@type": "WebPage",
               "name": "${t("header.statementOfFaith")}",
-              "url": "${t('urls.site')}${t('urls.internal.statementOfFaith')}"
+              "url": "${isHebrew ? `${t('urls.site')}/he${t('urls.internal.statementOfFaith')}` : `${t('urls.site')}${t('urls.internal.statementOfFaith')}`}"
             },
             {
               "@type": "WebPage",
               "name": "${t("header.statementOnAntisemitism")}",
-              "url": "${t('urls.site')}${t('urls.internal.antisemitism')}"
+              "url": "${isHebrew ? `${t('urls.site')}/he${t('urls.internal.antisemitism')}` : `${t('urls.site')}${t('urls.internal.antisemitism')}`}"
             },
             {
               "@type": "WebPage",
               "name": "${t("header.countingTheCost")}",
-              "url": "${t('urls.site')}${t('urls.internal.countingCost')}"
+              "url": "${isHebrew ? `${t('urls.site')}/he${t('urls.internal.countingCost')}` : `${t('urls.site')}${t('urls.internal.countingCost')}`}"
             },
             {
               "@type": "DonateAction",
@@ -117,9 +121,9 @@ const Header = () => {
         name="copyright"
         content={t("header.copyright")}
       />
-      <link rel="alternate" hrefLang="en" href={`${t('urls.site')}/`} />
-      <link rel="alternate" hrefLang="he" href={`${t('urls.site')}/he`} />
-      <link rel="alternate" type="application/rss+xml" title={t("header.rssTitle")} href={`${t('urls.site')}${t('urls.internal.rss')}`} />
+      <link rel="alternate" hrefLang="en" href={englishAlternateUrl} />
+      <link rel="alternate" hrefLang="he" href={hebrewAlternateUrl} />
+      <link rel="alternate" type="application/rss+xml" title={t("header.rssTitle")} href={isHebrew ? `${t('urls.site')}/rss-he.xml` : `${t('urls.site')}/rss.xml`} />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
