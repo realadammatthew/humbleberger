@@ -13,7 +13,7 @@ const HebrewBibleViewer = () => {
       try {
         // Load PDF.js from CDN
         const pdfjsLib = window['pdfjs-dist/build/pdf'];
-        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+        pdfjsLib.GlobalWorkerOptions.workerSrc = '/pdf.worker.min.js';
 
         // Load the PDF document
         const loadingTask = pdfjsLib.getDocument('/assets/Modern-Hebrew-New-Testament.pdf');
@@ -78,7 +78,7 @@ const HebrewBibleViewer = () => {
       <>
         <Head>
           <title>הברית החדשה בעברית</title>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+          <script src="/pdf.min.js"></script>
         </Head>
         <div style={{
           width: '100vw',
@@ -104,7 +104,7 @@ const HebrewBibleViewer = () => {
     <>
       <Head>
         <title>הברית החדשה בעברית</title>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+        <script src="/pdf.min.js"></script>
       </Head>
       
       {/* Navigation Bar */}
