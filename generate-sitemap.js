@@ -29,7 +29,10 @@ function getStaticPageUrls(dir, prefix = '') {
                 let urlPath = path.join(baseUrl, file.replace(/\.js$/, ''));
                 // Skip index pages as they're handled separately
                 if (urlPath !== 'index') {
-                    urls.add(`${SITE_URL}${prefix}/${urlPath}`);
+                    // Skip bible-viewer page
+                    if (urlPath !== 'bible-viewer') {
+                        urls.add(`${SITE_URL}${prefix}/${urlPath}`);
+                    }
                 }
             }
         });

@@ -773,7 +773,7 @@ const resources = {
       'urls.donate': 'https://donorbox.org/humbleberger-ministries-he',
       'urls.synagogue': 'https://app.kehila.org/he/directory',
       'urls.twitter': 'https://x.com/humbleberger',
-      'urls.bible': '/assets/Modern-Hebrew-New-Testament.pdf',
+      'urls.bible': '/he/bible-viewer',
       'urls.contactForm': 'https://formspree.io/f/xnnvbwvz',
       
       // Internal URLs
