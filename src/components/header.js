@@ -18,6 +18,23 @@ const Header = () => {
   const englishAlternateUrl = `${t('urls.site')}/`;
   const hebrewAlternateUrl = `${t('urls.site')}/he/`;
 
+  // Location-specific data for SEO
+  const locationData = isHebrew ? {
+    city: "Tel Aviv",
+    region: "Tel Aviv District",
+    country: "Israel",
+    countryCode: "IL",
+    timezone: "Asia/Jerusalem",
+    currency: "ILS"
+  } : {
+    city: "New York City",
+    region: "New York",
+    country: "United States",
+    countryCode: "US",
+    timezone: "America/New_York",
+    currency: "USD"
+  };
+
   return (
     <Head>
       <meta charSet="UTF-8" />
@@ -33,6 +50,18 @@ const Header = () => {
       />
       <meta name="robots" content="index, follow" />
       <link rel="canonical" href={canonicalUrl} />
+      
+      {/* Location-specific meta tags for SEO */}
+      <meta name="geo.region" content={locationData.countryCode} />
+      <meta name="geo.placename" content={locationData.city} />
+      <meta name="geo.position" content={isHebrew ? "32.0853;34.7818" : "40.7128;-74.0060"} />
+      <meta name="ICBM" content={isHebrew ? "32.0853, 34.7818" : "40.7128, -74.0060"} />
+      <meta name="DC.title" content={t("header.title")} />
+      <meta name="DC.language" content={i18n.language === 'he' ? 'he' : 'en'} />
+      <meta name="DC.coverage" content={locationData.city} />
+      <meta name="DC.subject" content="Christian Ministry, Messianic Judaism, Yeshua" />
+      
+      {/* Open Graph meta tags */}
       <meta
         property="og:title"
         content={t("header.ogTitle")}
@@ -49,6 +78,9 @@ const Header = () => {
       />
       <meta property="og:site_name" content={t("header.title")} />
       <meta property="og:locale" content={i18n.language === 'he' ? 'he_IL' : 'en_US'} />
+      <meta property="og:locale:alternate" content={i18n.language === 'he' ? 'en_US' : 'he_IL'} />
+      
+      {/* Twitter Card meta tags */}
       <meta name="twitter:card" content="summary_large_image" />
       <meta
         name="twitter:title"
@@ -62,6 +94,8 @@ const Header = () => {
         name="twitter:image"
         content={t("urls.socialPreview")}
       />
+      
+      {/* Enhanced structured data with location information */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -72,6 +106,7 @@ const Header = () => {
           "url": "${canonicalUrl}",
           "logo": "${t('urls.logo')}",
           "description": "${t("header.structuredDataDescription")}",
+          "foundingDate": "2025",
           "founder": {
             "@type": "Person",
             "name": "${t('person.founder.name')}",
@@ -81,12 +116,32 @@ const Header = () => {
           "email": "${t('person.founder.email')}",
           "address": {
             "@type": "PostalAddress",
-            "addressRegion": "NC",
-            "addressCountry": "US"
+            "addressLocality": "${locationData.city}",
+            "addressRegion": "${locationData.region}",
+            "addressCountry": "${locationData.country}"
           },
+          "location": {
+            "@type": "Place",
+            "name": "${locationData.city}",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "${locationData.city}",
+              "addressRegion": "${locationData.region}",
+              "addressCountry": "${locationData.country}"
+            }
+          },
+          "areaServed": [
+            {
+              "@type": "Country",
+              "name": "${locationData.country}"
+            },
+            {
+              "@type": "City",
+              "name": "${locationData.city}"
+            }
+          ],
           "nonprofitStatus": "https://schema.org/Nonprofit501c3",
           "taxID": "${t('common.fein.number')}",
-          "areaServed": "Worldwide",
           "sameAs": [
             "${t('urls.twitter')}"
           ],
@@ -116,6 +171,8 @@ const Header = () => {
         }`,
         }}
       />
+      
+      {/* Additional SEO meta tags */}
       <meta name="author" content={t("header.title")} />
       <meta name="theme-color" content="#101828" />
       <meta name="language" content={i18n.language === 'he' ? 'he-IL' : 'en-US'} />
@@ -123,15 +180,30 @@ const Header = () => {
         name="copyright"
         content={t("header.copyright")}
       />
+      <meta name="distribution" content="global" />
+      <meta name="rating" content="general" />
+      <meta name="revisit-after" content="7 days" />
+      <meta name="generator" content="Next.js" />
+      
+      {/* Enhanced hreflang tags for better international SEO */}
       <link rel="alternate" hrefLang="en" href={englishAlternateUrl} />
+      <link rel="alternate" hrefLang="en-US" href={englishAlternateUrl} />
       <link rel="alternate" hrefLang="he" href={hebrewAlternateUrl} />
+      <link rel="alternate" hrefLang="he-IL" href={hebrewAlternateUrl} />
+      <link rel="alternate" hrefLang="x-default" href={englishAlternateUrl} />
+      
+      {/* RSS feeds */}
       <link rel="alternate" type="application/rss+xml" title={t("header.rssTitle")} href={isHebrew ? `${t('urls.site')}/rss-he.xml` : `${t('urls.site')}/rss.xml`} />
+      
+      {/* Favicon and app icons */}
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
       <link rel="icon" href="/favicon.ico" type="image/x-icon" />
       <link rel="manifest" href="/site.webmanifest" />
       <link rel="stylesheet" href="/styles.css" />
+      
+      {/* Google Analytics */}
       <script
         async
         src="https://www.googletagmanager.com/gtag/js?id=G-WDGNT0XVNN"
