@@ -91,6 +91,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/blog/the-heart-of-atonement</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/blog/the-new-covenant-that-was-promised</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -257,6 +262,11 @@
     </url>
     <url>
         <loc>https://humbleberger.org/he/blog/the-fulfillment-of-the-hebrew-scriptures</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/blog/the-heart-of-atonement</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>

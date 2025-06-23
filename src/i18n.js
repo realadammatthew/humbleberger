@@ -515,6 +515,8 @@ const resources = {
         '/blog/redemption-in-the-hebrew-scriptures?from=encountering-messiah',
       'urls.encountering.whatIsSin':
         '/blog/what-is-sin?from=encountering-messiah',
+      'urls.encountering.whatIsRedemption':
+        '/blog/the-heart-of-atonement?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'Our Mission',
@@ -1152,6 +1154,8 @@ const resources = {
         '/he/blog/redemption-in-the-hebrew-scriptures?from=encountering-messiah',
       'urls.encountering.whatIsSin':
         '/he/blog/what-is-sin?from=encountering-messiah',
+      'urls.encountering.whatIsRedemption':
+        '/he/blog/the-heart-of-atonement?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'השליחות שלנו',
