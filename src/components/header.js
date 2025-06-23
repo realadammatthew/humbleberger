@@ -9,12 +9,14 @@ const Header = () => {
   const router = useRouter();
   
   // Generate dynamic URLs based on current language
-  const currentUrl = isHebrew ? `${t('urls.site')}/he${router.asPath}` : `${t('urls.site')}${router.asPath}`;
-  const canonicalUrl = isHebrew ? `${t('urls.site')}/he` : `${t('urls.site')}`;
+  // Remove /he prefix from asPath if it exists to avoid duplication
+  const cleanPath = router.asPath.replace(/^\/he/, '');
+  const currentUrl = isHebrew ? `${t('urls.site')}/he${cleanPath}` : `${t('urls.site')}${cleanPath}`;
+  const canonicalUrl = isHebrew ? `${t('urls.site')}/he/` : `${t('urls.site')}/`;
 
   // Fix alternate hreflang URLs
   const englishAlternateUrl = `${t('urls.site')}/`;
-  const hebrewAlternateUrl = `${t('urls.site')}/he`;
+  const hebrewAlternateUrl = `${t('urls.site')}/he/`;
 
   return (
     <Head>
@@ -92,17 +94,17 @@ const Header = () => {
             {
               "@type": "WebPage",
               "name": "${t("header.statementOfFaith")}",
-              "url": "${isHebrew ? `${t('urls.site')}/he${t('urls.internal.statementOfFaith')}` : `${t('urls.site')}${t('urls.internal.statementOfFaith')}`}"
+              "url": "${t('urls.site')}${t('urls.internal.statementOfFaith')}"
             },
             {
               "@type": "WebPage",
               "name": "${t("header.statementOnAntisemitism")}",
-              "url": "${isHebrew ? `${t('urls.site')}/he${t('urls.internal.antisemitism')}` : `${t('urls.site')}${t('urls.internal.antisemitism')}`}"
+              "url": "${t('urls.site')}${t('urls.internal.antisemitism')}"
             },
             {
               "@type": "WebPage",
               "name": "${t("header.countingTheCost")}",
-              "url": "${isHebrew ? `${t('urls.site')}/he${t('urls.internal.countingCost')}` : `${t('urls.site')}${t('urls.internal.countingCost')}`}"
+              "url": "${t('urls.site')}${t('urls.internal.countingCost')}"
             },
             {
               "@type": "DonateAction",
