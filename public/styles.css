@@ -222,6 +222,10 @@ section h2 {
   text-align: left;
 }
 
+.hebrew .toc-item-content {
+  text-align: right;
+}
+
 .toc-item-title {
   font-size: 1.2rem;
   font-weight: 600;
@@ -235,6 +239,11 @@ section h2 {
   margin: 0;
   padding-left: 1rem;
   font-style: italic;
+}
+
+.hebrew .toc-item-excerpt {
+  padding-left: 0;
+  padding-right: 1rem;
 }
 
 .blog-post-container {
