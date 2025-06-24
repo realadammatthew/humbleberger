@@ -1,8 +1,8 @@
 # Is Yeshua the Messiah Foretold in the Hebrew Bible?
 
-**A Bold Call to Truth for Our Jewish Brothers and Sisters**
+## A Bold Call to Truth for Our Jewish Brothers and Sisters
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 
@@ -11,7 +11,7 @@ _"I continued watching in the night visions, and suddenly one like a son of man 
 
 ---
 
-_Shalom_, beloved friends,
+## _Shalom_, beloved friends,
 
 The heart of our Jewish faith pulses with longing for the Messiah promised in the Hebrew Bible. With unwavering love and urgency, we proclaim a transformative truth: Yeshua of Nazareth is that Messiah, the one our prophets foretold, who fulfilled the Scriptures through his life, death, and resurrection, and will return to reign in glory. As followers of Yeshua, rooted in the sacred Tanakh, we invite you to confront this question with courage: Has the Messiah come, and is he calling you today? With hearts full of grace, let us dive into the Scriptures and declare the undeniable truth of Yeshua, the Anointed One.
 

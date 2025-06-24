@@ -1,8 +1,8 @@
 # From the Trenches: A Practical Guide to Prayer and Street Evangelism
 
-**A Quick How-To On Street Preaching and Evangelism**
+## A Quick How-To On Street Preaching and Evangelism
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ## Introduction
 
@@ -16,24 +16,24 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 ### 1. Gospel-Centered
 
-* **The Message:** God's holiness, human sin, Messiah's sacrificial death and resurrection, and the invitation to repentance and faith.
-* **The Power:** Trust in the Gospel itself as the power of God for salvation (Romans 1:16).
+- **The Message:** God's holiness, human sin, Messiah's sacrificial death and resurrection, and the invitation to repentance and faith.
+- **The Power:** Trust in the Gospel itself as the power of God for salvation (Romans 1:16).
 
 ### 2. Spirit-Led
 
-* Rely on the Holy Spirit for wisdom, boldness, and divine appointments (Acts 4:31, Ephesians 5:18).
+- Rely on the Holy Spirit for wisdom, boldness, and divine appointments (Acts 4:31, Ephesians 5:18).
 
 ### 3. Loving and Pastoral
 
-* Engage with compassion. Listen attentively, avoid judgmentalism, and always point people to Yeshua (John 3:17; 1 Corinthians 13:1).
+- Engage with compassion. Listen attentively, avoid judgmentalism, and always point people to Yeshua (John 3:17; 1 Corinthians 13:1).
 
 ### 4. Humble and Respectful
 
-* Every person is an image-bearer of God (Genesis 1:27). Approach each one with dignity and respect, even when you disagree (1 Peter 3:15).
+- Every person is an image-bearer of God (Genesis 1:27). Approach each one with dignity and respect, even when you disagree (1 Peter 3:15).
 
 ### 5. Prayer-Focused
 
-* Prayer is your most powerful tool. Pray before, during, and after conversations (James 5:16).
+- Prayer is your most powerful tool. Pray before, during, and after conversations (James 5:16).
 
 ---
 
@@ -41,16 +41,16 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 ### Spiritual Preparation
 
-* **Prayer:** Spend dedicated time daily asking God for boldness and guidance.
-* **Scripture Meditation:** Memorize key Gospel verses (John 3:16, Romans 5:8, 2 Corinthians 5:17).
-* **Testimony Practice:** Prepare a 1-minute personal testimony: life before Messiah, your encounter with Yeshua, and how He has changed you.
-* **Fasting (Optional):** Consider fasting as a way to seek God's power and clarity (Mark 9:29).
+- **Prayer:** Spend dedicated time daily asking God for boldness and guidance.
+- **Scripture Meditation:** Memorize key Gospel verses (John 3:16, Romans 5:8, 2 Corinthians 5:17).
+- **Testimony Practice:** Prepare a 1-minute personal testimony: life before Messiah, your encounter with Yeshua, and how He has changed you.
+- **Fasting (Optional):** Consider fasting as a way to seek God's power and clarity (Mark 9:29).
 
 ### Practical Preparation
 
-* **Training:** Participate in role-plays and workshops to practice conversations.
-* **Team Formation:** Always work in teams of 2-3 for safety and encouragement.
-* **Supplies:** Bible, water, sunscreen, comfortable clothing, Gospel tracts, and church contact cards.
+- **Training:** Participate in role-plays and workshops to practice conversations.
+- **Team Formation:** Always work in teams of 2-3 for safety and encouragement.
+- **Supplies:** Bible, water, sunscreen, comfortable clothing, Gospel tracts, and church contact cards.
 
 ---
 
@@ -58,31 +58,33 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 ### Approach
 
-* Smile, make eye contact, and greet warmly.
-* Use openers like:
+- Smile, make eye contact, and greet warmly.
+- Use openers like:
 
-  * "Hi! We’re here sharing God’s love. May I ask about your spiritual journey?"
-  * "Can we offer you a prayer today?"
+  - "Hi! We’re here sharing God’s love. May I ask about your spiritual journey?"
+  - "Can we offer you a prayer today?"
 
 ### Conversations
 
-* **Listen First:** Reflect back what people share (e.g., "It sounds like you’ve been hurt by church before.")
-* **Empathize:** "I'm so sorry you’ve experienced that. Can I share how Yeshua changed my life?"
-* **Share the Gospel Simply:**
+- **Listen First:** Reflect back what people share (e.g., "It sounds like you’ve been hurt by church before.")
+- **Empathize:** "I'm so sorry you’ve experienced that. Can I share how Yeshua changed my life?"
+- **Share the Gospel Simply:**
 
-  * God loves you and desires a relationship with you (John 3:16).
-  * We all sin and fall short of God’s standard (Romans 3:23).
-  * Yeshua died and rose again to offer forgiveness (Romans 5:8).
-  * We are called to repent and trust in Him (Acts 3:19).
-* **Invite a Response:** "Would you like to pray to trust Yeshua today?"
+  - God loves you and desires a relationship with you (John 3:16).
+  - We all sin and fall short of God’s standard (Romans 3:23).
+  - Yeshua died and rose again to offer forgiveness (Romans 5:8).
+  - We are called to repent and trust in Him (Acts 3:19).
+
+- **Invite a Response:** "Would you like to pray to trust Yeshua today?"
 
 ### Handling Hostility
 
-* De-escalate with phrases like:
+- De-escalate with phrases like:
 
-  * "I hear you and respect your perspective. I’ll pray for you."
-  * "I'm sorry we're not connecting today. May God give you peace."
-* Never argue or raise your voice (Proverbs 15:1).
+  - "I hear you and respect your perspective. I’ll pray for you."
+  - "I'm sorry we're not connecting today. May God give you peace."
+
+- Never argue or raise your voice (Proverbs 15:1).
 
 ---
 
@@ -90,15 +92,15 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 ### Setting Up a Prayer Station
 
-* Use clear, inviting signage like "Free Prayer" with chairs for comfort.
-* Offer practical kindness like water or snacks along with prayer.
+- Use clear, inviting signage like "Free Prayer" with chairs for comfort.
+- Offer practical kindness like water or snacks along with prayer.
 
 ### How to Pray
 
-* Ask permission: "May I pray for you?"
-* Keep prayers short, Spirit-led, and focused on God’s love and peace.
-* Sample prayer: "Father, thank You for \[name]. Please bring peace to their situation and reveal Your love. In Yeshua's name, Amen."
-* Always offer follow-up contact info for your church or small group.
+- Ask permission: "May I pray for you?"
+- Keep prayers short, Spirit-led, and focused on God’s love and peace.
+- Sample prayer: "Father, thank You for \[name]. Please bring peace to their situation and reveal Your love. In Yeshua's name, Amen."
+- Always offer follow-up contact info for your church or small group.
 
 ---
 
@@ -106,28 +108,28 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 ### Debrief as a Team
 
-* Share testimonies, pray together, and discuss lessons learned.
-* Check on each other’s emotional and spiritual well-being.
+- Share testimonies, pray together, and discuss lessons learned.
+- Check on each other’s emotional and spiritual well-being.
 
 ### Follow-Up with Contacts
 
-* Contact anyone who expressed interest promptly (within 48 hours).
-* Invite them to Bible studies, coffee meetings, or church services.
-* Connect them with pastoral support and discipleship resources.
+- Contact anyone who expressed interest promptly (within 48 hours).
+- Invite them to Bible studies, coffee meetings, or church services.
+- Connect them with pastoral support and discipleship resources.
 
 ### Celebrate God’s Work
 
-* Share anonymized testimonies with your church to glorify God and encourage others to join the mission.
+- Share anonymized testimonies with your church to glorify God and encourage others to join the mission.
 
 ---
 
 ## Safety Guidelines
 
-* Stay in teams of 2-3.
-* Check in with team leaders regularly.
-* Avoid isolated or unsafe areas.
-* Carry emergency contact info.
-* Respect boundaries and walk away from hostile encounters.
+- Stay in teams of 2-3.
+- Check in with team leaders regularly.
+- Avoid isolated or unsafe areas.
+- Carry emergency contact info.
+- Respect boundaries and walk away from hostile encounters.
 
 ---
 
@@ -135,10 +137,10 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 ### Do Not:
 
-* Condemn or use fear-based language ("You're going to hell!").
-* Engage in political or cultural debates.
-* Affirm sin ("God loves you just as you are; no need to change.").
-* Ask invasive questions ("Are you gay? Do you need to be fixed?").
+- Condemn or use fear-based language ("You're going to hell!").
+- Engage in political or cultural debates.
+- Affirm sin ("God loves you just as you are; no need to change.").
+- Ask invasive questions ("Are you gay? Do you need to be fixed?").
 
 Always keep the focus on Yeshua's love and the hope of transformation through the Gospel.
 
@@ -152,4 +154,4 @@ Evangelism is not about winning arguments but about winning souls. It’s about 
 
 ---
 
-*Download your [free evanglism cheatsheet](../../assets/From-The-Trenches-An-Evangelism-Guide.pdf) today to learn more, and don't forget to share with friends and family!*
+_Download your [free evanglism cheatsheet](../../assets/From-The-Trenches-An-Evangelism-Guide.pdf) today to learn more, and don't forget to share with friends and family!_

@@ -1,8 +1,8 @@
 # What Will the Messiah Do?
 
-**Let's explore what the Scriptures say He will do here in this World**
+## Let's explore what the Scriptures say He will do here in this World
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 Dear brothers and sisters,
 

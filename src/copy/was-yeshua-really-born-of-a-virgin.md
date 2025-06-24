@@ -1,8 +1,8 @@
 # Was Yeshua Really Born of a Virgin?
 
-**The Miraculous Birth of Israel’s Messiah**
+## The Miraculous Birth of Israel’s Messiah
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 

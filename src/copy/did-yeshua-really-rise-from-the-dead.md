@@ -1,8 +1,8 @@
 # Did Yeshua Really Rise From The Dead?
 
-**The Risen Messiah Who Conquers Death**
+## The Risen Messiah Who Conquers Death
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 

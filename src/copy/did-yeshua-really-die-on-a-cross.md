@@ -1,8 +1,8 @@
 # Did Yeshua Really Die on a Cross?
 
-**The Crucified Messiah Who Redeems Us**
+## The Crucified Messiah Who Redeems Us
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 

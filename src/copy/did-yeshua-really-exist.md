@@ -1,8 +1,8 @@
 # Did Yeshua Really Exist?
 
-**The Undeniable Evidence of the Messiah**
+## The Undeniable Evidence of the Messiah
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 

@@ -1,8 +1,8 @@
 # How Does God Reveal Himself?
 
-**Understanding Revelation Through Creation, Scripture, and the Messiah**
+## Understanding Revelation Through Creation, Scripture, and the Messiah
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 
@@ -81,9 +81,9 @@ And in **2 Peter 1:20–21**, we read:
 
 This means:
 
-* The Bible is **inspired** (it comes from God)
-* It is **infallible** (it doesn’t fail to tell the truth)
-* It is **inerrant** (it contains no error in what it teaches)
+- The Bible is **inspired** (it comes from God)
+- It is **infallible** (it doesn’t fail to tell the truth)
+- It is **inerrant** (it contains no error in what it teaches)
 
 Through the Scriptures, we not only learn **about** God—we come to **know** Him personally.
 
@@ -93,10 +93,10 @@ Through the Scriptures, we not only learn **about** God—we come to **know** Hi
 
 Understanding how God reveals Himself changes everything:
 
-* **We are not alone.** God made the first move to reach out to us.
-* **We have no excuse to ignore Him.** Even creation and conscience point us toward God.
-* **We need the Bible to truly know Him.** Nature shows us there is a God, but **only Scripture reveals His name, His plan, and His Son**.
-* **Yeshua is the full picture.** To know God fully, we must know **Yeshua, the Messiah**, who is God made flesh.
+- **We are not alone.** God made the first move to reach out to us.
+- **We have no excuse to ignore Him.** Even creation and conscience point us toward God.
+- **We need the Bible to truly know Him.** Nature shows us there is a God, but **only Scripture reveals His name, His plan, and His Son**.
+- **Yeshua is the full picture.** To know God fully, we must know **Yeshua, the Messiah**, who is God made flesh.
 
 ---
 
@@ -105,10 +105,10 @@ Understanding how God reveals Himself changes everything:
 God has revealed Himself to all people—first in **creation**, then in **Scripture**, and most clearly in **Yeshua the Messiah**. Creation tells us **there is a God**. The Bible tells us **who He is**. And Yeshua shows us **what He’s like**.
 
 > “The Word became flesh and made His dwelling among us. We have seen His glory...”
-> *(John 1:14)*
+> _(John 1:14)_
 
 To ignore God's revelation is to close our eyes to truth. But to receive it is to find **life, purpose, and eternal hope**.
 
 ---
 
-*Download your [free teaching guide](../../assets/God-and-Revelation-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!*
+_Download your [free teaching guide](../../assets/God-and-Revelation-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!_

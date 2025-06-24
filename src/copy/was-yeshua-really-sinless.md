@@ -1,8 +1,8 @@
 # Was Yeshua Really Sinless?
 
-**The Perfect Messiah Who Redeems Us**
+## The Perfect Messiah Who Redeems Us
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 

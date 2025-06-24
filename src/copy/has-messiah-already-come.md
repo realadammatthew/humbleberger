@@ -1,8 +1,8 @@
 # Has the Messiah Already Come?
 
-**Let's review together and find out!**
+## Let's review together and find out!
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 Dear brothers and sisters,
 
@@ -46,7 +46,7 @@ Dear friend, could it be that the Messiah has already come, fulfilling the suffe
 
 I invite you to read these prophecies anew. Ask the God of Abraham, Isaac, and Jacob to reveal His truth. Many Jewish people, like myself, have found Yeshua to be the fulfillment of our ancient hope.
 
-As Zechariah 12:10 promises, one day all Israel will look upon the One they pierced and mourn—and find healing. Until then, the invitation remains open: *Come, see if He is the One.*
+As Zechariah 12:10 promises, one day all Israel will look upon the One they pierced and mourn—and find healing. Until then, the invitation remains open: _Come, see if He is the One._
 
 With love and deep respect,
 

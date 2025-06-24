@@ -1,8 +1,8 @@
 # Atonement: The Blood That Speaks and a Messiah Who Saves
 
-**A Loving Call to Our Jewish Brothers and Sisters**
+## A Loving Call to Our Jewish Brothers and Sisters
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 

@@ -1,8 +1,8 @@
 # Is Yeshua Still Alive Today?
 
-**The Living Messiah Who Offers Eternal Life**
+## The Living Messiah Who Offers Eternal Life
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 

@@ -1,27 +1,27 @@
 # Redemption in the Hebrew Scriptures
 
-**A Gentle Invitation to Meet the Messiah**
+## A Gentle Invitation to Meet the Messiah
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 Shalom, my dear Jewish friends,
 
-The word *redemption* carries a deep and precious meaning in the Hebrew Scriptures. From the earliest days of our people, God has revealed Himself as our Redeemer. As we journey together through the Tanakh, I invite you to consider how this beautiful theme of redemption may ultimately lead us to recognize the Messiah—Yeshua—who fulfills, rather than replaces, God’s promises to Israel.
+The word _redemption_ carries a deep and precious meaning in the Hebrew Scriptures. From the earliest days of our people, God has revealed Himself as our Redeemer. As we journey together through the Tanakh, I invite you to consider how this beautiful theme of redemption may ultimately lead us to recognize the Messiah—Yeshua—who fulfills, rather than replaces, God’s promises to Israel.
 
 ### The Meaning of Redemption
 
 In the Hebrew Bible, redemption involves being rescued from slavery, danger, or sin, often through the payment of a price. The Hebrew words are rich:
 
-* **Go'el (גּאֵל)** — the "kinsman-redeemer" who rescues a family member from loss or bondage.
-* **Padah (פָּדָה)** — to ransom or set free.
-* **Kapar (כָּפַר)** — to cover, as in atonement for sin.
+- **Go'el (גּאֵל)** — the "kinsman-redeemer" who rescues a family member from loss or bondage.
+- **Padah (פָּדָה)** — to ransom or set free.
+- **Kapar (כָּפַר)** — to cover, as in atonement for sin.
 
 We see these principles at work in many places:
 
-* God redeemed Israel from Egypt (Exodus 6:6)
-* Land was redeemed in the Jubilee year (Leviticus 25)
-* Boaz redeemed Ruth and Naomi's family line (Ruth 4)
-* The High Priest made atonement (kapar) for the people on Yom Kippur (Leviticus 16)
+- God redeemed Israel from Egypt (Exodus 6:6)
+- Land was redeemed in the Jubilee year (Leviticus 25)
+- Boaz redeemed Ruth and Naomi's family line (Ruth 4)
+- The High Priest made atonement (kapar) for the people on Yom Kippur (Leviticus 16)
 
 Redemption was always at the heart of God’s covenant love for His people.
 
@@ -29,16 +29,16 @@ Redemption was always at the heart of God’s covenant love for His people.
 
 The prophets extended this theme to Israel’s future. Isaiah declared, "Fear not, for I have redeemed you; I have called you by name, you are mine" (Isaiah 43:1). Jeremiah, Ezekiel, and others promised that God would one day gather His people from exile, cleanse them from sin, and establish an everlasting covenant.
 
-The final redemption was not merely political or national; it involved forgiveness of sin, restoration of relationship with God, and an age of peace where *"they shall beat their swords into plowshares"* (Isaiah 2:4). This glorious hope fills the hearts of many still awaiting Messiah's arrival.
+The final redemption was not merely political or national; it involved forgiveness of sin, restoration of relationship with God, and an age of peace where _"they shall beat their swords into plowshares"_ (Isaiah 2:4). This glorious hope fills the hearts of many still awaiting Messiah's arrival.
 
 ### The Messiah as Redeemer: Yeshua’s Fulfillment
 
-For my Christian and Messianic Jewish brothers and sisters, this rich hope of redemption finds its fullest expression in Yeshua, who is seen as Israel's ultimate *Go'el*. They believe:
+For my Christian and Messianic Jewish brothers and sisters, this rich hope of redemption finds its fullest expression in Yeshua, who is seen as Israel's ultimate _Go'el_. They believe:
 
-* Like the Passover lamb (Exodus 12), Yeshua gave His life during Passover, offering His blood for ultimate deliverance.
-* Like the kinsman-redeemer (Ruth 4), Yeshua redeems us from the loss caused by sin, restoring our spiritual inheritance.
-* Like the Yom Kippur sacrifices, Yeshua offers atonement—not with animal blood, but with His own (Leviticus 17:11; Hebrews 9:12).
-* Like Isaiah’s Suffering Servant (Isaiah 53), He bore the iniquities of many, bringing healing through His wounds.
+- Like the Passover lamb (Exodus 12), Yeshua gave His life during Passover, offering His blood for ultimate deliverance.
+- Like the kinsman-redeemer (Ruth 4), Yeshua redeems us from the loss caused by sin, restoring our spiritual inheritance.
+- Like the Yom Kippur sacrifices, Yeshua offers atonement—not with animal blood, but with His own (Leviticus 17:11; Hebrews 9:12).
+- Like Isaiah’s Suffering Servant (Isaiah 53), He bore the iniquities of many, bringing healing through His wounds.
 
 Through Yeshua’s death and resurrection, Christians believe that the deepest need of every heart—forgiveness and reconciliation with God—has been fully provided.
 
@@ -61,4 +61,3 @@ I offer this as a gentle invitation, not as a demand. May we study these Scriptu
 With love and respect,
 
 A fellow seeker of Israel’s Messiah.
-
