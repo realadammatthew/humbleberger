@@ -126,7 +126,3 @@ God’s covenant with Israel endures. Yeshua is its fulfillment, ensuring God’
 > “Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in to him.” (**Revelation 3:20**)
 
 **Shalom.**
-
----
-
-_Download your [free copy](../../assets/Humbleberger-Ministries-Who-Is-Yeshua.pdf) today to dig deeper, and share this good news with those you love!_
