@@ -5,7 +5,7 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Tue, 24 Jun 2025 22:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 23:08:21 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
@@ -13,32 +13,46 @@
             <link>https://humbleberger.org/he/</link>
         </image>
     <item>
-        <title><![CDATA[הגאולה בכתבי הקודש העבריים]]></title>
-        <link>https://humbleberger.org/he/blog/redemption-in-the-hebrew-scriptures</link>
-        <guid>https://humbleberger.org/he/blog/redemption-in-the-hebrew-scriptures</guid>
-        <pubDate>Tue, 24 Jun 2025 22:05:07 GMT</pubDate>
-        <description><![CDATA[קריאה באהבה לאמץ את ישוע, גואל ישראל]]></description>
-    </item>
-    <item>
-        <title><![CDATA[ישוע: מימוש כתבי הקודש העבריים]]></title>
-        <link>https://humbleberger.org/he/blog/the-fulfillment-of-the-hebrew-scriptures</link>
-        <guid>https://humbleberger.org/he/blog/the-fulfillment-of-the-hebrew-scriptures</guid>
-        <pubDate>Tue, 24 Jun 2025 21:45:11 GMT</pubDate>
-        <description><![CDATA[הכרזה על מלכנו ישוע כמשיח שנחזה]]></description>
-    </item>
-    <item>
-        <title><![CDATA[הברית החדשה שהובטחה]]></title>
-        <link>https://humbleberger.org/he/blog/the-new-covenant-that-was-promised</link>
-        <guid>https://humbleberger.org/he/blog/the-new-covenant-that-was-promised</guid>
-        <pubDate>Tue, 24 Jun 2025 21:25:05 GMT</pubDate>
-        <description><![CDATA[קריאה באהבה לאמץ את מימושו של ישוע בירמיהו ל"א]]></description>
+        <title><![CDATA[מיהו ישוע?]]></title>
+        <link>https://humbleberger.org/he/blog/who-is-yeshua</link>
+        <guid>https://humbleberger.org/he/blog/who-is-yeshua</guid>
+        <pubDate>Tue, 24 Jun 2025 23:07:12 GMT</pubDate>
+        <description><![CDATA[המשיח שנגלה בכתבי הקודש ובהיסטוריה]]></description>
     </item>
     <item>
         <title><![CDATA[מי הוא העבד הסובל של ישעיהו נ"ג?]]></title>
         <link>https://humbleberger.org/he/blog/who-is-the-suffering-servant</link>
         <guid>https://humbleberger.org/he/blog/who-is-the-suffering-servant</guid>
-        <pubDate>Tue, 24 Jun 2025 20:56:24 GMT</pubDate>
+        <pubDate>Tue, 24 Jun 2025 23:05:04 GMT</pubDate>
         <description><![CDATA[קריאה באהבה לראות את ישוע, המשיח]]></description>
+    </item>
+    <item>
+        <title><![CDATA[מתי המשיח היה אמור לבוא?]]></title>
+        <link>https://humbleberger.org/he/blog/when-was-the-messiah-supposed-to-come</link>
+        <guid>https://humbleberger.org/he/blog/when-was-the-messiah-supposed-to-come</guid>
+        <pubDate>Tue, 24 Jun 2025 23:00:24 GMT</pubDate>
+        <description><![CDATA[קריאה באהבה לראות את ישוע בדניאל ט']]></description>
+    </item>
+    <item>
+        <title><![CDATA[הברית החדשה שהובטחה]]></title>
+        <link>https://humbleberger.org/he/blog/the-new-covenant-that-was-promised</link>
+        <guid>https://humbleberger.org/he/blog/the-new-covenant-that-was-promised</guid>
+        <pubDate>Tue, 24 Jun 2025 23:00:05 GMT</pubDate>
+        <description><![CDATA[קריאה באהבה לאמץ את מימושו של ישוע בירמיהו ל"א]]></description>
+    </item>
+    <item>
+        <title><![CDATA[ישוע: מימוש כתבי הקודש העבריים]]></title>
+        <link>https://humbleberger.org/he/blog/the-fulfillment-of-the-hebrew-scriptures</link>
+        <guid>https://humbleberger.org/he/blog/the-fulfillment-of-the-hebrew-scriptures</guid>
+        <pubDate>Tue, 24 Jun 2025 22:59:57 GMT</pubDate>
+        <description><![CDATA[הכרזה על מלכנו ישוע כמשיח שנחזה]]></description>
+    </item>
+    <item>
+        <title><![CDATA[הגאולה בכתבי הקודש העבריים]]></title>
+        <link>https://humbleberger.org/he/blog/redemption-in-the-hebrew-scriptures</link>
+        <guid>https://humbleberger.org/he/blog/redemption-in-the-hebrew-scriptures</guid>
+        <pubDate>Tue, 24 Jun 2025 22:59:54 GMT</pubDate>
+        <description><![CDATA[קריאה באהבה לאמץ את ישוע, גואל ישראל]]></description>
     </item>
     <item>
         <title><![CDATA[האם ישוע הוא המשיח שחזו בתנ"ך?]]></title>
@@ -46,13 +60,6 @@
         <guid>https://humbleberger.org/he/blog/could-yeshua-be-the-messiah</guid>
         <pubDate>Tue, 24 Jun 2025 20:40:02 GMT</pubDate>
         <description><![CDATA[קריאה נועזת לאמת עבור אחינו ואחיותינו היהודים]]></description>
-    </item>
-    <item>
-        <title><![CDATA[מתי המשיח היה אמור לבוא?]]></title>
-        <link>https://humbleberger.org/he/blog/when-was-the-messiah-supposed-to-come</link>
-        <guid>https://humbleberger.org/he/blog/when-was-the-messiah-supposed-to-come</guid>
-        <pubDate>Tue, 24 Jun 2025 20:23:58 GMT</pubDate>
-        <description><![CDATA[קריאה באהבה לראות את ישוע בדניאל ט']]></description>
     </item>
     <item>
         <title><![CDATA[מה אומר התנ"ך על המשיח?]]></title>
@@ -81,13 +88,6 @@
         <guid>https://humbleberger.org/he/blog/yeshua-and-the-shema</guid>
         <pubDate>Tue, 24 Jun 2025 18:25:16 GMT</pubDate>
         <description><![CDATA[הבנת משמעותו לאור האמונה היהודית-נוצרית]]></description>
-    </item>
-    <item>
-        <title><![CDATA[מי הוא ישוע?]]></title>
-        <link>https://humbleberger.org/he/blog/who-is-yeshua</link>
-        <guid>https://humbleberger.org/he/blog/who-is-yeshua</guid>
-        <pubDate>Tue, 24 Jun 2025 18:25:08 GMT</pubDate>
-        <description><![CDATA[המשיח שנחשף בכתובים ובהיסטוריה]]></description>
     </item>
     <item>
         <title><![CDATA[מהו טרנס-הומניזם?]]></title>
