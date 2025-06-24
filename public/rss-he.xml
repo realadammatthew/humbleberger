@@ -5,13 +5,34 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Tue, 24 Jun 2025 12:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 13:47:14 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>הבלוג של משרדי האמבלברגר</title>
             <link>https://humbleberger.org/he/</link>
         </image>
+    <item>
+        <title><![CDATA[מי הוא ישוע?]]></title>
+        <link>https://humbleberger.org/he/blog/who-is-yeshua</link>
+        <guid>https://humbleberger.org/he/blog/who-is-yeshua</guid>
+        <pubDate>Tue, 24 Jun 2025 13:46:58 GMT</pubDate>
+        <description><![CDATA[המשיח שנחשף בכתובים ובהיסטוריה]]></description>
+    </item>
+    <item>
+        <title><![CDATA[מהו חטא?]]></title>
+        <link>https://humbleberger.org/he/blog/what-is-sin</link>
+        <guid>https://humbleberger.org/he/blog/what-is-sin</guid>
+        <pubDate>Tue, 24 Jun 2025 13:35:08 GMT</pubDate>
+        <description><![CDATA[הבנת הבעיה הגדולה ביותר שלנו — והפתרון היחיד של אלוהים]]></description>
+    </item>
+    <item>
+        <title><![CDATA[האם ישוע הוא המשיח שחזו בתנ"ך?]]></title>
+        <link>https://humbleberger.org/he/blog/could-yeshua-be-the-messiah</link>
+        <guid>https://humbleberger.org/he/blog/could-yeshua-be-the-messiah</guid>
+        <pubDate>Tue, 24 Jun 2025 13:22:34 GMT</pubDate>
+        <description><![CDATA[קריאה נועזת לאמת עבור אחינו ואחיותינו היהודים]]></description>
+    </item>
     <item>
         <title><![CDATA[כפרה: הדם שמדבר והמשיח שמושיע]]></title>
         <link>https://humbleberger.org/he/blog/the-heart-of-atonement</link>
@@ -41,25 +62,11 @@
         <description><![CDATA[בואו נגלה יחד מה כתבי הקודש אומרים שהוא יעשה כאן בעולם הזה]]></description>
     </item>
     <item>
-        <title><![CDATA[מי הוא ישוע?]]></title>
-        <link>https://humbleberger.org/he/blog/who-is-yeshua</link>
-        <guid>https://humbleberger.org/he/blog/who-is-yeshua</guid>
-        <pubDate>Mon, 23 Jun 2025 19:00:36 GMT</pubDate>
-        <description><![CDATA[חקירה יהודית על המשיח]]></description>
-    </item>
-    <item>
         <title><![CDATA[שמע: מהפרספקטיבה הנוצרית]]></title>
         <link>https://humbleberger.org/he/blog/yeshua-and-the-shema</link>
         <guid>https://humbleberger.org/he/blog/yeshua-and-the-shema</guid>
         <pubDate>Mon, 23 Jun 2025 19:00:36 GMT</pubDate>
         <description><![CDATA[הבנת משמעותו לאור האמונה היהודית-נוצרית]]></description>
-    </item>
-    <item>
-        <title><![CDATA[האם ישוע יכול להיות המשיח שניבא בתנ"ך?]]></title>
-        <link>https://humbleberger.org/he/blog/could-yeshua-be-the-messiah</link>
-        <guid>https://humbleberger.org/he/blog/could-yeshua-be-the-messiah</guid>
-        <pubDate>Mon, 23 Jun 2025 19:00:36 GMT</pubDate>
-        <description><![CDATA[בואו נחקור יחד את כתבי הקודש ונמצא את התשובה!]]></description>
     </item>
     <item>
         <title><![CDATA[ספירת המחיר: מחירו של הליכה אחרי ישוע]]></title>
@@ -165,13 +172,6 @@
         <guid>https://humbleberger.org/he/blog/what-is-humanity</guid>
         <pubDate>Mon, 23 Jun 2025 19:00:36 GMT</pubDate>
         <description><![CDATA[כיצד אלוהים ברא אותנו — ולמה אנחנו נבראנו]]></description>
-    </item>
-    <item>
-        <title><![CDATA[מהו חטא?]]></title>
-        <link>https://humbleberger.org/he/blog/what-is-sin</link>
-        <guid>https://humbleberger.org/he/blog/what-is-sin</guid>
-        <pubDate>Mon, 23 Jun 2025 19:00:36 GMT</pubDate>
-        <description><![CDATA[הבנת הבעיה הגדולה ביותר שלנו — והפתרון של אלוהים]]></description>
     </item>
     <item>
         <title><![CDATA[גאולה בכתבי הקודש העבריים]]></title>
