@@ -5,13 +5,27 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Tue, 24 Jun 2025 13:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 14:12:31 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>הבלוג של משרדי האמבלברגר</title>
             <link>https://humbleberger.org/he/</link>
         </image>
+    <item>
+        <title><![CDATA[כפרה: הדם שמדבר והמשיח שמושיע]]></title>
+        <link>https://humbleberger.org/he/blog/the-heart-of-atonement</link>
+        <guid>https://humbleberger.org/he/blog/the-heart-of-atonement</guid>
+        <pubDate>Tue, 24 Jun 2025 14:10:52 GMT</pubDate>
+        <description><![CDATA[קריאה אוהבת לאחינו היהודים]]></description>
+    </item>
+    <item>
+        <title><![CDATA[האם ישוע באמת היה קיים?]]></title>
+        <link>https://humbleberger.org/he/blog/did-yeshua-really-exist</link>
+        <guid>https://humbleberger.org/he/blog/did-yeshua-really-exist</guid>
+        <pubDate>Tue, 24 Jun 2025 13:58:12 GMT</pubDate>
+        <description><![CDATA[הראיות הבלתי ניתנות להכחשה של המשיח]]></description>
+    </item>
     <item>
         <title><![CDATA[מי הוא ישוע?]]></title>
         <link>https://humbleberger.org/he/blog/who-is-yeshua</link>
@@ -32,13 +46,6 @@
         <guid>https://humbleberger.org/he/blog/could-yeshua-be-the-messiah</guid>
         <pubDate>Tue, 24 Jun 2025 13:22:34 GMT</pubDate>
         <description><![CDATA[קריאה נועזת לאמת עבור אחינו ואחיותינו היהודים]]></description>
-    </item>
-    <item>
-        <title><![CDATA[כפרה: הדם שמדבר והמשיח שמושיע]]></title>
-        <link>https://humbleberger.org/he/blog/the-heart-of-atonement</link>
-        <guid>https://humbleberger.org/he/blog/the-heart-of-atonement</guid>
-        <pubDate>Tue, 24 Jun 2025 12:50:06 GMT</pubDate>
-        <description><![CDATA[קריאה אוהבת לאחינו היהודים]]></description>
     </item>
     <item>
         <title><![CDATA[מהי השילוש הקדוש?]]></title>
@@ -88,13 +95,6 @@
         <guid>https://humbleberger.org/he/blog/did-yeshua-really-die-on-a-cross</guid>
         <pubDate>Mon, 23 Jun 2025 19:00:36 GMT</pubDate>
         <description><![CDATA[הרהור תפילה לידידי היהודים]]></description>
-    </item>
-    <item>
-        <title><![CDATA[האם ישוע באמת היה קיים?]]></title>
-        <link>https://humbleberger.org/he/blog/did-yeshua-really-exist</link>
-        <guid>https://humbleberger.org/he/blog/did-yeshua-really-exist</guid>
-        <pubDate>Mon, 23 Jun 2025 19:00:36 GMT</pubDate>
-        <description><![CDATA[הזמנה חמה לשקול את העדויות]]></description>
     </item>
     <item>
         <title><![CDATA[האם ישוע באמת קם לתחייה?]]></title>
