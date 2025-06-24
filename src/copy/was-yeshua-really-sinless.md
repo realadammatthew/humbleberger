@@ -6,7 +6,7 @@
 
 ---
 
-_"He had done no violence, nor was any deceit in His mouth."_
+_"He was assigned a grave with the wicked, but he was with a rich man at his death, because he had done no violence and had not spoken deceitfully."_
 **(Isaiah 53:9)**
 
 ---

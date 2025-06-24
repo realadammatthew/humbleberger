@@ -6,7 +6,7 @@
 
 ---
 
-_"I am the Living One; I was dead, and behold I am alive forever and ever!"_
+_"I was dead, but look—I am alive forever and ever, and I hold the keys of death and Hades."_
 **(Revelation 1:18)**
 
 ---

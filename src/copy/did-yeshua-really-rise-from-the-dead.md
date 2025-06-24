@@ -6,7 +6,7 @@
 
 ---
 
-_"For You will not abandon my soul to Sheol, nor let Your Holy One see decay."_
+_"For you will not abandon me to Sheol; you will not allow your faithful one to see decay."_
 **(Psalm 16:10)**
 
 ---

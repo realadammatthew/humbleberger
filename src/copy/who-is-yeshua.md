@@ -6,8 +6,8 @@
 
 ---
 
-_"He was despised and rejected by men, a man of sorrows, and acquainted with grief... But He was pierced for our transgressions, He was crushed for our iniquities."_
-**(Isaiah 53:3, 5)**
+_"He was despised and rejected by men, a man of suffering who knew what sickness was. He was like someone people turned away from; he was despised, and we didn’t value him. But he was pierced because of our rebellion, crushed because of our iniquities; punishment for our peace was on him, and we are healed by his wounds."_
+**(Isaiah 53:3,5)**
 
 ---
 
