@@ -6,7 +6,7 @@
 
 ---
 
-_"Behold, the virgin will conceive and bear a son, and they will call His name Immanuel."_
+_"Therefore, the Lord himself will give you a sign: See, the virgin will conceive, have a son, and name him Immanuel."_
 **(Isaiah 7:14)**
 
 ---

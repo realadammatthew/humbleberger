@@ -4,6 +4,13 @@
 
 **Humbleberger Ministries**
 
+---
+
+_"I continued watching in the night visions, and suddenly one like a son of man was coming with the clouds of heaven. He approached the Ancient of Days and was escorted before him. He was given dominion and glory and a kingdom, so that those of every people, nation, and language should serve him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will not be destroyed."_
+**(Daniel 7:13-14)**
+
+---
+
 _Shalom_, beloved friends,
 
 The heart of our Jewish faith pulses with longing for the Messiah promised in the Hebrew Bible. With unwavering love and urgency, we proclaim a transformative truth: Yeshua of Nazareth is that Messiah, the one our prophets foretold, who fulfilled the Scriptures through his life, death, and resurrection, and will return to reign in glory. As followers of Yeshua, rooted in the sacred Tanakh, we invite you to confront this question with courage: Has the Messiah come, and is he calling you today? With hearts full of grace, let us dive into the Scriptures and declare the undeniable truth of Yeshua, the Anointed One.

@@ -6,7 +6,7 @@
 
 ---
 
-_"For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace."_
+_"For a child will be born for us, a son will be given to us, and the government will be on his shoulders. He will be named Wonderful Counselor, Mighty God, Eternal Father, Prince of Peace."_
 **(Isaiah 9:6)**
 
 ---

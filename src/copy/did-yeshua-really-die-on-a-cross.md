@@ -6,7 +6,7 @@
 
 ---
 
-_"He was pierced for our transgressions, He was crushed for our iniquities; the punishment that brought us peace was on Him, and by His wounds we are healed."_
+_"But he was pierced because of our rebellion, crushed because of our iniquities; punishment for our peace was on him, and we are healed by his wounds."_
 **(Isaiah 53:5)**
 
 ---
