@@ -1,53 +1,67 @@
 # What Does the Tanakh Say About the Messiah?
 
-## A deep dive into Scripture and Truth
+## Yeshua, the Anointed One Who Fulfills God’s Promises
 
 ### Humbleberger Ministries
 
-Shalom, dear brothers and sisters,
+---
 
-For thousands of years, we have waited and prayed for the coming of the Messiah. The promises of God recorded in the Tanakh (the Hebrew Scriptures) fill our hearts with hope and longing for that glorious day. But what exactly does the Tanakh say about the Messiah? Let us gently explore these rich promises together.
+_"For dogs have surrounded me; a gang of evildoers has closed in on me; they pierced my hands and my feet. I can count all my bones; people look and stare at me. They divided my garments among themselves, and they cast lots for my clothing."_
+**(Psalm 22:16-18)**
 
-### The Anointed King from David’s Line
+---
 
-The Hebrew word _Mashiach_ means "Anointed One." In ancient Israel, kings, priests, and prophets were anointed with oil to signify their appointment by God. The Messiah, above all, is described as a coming King from the royal line of David.
+## Dear Friend, Yeshua Is the Messiah!
 
-In **2 Samuel 7:12-16**, God promised David that one of his descendants would sit on the throne forever. **Jeremiah 23:5-6** echoes this, saying: "Behold, the days are coming... when I will raise up for David a righteous Branch; and He shall reign as king and deal wisely, and execute justice and righteousness in the land." This King will not only rule Israel but bring peace and justice to the entire world.
+Beloved, as Jewish people, you carry the sacred hope of the Messiah, the Anointed One promised in the Tanakh. With love and certainty, I proclaim: **Yeshua of Nazareth is that Messiah**! He fulfills every role foretold—King, Prophet, Priest, Suffering Servant, and Redeemer—and will return to establish God’s eternal kingdom. Let us explore the Tanakh’s rich portrait of the Messiah, trusting the God of Abraham, Isaac, and Jacob to reveal His truth.
 
-**Psalm 2** beautifully describes this anointed King as God's own Son, whom He installs on Zion, declaring, "You are My Son; today I have begotten you." The Messiah will inherit all nations and bring God's rule to the ends of the earth.
+---
 
-### A Prophet Like Moses
+## The Tanakh’s Portrait: The Messiah’s Divine Roles
 
-The Tanakh also tells us that God would send a prophet like Moses. In **Deuteronomy 18:15-19**, God says: "I will raise up for them a prophet like you from among their brothers; and I will put My words in his mouth." Like Moses, this prophet would reveal God's will, lead His people, and speak with divine authority.
+The Hebrew Scriptures unveil the Messiah, the _Mashiach_ (Anointed One), in vivid detail through distinct yet unified roles:
 
-### A Priest Forever
+- **Davidic King Forever**: In **2 Samuel 7:12-16**, God promises David, “I will raise up your offspring after you… I will establish the throne of his kingdom forever.” This eternal King is reiterated in **Jeremiah 23:5-6**: “Behold, the days are coming… when I will raise up for David a righteous Branch, and He shall reign as king and deal wisely, and execute justice and righteousness… His name will be called: The LORD Our Righteousness.” The Messiah is a just, divine ruler from David’s line.
+- **God’s Anointed Son**: **Psalm 2:7-8** declares, “You are My Son; today I have begotten You. Ask of Me, and I will give You the nations for Your inheritance.” This Messianic King, God’s Son, rules Zion and the world with divine authority.
+- **Prophet Like Moses**: **Deuteronomy 18:15-19** promises, “The LORD your God will raise up for you a prophet like me from among you… I will put My words in his mouth.” The Messiah speaks God’s truth with unmatched authority, leading His people as Moses did.
+- **Priest of Melchizedek**: **Psalm 110:4** states, “You are a priest forever, after the order of Melchizedek.” The Messiah mediates between God and humanity, offering atonement.
+- **Suffering Servant**: **Isaiah 52:13–53:12** portrays a Servant who suffers: “He was pierced for our transgressions… by His wounds we are healed” (Isaiah 53:5). **Psalm 22:16** adds, “They pierced my hands and my feet,” fulfilled in Yeshua’s crucifixion.
+- **Redeemer and Shepherd**: **Micah 5:2** foretells, “From you, Bethlehem Ephrathah… shall come forth… one who is to be ruler in Israel.” **Ezekiel 34:23-24** promises a Davidic shepherd to unite and lead Israel.
+- **Bringer of Peace**: **Isaiah 2:2-4** envisions nations streaming to Jerusalem, where “nation shall not lift up sword against nation.” **Isaiah 11:6-9** adds, “The earth will be full of the knowledge of the LORD.”
 
-In **Psalm 110**, we read a remarkable promise: "You are a priest forever, after the order of Melchizedek." The Messiah will not only be King but also Priest, standing as a mediator between God and His people. This priestly role points to a Messiah who brings atonement and lasting peace.
+---
 
-### The Suffering Servant
+## Yeshua: The Fulfillment of Every Role
 
-One of the most profound and mysterious pictures of the Messiah appears in **Isaiah 52:13–53:12**. Here, the "Servant of the LORD" is described as one who suffers, is despised and rejected, bears the sins of others, and ultimately brings healing and forgiveness: "By His wounds we are healed."
+Yeshua perfectly fulfills these prophecies in two divine phases:
 
-While many Jewish interpretations see the Servant as Israel itself, others recognize that these words could also describe a righteous individual who suffers on behalf of others. The picture of atonement, suffering, and victory through affliction is deeply moving and opens the door to profound reflection on the Messiah's role.
+- **First Coming: Servant, Prophet, Priest**  
+  Born in Bethlehem (Micah 5:2), from David’s line, Yeshua taught with divine authority as the Prophet like Moses (John 7:16). He offered Himself as the ultimate sacrifice, fulfilling **Isaiah 53:5** and **Psalm 22:16**: “They pierced my hands and my feet.” As the eternal Priest (Psalm 110:4), His death atoned for sin, and His resurrection confirmed His victory.
+- **Second Coming: King and Peace-Bringer**  
+  Yeshua inaugurated God’s kingdom spiritually (Luke 17:21) and ascended to God’s right hand (**Psalm 2:7**; **Psalm 110:1**). At His return, He will rule as the righteous Branch (**Jeremiah 23:5-6**), bringing peace and restoring Israel (Isaiah 11; Ezekiel 37).
 
-### A Redeemer and Shepherd
+---
 
-The Messiah is also described as a redeemer who will gather the scattered exiles of Israel. **Ezekiel 34 and 37** speak of God appointing "My servant David" to shepherd His people, unite the nation, and lead them in peace. **Micah 5:2** even foretells the Messiah's birth in Bethlehem: "But you, Bethlehem Ephrathah... from you shall come forth for Me one who is to be ruler in Israel."
+## Addressing Objections with Truth
 
-In **Zechariah 9:9**, we are invited to rejoice: "Behold, your King is coming to you; righteous and having salvation, humble and mounted on a donkey." This image paints a picture of a gentle, yet victorious Messiah bringing peace and righteousness.
+We honor your questions and answer with Scripture and love:
 
-### The Messianic Age of Peace
+- **“Why no peace yet?”** The Tanakh shows a suffering Messiah (**Isaiah 53**) and a reigning King (**Isaiah 2**). Yeshua fulfilled the first; His return will fulfill the second.
+- **“Is the Servant Israel or Messiah?”** While some see Israel in **Isaiah 53**, its individual language (e.g., “pierced for our transgressions”) and ancient Jewish texts (e.g., Talmud Sukkah 52a) point to a personal Messiah, fulfilled by Yeshua.
+- **“Why didn’t all Jews believe?”** **Isaiah 53:1** predicted rejection: “Who has believed our report?” Yet thousands of Jews followed Yeshua (Acts 2:41), and **Romans 11:26** promises “all Israel will be saved.”
 
-The Tanakh envisions a glorious future when the Messiah reigns. **Isaiah 2:2-4** promises that all nations will stream to Jerusalem to learn God's ways: "Nation shall not lift up sword against nation, neither shall they learn war anymore." **Isaiah 11** describes a world filled with peace, where even animals live in harmony and "the earth will be full of the knowledge of the LORD as the waters cover the sea."
+---
 
-### A Loving Invitation
+## The Call: Trust Yeshua, the Messiah
 
-Dear friend, could it be that these diverse portraits—King, Prophet, Priest, Suffering Servant, Redeemer—are not contradictory, but complementary? Could they all describe one Messiah who fulfills each role in perfect harmony?
+Dear friend, Yeshua is the Messiah—King (**2 Samuel 7:12-16**), Prophet (**Deuteronomy 18:15-19**), Priest (**Psalm 110:4**), and Suffering Servant (**Isaiah 53**; **Psalm 22:16**). No one else fulfills these roles. He died for your sins, rose, and reigns, offering eternal life. We lovingly urge you: Repent and trust Yeshua today. **Romans 10:9** promises, “If you confess with your mouth that Yeshua is Lord and believe in your heart that God raised Him from the dead, you will be saved.”
 
-Many of us believe that Yeshua is this promised Messiah. In His first coming, He fulfilled the role of the Suffering Servant, bringing atonement and healing. He was born in Bethlehem, taught God's Word as the Prophet like Moses, and offered Himself as the ultimate Priest and Redeemer. His resurrection gives hope that He is the King who will return to establish the full peace and glory of the Messianic Age.
+Open the Tanakh—read **2 Samuel 7**, **Jeremiah 23**, **Psalm 2**, **Deuteronomy 18**, **Isaiah 53**, **Psalm 22**, **Zechariah 12**—and ask God to reveal His Messiah. Believing in Yeshua fulfills your Jewish heritage, embracing the One who completes God’s covenant.
 
-I share this not to argue, but to invite you to explore these Scriptures anew. May the God of Abraham, Isaac, and Jacob open all our hearts to see the fullness of His promises.
+---
 
-With love and deep respect,
+## Final Word: The Messiah Fulfills All!
 
-A fellow seeker of Israel's Messiah.
+Yeshua, the pierced Servant and coming King, is Israel’s Messiah and the world’s Savior. **Zechariah 12:10** awaits: “They will look on Me, the One they have pierced.” Until then, He calls: “Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in” (Revelation 3:20).
+
+Beloved, will you trust Yeshua, the Messiah, today? **HaMashiach chai! The Messiah lives!**

@@ -5,13 +5,20 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Tue, 24 Jun 2025 19:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 19:48:07 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>הבלוג של משרדי האמבלברגר</title>
             <link>https://humbleberger.org/he/</link>
         </image>
+    <item>
+        <title><![CDATA[מה אומר התנ"ך על המשיח?]]></title>
+        <link>https://humbleberger.org/he/blog/what-does-the-tanakh-say-about-messiah</link>
+        <guid>https://humbleberger.org/he/blog/what-does-the-tanakh-say-about-messiah</guid>
+        <pubDate>Tue, 24 Jun 2025 19:47:42 GMT</pubDate>
+        <description><![CDATA[ישוע, המשיח שממלא את הבטחות האל]]></description>
+    </item>
     <item>
         <title><![CDATA[מה יעשה המשיח?]]></title>
         <link>https://humbleberger.org/he/blog/what-will-the-messiah-do</link>
@@ -88,13 +95,6 @@
         <guid>https://humbleberger.org/he/blog/what-is-gods-providence</guid>
         <pubDate>Tue, 24 Jun 2025 18:23:56 GMT</pubDate>
         <description><![CDATA[הבנת השגחה ובריאה]]></description>
-    </item>
-    <item>
-        <title><![CDATA[מה אומר התנ"ך על המשיח?]]></title>
-        <link>https://humbleberger.org/he/blog/what-does-the-tanakh-say-about-messiah</link>
-        <guid>https://humbleberger.org/he/blog/what-does-the-tanakh-say-about-messiah</guid>
-        <pubDate>Tue, 24 Jun 2025 18:23:46 GMT</pubDate>
-        <description><![CDATA[צלילה עמוקה אל הכתוב והאמת]]></description>
     </item>
     <item>
         <title><![CDATA[מה משמעות "לדעת את אלוהים"?]]></title>
