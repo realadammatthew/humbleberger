@@ -1,53 +1,77 @@
 # Has the Messiah Already Come?
 
-## Let's review together and find out!
+## Yeshua, the Promised Messiah Fulfills God’s Plan
 
 ### Humbleberger Ministries
 
-Dear brothers and sisters,
+---
 
-As a Jewish follower of Yeshua, I write this not to argue, but to lovingly explore one of the most significant questions in history: Has the Messiah already come?
+_"Then I will pour out a spirit of grace and prayer on the house of David and the residents of Jerusalem, and they will look at me whom they pierced. They will mourn for him as one mourns for an only child and weep bitterly for him as one weeps for a firstborn."_
+**(Zechariah 12:10)**
 
-For centuries, our people have prayed for the Messiah's arrival. The Hebrew Scriptures (Tanakh) provide rich and sometimes mysterious portraits of this Anointed One—some describing a victorious king, others describing a suffering servant. Could both refer to the same Messiah who comes in two stages?
+---
 
-### The Suffering Messiah in Isaiah 53
+## Dear Friend, Yeshua Is the Messiah!
 
-Isaiah 53 speaks of a servant who is despised, pierced, and killed for the sins of others, yet lives again. Traditionally, many Jewish interpretations see this servant as Israel itself. Yet ancient Jewish writings, including some from the Talmud (Sukkah 52a), interpret this passage as referring to the Messiah who would suffer and die.
+Beloved, as Jewish people yearning for the Messiah, you carry the sacred hope of God’s promises in the Tanakh. With love and certainty, I proclaim: **Yeshua of Nazareth is that Messiah**! He has come, fulfilling the prophecies of a suffering servant and initiating God’s kingdom, and He will return to complete His reign. Let us explore this truth together, trusting the God of Abraham, Isaac, and Jacob to reveal His Anointed One.
 
-Yeshua's crucifixion fits Isaiah's vision remarkably: He was rejected, pierced, died among transgressors, buried in a rich man's tomb, and resurrected—prolonging His days as Isaiah foretells. Rather than being foreign to Judaism, the idea of a suffering Messiah has deep roots within our tradition.
+---
 
-### Psalm 22: A Righteous Sufferer
+## The Suffering Messiah: Fulfilled in Yeshua
 
-Psalm 22 describes a righteous sufferer mocked, surrounded by enemies, pierced in hands and feet, and having his garments divided by casting lots—specific details fulfilled in Yeshua's crucifixion. While some interpret this as David's personal lament, its striking parallels to Yeshua's death cannot be ignored.
+The Tanakh paints a vivid portrait of a Messiah who suffers for our sins:
 
-### Zechariah 12:10: Pierced and Mourned
+- **Isaiah 53**: The Suffering Servant is “pierced for our transgressions,” dies, yet “prolongs His days.” Yeshua’s crucifixion, burial in a rich man’s tomb, and resurrection perfectly fulfill this. Ancient Jewish texts, like Talmud Sukkah 52a, link this to a suffering Messiah.
+- **Psalm 22**: A righteous sufferer, mocked, pierced in hands and feet, with garments divided by lots, mirrors Yeshua’s crucifixion (Matthew 27:35).
+- **Zechariah 12:10**: “They will look on Me whom they have pierced.” The Talmud ties this to a suffering Messiah. Yeshua’s death and Israel’s future repentance fulfill this prophecy.
 
-Zechariah 12:10 declares, "They will look on Me whom they have pierced." The Talmud applies this to Messiah ben Joseph, a suffering messiah figure. Christians believe this prophecy foreshadows Yeshua's crucifixion and the future national repentance of Israel when they recognize Him as their Messiah.
+Yeshua’s suffering is no contradiction but the heart of God’s redemptive plan, rooted in Jewish tradition.
 
-### Micah 5:2 and Genesis 49:10: Born in Bethlehem, From Judah
+---
 
-Micah 5:2 foretells that the Messiah would be born in Bethlehem—fulfilled by Yeshua's birth there. Genesis 49:10 indicates the Messiah must come before Judah loses its scepter. Since the Temple was destroyed in 70 CE and genealogies lost, if Messiah hasn't already come, how could these prophecies still be fulfilled?
+## The Prophetic Timeline: Messiah Before 70 CE
 
-### Isaiah 9:6–7 and Daniel 7: The Divine King
+The Tanakh sets a clear timetable for Messiah’s arrival:
 
-Isaiah 9 describes a Davidic King called "Mighty God" and "Prince of Peace." Daniel 7 envisions the Son of Man receiving everlasting dominion. Yeshua uniquely claimed these identities, referring to Himself as the Son of Man who will come with the clouds of heaven. His resurrection and ascension initiated this kingdom spiritually; His return will complete it physically.
+- **Micah 5:2**: Messiah is born in Bethlehem, as Yeshua was (Matthew 2:1).
+- **Genesis 49:10**: The scepter departs from Judah before Messiah comes. Judah’s autonomy ended by 70 CE, pointing to Yeshua’s time.
+- **Daniel 9:24-27**: Messiah is “cut off” before the Temple’s destruction in 70 CE. Yeshua’s death around 30 CE fits this precisely.
 
-### Daniel 9:24–27: The Prophetic Timetable
+No other figure aligns with this timeline, confirming Yeshua as the promised Messiah.
 
-Daniel 9 predicts that Messiah would come, be "cut off," and the Temple destroyed afterward. This places Messiah's arrival before 70 CE—precisely when Yeshua lived, died, and rose. No other candidate fulfills this timeline so precisely.
+---
 
-### But What About the Unfulfilled Prophecies?
+## The Divine King: Yeshua’s Reign Begun
 
-Many Jewish objections focus on the lack of world peace and Temple restoration. Christians believe Messiah's mission has two phases: first, to atone for sin (Isaiah 53), and second, to reign in peace (Isaiah 2, Micah 4). The kingdom is already inaugurated spiritually through Yeshua's atoning work and will be consummated at His return.
+The Tanakh also foretells a divine, reigning Messiah:
 
-### A Loving Invitation
+- **Isaiah 9:6-7**: A Davidic child called “Mighty God” and “Prince of Peace.” Yeshua claimed this identity (John 10:30).
+- **Daniel 7:13-14**: The “Son of Man” receives eternal dominion. Yeshua, calling Himself Son of Man, ascended to reign (Acts 1:9).
 
-Dear friend, could it be that the Messiah has already come, fulfilling the suffering prophecies, and that His second coming will bring the peace we still await? The prophets spoke of both suffering and glory. Yeshua fulfills both roles: the Lamb of God who takes away sin and the King who will reign eternally.
+Yeshua’s resurrection and ascension launched His spiritual kingdom, to be completed at His return (Isaiah 11).
 
-I invite you to read these prophecies anew. Ask the God of Abraham, Isaac, and Jacob to reveal His truth. Many Jewish people, like myself, have found Yeshua to be the fulfillment of our ancient hope.
+---
 
-As Zechariah 12:10 promises, one day all Israel will look upon the One they pierced and mourn—and find healing. Until then, the invitation remains open: _Come, see if He is the One._
+## Addressing Objections with Truth
 
-With love and deep respect,
+We honor your questions and answer with Scripture and love:
 
-A fellow seeker of Israel's Messiah.
+- **“Where’s the world peace?”** The Tanakh shows a suffering Messiah (Isaiah 53) and a reigning King (Isaiah 2). Yeshua fulfilled the first; His second coming will bring the second.
+- **“Why didn’t all Jews believe?”** Thousands of Jews followed Yeshua (Acts 2:41). Romans 11:25-26 explains Israel’s partial hardening, yet promises all Israel’s salvation (Zechariah 12:10).
+- **“A divine Messiah?”** Isaiah 9:6 calls Him “Mighty God”; Daniel 7 shows Him worshipped. Yeshua’s divinity fulfills these prophecies.
+
+---
+
+## The Call: Trust Yeshua, the Messiah
+
+Dear friend, Yeshua has come, fulfilling Isaiah 53, Psalm 22, Daniel 9, and more. No one else matches the Tanakh’s portrait. He died for your sins, rose, and reigns, offering eternal life. We lovingly urge you: Repent and trust Yeshua today. **Romans 10:9** promises, “If you confess with your mouth that Yeshua is Lord and believe in your heart that God raised Him from the dead, you will be saved.”
+
+Open the Tanakh—read **Isaiah 53**, **Psalm 22**, **Zechariah 12**, **Daniel 9**—and ask God to reveal His Messiah. Believing in Yeshua fulfills your Jewish heritage, embracing the One who completes God’s covenant.
+
+---
+
+## Final Word: The Messiah Has Come!
+
+Yeshua, the Suffering Servant and Divine King, is Israel’s Messiah and the world’s Savior. **Zechariah 12:10** awaits: “They will look on Me, the One they have pierced.” Until then, He calls: “Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in” (Revelation 3:20).
+
+Beloved, will you trust Yeshua, the Messiah, today? **HaMashiach chai! The Messiah lives!**
