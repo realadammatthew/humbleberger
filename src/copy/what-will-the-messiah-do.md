@@ -6,7 +6,7 @@
 
 ---
 
-_"\"'They will live in the land that I gave to my servant Jacob, where your ancestors lived. They will live in it forever with their children and grandchildren, and my servant David will be their prince forever. I will make a covenant of peace with them; it will be a permanent covenant with them. I will establish and multiply them and will set my sanctuary among them forever. My dwelling place will be with them; I will be their God, and they will be my people. When my sanctuary is among them forever, the nations will know that I, the Lord, sanctify Israel.'\""_
+_"They will live in the land that I gave to my servant Jacob, where your ancestors lived. They will live in it forever with their children and grandchildren, and my servant David will be their prince forever. I will make a covenant of peace with them; it will be a permanent covenant with them. I will establish and multiply them and will set my sanctuary among them forever. My dwelling place will be with them; I will be their God, and they will be my people. When my sanctuary is among them forever, the nations will know that I, the Lord, sanctify Israel."_
 **(Ezekiel 37:25-28)**
 
 ---
