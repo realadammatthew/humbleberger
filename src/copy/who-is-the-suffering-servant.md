@@ -1,8 +1,8 @@
 # Who is the Suffering Servant of Isaiah 53?
 
-**From Your Jewish-Christian Friend**
+## From Your Jewish-Christian Friend
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 Shalom, dear brothers and sisters,
 
@@ -51,4 +51,3 @@ I invite you to search the Hebrew Scriptures with an open heart. Could this be t
 With love and deep respect,
 
 A fellow seeker of Israel’s Messiah.
-

@@ -1,8 +1,8 @@
 # When Was the Messiah Supposed to Come?
 
-**A Gentle Look at Daniel 9 for My Jewish Friends**
+## A Gentle Look at Daniel 9 for My Jewish Friends
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 Shalom, dear brothers and sisters,
 
@@ -16,7 +16,7 @@ The context of Daniel 9 is beautiful: Daniel, exiled in Babylon, prays earnestly
 
 ### What Are the Seventy Weeks?
 
-Gabriel tells Daniel: “Seventy weeks are decreed for your people and your holy city” (Daniel 9:24). In Hebrew, the term "weeks" (*shavuim*) simply means "sevens." Most scholars, Jewish and Christian, understand this to mean seventy sets of seven years—a total of 490 years.
+Gabriel tells Daniel: “Seventy weeks are decreed for your people and your holy city” (Daniel 9:24). In Hebrew, the term "weeks" (_shavuim_) simply means "sevens." Most scholars, Jewish and Christian, understand this to mean seventy sets of seven years—a total of 490 years.
 
 This period would bring about six divine purposes: to finish transgression, to make an end of sin, to atone for iniquity, to bring everlasting righteousness, to seal up vision and prophecy, and to anoint the Most Holy. These are profound promises that point to a full and final redemption—something that sounds very much like the work of the Messiah.
 
@@ -26,9 +26,9 @@ In Daniel 9:25, Gabriel gives Daniel a starting point: "From the issuing of a de
 
 But which decree? There were several Persian decrees related to Jerusalem:
 
-* Cyrus' decree (538 BCE)
-* Artaxerxes’ decree to Ezra (457 BCE)
-* Artaxerxes’ decree to Nehemiah (445/444 BCE)
+- Cyrus' decree (538 BCE)
+- Artaxerxes’ decree to Ezra (457 BCE)
+- Artaxerxes’ decree to Nehemiah (445/444 BCE)
 
 Many Christian scholars focus on Artaxerxes' decree to Nehemiah (445 BCE), when Nehemiah was given permission to rebuild Jerusalem’s walls. Counting 483 years from 445 BCE brings us remarkably close to 30-33 CE—the exact timeframe when Yeshua of Nazareth ministered, was crucified, and rose from the dead.
 
@@ -36,7 +36,7 @@ Other scholars, using Ezra’s earlier decree of 457 BCE, arrive at 27 CE—when
 
 ### The Cutting Off of the Anointed One
 
-Daniel 9:26 continues: "After the sixty-two weeks, the Anointed One will be cut off and have nothing." The Hebrew word for "cut off" (*yikkaret*) often implies a violent or judicial death. Christians see here a clear reference to Yeshua’s crucifixion—a death He willingly accepted, not for His own sin, but to make atonement for others.
+Daniel 9:26 continues: "After the sixty-two weeks, the Anointed One will be cut off and have nothing." The Hebrew word for "cut off" (_yikkaret_) often implies a violent or judicial death. Christians see here a clear reference to Yeshua’s crucifixion—a death He willingly accepted, not for His own sin, but to make atonement for others.
 
 Following this, Daniel speaks of the destruction of Jerusalem and the Temple: "The people of the prince who is to come will destroy the city and the sanctuary." This was fulfilled tragically in 70 CE when the Romans destroyed Jerusalem—just as Gabriel foretold.
 
@@ -65,4 +65,3 @@ May the LORD open all our hearts to see the beauty of His promises. The Messiah�
 With love and deep respect,
 
 A fellow seeker of Israel's Messiah.
-

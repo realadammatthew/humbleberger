@@ -1,20 +1,20 @@
 # The Shema: From The Jewish-Christian Perspective
 
-**Understanding Its Meaning in Light of Jewish-Christian Doctrine**
+## Understanding Its Meaning in Light of Jewish-Christian Doctrine
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 Few prayers are as central to Jewish faith and practice as the Shema. Recited daily by observant Jews for millennia, these words from Deuteronomy 6:4-5 have shaped the identity of Israel:
 
 > "Hear, O Israel: The LORD our God, the LORD is one. Love the LORD your God with all your heart and with all your soul and with all your strength." (Deut 6:4-5 NIV)
 
-Yet, as Daniel I. Block explores in his study *How Many Is God?*, the Shema invites deeper reflection—not only for Jews but also for Christians seeking to understand its full implications in light of the whole of Scripture.
+Yet, as Daniel I. Block explores in his study _How Many Is God?_, the Shema invites deeper reflection—not only for Jews but also for Christians seeking to understand its full implications in light of the whole of Scripture.
 
 ## The Shema as a Call to Allegiance
 
 Traditionally, many Jewish interpretations emphasize the Shema as a declaration of God's oneness, a defining statement against polytheism. This reading affirms that there is only one God, distinct and indivisible, to whom Israel pledges loyalty. However, Block challenges this assumption by examining the Hebrew text closely:
 
-> *Shema Yisrael Adonai Eloheinu Adonai Echad*.
+> _Shema Yisrael Adonai Eloheinu Adonai Echad_.
 
 The grammatical structure, Block argues, suggests not merely a philosophical assertion about God’s numerical oneness but rather a demand for exclusive loyalty. A more accurate rendering, Block suggests, could be:
 
@@ -48,9 +48,9 @@ For Jewish believers who follow Yeshua as the Messiah, Block’s interpretation 
 
 Thus, the Shema invites every believer to:
 
-* Love God with total devotion (heart, soul, strength);
-* Reject any rival gods (whether ancient idols or modern allegiances);
-* Recognize in Yeshua the full expression of God’s covenantal love and authority.
+- Love God with total devotion (heart, soul, strength);
+- Reject any rival gods (whether ancient idols or modern allegiances);
+- Recognize in Yeshua the full expression of God’s covenantal love and authority.
 
 ## Conclusion: The Shema as a Daily Cry of Allegiance
 

@@ -1,8 +1,8 @@
 # The History of Everything
 
-**A Fascinating Perspective**
+## A Fascinating Perspective
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 When we talk about "The History of Everything," there are many ways to look at it. Today, I want to humbly share with you one such perspective that I personally find deeply fascinating and spiritually profound. This view comes from a **Jewish-Christian Young Earth Creationist, Pre-Tribulation, Pre-Millennial** framework. I emphasize that this is just one of many interpretative frameworks, and I encourage each of you to pray, meditate, and study the Scriptures to form your own convictions as the Spirit leads.
 
@@ -42,11 +42,11 @@ In fulfillment of prophecies like Ezekiel 37 and Luke 21:24, Israel was re-estab
 
 Here is where it gets particularly exciting and speculative from my personal perspective:
 
-* **The Rapture:** Messiah could come at any moment to rapture His Church (1 Thessalonians 4:13-18).
-* **The Tribulation:** A seven-year period of global judgment and the rise of the Antichrist (Daniel 9; Revelation 6-19).
-* **The Second Coming:** Yeshua returns visibly to defeat the Antichrist and establish His Millennial Kingdom (\~2032).
-* **The Millennial Kingdom:** Yeshua reigns for 1,000 years on earth (Revelation 20:1-6).
-* **The Final Judgment and Eternal State:** After Satan's final rebellion, unbelievers are judged, and God creates a New Heaven and New Earth where believers dwell with Him forever (Revelation 20-22).
+- **The Rapture:** Messiah could come at any moment to rapture His Church (1 Thessalonians 4:13-18).
+- **The Tribulation:** A seven-year period of global judgment and the rise of the Antichrist (Daniel 9; Revelation 6-19).
+- **The Second Coming:** Yeshua returns visibly to defeat the Antichrist and establish His Millennial Kingdom (\~2032).
+- **The Millennial Kingdom:** Yeshua reigns for 1,000 years on earth (Revelation 20:1-6).
+- **The Final Judgment and Eternal State:** After Satan's final rebellion, unbelievers are judged, and God creates a New Heaven and New Earth where believers dwell with Him forever (Revelation 20-22).
 
 ## A Word of Encouragement
 
@@ -58,4 +58,4 @@ Regardless of your eschatological views, may we all live each day with the joyfu
 
 ---
 
-*Download your [free timeline](../../assets/The-History-of-Everything-Timeline.pdf) today to learn more, and don't forget to share with friends and family!*
+_Download your [free timeline](../../assets/The-History-of-Everything-Timeline.pdf) today to learn more, and don't forget to share with friends and family!_

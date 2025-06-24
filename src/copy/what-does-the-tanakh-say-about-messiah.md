@@ -1,8 +1,8 @@
 # What Does the Tanakh Say About the Messiah?
 
-**A deep dive into Scripture and Truth**
+## A deep dive into Scripture and Truth
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 Shalom, dear brothers and sisters,
 
@@ -10,7 +10,7 @@ For thousands of years, we have waited and prayed for the coming of the Messiah.
 
 ### The Anointed King from David’s Line
 
-The Hebrew word *Mashiach* means "Anointed One." In ancient Israel, kings, priests, and prophets were anointed with oil to signify their appointment by God. The Messiah, above all, is described as a coming King from the royal line of David.
+The Hebrew word _Mashiach_ means "Anointed One." In ancient Israel, kings, priests, and prophets were anointed with oil to signify their appointment by God. The Messiah, above all, is described as a coming King from the royal line of David.
 
 In **2 Samuel 7:12-16**, God promised David that one of his descendants would sit on the throne forever. **Jeremiah 23:5-6** echoes this, saying: "Behold, the days are coming... when I will raise up for David a righteous Branch; and He shall reign as king and deal wisely, and execute justice and righteousness in the land." This King will not only rule Israel but bring peace and justice to the entire world.
 
@@ -51,4 +51,3 @@ I share this not to argue, but to invite you to explore these Scriptures anew. M
 With love and deep respect,
 
 A fellow seeker of Israel's Messiah.
-

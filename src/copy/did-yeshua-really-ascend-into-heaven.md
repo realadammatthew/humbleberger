@@ -1,8 +1,8 @@
 # Did Yeshua Really Ascend Into Heaven?
 
-**The Exalted Messiah Who Reigns and Returns**
+## The Exalted Messiah Who Reigns and Returns
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 

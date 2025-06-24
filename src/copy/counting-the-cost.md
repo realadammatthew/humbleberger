@@ -1,8 +1,8 @@
 # Counting the Cost: The Price for Following Yeshua
 
-**The high price — and eternal reward — of following Yeshua as Messiah**
+## The high price — and eternal reward — of following Yeshua as Messiah
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 > "Whoever wants to be My disciple must deny themselves and take up their cross daily and follow Me." — Luke 9:23
 

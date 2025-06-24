@@ -1,8 +1,8 @@
 # What Is the Trinity?
 
-**Understanding How One God Exists as Father, Son, and Spirit**
+## Understanding How One God Exists as Father, Son, and Spirit
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 
@@ -10,13 +10,13 @@
 
 One of the most important—and sometimes most confusing—ideas in Christianity is the belief in the **Trinity**. Christians believe in **one God**, but that this one God exists as **three distinct persons**:
 
-* **God the Father**
-* **God the Son (Yeshua the Messiah)**
-* **God the Holy Spirit**
+- **God the Father**
+- **God the Son (Yeshua the Messiah)**
+- **God the Holy Spirit**
 
 This doesn’t mean we believe in three gods. Christianity holds firmly to the truth of **one God**, just as it’s written in the **Shema**:
 
-> “Hear, O Israel: The Lord our God, the Lord is one.” *(Deuteronomy 6:4)*
+> “Hear, O Israel: The Lord our God, the Lord is one.” _(Deuteronomy 6:4)_
 
 So how can God be both **one** and **three** at the same time? Let’s break it down.
 
@@ -36,13 +36,13 @@ Throughout Scripture, God is shown as personal—not an abstract force, but a Be
 
 In the New Testament, we see something amazing: God the Father, Son, and Spirit working in perfect unity. One clear example is at **Yeshua's baptism**:
 
-> "As Yeshua was baptized, the heavens opened, the Spirit of God came down like a dove, and a voice from heaven said, ‘This is My beloved Son.’" *(Matthew 3:16–17)*
+> "As Yeshua was baptized, the heavens opened, the Spirit of God came down like a dove, and a voice from heaven said, ‘This is My beloved Son.’" _(Matthew 3:16–17)_
 
 All three persons of the Trinity are present:
 
-* **The Son (Yeshua)** in the water
-* **The Spirit** descending
-* **The Father** speaking from heaven
+- **The Son (Yeshua)** in the water
+- **The Spirit** descending
+- **The Father** speaking from heaven
 
 ---
 
@@ -52,13 +52,13 @@ For those from a Jewish background, the idea of God becoming human can sound str
 
 Christians believe that **Yeshua** is that promised **Jewish Messiah**. The Gospel of John starts like this:
 
-> “In the beginning was the Word, and the Word was with God, and the Word was God... and the Word became flesh and dwelt among us.” *(John 1:1,14)*
+> “In the beginning was the Word, and the Word was with God, and the Word was God... and the Word became flesh and dwelt among us.” _(John 1:1,14)_
 
 Yeshua is described as:
 
-* **Pre-existent** (He existed before He was born)
-* **Divine** (He is called “God”)
-* **Human** (He took on flesh and lived among us)
+- **Pre-existent** (He existed before He was born)
+- **Divine** (He is called “God”)
+- **Human** (He took on flesh and lived among us)
 
 ---
 
@@ -66,9 +66,9 @@ Yeshua is described as:
 
 The Holy Spirit is not just a force or energy—He is **God’s personal presence**. In the Old Testament, we see God’s Spirit involved in creation, prophecy, and power. In the New Testament, the Spirit:
 
-* **Guides and teaches**
-* **Comforts and empowers**
-* **Lives inside believers**
+- **Guides and teaches**
+- **Comforts and empowers**
+- **Lives inside believers**
 
 The Spirit is the one who gives us new life and helps us follow God daily.
 
@@ -80,15 +80,15 @@ We admit: this is a **mystery**. It’s not something we can fully wrap our mind
 
 Here’s one way to think about it:
 
-* God is **one in essence** (what He is)
-* God is **three in person** (who He is)
+- God is **one in essence** (what He is)
+- God is **three in person** (who He is)
 
 All three—Father, Son, and Spirit—are:
 
-* Fully God
-* Eternal
-* Equal in power and glory
-* United in will and purpose
+- Fully God
+- Eternal
+- Equal in power and glory
+- United in will and purpose
 
 But each is also **distinct**. The Father is not the Son, the Son is not the Spirit, and so on.
 
@@ -120,8 +120,8 @@ Christians don’t believe in three gods—we believe in **one God who is three 
 We don’t claim to fully understand the Trinity, but we trust the God who revealed Himself in this way. And most importantly, we believe that **Yeshua** is the promised **Jewish Messiah**, and through Him, we come to know the **one true God**—Father, Son, and Holy Spirit.
 
 > “Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.”
-> *(Matthew 28:19)*
+> _(Matthew 28:19)_
 
 ---
 
-*Download your [free teaching guide](../../assets/Doctrine-of-God-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!*
+_Download your [free teaching guide](../../assets/Doctrine-of-God-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!_

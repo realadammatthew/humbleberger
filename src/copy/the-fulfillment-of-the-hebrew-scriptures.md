@@ -1,8 +1,8 @@
 # Yeshua: The Fulfillment of the Hebrew Scriptures
 
-**How our King Yeshua Fulfills Biblical Prophecy**
+## How our King Yeshua Fulfills Biblical Prophecy
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 Shalom, dear brothers and sisters,
 
@@ -20,10 +20,10 @@ In Hebrew thought, fulfillment means bringing something to completion—like a s
 
 Throughout the Tanakh, God gave us glimpses of the Messiah:
 
-* **Born in Bethlehem**: The prophet Micah declared that from Bethlehem would come a ruler for Israel (Micah 5:2). Yeshua was born there (Matthew 2:1-6).
-* **Riding on a donkey**: Zechariah spoke of Zion’s King coming humbly on a donkey (Zechariah 9:9), which Yeshua fulfilled when entering Jerusalem (Matthew 21:1-5).
-* **A suffering servant**: Isaiah 53 describes one who would be "pierced for our transgressions" and "bear the sin of many." Christians see in this the clearest portrait of Yeshua's sacrificial death on our behalf.
-* **They will look on Me whom they have pierced**: Zechariah 12:10 foreshadows a day when Israel will recognize the One they pierced, leading to mourning and repentance—a hope still awaiting full realization.
+- **Born in Bethlehem**: The prophet Micah declared that from Bethlehem would come a ruler for Israel (Micah 5:2). Yeshua was born there (Matthew 2:1-6).
+- **Riding on a donkey**: Zechariah spoke of Zion’s King coming humbly on a donkey (Zechariah 9:9), which Yeshua fulfilled when entering Jerusalem (Matthew 21:1-5).
+- **A suffering servant**: Isaiah 53 describes one who would be "pierced for our transgressions" and "bear the sin of many." Christians see in this the clearest portrait of Yeshua's sacrificial death on our behalf.
+- **They will look on Me whom they have pierced**: Zechariah 12:10 foreshadows a day when Israel will recognize the One they pierced, leading to mourning and repentance—a hope still awaiting full realization.
 
 These are just a few of the many prophecies Christians see as fulfilled in Yeshua’s first coming.
 
@@ -31,15 +31,15 @@ These are just a few of the many prophecies Christians see as fulfilled in Yeshu
 
 Our sacred calendar is rich with meaning:
 
-* **Passover (Pesach)**: The blood of the lamb protected our ancestors in Egypt. Yeshua, called "the Lamb of God" (John 1:29), was crucified during Passover, offering His own blood for our ultimate deliverance.
-* **Firstfruits**: As the first sheaf was offered to God, Yeshua rose from the dead on this very day, becoming "the firstfruits of those who have fallen asleep" (1 Corinthians 15:20).
-* **Yom Kippur (Day of Atonement)**: The high priest entered the Holy of Holies once a year with blood for atonement. Christians believe Yeshua, as our great High Priest, entered the heavenly sanctuary with His own blood, securing eternal atonement (Hebrews 9:11-12).
+- **Passover (Pesach)**: The blood of the lamb protected our ancestors in Egypt. Yeshua, called "the Lamb of God" (John 1:29), was crucified during Passover, offering His own blood for our ultimate deliverance.
+- **Firstfruits**: As the first sheaf was offered to God, Yeshua rose from the dead on this very day, becoming "the firstfruits of those who have fallen asleep" (1 Corinthians 15:20).
+- **Yom Kippur (Day of Atonement)**: The high priest entered the Holy of Holies once a year with blood for atonement. Christians believe Yeshua, as our great High Priest, entered the heavenly sanctuary with His own blood, securing eternal atonement (Hebrews 9:11-12).
 
 These observances are not abolished in Christian thought; rather, they find their fullest meaning in Yeshua.
 
 ### A New Covenant, Foretold by Jeremiah
 
-Our prophet Jeremiah spoke of a *brit chadashah* (New Covenant) when God would write His Torah on our hearts and forgive our iniquities (Jeremiah 31:31-34). Christians believe that through Yeshua, God has inaugurated this covenant, offering both forgiveness and inward transformation.
+Our prophet Jeremiah spoke of a _brit chadashah_ (New Covenant) when God would write His Torah on our hearts and forgive our iniquities (Jeremiah 31:31-34). Christians believe that through Yeshua, God has inaugurated this covenant, offering both forgiveness and inward transformation.
 
 ### Respecting Jewish Objections
 
@@ -58,4 +58,3 @@ I share this with deep love and respect, as a fellow seeker of the God of Abraha
 With love,
 
 A fellow seeker of Israel’s Messiah.
-

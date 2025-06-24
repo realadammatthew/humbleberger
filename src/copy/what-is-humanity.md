@@ -1,8 +1,8 @@
 # What Does It Mean to Be Human?
 
-**How God Created Us—and What We’re Made For**
+## How God Created Us—and What We’re Made For
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 
@@ -20,7 +20,7 @@ The Bible gives us a clear and beautiful answer: we are made by God, in His imag
 The Bible begins with this bold statement:
 
 > “God created mankind in His own image... male and female He created them.”
-> *(Genesis 1:27)*
+> _(Genesis 1:27)_
 
 Being made in God’s image means we reflect something of who God is. That includes our ability to think, create, love, speak, and make moral choices. It also means that every human life has **infinite worth**, no matter our background, gender, status, or abilities.
 
@@ -37,10 +37,10 @@ God also created **marriage** as a special relationship between one man and one 
 
 God didn’t just make us to exist—He made us for a purpose:
 
-* **To be in relationship with Him**
-* **To care for His creation**
-* **To live in community with each other**
-* **To reflect His love and justice in the world**
+- **To be in relationship with Him**
+- **To care for His creation**
+- **To live in community with each other**
+- **To reflect His love and justice in the world**
 
 From the beginning, God gave people meaningful work, emotional connection, and spiritual purpose.
 
@@ -52,10 +52,10 @@ While God’s design was good, we haven’t lived up to it. We often turn away f
 
 The result?
 
-* We struggle in relationships
-* We misuse our bodies and our gifts
-* We seek identity in things that don’t last
-* We forget the One who made us
+- We struggle in relationships
+- We misuse our bodies and our gifts
+- We seek identity in things that don’t last
+- We forget the One who made us
 
 Still, our **core value hasn’t changed**. We are **damaged by sin**, but not worthless. God still sees us, knows us, and loves us.
 
@@ -65,11 +65,11 @@ Still, our **core value hasn’t changed**. We are **damaged by sin**, but not w
 
 Yeshua, the Jewish Messiah, wasn’t just fully God—He was also **fully human**. And His life shows us what **real humanity** is supposed to look like.
 
-* He loved people deeply
-* He cared for the poor and outcast
-* He lived with integrity
-* He depended on God completely
-* He suffered real pain and showed real compassion
+- He loved people deeply
+- He cared for the poor and outcast
+- He lived with integrity
+- He depended on God completely
+- He suffered real pain and showed real compassion
 
 Yeshua is the perfect example of what it means to be human. And more than that—He came to **restore us** to what we were meant to be.
 
@@ -79,14 +79,14 @@ Yeshua is the perfect example of what it means to be human. And more than that�
 
 When we believe in Yeshua, we don’t just get forgiven—we get **recreated**. The Bible says:
 
-> “If anyone is in Messiah, they are a new creation.” *(2 Corinthians 5:17)*
+> “If anyone is in Messiah, they are a new creation.” _(2 Corinthians 5:17)_
 
 That means:
 
-* Our past does not define us
-* We are adopted into God’s family
-* We are being shaped to become more like Yeshua
-* One day, we will be raised to eternal life with new, glorified bodies
+- Our past does not define us
+- We are adopted into God’s family
+- We are being shaped to become more like Yeshua
+- One day, we will be raised to eternal life with new, glorified bodies
 
 We were made for **glory**, and through Yeshua, that glory is being restored.
 
@@ -106,7 +106,7 @@ Our limits are there to draw us closer to Him—not to be erased.
 
 In God’s family, there is **unity and diversity**. The Apostle Paul wrote:
 
-> “There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Messiah Yeshua.” *(Galatians 3:28)*
+> “There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Messiah Yeshua.” _(Galatians 3:28)_
 
 This doesn’t mean our differences disappear. It means our identity in Messiah comes first. Everyone who belongs to Him is **equally loved, equally valued, and uniquely gifted**.
 
@@ -121,8 +121,8 @@ But we are also broken—and that’s why we need a Savior.
 Through **Yeshua the Messiah**, we are not just forgiven; we are made whole. He shows us what humanity was meant to be. And when we follow Him, we begin to become more like Him—more fully alive, more fully human.
 
 > “See what kind of love the Father has given us, that we should be called children of God—and that is what we are!”
-> *(1 John 3:1)*
+> _(1 John 3:1)_
 
 ---
 
-*Download your [free teaching guide](../../assets/Doctrine-of-Humanity-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!*
+_Download your [free teaching guide](../../assets/Doctrine-of-Humanity-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!_

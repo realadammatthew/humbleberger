@@ -1,8 +1,8 @@
 # Who Is Yeshua?
 
-**The Messiah Revealed in Scripture and History**
+## The Messiah Revealed in Scripture and History
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 

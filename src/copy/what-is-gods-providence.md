@@ -1,8 +1,8 @@
 # How God Created and Still Cares for the World
 
-**Understanding Providence and Creation**
+## Understanding Providence and Creation
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 
@@ -23,7 +23,7 @@ This idea is called **providence**, and it means that the God who made everythin
 
 In the opening chapters of Genesis, we see a God who **speaks creation into existence**. He creates light, sky, land, sea, animals, plants—and then He creates **human beings** in His own image.
 
-> “God saw all that He had made, and it was very good.” *(Genesis 1:31)*
+> “God saw all that He had made, and it was very good.” _(Genesis 1:31)_
 
 God didn’t create by accident or out of boredom. He created everything **with purpose, design, and intention**. He set boundaries for nature, gave people responsibilities, and designed a world full of order and beauty.
 
@@ -37,27 +37,27 @@ The Bible is filled with stories and teachings that show how God continues to wo
 
 ### 1. **God brings good even from evil**
 
-> “You meant evil against me, but God meant it for good...” *(Genesis 50:20)*
+> “You meant evil against me, but God meant it for good...” _(Genesis 50:20)_
 > When Joseph was betrayed by his brothers, it seemed like everything was falling apart. But God used it to save many lives. His plans are **bigger and better** than we can often see.
 
 ### 2. **God holds everything together**
 
-> “All things were created through Him and for Him... and in Him all things hold together.” *(Colossians 1:16–17)*
+> “All things were created through Him and for Him... and in Him all things hold together.” _(Colossians 1:16–17)_
 > Yeshua, the Messiah, is not just our Savior—He is the one who **sustains** the entire universe.
 
 ### 3. **God works for our good**
 
-> “In all things God works for the good of those who love Him...” *(Romans 8:28)*
+> “In all things God works for the good of those who love Him...” _(Romans 8:28)_
 > This doesn’t mean everything is easy or painless—but it does mean that **nothing is wasted** in the hands of God. He is working for our growth, our joy, and our hope.
 
 ### 4. **God provides for our needs**
 
-> “Look at the birds of the air... your heavenly Father feeds them. Are you not much more valuable than they?” *(Matthew 6:26)*
+> “Look at the birds of the air... your heavenly Father feeds them. Are you not much more valuable than they?” _(Matthew 6:26)_
 > God knows your needs and cares for you **personally**. His providence is not just global—it’s also **deeply personal**.
 
 ### 5. **God is near to the brokenhearted**
 
-> “The LORD is near to all who call on Him... He upholds all who fall.” *(Psalm 145:14–21)*
+> “The LORD is near to all who call on Him... He upholds all who fall.” _(Psalm 145:14–21)_
 > God is not far off. He lifts up the weary, satisfies the hungry, and **draws near to those who seek Him**.
 
 ---
@@ -66,8 +66,8 @@ The Bible is filled with stories and teachings that show how God continues to wo
 
 Throughout history, believers have celebrated God as both **Creator** and **Sustainer**.
 
-* **Early thinkers** like Augustine and Aquinas taught that God is the source of all being—and that all creation reflects His nature and purpose.
-* **Martin Luther and John Calvin** emphasized that God not only created the world but continues to direct every moment of history for His glory. Calvin even called the universe “the theater of God’s glory.”
+- **Early thinkers** like Augustine and Aquinas taught that God is the source of all being—and that all creation reflects His nature and purpose.
+- **Martin Luther and John Calvin** emphasized that God not only created the world but continues to direct every moment of history for His glory. Calvin even called the universe “the theater of God’s glory.”
 
 They agreed: **God is not passive. He is active, present, and wise beyond all our understanding.**
 
@@ -79,10 +79,10 @@ God’s **Creation** is everything He made—everything that is **not God**. Tha
 
 God’s **Providence** is His ongoing care and direction over all of it.
 
-* He provides.
-* He protects.
-* He governs.
-* He sustains.
+- He provides.
+- He protects.
+- He governs.
+- He sustains.
 
 Even when things seem out of control, the Bible reminds us that **God never stops working**.
 
@@ -96,9 +96,9 @@ One of the hardest parts of life is pain—physical, emotional, spiritual. Why d
 
 The Bible doesn’t give easy answers, but it does give **real hope**:
 
-* God can use suffering to draw us closer to Him.
-* Our limits (like weakness, time, or aging) are not flaws—they are **reminders of our need for God**.
-* The goal of life is not comfort—it’s **transformation**.
+- God can use suffering to draw us closer to Him.
+- Our limits (like weakness, time, or aging) are not flaws—they are **reminders of our need for God**.
+- The goal of life is not comfort—it’s **transformation**.
   We are being shaped for something far greater than this world.
 
 ---
@@ -109,10 +109,10 @@ God is not distant or indifferent. He is **the loving Creator who is still holdi
 
 You are not here by accident. You were **created intentionally**, and your life is held by the same God who made the stars.
 
-> “Cast all your cares on Him, because He cares for you.” *(1 Peter 5:7)*
+> “Cast all your cares on Him, because He cares for you.” _(1 Peter 5:7)_
 
 When we know this God—revealed fully in **Yeshua the Messiah**—we can live with peace, confidence, and purpose, no matter what life brings.
 
 ---
 
-*Download your [free teaching guide](../../assets/Providence-and-Creation-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!*
+_Download your [free teaching guide](../../assets/Providence-and-Creation-Teaching-Guide.pdf) today to learn more, and don't forget to share with friends and family!_

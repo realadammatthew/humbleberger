@@ -1,8 +1,8 @@
 # The New Covenant that was Promised
 
-**A deep dive into Jeremiah's Promise of a New Covenant**
+## A deep dive into Jeremiah's Promise of a New Covenant
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 Shalom, dear brothers and sisters,
 
@@ -14,7 +14,7 @@ Today, I invite you to explore this tender promise with me. Not to debate, but t
 
 "Behold, days are coming, declares the LORD, when I will make a new covenant with the house of Israel and the house of Judah."
 
-In the Hebrew text, God says He will make a *brit chadashah* — literally, a "new covenant." This is the only time in all of the Tanakh that this phrase appears. God speaks not to strangers, but to His chosen people, both Israel and Judah. This covenant is not given to replace the people, but to restore them.
+In the Hebrew text, God says He will make a _brit chadashah_ — literally, a "new covenant." This is the only time in all of the Tanakh that this phrase appears. God speaks not to strangers, but to His chosen people, both Israel and Judah. This covenant is not given to replace the people, but to restore them.
 
 ### A Covenant Unlike the One at Sinai
 
@@ -40,7 +40,7 @@ Here is a beautiful picture of the world as it should be. Everyone, young and ol
 
 In Jewish tradition, many of our sages have seen this as a promise for the Messianic Age—a future time when Israel will be fully restored, sin will be no more, and the Torah will be perfectly kept by all. Rashi and other commentators explain that this New Covenant does not replace the Torah but ensures it will be kept forever.
 
-Yet, this raises a gentle question: *How will God bring about such perfect forgiveness and transformation of hearts?* Our long history shows that human willpower alone has never been enough to keep the Torah fully. We still struggle. We still sin.
+Yet, this raises a gentle question: _How will God bring about such perfect forgiveness and transformation of hearts?_ Our long history shows that human willpower alone has never been enough to keep the Torah fully. We still struggle. We still sin.
 
 ### Could This Be Pointing to the Messiah?
 
@@ -50,7 +50,7 @@ They see the Holy Spirit writing the Torah on hearts, enabling believers to live
 
 ### A Gentle Invitation
 
-Dear friend, I share this not to pressure but to invite you to consider: *Could it be that the Messiah has already come to begin this New Covenant?* Could Yeshua be the One who offers complete forgiveness and writes God's Torah upon our hearts?
+Dear friend, I share this not to pressure but to invite you to consider: _Could it be that the Messiah has already come to begin this New Covenant?_ Could Yeshua be the One who offers complete forgiveness and writes God's Torah upon our hearts?
 
 The promise of Jeremiah 31 remains open. It is a covenant made with Israel and Judah, not discarded or replaced. And it offers us what every human heart longs for: forgiveness, intimacy with God, and a life transformed from within.
 
@@ -61,4 +61,3 @@ May the God of Abraham, Isaac, and Jacob guide us as we seek Him. May He open ou
 With love and respect,
 
 A fellow seeker of Israel’s Messiah.
-

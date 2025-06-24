@@ -1,8 +1,8 @@
 # What is Transhumanism?
 
-**Technology is changing fast. People are asking—Could we become more than human?**
+## Technology is changing fast. People are asking—Could we become more than human?
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 
@@ -48,10 +48,10 @@ Transhumanism offers a **false gospel**. It promises salvation—not through gra
 
 This worldview doesn't just challenge individual theology—it undermines key doctrines:
 
-* **Creation**: It denies the sufficiency and sanctity of our created nature.
-* **Fall**: It ignores sin as the root of human suffering, assuming we just need better tools.
-* **Redemption**: It replaces the cross with code.
-* **Glorification**: It trades resurrection for reinvention.
+- **Creation**: It denies the sufficiency and sanctity of our created nature.
+- **Fall**: It ignores sin as the root of human suffering, assuming we just need better tools.
+- **Redemption**: It replaces the cross with code.
+- **Glorification**: It trades resurrection for reinvention.
 
 ---
 
@@ -89,5 +89,4 @@ As the world rushes toward artificial immortality, let the Church proclaim the r
 
 ---
 
-*Want to go deeper? Download our free [teaching guide](../../assets/Transhumanism-Teaching-Guide.pdf) and [evangelism tract](../../assets/Transhumanism-Evangelism-Tract.pdf).*
-
+_Want to go deeper? Download our free [teaching guide](../../assets/Transhumanism-Teaching-Guide.pdf) and [evangelism tract](../../assets/Transhumanism-Evangelism-Tract.pdf)._

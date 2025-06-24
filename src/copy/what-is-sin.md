@@ -1,8 +1,8 @@
 # What Is Sin?
 
-**Understanding Our Greatest Problem—and God’s Only Solution**
+## Understanding Our Greatest Problem—and God’s Only Solution
 
-**Humbleberger Ministries**
+### Humbleberger Ministries
 
 ---
 
