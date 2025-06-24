@@ -1,67 +1,54 @@
 # When Was the Messiah Supposed to Come?
 
-## A Gentle Look at Daniel 9 for My Jewish Friends
+## A Loving Call to See Yeshua in Daniel 9
 
 ### Humbleberger Ministries
 
-Shalom, dear brothers and sisters,
+---
 
-Throughout Jewish history, we have longed for the coming of the Messiah—the Anointed One who would redeem Israel, bring peace to the world, and restore righteousness. The Hebrew Scriptures (Tanakh) give us many beautiful portraits of the Messiah, but one prophecy in particular offers a stunning timeline for His arrival: the famous "Seventy Weeks" prophecy found in Daniel 9.
+_"Seventy weeks are decreed about your people and your holy city—to bring the rebellion to an end, to put a stop to sin, to atone for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the most holy place. Know and understand this: From the issuing of the decree to restore and rebuild Jerusalem until an Anointed One, the ruler, will be seven weeks and sixty-two weeks. It will be rebuilt with a plaza and a moat, but in difficult times. After those sixty-two weeks the Anointed One will be cut off and will have nothing. The people of the coming ruler will destroy the city and the sanctuary. The end will come with a flood, and until the end there will be war; desolations are decreed. He will make a firm covenant with many for one week, but in the middle of the week he will put a stop to sacrifice and offering. And the abomination of desolation will be on a wing of the temple until the decreed destruction is poured out on the desolator."_
+**(Daniel 9:24-27)**
 
-I invite you to explore this remarkable passage with me, not to argue but to lovingly consider what it may reveal about when the Messiah was expected.
+---
 
-### Daniel’s Prayer and Gabriel’s Answer
+## Shalom, beloved brothers and sisters,
 
-The context of Daniel 9 is beautiful: Daniel, exiled in Babylon, prays earnestly for Israel's forgiveness and restoration after reading Jeremiah's prophecy of seventy years of exile. God responds by sending the angel Gabriel with a message even greater than Daniel expected. Instead of simply addressing the seventy years of captivity, Gabriel unveils a prophetic vision spanning seventy "weeks."
+The heart of our Jewish people has always yearned for the Messiah—the Anointed One promised to redeem Israel, bring peace to the world, and establish righteousness forever. The Hebrew Scriptures (Tanakh) shine with this hope, and one prophecy stands as a blazing beacon of God’s perfect plan: the "Seventy Weeks" of Daniel 9. With love and unwavering confidence, I invite you to see how this passage points unmistakably to Yeshua of Nazareth, the Messiah who has come and will come again.
 
-### What Are the Seventy Weeks?
+## Daniel’s Prayer and God’s Faithful Answer
 
-Gabriel tells Daniel: “Seventy weeks are decreed for your people and your holy city” (Daniel 9:24). In Hebrew, the term "weeks" (_shavuim_) simply means "sevens." Most scholars, Jewish and Christian, understand this to mean seventy sets of seven years—a total of 490 years.
+In Daniel 9, we find Daniel, exiled in Babylon, pouring out his heart in prayer for Israel’s forgiveness and restoration. Moved by Jeremiah’s prophecy of seventy years of exile, he seeks God’s mercy. The Lord responds with breathtaking clarity through the angel Gabriel, revealing not just the end of captivity but a divine timetable for the Messiah’s arrival—a plan spanning seventy "weeks." Dear friend, this is no vague promise; it is God’s precise roadmap to redemption through Yeshua.
 
-This period would bring about six divine purposes: to finish transgression, to make an end of sin, to atone for iniquity, to bring everlasting righteousness, to seal up vision and prophecy, and to anoint the Most Holy. These are profound promises that point to a full and final redemption—something that sounds very much like the work of the Messiah.
+## The Seventy Weeks: God’s Timetable for Redemption
 
-### The Countdown to the Messiah
+Gabriel declares, “Seventy weeks are decreed about your people and your holy city” (Daniel 9:24). In Hebrew, "weeks" (_shavuim_) means "sevens"—here, seventy sets of seven years, totaling 490 years. This period fulfills six glorious purposes: to finish transgression, end sin, atone for iniquity, bring everlasting righteousness, seal up vision and prophecy, and anoint the Most Holy. These are the very works of the Messiah, and they find their fulfillment in Yeshua alone, who atoned for our sins and will bring eternal righteousness at His return.
 
-In Daniel 9:25, Gabriel gives Daniel a starting point: "From the issuing of a decree to restore and rebuild Jerusalem until Messiah the Prince, there will be seven weeks and sixty-two weeks." That totals 69 weeks, or 483 years, from the decree until the arrival of the Messiah.
+## The Messiah’s Arrival: A Precise Prophecy
 
-But which decree? There were several Persian decrees related to Jerusalem:
+Gabriel continues: “From the issuing of the decree to restore and rebuild Jerusalem until an Anointed One, the ruler, will be seven weeks and sixty-two weeks” (Daniel 9:25). That’s 69 weeks, or 483 years, from the decree to the Messiah’s arrival. The decree of Artaxerxes to Nehemiah in 445 BCE, authorizing the rebuilding of Jerusalem’s walls, sets the clock ticking. Counting forward 483 years lands us in 30–33 CE—the very years when Yeshua ministered, was crucified, and rose from the dead. Alternatively, Artaxerxes’ earlier decree to Ezra in 457 BCE points to 27 CE, when Yeshua began His public ministry. Both timelines converge on the early first century, before the Second Temple’s destruction in 70 CE. This is no coincidence—it is God’s truth, fulfilled in Yeshua.
 
-- Cyrus' decree (538 BCE)
-- Artaxerxes’ decree to Ezra (457 BCE)
-- Artaxerxes’ decree to Nehemiah (445/444 BCE)
+## The Messiah Cut Off: Yeshua’s Atoning Sacrifice
 
-Many Christian scholars focus on Artaxerxes' decree to Nehemiah (445 BCE), when Nehemiah was given permission to rebuild Jerusalem’s walls. Counting 483 years from 445 BCE brings us remarkably close to 30-33 CE—the exact timeframe when Yeshua of Nazareth ministered, was crucified, and rose from the dead.
+Daniel 9:26 proclaims, “After those sixty-two weeks the Anointed One will be cut off and will have nothing.” The Hebrew word for “cut off” (_yikkaret_) signifies a violent, sacrificial death. This is Yeshua, crucified not for His own sin but as the perfect atonement for ours, fulfilling Isaiah 53’s suffering servant. Following this, Daniel foretells the destruction of Jerusalem and the Temple: “The people of the coming ruler will destroy the city and the sanctuary.” This was fulfilled in 70 CE when the Romans razed Jerusalem, just as God’s Word declared. The precision of this prophecy points unerringly to Yeshua as the Messiah.
 
-Other scholars, using Ezra’s earlier decree of 457 BCE, arrive at 27 CE—when Yeshua began His public ministry after His baptism. Both calculations point squarely to the early first century, before the destruction of the Second Temple in 70 CE.
+## The Final Week: Yeshua’s New Covenant
 
-### The Cutting Off of the Anointed One
+Daniel 9:27 describes a final “week” (seven years), during which a covenant is confirmed, and sacrifice ceases. Yeshua, through His three-and-a-half-year ministry, confirmed the New Covenant promised in Jeremiah 31:31–34. By offering Himself as the final, perfect sacrifice, He rendered the Temple’s offerings obsolete, fulfilling Daniel’s prophecy. Some see this final week as pointing to future events, but even these await Yeshua’s return as the glorious King. Every detail of Daniel 9 finds its anchor in Him.
 
-Daniel 9:26 continues: "After the sixty-two weeks, the Anointed One will be cut off and have nothing." The Hebrew word for "cut off" (_yikkaret_) often implies a violent or judicial death. Christians see here a clear reference to Yeshua’s crucifixion—a death He willingly accepted, not for His own sin, but to make atonement for others.
+## Addressing Other Interpretations
 
-Following this, Daniel speaks of the destruction of Jerusalem and the Temple: "The people of the prince who is to come will destroy the city and the sanctuary." This was fulfilled tragically in 70 CE when the Romans destroyed Jerusalem—just as Gabriel foretold.
+Some Jewish sages, like Rashi, have suggested the “anointed one” refers to Cyrus or other figures like Agrippa. With respect, these interpretations fall short. Daniel 9’s scope is not merely political but redemptive, pointing to the Messiah who atones for sin and brings everlasting righteousness. Only Yeshua fulfills this divine mission, aligning perfectly with the prophecy’s timeline and purpose. God’s Word is clear, and we proclaim it with love: Yeshua is the Messiah foretold.
 
-### The Final Week
+## Yeshua: The Messiah Who Has Come
 
-Daniel 9:27 describes a final "week" (seven years), during which a covenant is confirmed, but sacrifice is ended midway through. Some Christians see this as referring to Yeshua’s ministry, where He inaugurated the New Covenant and rendered the Temple sacrifices obsolete by offering Himself as the perfect and final sacrifice. Others believe this final week may point to future events still awaiting fulfillment.
+Beloved, Daniel 9 is God’s unmistakable timetable, fulfilled in Yeshua’s life, death, and resurrection. The 483 years pinpoint His first-century ministry, His atoning death fulfilled the promise to “make an end of sin,” and the Temple’s destruction confirmed the prophecy’s truth. Yeshua came first as the suffering servant (Isaiah 53) to deal with sin, and He will return as the King of glory (Isaiah 11, Micah 4) to establish His everlasting kingdom.
 
-### Jewish Interpretations
+## A Loving and Urgent Call
 
-Many of our Jewish sages have offered different understandings of this passage. Rashi, for example, identifies the "anointed one" as Cyrus or later rulers, not a future Messiah. Others have applied it to figures like Agrippa or Antiochus. Traditional Jewish interpretations generally do not apply Daniel 9 directly to the Messiah as a personal redeemer but instead read it as referring to political events surrounding the Second Temple period.
+Dear friend, the God of Abraham, Isaac, and Jacob is faithful, and His Word is true. Daniel 9 reveals that the Messiah has come—Yeshua, who bore our sins and offers salvation to all who turn to Him. As Zechariah 12:10 promises, a day will come when “they will look on Me whom they have pierced and mourn,” but that mourning will lead to healing and joy in His redemption. The time to recognize Yeshua is now, for the prophecy has been fulfilled, and His return draws near.
 
-### Could Daniel 9 Be Pointing to Yeshua?
+With all my heart, I urge you to look to Yeshua, the Messiah who loves you and gave Himself for you. Read Daniel 9, seek the Lord, and ask Him to reveal His truth. The invitation is open, and His grace is boundless.
 
-Dear friend, could it be that Daniel 9 provides one of the clearest prophetic timetables in the Tanakh, pointing directly to the first-century arrival of Yeshua as the Messiah? The timeline remarkably aligns with His ministry, death, and the subsequent destruction of the Temple.
+In the love and truth of Yeshua,
 
-If Daniel’s prophecy was fulfilled in Yeshua, it would mean that the Messiah has already come—not to establish His visible kingdom immediately, but first to deal with sin, as Daniel 9:24 promises. The full peace and redemption we still long for will be completed at His return.
-
-### A Loving Invitation
-
-I share this not to argue, but to invite you to consider these words of Scripture with fresh eyes. The God of Abraham, Isaac, and Jacob is faithful. Could it be that Yeshua is indeed the long-awaited Messiah, fulfilling both the suffering servant role (Isaiah 53) and soon, the glorious King we await (Isaiah 11, Micah 4)?
-
-As Zechariah 12:10 foretells, a day will come when "they will look on Me whom they have pierced and mourn." But that mourning will lead to healing, redemption, and joy.
-
-May the LORD open all our hearts to see the beauty of His promises. The Messiah’s timing was foretold. The invitation remains open.
-
-With love and deep respect,
-
-A fellow seeker of Israel's Messiah.
+A fellow servant of Israel’s Messiah.
