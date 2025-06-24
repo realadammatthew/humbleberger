@@ -73,7 +73,3 @@ Sin is real, and its effects are all around us—in the world and in our hearts.
 > “If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.” _(1 John 1:9)_
 
 Dear friend, Yeshua is calling you. Will you answer?
-
----
-
-_Download your [free teaching guide](../../assets/Doctrine-of-Sin-Teaching-Guide.pdf) today to dig deeper, and share this good news with those you love!_
