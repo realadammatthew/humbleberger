@@ -5,13 +5,27 @@
         <link>https://humbleberger.org/</link>
         <description>Biblical teaching and resources for Jewish-Christian dialogue and understanding</description>
         <language>en-us</language>
-        <lastBuildDate>Tue, 24 Jun 2025 20:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 20:56:33 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>Humbleberger Ministries Blog</title>
             <link>https://humbleberger.org/</link>
         </image>
+    <item>
+        <title><![CDATA[Who is the Suffering Servant of Isaiah 53?]]></title>
+        <link>https://humbleberger.org/blog/who-is-the-suffering-servant</link>
+        <guid>https://humbleberger.org/blog/who-is-the-suffering-servant</guid>
+        <pubDate>Tue, 24 Jun 2025 20:46:07 GMT</pubDate>
+        <description><![CDATA[A Loving Call to See Yeshua, the Messiah]]></description>
+    </item>
+    <item>
+        <title><![CDATA[Is Yeshua the Messiah Foretold in the Hebrew Bible?]]></title>
+        <link>https://humbleberger.org/blog/could-yeshua-be-the-messiah</link>
+        <guid>https://humbleberger.org/blog/could-yeshua-be-the-messiah</guid>
+        <pubDate>Tue, 24 Jun 2025 20:38:32 GMT</pubDate>
+        <description><![CDATA[A Bold Call to Truth for Our Jewish Brothers and Sisters]]></description>
+    </item>
     <item>
         <title><![CDATA[When Was the Messiah Supposed to Come?]]></title>
         <link>https://humbleberger.org/blog/when-was-the-messiah-supposed-to-come</link>
@@ -53,13 +67,6 @@
         <guid>https://humbleberger.org/blog/who-is-yeshua</guid>
         <pubDate>Tue, 24 Jun 2025 18:20:49 GMT</pubDate>
         <description><![CDATA[The Messiah Revealed in Scripture and History]]></description>
-    </item>
-    <item>
-        <title><![CDATA[Who is the Suffering Servant of Isaiah 53?]]></title>
-        <link>https://humbleberger.org/blog/who-is-the-suffering-servant</link>
-        <guid>https://humbleberger.org/blog/who-is-the-suffering-servant</guid>
-        <pubDate>Tue, 24 Jun 2025 18:20:40 GMT</pubDate>
-        <description><![CDATA[From Your Jewish-Christian Friend]]></description>
     </item>
     <item>
         <title><![CDATA[What is Transhumanism?]]></title>
@@ -207,13 +214,6 @@
         <guid>https://humbleberger.org/blog/counting-the-cost</guid>
         <pubDate>Tue, 24 Jun 2025 18:17:03 GMT</pubDate>
         <description><![CDATA[The high price — and eternal reward — of following Yeshua as Messiah]]></description>
-    </item>
-    <item>
-        <title><![CDATA[Is Yeshua the Messiah Foretold in the Hebrew Bible?]]></title>
-        <link>https://humbleberger.org/blog/could-yeshua-be-the-messiah</link>
-        <guid>https://humbleberger.org/blog/could-yeshua-be-the-messiah</guid>
-        <pubDate>Tue, 24 Jun 2025 18:16:47 GMT</pubDate>
-        <description><![CDATA[A Bold Call to Truth for Our Jewish Brothers and Sisters]]></description>
     </item>
     </channel>
 </rss>
