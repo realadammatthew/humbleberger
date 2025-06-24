@@ -6,6 +6,11 @@
 
 ---
 
+_"For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace."_
+**(Isaiah 9:6)**
+
+---
+
 ## Dear Friend, Yeshua Is Real
 
 Beloved, if you’re Jewish and wondering about Yeshua of Nazareth, or if you carry questions about His claim to be the Messiah, know this: you’re not alone, and your questions are precious to God. With love and boldness, we proclaim that **Yeshua is the promised Messiah**, a historical figure whose life, death, and resurrection fulfill the Tanakh’s prophecies and offer salvation to all. Let us walk together through the evidence, trusting the God of Abraham, Isaac, and Jacob to reveal His truth.
