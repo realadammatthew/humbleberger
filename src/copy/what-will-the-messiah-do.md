@@ -1,63 +1,66 @@
 # What Will the Messiah Do?
 
-## Let's explore what the Scriptures say He will do here in this World
+## Yeshua, the Messiah Who Redeems and Reigns
 
 ### Humbleberger Ministries
 
-Dear brothers and sisters,
+---
 
-For centuries, our people have cherished the promises of God concerning the coming of the Messiah. These promises are woven deeply into the fabric of the Hebrew Scriptures, and they stir hope in every Jewish heart. But what exactly does the Tanakh say the Messiah will do? And could some of these promises have already begun to unfold?
+_"\"'They will live in the land that I gave to my servant Jacob, where your ancestors lived. They will live in it forever with their children and grandchildren, and my servant David will be their prince forever. I will make a covenant of peace with them; it will be a permanent covenant with them. I will establish and multiply them and will set my sanctuary among them forever. My dwelling place will be with them; I will be their God, and they will be my people. When my sanctuary is among them forever, the nations will know that I, the Lord, sanctify Israel.'\""_
+**(Ezekiel 37:25-28)**
 
-Let us gently explore these questions together.
+---
 
-### The Messiah in the Hebrew Scriptures
+## Dear Friend, Yeshua Is the Messiah!
 
-The Hebrew Bible paints a beautiful and complex portrait of the Messiah—the Anointed One whom God will send to deliver His people and establish His kingdom.
+Beloved, as Jewish people, you hold fast to the Tanakh’s promises of a Messiah who will redeem and restore. With love and certainty, I proclaim: **Yeshua of Nazareth is that Messiah**! He has come as the Suffering Servant, atoning for sin, and will return as the Reigning King to fulfill God’s kingdom promises. Let us explore this truth together, trusting the God of Abraham, Isaac, and Jacob to reveal His Anointed One.
 
-**A King from David’s Line**
-The prophets foretell that the Messiah will descend from King David’s royal line. Jeremiah declares, "Behold, the days are coming... when I will raise up for David a righteous Branch" (Jeremiah 23:5). Isaiah echoes this hope, speaking of a "shoot from the stump of Jesse" (Isaiah 11:1), Jesse being David’s father. The Messiah will rule with perfect justice, wisdom, and righteousness.
+---
 
-**Bringing Peace and Knowledge of God**
-Isaiah envisions a day when "the wolf will dwell with the lamb" and the earth will be filled with the knowledge of the LORD (Isaiah 11:6-9). Micah adds that nations will beat their swords into plowshares, and none will make them afraid (Micah 4:3-4).
+## The Tanakh’s Promise: Messiah’s Mission
 
-**Restoring Israel and Rebuilding the Temple**
-The Messiah will gather the exiles of Israel and restore national peace (Ezekiel 37:21-28). Some prophecies hint at a renewed or rebuilt Temple (Ezekiel 40-48), where God's presence will dwell permanently.
+The Hebrew Scriptures unveil a Messiah who fulfills God’s redemptive plan:
 
-**Judging the Nations**
-Daniel sees a vision of "one like a Son of Man" receiving dominion and glory from God Himself (Daniel 7:13-14). Psalm 2 depicts the Messiah as God’s Son who will rule over the nations with authority.
+- **Davidic King**: “I will raise up for David a righteous Branch” (Jeremiah 23:5; Isaiah 11:1). Messiah rules with justice and righteousness.
+- **Bringer of Peace**: “The wolf will dwell with the lamb,” and the earth will know God (Isaiah 11:6-9; Micah 4:3-4).
+- **Restorer of Israel**: He gathers Israel’s exiles and establishes peace (Ezekiel 37:21-28), with a renewed Temple (Ezekiel 40-48).
+- **Judge of Nations**: The “Son of Man” receives eternal dominion (Daniel 7:13-14; Psalm 2).
+- **Atoner for Sin**: The Servant is “pierced for our transgressions,” bringing healing (Isaiah 53:5).
 
-**Atone for Sin and Bring Healing**
-Perhaps most strikingly, Isaiah 53 describes a Servant who would suffer and die for the sins of others: "He was pierced for our transgressions... and by His wounds we are healed." This Servant is rejected, yet His suffering brings atonement and peace.
+---
 
-### The Jewish-Christian Understanding: Yeshua as Messiah
+## Yeshua’s Mission: Fulfilled and Forthcoming
 
-As a Jewish believer in Yeshua, I believe these prophecies are fulfilled in Him—and yet, not all at once. The Messiah’s mission unfolds in two beautiful stages:
+Yeshua fulfills these prophecies in two divine phases:
 
-**First Coming: The Suffering Servant**
-Yeshua was born in Bethlehem (Micah 5:2), descended from David, and lived a life of perfect obedience to God. He was rejected by many, pierced on the cross, and willingly gave His life as an atonement for sin, fulfilling Isaiah 53 and Psalm 22. His resurrection from the dead confirmed His identity, much like Isaiah 53:11 foresees: "After the suffering of his soul, he will see the light of life."
+- **First Coming: Suffering Servant**  
+  Born in Bethlehem (Micah 5:2), from David’s line, Yeshua lived perfectly, was rejected, and crucified, fulfilling Isaiah 53 and Psalm 22. His resurrection confirms His identity: “After the suffering of His soul, He will see the light of life” (Isaiah 53:11). He became the ultimate sacrifice, atoning for sin.
 
-**Second Coming: The Reigning King**
-Many of the kingdom promises—world peace, the final gathering of Israel, universal justice, and judgment—await His return. Christians believe that Yeshua inaugurated God’s kingdom spiritually (Luke 17:21) but will fully manifest it in His second coming. As Daniel foresaw, the Son of Man will return on the clouds to receive everlasting dominion.
+- **Second Coming: Reigning King**  
+  Yeshua inaugurated God’s kingdom spiritually (Luke 17:21). At His return, He will bring world peace, gather Israel, judge nations, and establish His eternal throne, fulfilling Isaiah 11, Micah 4, and Daniel 7.
 
-### Answering Honest Questions
+---
 
-**"If Yeshua is Messiah, why is there no world peace?"**
-The prophets foresaw both suffering and reigning roles for the Messiah. Yeshua fulfilled the suffering servant prophecies in His first coming and will fulfill the reigning king prophecies at His return.
+## Addressing Objections with Truth
 
-**"Why didn't He rebuild the Temple?"**
-In His first mission, Yeshua became the ultimate atoning sacrifice, making the physical Temple's sacrifices obsolete. The New Testament teaches that His followers now form a spiritual temple, indwelt by God's Spirit.
+We honor your questions and answer with Scripture and love:
 
-**"Why did most Jews not accept Him?"**
-Even Isaiah asks, "Who has believed our report?" (Isaiah 53:1). The prophets predicted initial rejection. Yet many Jews did believe, and the New Testament began as a Jewish movement. Paul promises that one day "all Israel will be saved" (Romans 11:26).
+- **“Where’s the world peace?”** The Tanakh shows a suffering Messiah (Isaiah 53) and a reigning King (Isaiah 11). Yeshua fulfilled the first; His return will fulfill the second.
+- **“Why no rebuilt Temple?”** Yeshua’s sacrifice made animal offerings obsolete (Hebrews 10:12). His followers are now God’s temple, indwelt by His Spirit (1 Corinthians 3:16).
+- **“Why didn’t most Jews believe?”** Isaiah 53:1 predicted rejection: “Who has believed our report?” Yet thousands of Jews followed Yeshua (Acts 2:41), and Romans 11:26 promises “all Israel will be saved.”
 
-### A Loving Invitation to Consider
+---
 
-Dear friend, could it be that the Messiah has already come to deal with sin and suffering, and is coming again to bring the full peace we long for? Could the dual pictures of a suffering servant and a glorious king describe one Messiah in two stages?
+## The Call: Trust Yeshua, the Messiah
 
-The hope of Israel is not lost; it has been planted and is already bearing fruit. Yeshua fulfills the ancient promises, and His return will complete them. I encourage you to read the Scriptures anew—Isaiah 53, Psalm 22, Daniel 7, Zechariah 12—and ask the God of Abraham, Isaac, and Jacob to open your eyes.
+Dear friend, Yeshua is the Messiah who atones and reigns. No one else fulfills Isaiah 53, Psalm 22, Daniel 9, or Micah 5. He died for your sins, rose, and will return to complete God’s promises. We lovingly urge you: Repent and trust Yeshua today. **Romans 10:9** promises, “If you confess with your mouth that Yeshua is Lord and believe in your heart that God raised Him from the dead, you will be saved.”
 
-The Messiah's mission is to redeem, heal, and reign. Yeshua has already begun this work. He is the Lamb who was slain and the King who will reign forever.
+Open the Tanakh—read **Isaiah 53**, **Psalm 22**, **Daniel 7**, **Zechariah 12**—and ask God to reveal His Messiah. Believing in Yeshua fulfills your Jewish heritage, embracing the One who completes God’s covenant.
 
-With love and respect,
+---
 
-A fellow seeker of the God of Israel.
+## Final Word: The Messiah’s Work Continues!
+
+Yeshua, the Lamb who was slain and the coming King, is Israel’s Messiah and the world’s Savior. **Zechariah 12:10** awaits: “They will look on Me, the One they have pierced.” Until then, He calls: “Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in” (Revelation 3:20).
+
+Beloved, will you trust Yeshua, the Messiah, today? **HaMashiach chai! The Messiah lives!**
