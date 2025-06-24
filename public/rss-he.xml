@@ -5,13 +5,20 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Tue, 24 Jun 2025 21:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 22:05:15 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>הבלוג של משרדי האמבלברגר</title>
             <link>https://humbleberger.org/he/</link>
         </image>
+    <item>
+        <title><![CDATA[הגאולה בכתבי הקודש העבריים]]></title>
+        <link>https://humbleberger.org/he/blog/redemption-in-the-hebrew-scriptures</link>
+        <guid>https://humbleberger.org/he/blog/redemption-in-the-hebrew-scriptures</guid>
+        <pubDate>Tue, 24 Jun 2025 22:05:07 GMT</pubDate>
+        <description><![CDATA[קריאה באהבה לאמץ את ישוע, גואל ישראל]]></description>
+    </item>
     <item>
         <title><![CDATA[ישוע: מימוש כתבי הקודש העבריים]]></title>
         <link>https://humbleberger.org/he/blog/the-fulfillment-of-the-hebrew-scriptures</link>
@@ -151,13 +158,6 @@
         <guid>https://humbleberger.org/he/blog/the-heart-of-atonement</guid>
         <pubDate>Tue, 24 Jun 2025 18:22:52 GMT</pubDate>
         <description><![CDATA[קריאה אוהבת לאחינו היהודים]]></description>
-    </item>
-    <item>
-        <title><![CDATA[גאולה בכתבי הקודש העבריים]]></title>
-        <link>https://humbleberger.org/he/blog/redemption-in-the-hebrew-scriptures</link>
-        <guid>https://humbleberger.org/he/blog/redemption-in-the-hebrew-scriptures</guid>
-        <pubDate>Tue, 24 Jun 2025 18:22:34 GMT</pubDate>
-        <description><![CDATA[הזמנה עדינה לפגוש את המשיח]]></description>
     </item>
     <item>
         <title><![CDATA[האם ישוע עדיין חי היום?]]></title>
