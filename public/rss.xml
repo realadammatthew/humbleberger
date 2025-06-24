@@ -5,7 +5,7 @@
         <link>https://humbleberger.org/</link>
         <description>Biblical teaching and resources for Jewish-Christian dialogue and understanding</description>
         <language>en-us</language>
-        <lastBuildDate>Tue, 24 Jun 2025 19:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 19:48:07 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
@@ -13,10 +13,17 @@
             <link>https://humbleberger.org/</link>
         </image>
     <item>
+        <title><![CDATA[What Does the Tanakh Say About the Messiah?]]></title>
+        <link>https://humbleberger.org/blog/what-does-the-tanakh-say-about-messiah</link>
+        <guid>https://humbleberger.org/blog/what-does-the-tanakh-say-about-messiah</guid>
+        <pubDate>Tue, 24 Jun 2025 19:38:14 GMT</pubDate>
+        <description><![CDATA[Yeshua, the Anointed One Who Fulfills God’s Promises]]></description>
+    </item>
+    <item>
         <title><![CDATA[What Will the Messiah Do?]]></title>
         <link>https://humbleberger.org/blog/what-will-the-messiah-do</link>
         <guid>https://humbleberger.org/blog/what-will-the-messiah-do</guid>
-        <pubDate>Tue, 24 Jun 2025 19:17:46 GMT</pubDate>
+        <pubDate>Tue, 24 Jun 2025 19:27:42 GMT</pubDate>
         <description><![CDATA[Yeshua, the Messiah Who Redeems and Reigns]]></description>
     </item>
     <item>
@@ -88,13 +95,6 @@
         <guid>https://humbleberger.org/blog/what-is-gods-providence</guid>
         <pubDate>Tue, 24 Jun 2025 18:19:36 GMT</pubDate>
         <description><![CDATA[Understanding Providence and Creation]]></description>
-    </item>
-    <item>
-        <title><![CDATA[What Does the Tanakh Say About the Messiah?]]></title>
-        <link>https://humbleberger.org/blog/what-does-the-tanakh-say-about-messiah</link>
-        <guid>https://humbleberger.org/blog/what-does-the-tanakh-say-about-messiah</guid>
-        <pubDate>Tue, 24 Jun 2025 18:19:28 GMT</pubDate>
-        <description><![CDATA[A deep dive into Scripture and Truth]]></description>
     </item>
     <item>
         <title><![CDATA[What Does It Mean to Know God?]]></title>
