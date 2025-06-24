@@ -5,13 +5,20 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Tue, 24 Jun 2025 21:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 21:45:23 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>הבלוג של משרדי האמבלברגר</title>
             <link>https://humbleberger.org/he/</link>
         </image>
+    <item>
+        <title><![CDATA[ישוע: מימוש כתבי הקודש העבריים]]></title>
+        <link>https://humbleberger.org/he/blog/the-fulfillment-of-the-hebrew-scriptures</link>
+        <guid>https://humbleberger.org/he/blog/the-fulfillment-of-the-hebrew-scriptures</guid>
+        <pubDate>Tue, 24 Jun 2025 21:45:11 GMT</pubDate>
+        <description><![CDATA[הכרזה על מלכנו ישוע כמשיח שנחזה]]></description>
+    </item>
     <item>
         <title><![CDATA[הברית החדשה שהובטחה]]></title>
         <link>https://humbleberger.org/he/blog/the-new-covenant-that-was-promised</link>
@@ -144,13 +151,6 @@
         <guid>https://humbleberger.org/he/blog/the-heart-of-atonement</guid>
         <pubDate>Tue, 24 Jun 2025 18:22:52 GMT</pubDate>
         <description><![CDATA[קריאה אוהבת לאחינו היהודים]]></description>
-    </item>
-    <item>
-        <title><![CDATA[ישוע: התגשמות כתבי הקודש העבריים]]></title>
-        <link>https://humbleberger.org/he/blog/the-fulfillment-of-the-hebrew-scriptures</link>
-        <guid>https://humbleberger.org/he/blog/the-fulfillment-of-the-hebrew-scriptures</guid>
-        <pubDate>Tue, 24 Jun 2025 18:22:41 GMT</pubDate>
-        <description><![CDATA[איך מלכנו ישוע ממלא את נבואות התנ"ך]]></description>
     </item>
     <item>
         <title><![CDATA[גאולה בכתבי הקודש העבריים]]></title>
