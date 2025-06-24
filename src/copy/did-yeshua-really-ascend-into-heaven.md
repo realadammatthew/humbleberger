@@ -6,7 +6,7 @@
 
 ---
 
-_"This is the declaration of the Lord to my Lord: “Sit at my right hand until I make your enemies your footstool."_
+_"This is the declaration of the Lord to my Lord: \"Sit at my right hand until I make your enemies your footstool.\""_
 **(Psalm 110:1)**
 
 ---
