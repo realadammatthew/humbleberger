@@ -539,6 +539,8 @@ const resources = {
         '/blog/what-about-the-613-mitzvot?from=encountering-messiah',
       'urls.encountering.whatAboutTheKosherLaws':
         '/blog/what-about-the-kosher-laws?from=encountering-messiah',
+      'urls.encountering.whatAboutShabbat':
+        '/blog/what-about-shabbat?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'Our Mission',
@@ -1200,6 +1202,8 @@ const resources = {
         '/he/blog/what-about-the-613-mitzvot?from=encountering-messiah',
       'urls.encountering.whatAboutTheKosherLaws':
         '/he/blog/what-about-the-kosher-laws?from=encountering-messiah',
+      'urls.encountering.whatAboutShabbat':
+        '/he/blog/what-about-shabbat?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'השליחות שלנו',
