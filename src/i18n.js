@@ -523,6 +523,8 @@ const resources = {
         '/blog/right-relationship-with-god?from=encountering-messiah',
       'urls.encountering.whatToDoSaved':
         '/blog/what-must-i-do-to-be-saved?from=encountering-messiah',
+      'urls.encountering.howToBecomeJewishChristian':
+        '/blog/how-to-become-a-jewish-christian?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'Our Mission',
@@ -1168,6 +1170,8 @@ const resources = {
         '/he/blog/right-relationship-with-god?from=encountering-messiah',
       'urls.encountering.whatToDoSaved':
         '/he/blog/what-must-i-do-to-be-saved?from=encountering-messiah',
+      'urls.encountering.howToBecomeJewishChristian':
+        '/he/blog/how-to-become-a-jewish-christian?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'השליחות שלנו',
