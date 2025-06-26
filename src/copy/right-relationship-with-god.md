@@ -35,7 +35,7 @@ Dear friend, Yeshua is the mediator of the new covenant, fulfilling the Tanakh�
 
 - **The Perfect Sacrifice**: “He was pierced for our transgressions… and by His wounds we are healed” (Isaiah 53:5). Yeshua’s death atones for sin, satisfying God’s justice (Romans 3:25).
 - **The Risen Savior**: His resurrection proves His victory over sin and death, securing our justification (Romans 4:25).
-- **The Living Mediator**: “There is one mediator between God and men, the man Christ Jesus” (1 Timothy 2:5). Through Yeshua, we are united to God, adopted as His children (Galatians 4:4-5).
+- **The Living Mediator**: “There is one mediator between God and men, the man Messiah Yeshua” (1 Timothy 2:5). Through Yeshua, we are united to God, adopted as His children (Galatians 4:4-5).
 
 In Yeshua, we are not slaves striving to earn God’s favor but sons and daughters welcomed into His family. The Holy Spirit seals this adoption, enabling us to cry, “Abba, Father!” (Romans 8:15). This is the heart of right relationship: union with Yeshua, through whom we receive forgiveness, righteousness, and intimacy with God.
 
@@ -53,8 +53,8 @@ Yet, the Tanakh reveals that human efforts fall short: “All our righteousnesse
 
 Yeshua’s finished work transforms our relationship with God:
 
-- **Justification by Faith**: “A person is not justified by works of the law but through faith in Jesus Christ” (Galatians 2:16). Yeshua’s righteousness is credited to us, making us right with God.
-- **Adoption as Children**: Through Yeshua, we are “heirs of God and fellow heirs with Christ” (Romans 8:17), welcomed into His family.
+- **Justification by Faith**: “A person is not justified by works of the law but through faith in Messiah Yeshua” (Galatians 2:16). Yeshua’s righteousness is credited to us, making us right with God.
+- **Adoption as Children**: Through Yeshua, we are “heirs of God and fellow heirs with Messiah” (Romans 8:17), welcomed into His family.
 - **Transformation by the Spirit**: The Holy Spirit indwells believers, empowering us to live holy lives (Titus 2:14). Sanctification flows from justification, not as a work to earn favor but as a fruit of grace.
 - **Eternal Communion**: “I will never leave you nor forsake you” (Hebrews 13:5). Yeshua’s mediation ensures unbroken fellowship with God.
 

@@ -52,7 +52,7 @@ With love, we acknowledge our Jewish brethren’s response to the Temple’s los
 Yeshua’s sacrifice transforms everything:
 
 - **It Fulfills the Law**: The Torah’s sacrifices were “a shadow of the good things to come” (Hebrews 10:1). Yeshua is the substance, perfecting atonement forever.
-- **It Cleanses Completely**: “The blood of Jesus Christ His Son cleanses us from all sin” (1 John 1:7). No yearly repetition is needed.
+- **It Cleanses Completely**: “The blood of Messiah Yeshua His Son cleanses us from all sin” (1 John 1:7). No yearly repetition is needed.
 - **It Grants Access to God**: Through Yeshua, “we have confidence to enter the Most Holy Place by His blood” (Hebrews 10:19). Every believer is a priest, indwelt by the Spirit (1 Peter 2:9).
 - **It Secures Eternal Life**: “He was delivered up for our trespasses and raised for our justification” (Romans 4:25). His resurrection guarantees our redemption.
 
