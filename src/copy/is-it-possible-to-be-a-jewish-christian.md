@@ -55,7 +55,7 @@ Yet, the Tanakh’s Suffering Servant (Isaiah 53) and new covenant promise (Jere
 
 When you, as a Jew, place your faith in Yeshua, your identity is enriched:
 
-- **Forgiveness of Sins**: “The blood of Jesus His Son cleanses us from all sin” (1 John 1:7). Yeshua’s sacrifice atones, fulfilling the Torah’s demand for blood (Leviticus 17:11).
+- **Forgiveness of Sins**: “The blood of Yeshua His Son cleanses us from all sin” (1 John 1:7). Yeshua’s sacrifice atones, fulfilling the Torah’s demand for blood (Leviticus 17:11).
 - **Covenant Fulfillment**: You become an heir of Abraham’s promises (Galatians 3:29), rooted in God’s covenant with Israel.
 - **Spiritual Renewal**: The Holy Spirit writes God’s law on your heart (Hebrews 8:10), empowering a life of mitzvot as fruit of faith (James 2:17).
 - **Eternal Hope**: “Whoever believes in the Son has eternal life” (John 3:36). Yeshua secures your place in God’s kingdom.
