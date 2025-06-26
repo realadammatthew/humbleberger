@@ -86,6 +86,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/blog/how-to-get-to-heaven</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/blog/is-yeshua-still-alive-today</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -277,6 +282,11 @@
     </url>
     <url>
         <loc>https://humbleberger.org/he/blog/how-to-become-a-jewish-christian</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/blog/how-to-get-to-heaven</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
