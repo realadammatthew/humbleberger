@@ -519,6 +519,8 @@ const resources = {
         '/blog/the-heart-of-atonement?from=encountering-messiah',
       'urls.encountering.atonementWithoutTemple':
         '/blog/atonement-without-the-temple?from=encountering-messiah',
+      'urls.encountering.rightRelationshipWithGod':
+        '/blog/right-relationship-with-god?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'Our Mission',
@@ -1160,6 +1162,8 @@ const resources = {
         '/he/blog/the-heart-of-atonement?from=encountering-messiah',
       'urls.encountering.atonementWithoutTemple':
         '/he/blog/atonement-without-the-temple?from=encountering-messiah',
+      'urls.encountering.rightRelationshipWithGod':
+        '/he/blog/right-relationship-with-god?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'השליחות שלנו',
