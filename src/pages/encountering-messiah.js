@@ -265,10 +265,9 @@ const EncounteringMessiah = () => {
                   </a>
                 </li>
                 <li>
-                  <em>{t('encountering.section7.recognizeVoice')}</em>{' '}
-                  <span className='coming-soon'>
-                    {t('encountering.comingSoon')}
-                  </span>
+                  <a href={t('urls.encountering.howToRecognizeGodsVoice')}>
+                    {t('encountering.section7.recognizeVoice')}
+                  </a>
                 </li>
               </ul>
             </div>
