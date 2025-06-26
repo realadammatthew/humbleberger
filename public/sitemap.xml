@@ -81,6 +81,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/blog/how-do-i-fellowship-with-the-spirit</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/blog/how-do-i-meet-messiah</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -317,6 +322,11 @@
     </url>
     <url>
         <loc>https://humbleberger.org/he/blog/has-messiah-already-come</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/blog/how-do-i-fellowship-with-the-spirit</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>

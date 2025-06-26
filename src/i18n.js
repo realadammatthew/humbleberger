@@ -543,6 +543,8 @@ const resources = {
         '/blog/what-about-shabbat?from=encountering-messiah',
       'urls.encountering.howDoIMeetMessiah':
         '/blog/how-do-i-meet-messiah?from=encountering-messiah',
+      'urls.encountering.howDoIFellowshipWithTheSpiritual':
+        '/blog/how-do-i-fellowship-with-the-spirit?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'Our Mission',
@@ -1208,6 +1210,8 @@ const resources = {
         '/he/blog/what-about-shabbat?from=encountering-messiah',
       'urls.encountering.howDoIMeetMessiah':
         '/he/blog/how-do-i-meet-messiah?from=encountering-messiah',
+      'urls.encountering.howDoIFellowshipWithTheSpiritual':
+        '/he/blog/how-do-i-fellowship-with-the-spirit?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'השליחות שלנו',
