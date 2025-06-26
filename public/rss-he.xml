@@ -5,13 +5,20 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Thu, 26 Jun 2025 15:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 15:18:56 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>הבלוג של משרדי האמבלברגר</title>
             <link>https://humbleberger.org/he/</link>
         </image>
+    <item>
+        <title><![CDATA[יחסים נכונים עם אלוהים: מאוחדים עם ישוע]]></title>
+        <link>https://humbleberger.org/he/blog/right-relationship-with-god</link>
+        <guid>https://humbleberger.org/he/blog/right-relationship-with-god</guid>
+        <pubDate>Thu, 26 Jun 2025 15:17:32 GMT</pubDate>
+        <description><![CDATA[הברית שהתגשמה במשיח]]></description>
+    </item>
     <item>
         <title><![CDATA[כפרה ללא בית המקדש: הקרבן המושלם של ישוע]]></title>
         <link>https://humbleberger.org/he/blog/atonement-without-the-temple</link>

@@ -91,6 +91,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/blog/right-relationship-with-god</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/blog/the-fulfillment-of-the-hebrew-scriptures</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -267,6 +272,11 @@
     </url>
     <url>
         <loc>https://humbleberger.org/he/blog/redemption-in-the-hebrew-scriptures</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/blog/right-relationship-with-god</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
