@@ -517,6 +517,8 @@ const resources = {
         '/blog/what-is-sin?from=encountering-messiah',
       'urls.encountering.whatIsRedemption':
         '/blog/the-heart-of-atonement?from=encountering-messiah',
+      'urls.encountering.atonementWithoutTemple':
+        '/blog/atonement-without-the-temple?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'Our Mission',
@@ -1156,6 +1158,8 @@ const resources = {
         '/he/blog/what-is-sin?from=encountering-messiah',
       'urls.encountering.whatIsRedemption':
         '/he/blog/the-heart-of-atonement?from=encountering-messiah',
+      'urls.encountering.atonementWithoutTemple':
+        '/he/blog/atonement-without-the-temple?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'השליחות שלנו',
