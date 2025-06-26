@@ -5,7 +5,7 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Thu, 26 Jun 2025 17:45:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 18:14:16 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
@@ -13,10 +13,17 @@
             <link>https://humbleberger.org/he/</link>
         </image>
     <item>
+        <title><![CDATA[למה חלק מהיהודים דוחים את ישוע כמשיח? חיפוש תקוות ישראל האמיתית]]></title>
+        <link>https://humbleberger.org/he/blog/why-some-jews-reject</link>
+        <guid>https://humbleberger.org/he/blog/why-some-jews-reject</guid>
+        <pubDate>Thu, 26 Jun 2025 18:12:47 GMT</pubDate>
+        <description><![CDATA[אהבת המשיח מממשת את הבטחות אלוהים לישראל]]></description>
+    </item>
+    <item>
         <title><![CDATA[למה חלק מהיהודים מאמינים בישוע היום? מימוש תקוות ישראל]]></title>
         <link>https://humbleberger.org/he/blog/why-some-jews-believe</link>
         <guid>https://humbleberger.org/he/blog/why-some-jews-believe</guid>
-        <pubDate>Thu, 26 Jun 2025 17:45:29 GMT</pubDate>
+        <pubDate>Thu, 26 Jun 2025 17:56:17 GMT</pubDate>
         <description><![CDATA[קריאת המשיח משלימה את הסיפור היהודי]]></description>
     </item>
     <item>

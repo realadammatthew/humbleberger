@@ -533,6 +533,8 @@ const resources = {
         '/blog/is-it-possible-to-be-a-jewish-christian?from=encountering-messiah',
       'urls.encountering.whySomeJewsBelieve':
         '/blog/why-some-jews-believe?from=encountering-messiah',
+      'urls.encountering.whySomeJewsReject':
+        '/blog/why-some-jews-reject?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'Our Mission',
@@ -1188,6 +1190,8 @@ const resources = {
         '/he/blog/is-it-possible-to-be-a-jewish-christian?from=encountering-messiah',
       'urls.encountering.whySomeJewsBelieve':
         '/he/blog/why-some-jews-believe?from=encountering-messiah',
+      'urls.encountering.whySomeJewsReject':
+        '/he/blog/why-some-jews-reject?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'השליחות שלנו',
