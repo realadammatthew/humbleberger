@@ -257,10 +257,9 @@ const EncounteringMessiahHebrew = () => {
 
               <ul>
                 <li>
-                  <em>{t('encountering.section7.encounterYeshua')}</em>{' '}
-                  <span className='coming-soon'>
-                    {t('encountering.comingSoon')}
-                  </span>
+                  <a href={t('urls.encountering.howDoIMeetMessiah')}>
+                    {t('encountering.section7.encounterYeshua')}
+                  </a>
                 </li>
                 <li>
                   <em>{t('encountering.section7.personalRelationship')}</em>{' '}
