@@ -5,13 +5,20 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Thu, 26 Jun 2025 15:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 16:01:19 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>הבלוג של משרדי האמבלברגר</title>
             <link>https://humbleberger.org/he/</link>
         </image>
+    <item>
+        <title><![CDATA[מהו חטא? ניצחונו של ישוע על הבעיה הגדולה ביותר שלנו]]></title>
+        <link>https://humbleberger.org/he/blog/what-is-sin</link>
+        <guid>https://humbleberger.org/he/blog/what-is-sin</guid>
+        <pubDate>Thu, 26 Jun 2025 16:00:52 GMT</pubDate>
+        <description><![CDATA[קרבנו של המשיח משיב אותנו לאלוהים]]></description>
+    </item>
     <item>
         <title><![CDATA[מה המשמעות של לעלות לגן עדן? הבטחת ישוע לחיי נצח]]></title>
         <link>https://humbleberger.org/he/blog/how-to-get-to-heaven</link>
@@ -109,13 +116,6 @@
         <guid>https://humbleberger.org/he/blog/what-is-humanity</guid>
         <pubDate>Wed, 25 Jun 2025 02:39:55 GMT</pubDate>
         <description><![CDATA[כיצד אלוהים ברא אותנו — ולמה אנחנו נבראנו]]></description>
-    </item>
-    <item>
-        <title><![CDATA[מהו חטא?]]></title>
-        <link>https://humbleberger.org/he/blog/what-is-sin</link>
-        <guid>https://humbleberger.org/he/blog/what-is-sin</guid>
-        <pubDate>Wed, 25 Jun 2025 02:39:55 GMT</pubDate>
-        <description><![CDATA[הבנת הבעיה הגדולה ביותר שלנו — והפתרון היחיד של אלוהים]]></description>
     </item>
     <item>
         <title><![CDATA[מהי השילוש הקדוש?]]></title>
