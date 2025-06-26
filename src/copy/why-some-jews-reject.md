@@ -61,7 +61,7 @@ Yet, the Tanakh’s promise of a Suffering Servant (Isaiah 53) and a new covenan
 
 When you trust Yeshua as the Messiah, your Jewish identity is fulfilled, not forsaken:
 
-- **Forgiveness of Sins**: “The blood of Jesus His Son cleanses us from all sin” (1 John 1:7). Yeshua’s sacrifice atones, fulfilling Leviticus 17:11’s requirement for blood.
+- **Forgiveness of Sins**: “The blood of Yeshua His Son cleanses us from all sin” (1 John 1:7). Yeshua’s sacrifice atones, fulfilling Leviticus 17:11’s requirement for blood.
 - **Covenant Heir**: “If you belong to Messiah, you are Abraham’s seed, heirs according to the promise” (Galatians 3:29). You remain part of God’s covenant with Israel.
 - **Spiritual Renewal**: The Holy Spirit writes God’s law on your heart (Hebrews 8:10), empowering a life of mitzvot as fruit of faith (James 2:17).
 - **Eternal Life**: “Whoever believes in the Son has eternal life” (John 3:36). Yeshua secures your place in God’s kingdom.
