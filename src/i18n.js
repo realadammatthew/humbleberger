@@ -535,6 +535,8 @@ const resources = {
         '/blog/why-some-jews-believe?from=encountering-messiah',
       'urls.encountering.whySomeJewsReject':
         '/blog/why-some-jews-reject?from=encountering-messiah',
+      'urls.encountering.whatAboutThe613Mitzvot':
+        '/blog/what-about-the-613-mitzvot?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'Our Mission',
@@ -1192,6 +1194,8 @@ const resources = {
         '/he/blog/why-some-jews-believe?from=encountering-messiah',
       'urls.encountering.whySomeJewsReject':
         '/he/blog/why-some-jews-reject?from=encountering-messiah',
+      'urls.encountering.whatAboutThe613Mitzvot':
+        '/he/blog/what-about-the-613-mitzvot?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'השליחות שלנו',
