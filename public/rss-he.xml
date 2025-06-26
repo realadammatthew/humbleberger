@@ -5,13 +5,20 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Thu, 26 Jun 2025 17:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 17:45:38 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>הבלוג של משרדי האמבלברגר</title>
             <link>https://humbleberger.org/he/</link>
         </image>
+    <item>
+        <title><![CDATA[למה חלק מהיהודים מאמינים בישוע היום? מימוש תקוות ישראל]]></title>
+        <link>https://humbleberger.org/he/blog/why-some-jews-believe</link>
+        <guid>https://humbleberger.org/he/blog/why-some-jews-believe</guid>
+        <pubDate>Thu, 26 Jun 2025 17:45:29 GMT</pubDate>
+        <description><![CDATA[קריאת המשיח משלימה את הסיפור היהודי]]></description>
+    </item>
     <item>
         <title><![CDATA[האם אפשר להיות יהודי ולהאמין בישוע? מימוש תקוות התנ"ך]]></title>
         <link>https://humbleberger.org/he/blog/is-it-possible-to-be-a-jewish-christian</link>

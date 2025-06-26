@@ -55,7 +55,7 @@ The Tanakh reveals human efforts fall short: “No one can ransom another… but
 
 When you place your faith in Yeshua, atonement transforms your life:
 
-- **Forgiveness**: “The blood of Jesus His Son cleanses us from all sin” (1 John 1:7). Every sin is forgiven through His sacrifice.
+- **Forgiveness**: “The blood of Yeshua His Son cleanses us from all sin” (1 John 1:7). Every sin is forgiven through His sacrifice.
 - **Reconciliation**: “We were reconciled to God by the death of His Son” (Romans 5:10). You are restored to fellowship with God.
 - **New Covenant Life**: The Holy Spirit writes God’s law on your heart, empowering righteous living (Hebrews 8:10).
 - **Eternal Security**: “No one will snatch them out of My hand” (John 10:28). Yeshua’s atonement secures you forever.

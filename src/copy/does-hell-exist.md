@@ -54,7 +54,7 @@ Yet, the Tanakh warns of a final judgment (Daniel 12:2), and human efforts canno
 
 When you place your faith in Yeshua, the threat of hell is replaced with eternal hope:
 
-- **Forgiveness of Sins**: “The blood of Jesus His Son cleanses us from all sin” (1 John 1:7). Yeshua’s sacrifice atones, sparing you from judgment.
+- **Forgiveness of Sins**: “The blood of Yeshua His Son cleanses us from all sin” (1 John 1:7). Yeshua’s sacrifice atones, sparing you from judgment.
 - **Eternal Life**: “Whoever believes in the Son has eternal life” (John 3:36). You are promised God’s presence forever.
 - **Freedom from Fear**: “There is no fear in love, but perfect love casts out fear” (1 John 4:18). Yeshua’s love secures your destiny.
 - **Transformation**: The Holy Spirit produces righteousness and peace in your life (Galatians 5:22-23), preparing you for eternity with God.
