@@ -5,13 +5,20 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Thu, 26 Jun 2025 18:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 18:36:02 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>הבלוג של משרדי האמבלברגר</title>
             <link>https://humbleberger.org/he/</link>
         </image>
+    <item>
+        <title><![CDATA[האם יהודים-נוצרים שומרים כשרות? חירות התורה בישוע]]></title>
+        <link>https://humbleberger.org/he/blog/what-about-the-kosher-laws</link>
+        <guid>https://humbleberger.org/he/blog/what-about-the-kosher-laws</guid>
+        <pubDate>Thu, 26 Jun 2025 18:34:23 GMT</pubDate>
+        <description><![CDATA[חסד המשיח מממש את ברית אלוהים ומדריך את בחירותינו]]></description>
+    </item>
     <item>
         <title><![CDATA[האם אני צריך לשמור על כל 613 המצוות? מימוש התורה על ידי ישוע]]></title>
         <link>https://humbleberger.org/he/blog/what-about-the-613-mitzvot</link>
