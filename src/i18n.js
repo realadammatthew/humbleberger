@@ -525,6 +525,8 @@ const resources = {
         '/blog/what-must-i-do-to-be-saved?from=encountering-messiah',
       'urls.encountering.howToBecomeJewishChristian':
         '/blog/how-to-become-a-jewish-christian?from=encountering-messiah',
+      'urls.encountering.howToGetToHeaven':
+        '/blog/how-to-get-to-heaven?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'Our Mission',
@@ -1172,6 +1174,8 @@ const resources = {
         '/he/blog/what-must-i-do-to-be-saved?from=encountering-messiah',
       'urls.encountering.howToBecomeJewishChristian':
         '/he/blog/how-to-become-a-jewish-christian?from=encountering-messiah',
+      'urls.encountering.howToGetToHeaven':
+        '/he/blog/how-to-get-to-heaven?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'השליחות שלנו',
