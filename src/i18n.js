@@ -527,6 +527,8 @@ const resources = {
         '/blog/how-to-become-a-jewish-christian?from=encountering-messiah',
       'urls.encountering.howToGetToHeaven':
         '/blog/how-to-get-to-heaven?from=encountering-messiah',
+      'urls.encountering.doesHellExist':
+        '/blog/does-hell-exist?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'Our Mission',
@@ -1176,6 +1178,8 @@ const resources = {
         '/he/blog/how-to-become-a-jewish-christian?from=encountering-messiah',
       'urls.encountering.howToGetToHeaven':
         '/he/blog/how-to-get-to-heaven?from=encountering-messiah',
+      'urls.encountering.doesHellExist':
+        '/he/blog/does-hell-exist?from=encountering-messiah',
 
       // Mission Page
       'mission.title': 'השליחות שלנו',
