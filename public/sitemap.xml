@@ -66,6 +66,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/blog/does-hell-exist</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/blog/from-the-trenches-an-evangelism-guide</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -262,6 +267,11 @@
     </url>
     <url>
         <loc>https://humbleberger.org/he/blog/did-yeshua-really-rise-from-the-dead</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/blog/does-hell-exist</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
