@@ -211,6 +211,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/blog/why-some-jews-reject</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/blog/yeshua-and-the-shema</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -422,6 +427,11 @@
     </url>
     <url>
         <loc>https://humbleberger.org/he/blog/why-some-jews-believe</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/blog/why-some-jews-reject</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
