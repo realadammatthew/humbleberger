@@ -5,13 +5,20 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Thu, 26 Jun 2025 18:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 18:45:30 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>הבלוג של משרדי האמבלברגר</title>
             <link>https://humbleberger.org/he/</link>
         </image>
+    <item>
+        <title><![CDATA[האם יהודים-נוצרים שומרים שבת? מנוחת ישוע מממשת את התורה]]></title>
+        <link>https://humbleberger.org/he/blog/what-about-shabbat</link>
+        <guid>https://humbleberger.org/he/blog/what-about-shabbat</guid>
+        <pubDate>Thu, 26 Jun 2025 18:44:05 GMT</pubDate>
+        <description><![CDATA[חסד המשיח מביא מנוחת שבת אמיתית]]></description>
+    </item>
     <item>
         <title><![CDATA[האם יהודים-נוצרים שומרים כשרות? חירות התורה בישוע]]></title>
         <link>https://humbleberger.org/he/blog/what-about-the-kosher-laws</link>
