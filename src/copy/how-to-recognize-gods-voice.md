@@ -1,4 +1,4 @@
-# How Can I Recognize the Voice of the Messiah in My Life? Yeshua Guides His Sheep
+# How Can I Recognize the Voice of the Messiah in My Life?
 
 ## The Messiah’s Voice Leads You to His Eternal Love
 

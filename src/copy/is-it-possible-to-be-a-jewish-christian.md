@@ -1,4 +1,4 @@
-# Can Someone Be Jewish and Believe in Yeshua? Fulfilling the Tanakh’s Hope
+# Can Someone Be Jewish and Believe in Yeshua?
 
 ## The Messiah’s Call Unites Jewish Identity with Eternal Salvation
 

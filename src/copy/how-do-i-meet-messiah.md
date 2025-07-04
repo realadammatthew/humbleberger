@@ -1,4 +1,4 @@
-# How Can I Personally Encounter Yeshua Today? Meeting the Jewish Messiah Who Saves
+# How Can I Personally Encounter Yeshua Today?
 
 ## Yeshua’s Love Calls You into His Eternal Presence
 

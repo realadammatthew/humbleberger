@@ -1,4 +1,4 @@
-# What Does It Mean to Have a Personal Relationship with the Messiah? Yeshua’s Love Transforms Us
+# What Does It Mean to Have a Personal Relationship with the Messiah?
 
 ## The Messiah’s Grace Invites You into His Eternal Fellowship
 

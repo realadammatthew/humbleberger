@@ -1,4 +1,4 @@
-# Do Jewish-Christians Keep Shabbat? Yeshua’s Rest Fulfills the Torah
+# Do Jewish-Christians Keep Shabbat?
 
 ## The Messiah’s Grace Brings True Sabbath Rest
 

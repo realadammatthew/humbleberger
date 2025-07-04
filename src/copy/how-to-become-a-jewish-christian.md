@@ -1,4 +1,4 @@
-# How Do I Become a Jewish-Christian? Trusting Yeshua as Messiah
+# How Do I Become a Jewish-Christian?
 
 ## Embracing Israel’s Messiah Without Losing Your Heritage
 

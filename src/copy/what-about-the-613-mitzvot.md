@@ -1,4 +1,4 @@
-# Do I Need to Follow All 613 Mitzvot? Yeshua’s Fulfillment of the Torah
+# Do I Need to Follow All 613 Mitzvot?
 
 ## The Messiah’s Grace Frees Us to Live in God’s Love
 

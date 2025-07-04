@@ -1,4 +1,4 @@
-# What Does It Mean to Go to Heaven? Yeshua’s Promise of Eternal Life
+# What Does It Mean to Go to Heaven?
 
 ## The Messiah’s Victory Secures Our Eternal Home
 
