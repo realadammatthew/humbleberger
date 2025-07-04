@@ -1,45 +1,10 @@
 import { useTranslation } from 'react-i18next';
-import { useState } from 'react';
 
 const EbookDownloadHebrew = () => {
   const { t } = useTranslation();
-  const [isGenerating, setIsGenerating] = useState(false);
 
-  const generateEbook = async () => {
-    setIsGenerating(true);
-    
-    try {
-      // Call the Hebrew API endpoint to generate the ebook
-      const response = await fetch('/api/generate-ebook-he', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-      });
-
-      if (!response.ok) {
-        throw new Error('Failed to generate Hebrew ebook');
-      }
-
-      // Get the PDF blob
-      const pdfBlob = await response.blob();
-      
-      // Create download link
-      const url = window.URL.createObjectURL(pdfBlob);
-      const link = document.createElement('a');
-      link.href = url;
-      link.download = 'Encountering-Messiah-Ebook-Hebrew.pdf';
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
-      window.URL.revokeObjectURL(url);
-      
-    } catch (error) {
-      console.error('Error generating Hebrew ebook:', error);
-      alert('Failed to generate Hebrew ebook. Please try again.');
-    } finally {
-      setIsGenerating(false);
-    }
+  const handleDownload = () => {
+    window.open('/encountering-messiah-ebook-he.pdf', '_blank');
   };
 
   return (
@@ -57,10 +22,9 @@ const EbookDownloadHebrew = () => {
         </div>
         <button 
           className="ebook-download-button"
-          onClick={generateEbook}
-          disabled={isGenerating}
+          onClick={handleDownload}
         >
-          {isGenerating ? '🔄 מייצר...' : `📖 ${t('ebook.downloadButton')}`}
+          📖 {t('ebook.downloadButton')}
         </button>
         <p className="ebook-note">{t('ebook.note')}</p>
       </div>
