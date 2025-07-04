@@ -1,4 +1,4 @@
-# Why Do Some Jewish People Believe in Yeshua Today? Fulfilling Israel’s Hope
+# Why Do Some Jewish People Believe in Yeshua Today?
 
 ## The Messiah’s Call Completes the Jewish Story
 

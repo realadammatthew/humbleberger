@@ -1,4 +1,4 @@
-# What Is Sin? Yeshua’s Victory Over Our Greatest Problem
+# What Is Sin?
 
 ## The Messiah’s Sacrifice Restores Us to God
 

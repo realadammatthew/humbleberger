@@ -290,6 +290,16 @@ const resources = {
       'encountering.section7.recognizeVoice':
         'How can I recognize the voice of the Messiah in my life?',
 
+      // Ebook Download
+      'ebook.title': 'Download the Complete Ebook',
+      'ebook.description': 'Get the entire "Encountering Messiah" series as a beautifully formatted PDF ebook. Perfect for offline reading, sharing with friends, or studying at your own pace.',
+      'ebook.feature1': '📖 All 33 articles in one document',
+      'ebook.feature2': '📋 Complete table of contents',
+      'ebook.feature3': '🎨 Professional formatting',
+      'ebook.feature4': '📱 Works on all devices',
+      'ebook.downloadButton': 'Download Free Ebook',
+      'ebook.note': 'This ebook is completely free and may be shared with others.',
+
       // Common
       'common.loading': 'Loading...',
       'common.error': 'An error occurred.',

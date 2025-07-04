@@ -1,4 +1,4 @@
-# Does Hell Exist? Yeshua’s Warning and God’s Mercy
+# Does Hell Exist?
 
 ## The Messiah’s Love Offers Escape from Eternal Separation
 

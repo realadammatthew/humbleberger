@@ -1,6 +1,7 @@
 import { useTranslation } from 'react-i18next';
 import CallToActionButtons from '../../components/call-to-action-buttons';
 import ReturnToHome from '../../components/return-to-home';
+import EbookDownload from '../../components/ebook-download';
 import { useLanguage } from '../../hooks/useLanguage';
 import withBanner from '../../utils/with-banner';
 
@@ -266,13 +267,10 @@ const EncounteringMessiahHebrew = () => {
                     {t('encountering.section7.personalRelationship')}
                   </a>
                 </li>
-                <li>
-                  <a href={t('urls.encountering.howToRecognizeGodsVoice')}>
-                    {t('encountering.section7.recognizeVoice')}
-                  </a>
-                </li>
               </ul>
             </div>
+
+            <EbookDownload />
 
             <CallToActionButtons />
           </div>

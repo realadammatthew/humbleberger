@@ -1,4 +1,4 @@
-# Do Jewish-Christians Keep Kosher? Yeshua’s Freedom in the Torah
+# Do Jewish-Christians Keep Kosher?
 
 ## The Messiah’s Grace Fulfills God’s Covenant and Guides Our Choices
 

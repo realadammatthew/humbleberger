@@ -1,4 +1,4 @@
-# What Must I Do to Be Saved? Trust in Yeshua
+# What Must I Do to Be Saved?
 
 ## The Messiah’s Finished Work Secures Eternal Life
 
