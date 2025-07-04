@@ -87,6 +87,16 @@ function generateSitemap(urls) {
         <loc>${SITE_URL}/he/blog</loc>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>${SITE_URL}/encountering-messiah-ebook.pdf</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>${SITE_URL}/encountering-messiah-ebook-he.pdf</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>${urlSet}
 </urlset>`;
 }
@@ -102,4 +112,4 @@ const sitemap = generateSitemap(allUrls);
 
 fs.writeFileSync(OUTPUT_PATH, sitemap);
 console.log('Sitemap generated successfully at', OUTPUT_PATH);
-console.log('Total URLs included:', allUrls.length + 4); // +4 for home, blog, he home, and he blog
+console.log('Total URLs included:', allUrls.length + 6); // +6 for home, blog, he home, he blog, and 2 PDFs
