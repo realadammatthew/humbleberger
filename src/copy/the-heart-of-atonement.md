@@ -1,4 +1,4 @@
-# Atonement: Yeshua’s Blood Fulfills God’s Plan
+# What Role Did Sacrifice Play In Atonement In The Torah, And How Is It Handled Today?
 
 ## The Messiah’s Sacrifice Restores Us to God
 

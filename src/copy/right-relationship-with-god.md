@@ -1,4 +1,4 @@
-# Right Relationship with God: United with Yeshua
+# What Does It Mean To Be In Right Relationship With God?
 
 ## The Covenant Fulfilled in the Messiah
 

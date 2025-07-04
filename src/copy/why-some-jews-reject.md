@@ -1,4 +1,4 @@
-# Why Do Some Jewish People Reject Yeshua as Messiah?
+# Why Do Some Jewish People Reject The Idea Of Yeshua As Messiah?
 
 ## The Messiah’s Love Fulfills God’s Promises to Israel
 

@@ -1,4 +1,4 @@
-# Was Yeshua Really Born of a Virgin?
+# Was Yeshua Really Born Of A Virgin?
 
 ## The Miraculous Birth of Israel’s Messiah
 

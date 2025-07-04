@@ -1,4 +1,4 @@
-# Can Someone Be Jewish and Believe in Yeshua?
+# Can Someone Be Jewish And Believe In Yeshua?
 
 ## The Messiah’s Call Unites Jewish Identity with Eternal Salvation
 

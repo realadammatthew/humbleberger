@@ -1,4 +1,4 @@
-# Did Yeshua Really Die on a Cross?
+# Did Yeshua Really Die On A Cross?
 
 ## The Crucified Messiah Who Redeems Us
 

@@ -1,4 +1,4 @@
-# Atonement Without the Temple: Yeshua’s Perfect Sacrifice
+# How Do You Understand Atonement Today Without The Temple?
 
 ## The Eternal Answer to Sin’s Debt
 

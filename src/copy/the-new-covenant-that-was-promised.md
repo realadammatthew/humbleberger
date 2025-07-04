@@ -1,4 +1,4 @@
-# The New Covenant that was Promised
+# What Does Jeremiah 31 Say About The 'New Covenant' In The Hebrew Bible?
 
 ## A Loving Call to Embrace Yeshua’s Fulfillment of Jeremiah 31
 

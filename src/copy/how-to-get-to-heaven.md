@@ -1,4 +1,4 @@
-# What Does It Mean to Go to Heaven?
+# What Does It Mean To Go To Heaven?
 
 ## The Messiah’s Victory Secures Our Eternal Home
 

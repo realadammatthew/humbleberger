@@ -1,4 +1,4 @@
-# What Must I Do to Be Saved?
+# What Do I Need To Do To Be Saved?
 
 ## The Messiah’s Finished Work Secures Eternal Life
 

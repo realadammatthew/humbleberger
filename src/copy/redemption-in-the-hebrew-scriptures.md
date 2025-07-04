@@ -1,4 +1,4 @@
-# Redemption in the Hebrew Scriptures
+# What Does The Hebrew Bible Teach About Redemption?
 
 ## A Loving Call to Embrace Yeshua, Israel’s Redeemer
 

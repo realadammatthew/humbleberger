@@ -1,4 +1,4 @@
-# What Does the Tanakh Say About the Messiah?
+# What Does The Tanakh Say About the Messiah?
 
 ## Yeshua, the Anointed One Who Fulfills God’s Promises
 

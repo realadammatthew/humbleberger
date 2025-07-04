@@ -1,4 +1,4 @@
-# How Do I Become a Jewish-Christian?
+# How Do I Become A Jewish-Christian?
 
 ## Embracing Israel’s Messiah Without Losing Your Heritage
 

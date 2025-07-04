@@ -1,4 +1,4 @@
-# What Will the Messiah Do?
+# What Do The Hebrew Scriptures Say The Messiah Will Do?
 
 ## Yeshua, the Messiah Who Redeems and Reigns
 

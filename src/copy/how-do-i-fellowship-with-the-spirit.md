@@ -1,4 +1,4 @@
-# What Does It Mean to Have a Personal Relationship with the Messiah?
+# What Does It Mean To Have A Personal Relationship With The Messiah?
 
 ## The Messiah’s Grace Invites You into His Eternal Fellowship
 

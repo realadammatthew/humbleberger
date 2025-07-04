@@ -1,4 +1,4 @@
-# Who is the Suffering Servant of Isaiah 53?
+# Who Or What Is Isaiah 53 Referring To In The Hebrew Bible?
 
 ## A Loving Call to See Yeshua, the Messiah
 

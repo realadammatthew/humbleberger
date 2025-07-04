@@ -1,4 +1,4 @@
-# Is Yeshua the Messiah Foretold in the Hebrew Bible?
+# Could Yeshua Be The Messiah Prophesied In The Hebrew Bible?
 
 ## A Bold Call to Truth for Our Jewish Brothers and Sisters
 

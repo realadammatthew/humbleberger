@@ -1,4 +1,4 @@
-# Yeshua: The Fulfillment of the Hebrew Scriptures
+# Are There Ways That Yeshua Fulfills, Rather Than Replaces, The Hebrew Scriptures?
 
 ## Proclaiming Our King Yeshua as the Messiah Foretold
 

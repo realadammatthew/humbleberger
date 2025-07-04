@@ -1,4 +1,4 @@
-# When Was the Messiah Supposed to Come?
+# What Does Daniel 9 Say About When The Messiah Would Come?
 
 ## A Loving Call to See Yeshua in Daniel 9
 
