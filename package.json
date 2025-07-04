@@ -5,14 +5,14 @@
   "main": "src/pages/index.js",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && npm run generate-sitemap && npm run generate-rss && npm run generate-ebook && npm run generate-ebook-he",
+    "build": "next build && next export && npm run generate-sitemap && npm run generate-rss && npm run generate-ebooks",
     "start": "next start",
     "generate-sitemap": "node generate-sitemap.js",
     "generate-rss": "node generate-rss.js",
-    "generate-ebook": "node generate-ebook.js",
-    "generate-ebook-he": "node generate-ebook-he.js"
+    "generate-ebooks": "node generate-ebooks.js"
   },
   "dependencies": {
+    "archiver": "^7.0.1",
     "gray-matter": "^4.0.3",
     "i18next": "^25.2.1",
     "marked": "^15.0.12",
