@@ -1,6 +1,6 @@
 [build]
   publish = "out"
-  command = "npm run build && next export"
+  command = "next build && next export && npm run generate-sitemap && npm run generate-rss"
 
 [build.environment]
   PUPPETEER_SKIP_CHROMIUM_DOWNLOAD = "false"
