@@ -9,15 +9,15 @@
     "start": "next start",
     "generate-sitemap": "node generate-sitemap.js",
     "generate-rss": "node generate-rss.js",
-    "generate-ebook": "node generate-ebook.js"
+    "generate-ebook": "node generate-ebook.js",
+    "generate-ebook-he": "node generate-ebook-he.js"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "html-pdf-node": "^1.0.8",
     "i18next": "^25.2.1",
     "marked": "^15.0.12",
     "next": "^12.0.0",
-    "puppeteer": "^21.0.0",
+    "puppeteer-core": "^22.8.2",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-i18next": "^15.5.3"
