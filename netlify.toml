@@ -3,8 +3,8 @@
   command = "npm run build && next export"
 
 [build.environment]
-  PUPPETEER_SKIP_CHROMIUM_DOWNLOAD = "true"
-  PUPPETEER_EXECUTABLE_PATH = "/usr/bin/google-chrome-stable"
+  PUPPETEER_SKIP_CHROMIUM_DOWNLOAD = "false"
+  NODE_ENV = "production"
 
 # Enable compression and security headers
 [[headers]]
