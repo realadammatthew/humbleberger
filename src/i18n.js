@@ -973,6 +973,16 @@ const resources = {
       'encountering.section7.recognizeVoice':
         'כיצד אוכל לזהות את קול המשיח בחיי?',
 
+      // Ebook Download
+      'ebook.title': 'הורדת הספר הדיגיטלי המלא',
+      'ebook.description': 'קבלו את כל סדרת "מפגש עם המשיח" כספר דיגיטלי בפורמט PDF מעוצב להפליא. מושלם לקריאה ללא חיבור לאינטרנט, שיתוף עם חברים או לימוד בקצב שלכם.',
+      'ebook.feature1': '📖 כל 33 המאמרים במסמך אחד',
+      'ebook.feature2': '📋 תוכן עניינים מלא',
+      'ebook.feature3': '🎨 עיצוב מקצועי',
+      'ebook.feature4': '📱 עובד בכל המכשירים',
+      'ebook.downloadButton': 'הורדת הספר הדיגיטלי החינמי',
+      'ebook.note': 'הספר הדיגיטלי הזה חינמי לחלוטין וניתן לשתף אותו עם אחרים.',
+
       // Common
       'common.loading': 'טוען...',
       'common.error': 'אירעה שגיאה.',

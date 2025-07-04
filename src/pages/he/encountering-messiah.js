@@ -1,7 +1,7 @@
 import { useTranslation } from 'react-i18next';
 import CallToActionButtons from '../../components/call-to-action-buttons';
 import ReturnToHome from '../../components/return-to-home';
-import EbookDownload from '../../components/ebook-download';
+import EbookDownloadHebrew from '../../components/ebook-download-he';
 import { useLanguage } from '../../hooks/useLanguage';
 import withBanner from '../../utils/with-banner';
 
@@ -270,7 +270,7 @@ const EncounteringMessiahHebrew = () => {
               </ul>
             </div>
 
-            <EbookDownload />
+            <EbookDownloadHebrew />
 
             <CallToActionButtons />
           </div>
