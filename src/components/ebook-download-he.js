@@ -3,8 +3,12 @@ import { useTranslation } from 'react-i18next';
 const EbookDownloadHebrew = () => {
   const { t } = useTranslation();
 
-  const handleDownload = () => {
+  const handlePDFDownload = () => {
     window.open('/encountering-messiah-ebook-he.pdf', '_blank');
+  };
+
+  const handleEPUBDownload = () => {
+    window.open('/encountering-messiah-ebook-he.epub', '_blank');
   };
 
   return (
@@ -20,12 +24,20 @@ const EbookDownloadHebrew = () => {
             <li>{t('ebook.feature4')}</li>
           </ul>
         </div>
-        <button 
-          className="ebook-download-button"
-          onClick={handleDownload}
-        >
-          📖 {t('ebook.downloadButton')}
-        </button>
+        <div className="download-buttons">
+          <button 
+            className="ebook-download-button pdf-button"
+            onClick={handlePDFDownload}
+          >
+            📖 {t('ebook.downloadPDF')}
+          </button>
+          <button 
+            className="ebook-download-button epub-button"
+            onClick={handleEPUBDownload}
+          >
+            📱 {t('ebook.downloadEPUB')}
+          </button>
+        </div>
         <p className="ebook-note">{t('ebook.note')}</p>
       </div>
       
@@ -73,9 +85,16 @@ const EbookDownloadHebrew = () => {
           border: 1px solid rgba(255, 255, 255, 0.2);
         }
         
+        .download-buttons {
+          display: flex;
+          gap: 1rem;
+          justify-content: center;
+          flex-wrap: wrap;
+          margin: 1.5rem 0;
+        }
+        
         .ebook-download-button {
           display: inline-block;
-          background: #2ecc71;
           color: white;
           padding: 1rem 2rem;
           text-decoration: none;
@@ -83,14 +102,30 @@ const EbookDownloadHebrew = () => {
           font-weight: bold;
           font-size: 1.1rem;
           transition: all 0.3s ease;
-          box-shadow: 0 4px 15px rgba(46, 204, 113, 0.3);
-          margin: 1rem 0;
+          margin: 0.5rem 0;
           border: none;
           cursor: pointer;
           font-family: inherit;
+          min-width: 160px;
         }
         
-        .ebook-download-button:hover:not(:disabled) {
+        .pdf-button {
+          background: #e74c3c;
+          box-shadow: 0 4px 15px rgba(231, 76, 60, 0.3);
+        }
+        
+        .pdf-button:hover:not(:disabled) {
+          background: #c0392b;
+          transform: translateY(-2px);
+          box-shadow: 0 6px 20px rgba(231, 76, 60, 0.4);
+        }
+        
+        .epub-button {
+          background: #2ecc71;
+          box-shadow: 0 4px 15px rgba(46, 204, 113, 0.3);
+        }
+        
+        .epub-button:hover:not(:disabled) {
           background: #27ae60;
           transform: translateY(-2px);
           box-shadow: 0 6px 20px rgba(46, 204, 113, 0.4);
@@ -124,9 +159,16 @@ const EbookDownloadHebrew = () => {
             grid-template-columns: 1fr;
           }
           
+          .download-buttons {
+            flex-direction: column;
+            align-items: center;
+          }
+          
           .ebook-download-button {
             padding: 0.875rem 1.5rem;
             font-size: 1rem;
+            width: 100%;
+            max-width: 280px;
           }
         }
       `}</style>

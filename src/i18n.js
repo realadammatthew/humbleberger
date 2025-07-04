@@ -297,7 +297,8 @@ const resources = {
       'ebook.feature2': '📋 Complete table of contents',
       'ebook.feature3': '🎨 Professional formatting',
       'ebook.feature4': '📱 Works on all devices',
-      'ebook.downloadButton': 'Download Free Ebook',
+      'ebook.downloadPDF': 'Download PDF',
+      'ebook.downloadEPUB': 'Download EPUB',
       'ebook.note': 'This ebook is completely free and may be shared with others.',
 
       // Common
@@ -980,7 +981,8 @@ const resources = {
       'ebook.feature2': '📋 תוכן עניינים מלא',
       'ebook.feature3': '🎨 עיצוב מקצועי',
       'ebook.feature4': '📱 עובד בכל המכשירים',
-      'ebook.downloadButton': 'הורדת הספר הדיגיטלי החינמי',
+      'ebook.downloadPDF': 'הורדת PDF',
+      'ebook.downloadEPUB': 'הורדת EPUB',
       'ebook.note': 'הספר הדיגיטלי הזה חינמי לחלוטין וניתן לשתף אותו עם אחרים.',
 
       // Common
