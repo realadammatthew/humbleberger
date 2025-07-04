@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
 const { marked } = require('marked');
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-core');
 
 // Define the encountering messiah articles in order (Hebrew versions)
 const encounteringMessiahArticles = [
@@ -281,7 +281,8 @@ async function generatePDF() {
     console.log('Launching browser...');
     const browser = await puppeteer.launch({
       headless: true,
-      args: ['--no-sandbox', '--disable-setuid-sandbox']
+      args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage'],
+      executablePath: process.env.CHROME_BIN || '/usr/bin/google-chrome-stable'
     });
     
     const page = await browser.newPage();

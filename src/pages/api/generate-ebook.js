@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { marked } from 'marked';
-import puppeteer from 'puppeteer';
+import puppeteer from 'puppeteer-core';
 
 // Define the encountering messiah articles in order
 const encounteringMessiahArticles = [
@@ -281,7 +281,8 @@ export default async function handler(req, res) {
     console.log('Launching browser...');
     const browser = await puppeteer.launch({
       headless: true,
-      args: ['--no-sandbox', '--disable-setuid-sandbox']
+      args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage'],
+      executablePath: process.env.CHROME_BIN || '/usr/bin/google-chrome-stable'
     });
     
     const page = await browser.newPage();
