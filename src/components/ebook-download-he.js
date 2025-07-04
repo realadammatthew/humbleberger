@@ -110,25 +110,25 @@ const EbookDownloadHebrew = () => {
         }
         
         .pdf-button {
-          background: #e74c3c;
-          box-shadow: 0 4px 15px rgba(231, 76, 60, 0.3);
+          background: #3498db;
+          box-shadow: 0 4px 15px rgba(52, 152, 219, 0.3);
         }
         
         .pdf-button:hover:not(:disabled) {
-          background: #c0392b;
+          background: #2980b9;
           transform: translateY(-2px);
-          box-shadow: 0 6px 20px rgba(231, 76, 60, 0.4);
+          box-shadow: 0 6px 20px rgba(52, 152, 219, 0.4);
         }
         
         .epub-button {
-          background: #2ecc71;
-          box-shadow: 0 4px 15px rgba(46, 204, 113, 0.3);
+          background: #3498db;
+          box-shadow: 0 4px 15px rgba(52, 152, 219, 0.3);
         }
         
         .epub-button:hover:not(:disabled) {
-          background: #27ae60;
+          background: #2980b9;
           transform: translateY(-2px);
-          box-shadow: 0 6px 20px rgba(46, 204, 113, 0.4);
+          box-shadow: 0 6px 20px rgba(52, 152, 219, 0.4);
         }
         
         .ebook-download-button:active:not(:disabled) {
