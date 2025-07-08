@@ -21,6 +21,12 @@ const Home = () => {
           <p style={{textAlign: "center", fontSize: "1.3rem"}}>
             {t('home.about.description')}
           </p>
+          <div style={{ display: 'flex', justifyContent: 'center' }}>
+            <video controls width='100%'>
+              <source src='/video/shalom-website-intro.mp4' type='video/mp4' />
+              Your browser does not support the video tag.
+            </video>
+          </div>
           <div className="home-cta-buttons">
             <a
               href={t('urls.internal.whoIsYeshuaFromHome')}
