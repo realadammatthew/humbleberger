@@ -1,6 +1,10 @@
 [build]
   publish = "out"
-  command = "npx lfs-install && npx lfs-fetch && next build && next export && npm run generate-sitemap && npm run generate-rss"
+  command = """
+    git lfs install
+    git lfs pull
+    next build && next export && npm run generate-sitemap && npm run generate-rss
+  """
 
 [build.environment]
   PUPPETEER_SKIP_CHROMIUM_DOWNLOAD = "false"
