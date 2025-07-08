@@ -114,9 +114,11 @@ const SeriesNavigation = () => {
     <nav className="series-navigation" style={{
       marginTop: '2rem',
       padding: '1.5rem',
-      backgroundColor: '#f8f9fa',
+      backgroundColor: '#181c20', // dark background
       borderRadius: '8px',
-      border: '1px solid #e9ecef'
+      border: '1px solid #23272f',
+      color: '#f1f1f1', // light text
+      boxShadow: '0 2px 8px rgba(0,0,0,0.25)'
     }}>
       <div style={{
         display: 'flex',
@@ -133,23 +135,25 @@ const SeriesNavigation = () => {
                 alignItems: 'center',
                 gap: '0.5rem',
                 padding: '0.75rem 1rem',
-                backgroundColor: '#0070f3',
-                color: '#fff',
+                backgroundColor: '#232b36', // dark button
+                color: '#f1f1f1',
                 textDecoration: 'none',
                 borderRadius: '5px',
                 fontSize: '0.9rem',
                 fontWeight: '500',
                 transition: 'background-color 0.2s',
                 maxWidth: '45%',
-                flex: '1'
+                flex: '1',
+                border: '1px solid #2d3742',
+                boxShadow: '0 1px 3px rgba(0,0,0,0.15)'
               }}
-              onMouseEnter={e => (e.currentTarget.style.backgroundColor = '#0056b3')}
-              onMouseLeave={e => (e.currentTarget.style.backgroundColor = '#0070f3')}
+              onMouseEnter={e => (e.currentTarget.style.backgroundColor = '#364152')}
+              onMouseLeave={e => (e.currentTarget.style.backgroundColor = '#232b36')}
             >
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
                 <span style={{ fontSize: '1.2rem' }}>←</span>
                 <div style={{ textAlign: 'left' }}>
-                  <div style={{ fontSize: '0.8rem', opacity: 0.8 }}>{isHebrew ? 'הקודם' : 'Previous'}</div>
+                  <div style={{ fontSize: '0.8rem', opacity: 0.7 }}>{isHebrew ? 'הקודם' : 'Previous'}</div>
                   <div style={{ fontWeight: 'bold' }}>{getArticleTitle(prevSlug)}</div>
                 </div>
               </div>
@@ -167,8 +171,8 @@ const SeriesNavigation = () => {
                 alignItems: 'center',
                 gap: '0.5rem',
                 padding: '0.75rem 1rem',
-                backgroundColor: '#0070f3',
-                color: '#fff',
+                backgroundColor: '#232b36', // dark button
+                color: '#f1f1f1',
                 textDecoration: 'none',
                 borderRadius: '5px',
                 fontSize: '0.9rem',
@@ -176,14 +180,16 @@ const SeriesNavigation = () => {
                 transition: 'background-color 0.2s',
                 maxWidth: '45%',
                 flex: '1',
-                justifyContent: 'flex-end'
+                justifyContent: 'flex-end',
+                border: '1px solid #2d3742',
+                boxShadow: '0 1px 3px rgba(0,0,0,0.15)'
               }}
-              onMouseEnter={e => (e.currentTarget.style.backgroundColor = '#0056b3')}
-              onMouseLeave={e => (e.currentTarget.style.backgroundColor = '#0070f3')}
+              onMouseEnter={e => (e.currentTarget.style.backgroundColor = '#364152')}
+              onMouseLeave={e => (e.currentTarget.style.backgroundColor = '#232b36')}
             >
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', justifyContent: 'flex-end' }}>
                 <div style={{ textAlign: 'right' }}>
-                  <div style={{ fontSize: '0.8rem', opacity: 0.8 }}>{isHebrew ? 'הבא' : 'Next'}</div>
+                  <div style={{ fontSize: '0.8rem', opacity: 0.7 }}>{isHebrew ? 'הבא' : 'Next'}</div>
                   <div style={{ fontWeight: 'bold' }}>{getArticleTitle(nextSlug)}</div>
                 </div>
                 <span style={{ fontSize: '1.2rem' }}>→</span>
@@ -199,9 +205,9 @@ const SeriesNavigation = () => {
         textAlign: 'center',
         marginTop: '1rem',
         paddingTop: '1rem',
-        borderTop: '1px solid #e9ecef',
+        borderTop: '1px solid #23272f',
         fontSize: '0.9rem',
-        color: '#6c757d'
+        color: '#b0b6be'
       }}>
         {isHebrew ? 'חלק מסדרת "פגישה עם המשיח"' : 'Part of the "Encountering Messiah" series'}
       </div>
