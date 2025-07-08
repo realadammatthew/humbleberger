@@ -9,6 +9,7 @@ import { useLanguage } from '../../../hooks/useLanguage';
 import withBanner from '../../../utils/with-banner';
 import ReturnToBlogPosts from '../../../components/return-to-blog-posts';
 import CallToActionButtons from '../../../components/call-to-action-buttons';
+import SeriesNavigation from '../../../components/series-navigation';
 
 const HebrewPost = ({ content, data }) => {
   const { t } = useTranslation();
@@ -35,6 +36,7 @@ const HebrewPost = ({ content, data }) => {
         <article className="blog-post-article">
           <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: marked(content) }} />
           <CallToActionButtons />
+          <SeriesNavigation />
         </article>
       </section>
       <ReturnToBlogPosts referrer={referrer} />

@@ -9,6 +9,7 @@ import { useLanguage } from '../../hooks/useLanguage';
 import withBanner from '../../utils/with-banner';
 import ReturnToBlogPosts from '../../components/return-to-blog-posts';
 import CallToActionButtons from '../../components/call-to-action-buttons';
+import SeriesNavigation from '../../components/series-navigation';
 
 // Function to map page slugs to audio file names
 const getAudioFileName = (slug) => {
@@ -91,6 +92,7 @@ const Post = ({ content, data, hebrewContent, hebrewData }) => {
         <article className="blog-post-article">
           <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: marked(displayContent) }} />
           <CallToActionButtons />
+          <SeriesNavigation />
         </article>
       </section>
       <ReturnToBlogPosts referrer={referrer} />
