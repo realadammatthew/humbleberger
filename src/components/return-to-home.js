@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e23c16cb1fe98ffa2f00390199d660e0064c7e34651704647d83dca69bfdaec4
-size 624
+import Link from "next/link";
+import { useTranslation } from "react-i18next";
+import { useLanguage } from "../hooks/useLanguage";
+
+const ReturnToHome = () => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
+
+  return (
+    <nav style={{ marginTop: "2rem", textAlign: "center" }}>
+      <Link href={isHebrew ? "/he" : "/"} legacyBehavior>
+        <a
+          style={{
+            color: "#2563eb",
+            textDecoration: "none",
+            fontWeight: 600,
+          }}
+        >
+          {t('common.returnToHome')}
+        </a>
+      </Link>
+    </nav>
+  );
+};
+
+export default ReturnToHome; 

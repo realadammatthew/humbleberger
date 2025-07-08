@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a361a122a869b46e8e8f5cdb9d13dea1d77c527eb1ca64df0c6611d33570c4f
-size 901
+import { useTranslation } from 'react-i18next';
+import { useLanguage } from '../hooks/useLanguage';
+
+const CallToActionButtons = () => {
+  const { t } = useTranslation();
+  const { isHebrew } = useLanguage();
+
+  return (
+    <div className="blog-post-ctas" style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
+      <a
+        className="button"
+        href={t('urls.chat')}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {t('button.chat')}
+      </a>
+      <a
+        className="button"
+        href={t('urls.newsletter')}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {t('button.subscribe')}
+      </a>
+      <a
+        className="button donate-button"
+        href={t('urls.donate')}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {t('button.donate')}
+      </a>
+    </div>
+  );
+};
+
+export default CallToActionButtons; 

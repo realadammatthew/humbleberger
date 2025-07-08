@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46cc5ea2099cbaf3a7340449f01aa75f1419fb3070984e494033d23ab9ff81dd
-size 592
+import { useTranslation } from "react-i18next";
+import ReturnToHome from "../../components/return-to-home";
+import withBanner from "../../utils/with-banner";
+
+const HebrewContactSuccess = () => {
+  const { t } = useTranslation();
+
+  return (
+    <main style={{ direction: 'rtl', textAlign: 'right' }}>
+      <section>
+        <h2>{t('contact.success.title')}</h2>
+        <p style={{ textAlign: "center", fontSize: "1.3rem" }}>
+          {t('contact.success.message')}
+        </p>
+      </section>
+      <ReturnToHome />
+    </main>
+  );
+};
+
+export default withBanner(HebrewContactSuccess); 
