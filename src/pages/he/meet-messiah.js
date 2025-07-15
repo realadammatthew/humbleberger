@@ -177,12 +177,12 @@ const MeetMessiahPage = ({ allPosts }) => {
 
 export async function getStaticProps({ params }) {
   const files = fs
-    .readdirSync(path.join('src', 'ads'))
+    .readdirSync(path.join('src', 'ads', 'he'))
     .filter((filename) => filename.endsWith('.md')); // Only include .md files, not directories
   const allPosts = files.map((filename) => {
     const slug = filename.replace('.md', '');
     const markdownWithMeta = fs.readFileSync(
-      path.join('src', 'ads', filename),
+      path.join('src', 'ads', 'he', filename),
       'utf-8'
     );
     const { data, content } = matter(markdownWithMeta);
