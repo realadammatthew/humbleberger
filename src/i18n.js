@@ -198,6 +198,24 @@ const resources = {
 
       // Encountering Messiah Page
       'encountering.title': 'Encountering Messiah: A Journey for Jewish Hearts',
+
+      // Meet Messiah Page
+      'meetMessiah.title': 'Meet Messiah',
+      'meetMessiah.loading': 'Loading more content...',
+      'meetMessiah.endOfContent': "You've reached the end of all content.",
+      'meetMessiah.readMore': 'Read More →',
+      'meetMessiah.readyToLearn': 'Ready to Learn More?',
+      'meetMessiah.cta.whoIsYeshua': 'Who is Yeshua?',
+      'meetMessiah.cta.whoIsYeshuaLink': '/blog/who-is-yeshua',
+      'meetMessiah.cta.encounteringMessiah': 'Encountering Messiah',
+      'meetMessiah.cta.encounteringMessiahLink': '/encountering-messiah',
+      'meetMessiah.cta.chat': 'Chat with Us',
+      'meetMessiah.cta.chatLink': 'https://chat.humbleberger.org/en?translation=csb',
+      'meetMessiah.cta.subscribe': 'Subscribe to Newsletter',
+      'meetMessiah.cta.subscribeLink': 'https://eepurl.com/ja6zNY',
+      'meetMessiah.cta.donate': 'Donate Today!',
+      'meetMessiah.cta.donateLink': 'https://donorbox.org/humbleberger-ministries',
+      'meetMessiah.trustBadge': 'Humbleberger Ministries is a 501(c)(3) nonprofit organization. All donations are tax-deductible.',
       'encountering.subtitle':
         'Ancient questions. Modern seekers. One promised hope.',
       'encountering.comingSoon': '(Coming Soon)',
@@ -323,6 +341,7 @@ const resources = {
       'nav.fromTrenches': 'From the Trenches',
       'nav.whoIsYeshua': 'Who is Yeshua?',
       'nav.countingCost': 'Counting the Cost',
+      'nav.meetMessiah': 'Meet Messiah',
 
       // Buttons
       'button.donate': '❤️ Donate',
@@ -377,6 +396,7 @@ const resources = {
       'urls.internal.copyright': '/copyright',
       'urls.internal.rss': '/rss.xml',
       'urls.internal.contactSuccess': '/contact-success',
+      'urls.internal.meetMessiah': '/meet-messiah',
 
       // Internal URLs with parameters
       'urls.internal.countingCostFromHome': '/blog/counting-the-cost?from=home',
@@ -898,6 +918,24 @@ const resources = {
 
       // Encountering Messiah Page
       'encountering.title': 'מפגש עם המשיח: מסע ללבבות יהודיים',
+
+      // Meet Messiah Page
+      'meetMessiah.title': 'מפגש עם המשיח',
+      'meetMessiah.loading': 'טוען עוד תוכן...',
+      'meetMessiah.endOfContent': 'הגעת לסוף כל התוכן.',
+      'meetMessiah.readMore': 'קרא עוד →',
+      'meetMessiah.readyToLearn': 'מוכנים ללמוד עוד?',
+      'meetMessiah.cta.whoIsYeshua': 'מי הוא ישוע?',
+      'meetMessiah.cta.whoIsYeshuaLink': '/he/blog/who-is-yeshua',
+      'meetMessiah.cta.encounteringMessiah': 'מפגש עם המשיח',
+      'meetMessiah.cta.encounteringMessiahLink': '/he/encountering-messiah',
+      'meetMessiah.cta.chat': 'דברו איתנו',
+      'meetMessiah.cta.chatLink': 'https://tchat.humbleberger.org',
+      'meetMessiah.cta.subscribe': 'הירשמו לעלון',
+      'meetMessiah.cta.subscribeLink': 'https://mailchi.mp/2757d0257dda/humbleberger-ministries-he',
+      'meetMessiah.cta.donate': 'תרמו היום!',
+      'meetMessiah.cta.donateLink': 'https://donorbox.org/humbleberger-ministries-he',
+      'meetMessiah.trustBadge': 'שירות האמבלברגר הוא ארגון ללא מטרות רווח רשום כחוק. כל התרומות מוכרות לצורכי מס.',
       'encountering.subtitle':
         'שאלות עתיקות. מחפשים בני זמננו. תקווה אחת מובטחת.',
       'encountering.comingSoon': '(בקרוב)',
@@ -1007,6 +1045,7 @@ const resources = {
       'nav.fromTrenches': 'מהשטח',
       'nav.whoIsYeshua': 'מי הוא ישוע?',
       'nav.countingCost': 'ספירת המחיר',
+      'nav.meetMessiah': 'מפגש עם המשיח',
 
       // Buttons
       'button.donate': '❤️ תרמו',
@@ -1061,6 +1100,7 @@ const resources = {
       'urls.internal.copyright': '/he/copyright',
       'urls.internal.rss': '/rss-he.xml',
       'urls.internal.contactSuccess': '/he/contact-success',
+      'urls.internal.meetMessiah': '/he/meet-messiah',
 
       // Internal URLs with parameters
       'urls.internal.countingCostFromHome':

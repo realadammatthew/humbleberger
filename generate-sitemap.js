@@ -5,6 +5,8 @@ const PAGES_DIR = path.join(__dirname, 'src', 'pages');
 const HEBREW_PAGES_DIR = path.join(__dirname, 'src', 'pages', 'he');
 const BLOG_DIR = path.join(__dirname, 'src', 'copy');
 const HEBREW_BLOG_DIR = path.join(__dirname, 'src', 'copy', 'he');
+const ADS_DIR = path.join(__dirname, 'src', 'ads');
+const HEBREW_ADS_DIR = path.join(__dirname, 'src', 'ads', 'he');
 const OUTPUT_PATH = path.join(__dirname, 'public', 'sitemap.xml');
 const SITE_URL = 'https://humbleberger.org';
 
@@ -20,8 +22,8 @@ function getStaticPageUrls(dir, prefix = '') {
             const stat = fs.statSync(filePath);
             
             if (stat.isDirectory()) {
-                // Skip the blog and he directories as they're handled separately
-                if (file !== 'blog' && file !== 'he') {
+                // Skip the blog, he, and ads directories as they're handled separately
+                if (file !== 'blog' && file !== 'he' && file !== 'ads') {
                     processDirectory(filePath, path.join(baseUrl, file));
                 }
             } else if (file.endsWith('.js') && !file.startsWith('_') && !file.includes('[')) {
@@ -50,6 +52,17 @@ function getBlogPostUrls(dir, prefix = '') {
         .map(file => {
             const slug = file.replace(/\.md$/, '');
             return `${SITE_URL}${prefix}/blog/${slug}`;
+        });
+}
+
+// Get ads post URLs
+function getAdsPostUrls(dir, prefix = '') {
+    const files = fs.readdirSync(dir);
+    return files
+        .filter(file => file.endsWith('.md'))
+        .map(file => {
+            const slug = file.replace(/\.md$/, '');
+            return `${SITE_URL}${prefix}/meet-messiah/${slug}`;
         });
 }
 
@@ -116,8 +129,10 @@ const staticUrls = getStaticPageUrls(PAGES_DIR);
 const hebrewStaticUrls = getStaticPageUrls(HEBREW_PAGES_DIR, '/he');
 const blogUrls = getBlogPostUrls(BLOG_DIR);
 const hebrewBlogUrls = getBlogPostUrls(HEBREW_BLOG_DIR, '/he');
+const adsUrls = getAdsPostUrls(ADS_DIR);
+const hebrewAdsUrls = getAdsPostUrls(HEBREW_ADS_DIR, '/he');
 
-const allUrls = [...staticUrls, ...hebrewStaticUrls, ...blogUrls, ...hebrewBlogUrls];
+const allUrls = [...staticUrls, ...hebrewStaticUrls, ...blogUrls, ...hebrewBlogUrls, ...adsUrls, ...hebrewAdsUrls];
 const sitemap = generateSitemap(allUrls);
 
 fs.writeFileSync(OUTPUT_PATH, sitemap);
