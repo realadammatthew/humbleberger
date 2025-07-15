@@ -541,6 +541,16 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/he/meet-messiah</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/who-is-yeshua</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/he/mission</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -557,6 +567,16 @@
     </url>
     <url>
         <loc>https://humbleberger.org/he/terms-of-use</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/who-is-yeshua</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>

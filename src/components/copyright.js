@@ -278,6 +278,18 @@ const Copyright = () => {
               {t('common.contact')}
             </a>
           </Link>
+          <span style={{ color: "#888" }}>|</span>
+          <Link href={t('urls.internal.meetMessiah')} legacyBehavior>
+            <a
+              style={{
+                color: "#888",
+                margin: "0 5px",
+                textDecoration: "underline",
+              }}
+            >
+              {t('nav.meetMessiah')}
+            </a>
+          </Link>
         </div>
         <p style={{ fontSize: "0.7rem", marginTop: "1rem", color: "#666" }}>
           {t('common.fein.title')}: {t('common.fein.number')}
