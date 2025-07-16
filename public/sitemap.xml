@@ -546,7 +546,52 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/he/meet-messiah/atonements-embrace</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/daniels-ancient-calendar</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/daniels-messiah-timeline</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/gentle-ascent-yeshuas-reign</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/gentle-bloom</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/gospels-seed-in-the-tanakh</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/he/meet-messiah/isaiah-53-suffering-servant</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/messiahs-embrace</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/messiahs-song</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/yeshua-through-history</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -576,7 +621,52 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/meet-messiah/atonements-embrace</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/daniels-ancient-calendar</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/daniels-messiah-timeline</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/gentle-ascent-yeshuas-reign</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/gentle-bloom</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/gospels-seed-in-the-tanakh</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/meet-messiah/isaiah-53-suffering-servant</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/messiahs-embrace</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/messiahs-song</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/yeshua-through-history</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
