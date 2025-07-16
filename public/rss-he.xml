@@ -5,13 +5,20 @@
         <link>https://humbleberger.org/he/</link>
         <description>הוראה ומשאבים מקראיים לדיאלוג והבנה יהודית-נוצרית</description>
         <language>he</language>
-        <lastBuildDate>Wed, 16 Jul 2025 00:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 14:40:02 GMT</lastBuildDate>
         <atom:link href="https://humbleberger.org/rss-he.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>https://humbleberger.org/logo.png</url>
             <title>הבלוג של משרדי האמבלברגר</title>
             <link>https://humbleberger.org/he/</link>
         </image>
+    <item>
+        <title><![CDATA[האם ישוע הוא המשיח שחזו בתנ"ך?]]></title>
+        <link>https://humbleberger.org/he/blog/could-yeshua-be-the-messiah</link>
+        <guid>https://humbleberger.org/he/blog/could-yeshua-be-the-messiah</guid>
+        <pubDate>Wed, 16 Jul 2025 14:37:58 GMT</pubDate>
+        <description><![CDATA[קריאה נועזת לאמת עבור אחינו ואחיותינו היהודים]]></description>
+    </item>
     <item>
         <title><![CDATA[האם ישוע באמת היה נטול חטא?]]></title>
         <link>https://humbleberger.org/he/blog/was-yeshua-really-sinless</link>
@@ -312,13 +319,6 @@
         <guid>https://humbleberger.org/he/blog/atonement-without-the-temple</guid>
         <pubDate>Tue, 08 Jul 2025 17:17:34 GMT</pubDate>
         <description><![CDATA[התשובה הנצחית לחוב החטא]]></description>
-    </item>
-    <item>
-        <title><![CDATA[האם ישוע הוא המשיח שחזו בתנ"ך?]]></title>
-        <link>https://humbleberger.org/he/blog/could-yeshua-be-the-messiah</link>
-        <guid>https://humbleberger.org/he/blog/could-yeshua-be-the-messiah</guid>
-        <pubDate>Tue, 08 Jul 2025 17:17:34 GMT</pubDate>
-        <description><![CDATA[קריאה נועזת לאמת עבור אחינו ואחיותינו היהודים]]></description>
     </item>
     </channel>
 </rss>

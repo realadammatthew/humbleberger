@@ -78,6 +78,4 @@ We urge you to read the Gospels—Matthew, Mark, Luke, and John—as Jewish text
 
 Trust in Yeshua today. He is your Messiah, your hope, and your coming King. His love calls you to redemption now.
 
-_Shalom_ and blessings,
-
-Humbleberger Ministries
+_Shalom_ and blessings.

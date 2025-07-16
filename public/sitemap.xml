@@ -556,6 +556,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/he/meet-messiah/daniels-messiah-journey</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/he/meet-messiah/daniels-messiah-timeline</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -576,6 +581,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/he/meet-messiah/heart-of-yeshua</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/he/meet-messiah/isaiah-53-suffering-servant</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -591,7 +601,47 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/he/meet-messiah/prophet-like-shepherd</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/psalm-22-yeshua-sacrifice</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/resurrection-promise-yeshua</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/unveiling-salvation-promise</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/yeshua-compassionate-acts</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/yeshua-divine-nature</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/yeshua-in-hebrew-scriptures</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/he/meet-messiah/yeshua-through-history</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/he/meet-messiah/yeshuas-gift-living-water</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -631,6 +681,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/meet-messiah/daniels-messiah-journey</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/meet-messiah/daniels-messiah-timeline</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -651,6 +706,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/meet-messiah/heart-of-yeshua</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/meet-messiah/isaiah-53-suffering-servant</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -666,7 +726,47 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://humbleberger.org/meet-messiah/prophet-like-shepherd</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/psalm-22-yeshua-sacrifice</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/resurrection-promise-yeshua</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/unveiling-salvation-promise</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/yeshua-compassionate-acts</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/yeshua-divine-nature</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/yeshua-in-hebrew-scriptures</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://humbleberger.org/meet-messiah/yeshua-through-history</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://humbleberger.org/meet-messiah/yeshuas-gift-living-water</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
