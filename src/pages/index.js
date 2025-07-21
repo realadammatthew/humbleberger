@@ -81,6 +81,12 @@ const Home = () => {
           </div>
         </section>
         <section>
+          <h2 style={{ textAlign: 'center' }}>Watch our founder, Daniel J. Cross, live on YouTube!</h2>
+          <div style={{ display: 'flex', justifyContent: 'center' }}>
+            <iframe src="https://www.youtube.com/embed/xQjqDt8euF0" title="The Carter Truman Show | Ep. 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style={{ borderRadius: '10px', width: '100%', height: '100%', maxWidth: '1000px', maxHeight: '600px', aspectRatio: '16/9' }}></iframe>
+          </div>
+        </section>
+        <section>
           <div style={{ margin: "2rem 0", textAlign: "center" }}>
             <h2>{t('home.connect.title')}</h2>
             <p
