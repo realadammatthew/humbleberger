@@ -218,7 +218,7 @@ const Header = () => {
       <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17357833341"></script>
       <script
         dangerouslySetInnerHTML={{
-          __html: `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'AW-17357833341');`,
+          __html: `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'AW-17420355662');`,
         }}
       />
     </Head>
