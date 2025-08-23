@@ -21,12 +21,12 @@ const Home = () => {
           <p style={{textAlign: "center", fontSize: "1.3rem"}}>
             {t('home.about.description')}
           </p>
-          <div style={{ display: 'flex', justifyContent: 'center' }}>
+          {/* <div style={{ display: 'flex', justifyContent: 'center' }}>
             <video controls width='100%'>
               <source src='/video/shalom-website-intro.mp4' type='video/mp4' />
               Your browser does not support the video tag.
             </video>
-          </div>
+          </div> */}
           <div className="home-cta-buttons">
             <a
               href={t('urls.internal.whoIsYeshuaFromHome')}
@@ -80,15 +80,15 @@ const Home = () => {
             </a>
           </div>
         </section>
-        <section>
-          <h2 style={{ textAlign: 'center' }}>Watch our founder, Daniel J. Cross, live on YouTube!</h2>
+        {/* <section>
+          <h2 style={{ textAlign: 'center' }}>Watch our founder live on YouTube!</h2>
           <div style={{ display: 'flex', justifyContent: 'center' }}>
-            <iframe src="https://www.youtube.com/embed/xQjqDt8euF0" title="The Carter Truman Show | Ep. 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style={{ borderRadius: '10px', width: '100%', height: '100%', maxWidth: '1000px', maxHeight: '600px', aspectRatio: '16/9' }}></iframe>
+            <iframe src="https://www.youtube.com/embed/xQjqDt8euF0" title="The Carter Truman Show | Ep. 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style={{ borderRadius: '10px', width: '100%', height: '100%', maxWidth: '1000px', maxHeight: '600px', aspectRatio: '16/9' }}></iframe>
           </div>
           <div style={{ textAlign: 'center', fontSize: '0.8rem', marginTop: '1rem', fontStyle: 'italic' }}>
             *Please note: All opinions expressed are those of the speaker and do not necessarily reflect the views of Humbleberger Ministries. As a registered 501(c)(3) non-profit, we take an active stance on non-political affiliation.
           </div>
-        </section>
+        </section> */}
         <section>
           <div style={{ margin: "2rem 0", textAlign: "center" }}>
             <h2>{t('home.connect.title')}</h2>
@@ -121,7 +121,7 @@ const Home = () => {
               <div className="other-buttons-grid">
                 <a
                   className="button"
-                  href="https://app.logos.com/books/LLS%3ACSB/references/bible%2Bcsb2.64.1.1?layout=reading&rightSidebar=closed"
+                  href={t('urls.bible')}
                   target="_blank"
                   rel="noopener noreferrer"
                 >

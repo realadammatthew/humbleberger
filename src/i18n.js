@@ -6,21 +6,21 @@ const resources = {
     translation: {
       // Header
       'header.title':
-        'Humbleberger Ministries - Proclaiming the Gospel of Yeshua',
+        'Humbleberger Ministries - Proclaiming the Good News of Yeshua',
       'header.description':
-        'Proclaiming the gospel of Yeshua with a special heart for the Jewish people. Find answers about Yeshua, the Bible, and our mission.',
+        'Proclaiming the Good News of Yeshua the Jewish Messiah with a special heart for the Jewish people. Find answers about Yeshua, the Bible, and our mission.',
       'header.keywords':
-        'Yeshua, Jesus, Messiah, Jewish, gospel, ministry, Bible, evangelism, Christian, Christianity, Jewish-Christian, Jewish-Christianity',
+        'Yeshua, Messiah, Jewish, Good News, Bible, TaNaKh, Messianic Judaism, Messianic Jew, Hebrew Bible, Torah, B\'rit Hadasha',
       'header.ogTitle':
-        'Humbleberger Ministries - Proclaiming the Gospel of Yeshua',
+        'Humbleberger Ministries - Proclaiming the Good News of Yeshua the Jewish Messiah',
       'header.ogDescription':
-        'Proclaiming the gospel of Yeshua with a special heart for the Jewish people.',
+        'Proclaiming the Good News of Yeshua the Jewish Messiah with a special heart for the Jewish people.',
       'header.twitterTitle':
-        'Humbleberger Ministries - Proclaiming the Gospel of Yeshua',
+        'Humbleberger Ministries - Proclaiming the Good News of Yeshua the Jewish Messiah',
       'header.twitterDescription':
-        'Proclaiming the gospel of Yeshua with a special heart for the Jewish people.',
+        'Proclaiming the Good News of Yeshua the Jewish Messiah with a special heart for the Jewish people.',
       'header.structuredDataDescription':
-        'Proclaiming the gospel of Yeshua with a special heart for the Jewish people.',
+        'Proclaiming the Good News of Yeshua the Jewish Messiah with a special heart for the Jewish people.',
       'header.statementOfFaith': 'Statement of Faith',
       'header.statementOnAntisemitism': 'Statement on Anti-Semitism',
       'header.countingTheCost': 'Counting the Cost',
@@ -41,14 +41,14 @@ const resources = {
       // Home Page
       'home.about.title': 'About the Mission',
       'home.about.welcome':
-        'Welcome to Humbleberger Ministries – where we proclaim the gospel of Yeshua with a special heart for the Jewish people. Our mission is rooted in Romans 1:16: "For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek."',
+        'Welcome to Humbleberger Ministries, where we proclaim the Good News of Yeshua the Jewish Messiah with a special heart for the Jewish people. Our mission is rooted in our love for Messiah: "For I am not ashamed of the Good News, because it is the power of God for salvation to everyone who believes, first to the Jewish person, and also to the Non-Jewish person." (Romans 1:16)',
       'home.about.description':
-        "Through discipleship, street outreach, and digital tools, we're equipping believers to reach those searching for truth with love and truth. Got questions? You can chat with us or find a Bible-believing church near you.",
+        "Through discipleship, street outreach, and digital tools, we're equipping believers to reach those searching for truth with the Good News of Yeshua our Jewish Messiah. Got questions? You can chat with us or find a Bible-believing synagogue near you.",
       'home.cta.whoIsYeshua': 'Who is Yeshua?',
       'home.cta.encounteringMessiah': 'Encountering Messiah',
       'home.connect.title': 'Connect With Us',
       'home.connect.subtitle':
-        "🤔 Curious about Yeshua or the Bible? We'd love to chat with you!",
+        "🤔 Curious about Yeshua the Jewish Messiah or the Bible? We'd love to chat with you!",
       'home.connect.chat': '💬 Chat with Us',
       'home.connect.blog': '🌐 Read Our Blog',
       'home.connect.bible': '📖 Read the Bible',
@@ -91,7 +91,7 @@ const resources = {
       // Mission
       'mission.title': 'Our Mission',
       'mission.description':
-        'At Humbleberger Ministries, we are passionate about sharing the gospel of Yeshua with everyone, with a special heart for the Jewish people.',
+        'At Humbleberger Ministries, we are passionate about sharing the Good News of Yeshua with everyone, with a special heart for the Jewish people.',
 
       // Footer/Copyright
       'copyright.text': '© 2025 Humbleberger Ministries. All rights reserved.',
@@ -111,9 +111,9 @@ const resources = {
       'banner.message': '🎉 New: Hebrew version of our site is now available!',
       'banner.link': 'View Hebrew Site',
       'banner.logoAlt': 'Humbleberger Ministries Logo',
-      'banner.jewishEvangelism': 'Jewish Evangelism.',
-      'banner.gospelProclamation': 'Gospel Proclamation.',
-      'banner.messiahCentered': 'Messiah-Centered Mission.',
+      'banner.jewishEvangelism': 'Jewish Outreach.',
+      'banner.gospelProclamation': 'Good News Teachings.',
+      'banner.messiahCentered': 'Messiah-Centered Engagement.',
       'banner.ministryReference': '– A Jeremiah 20:9 Ministry –',
 
       // Search
@@ -275,13 +275,13 @@ const resources = {
       'encountering.section4.whatToDoSaved':
         'What do I need to do to be saved?',
       'encountering.section4.becomeJewishChristian':
-        'How do I become a Jewish-Christian?',
+        'How do I become a Messianic Jew?',
       'encountering.section4.goToHeaven': 'What does it mean to go to heaven?',
       'encountering.section4.hellExists': 'Does hell exist?',
 
       'encountering.section5.title': '5. JEWISH IDENTITY & MESSIANIC FAITH',
       'encountering.section5.subtitle':
-        'Jewish believers in Yeshua and Jewish-Christian questions',
+        'Jewish believers in Yeshua and Messianic Judaism questions',
       'encountering.section5.jewishAndBelieve':
         'Can someone be Jewish and believe in Yeshua?',
       'encountering.section5.whySomeBelieve':
@@ -290,13 +290,13 @@ const resources = {
         'Why do some Jewish people reject the idea of Yeshua as Messiah?',
 
       'encountering.section6.title':
-        '6. TORAH OBSERVANCE & JEWISH-CHRISTIAN PRACTICE',
+        '6. TORAH OBSERVANCE & MESSIANIC JEWISH PRACTICE',
       'encountering.section6.subtitle':
-        'Law, mitzvot, and how Jewish-Christians live',
+        'Law, mitzvot, and how Messianic Jews live',
       'encountering.section6.all613Mitzvot':
         'Do I need to follow all 613 mitzvot?',
-      'encountering.section6.keepKosher': 'Do Jewish-Christians keep kosher?',
-      'encountering.section6.keepShabbat': 'Do Jewish-Christians keep Shabbat?',
+      'encountering.section6.keepKosher': 'Do Messianic Jews keep kosher?',
+      'encountering.section6.keepShabbat': 'Do Messianic Jews keep Shabbat?',
 
       'encountering.section7.title': '7. MEETING THE MESSIAH PERSONALLY',
       'encountering.section7.subtitle':
@@ -372,10 +372,9 @@ const resources = {
       'urls.chat': 'https://chat.humbleberger.org/en?translation=csb',
       'urls.newsletter': 'https://eepurl.com/ja6zNY',
       'urls.donate': 'https://donorbox.org/humbleberger-ministries',
-      'urls.synagogue': 'https://www.9marks.org/church-search/',
+      'urls.synagogue': 'https://www.google.com/maps/search/messianic+synagogue+near+me',
       'urls.twitter': 'https://x.com/humbleberger',
-      'urls.bible':
-        'https://app.logos.com/books/LLS%3ACSB/references/bible%2Bcsb2.64.1.1?layout=reading&rightSidebar=closed',
+      'urls.bible': 'https://www.biblegateway.com/passage/?search=John%201&version=TLV',
       'urls.contactForm': 'https://formspree.io/f/xnnvbwvz',
 
       // Internal URLs
@@ -423,15 +422,15 @@ const resources = {
       'antiSemitism.title':
         'Statement on Antisemitism - Humbleberger Ministries',
       'antiSemitism.heading':
-        'Statement on Antisemitism, Jewish Identity, and Gospel Love',
+        'Statement on Antisemitism, Jewish Identity, and Good News Love',
       'antiSemitism.description':
         "Humbleberger Ministries' statement on antisemitism and our commitment to biblical truth and love for the Jewish people.",
       'antiSemitism.intro':
-        'As a ministry founded upon the gospel of Messiah Yeshua and committed to the salvation of the Jewish people and the nations, Humbleberger Ministries stands firmly and unequivocally against all forms of antisemitism, both past and present, whether political, cultural, social, or theological.',
+        'As a ministry founded upon the Good News of Messiah Yeshua and committed to the salvation of the Jewish people and the nations, Humbleberger Ministries stands firmly and unequivocally against all forms of antisemitism, both past and present, whether political, cultural, social, or theological.',
 
       'antiSemitism.section1.title': 'I. A Posture of Love and Respect',
       'antiSemitism.section1.content':
-        "Humbleberger Ministries is deeply committed to honoring the Jewish people as beloved in God's redemptive history and heritage. We grieve the ways Jewish communities have suffered throughout history, including injustices carried out in the name of Christianity. As followers of Yeshua, we are called to walk in humility and love — not only in doctrine, but in how we carry and communicate the gospel.",
+        "Humbleberger Ministries is deeply committed to honoring the Jewish people as beloved in God's redemptive history and heritage. We grieve the ways Jewish communities have suffered throughout history, including injustices carried out in the name of Christianity. As followers of Yeshua, we are called to walk in humility and love — not only in doctrine, but in how we carry and communicate the Good News.",
 
       'antiSemitism.section2.title':
         'II. Honoring the Jewish People and Their Calling',
@@ -446,7 +445,7 @@ const resources = {
       'antiSemitism.section4.title':
         'IV. A Commitment to Reconciliation and Integrity',
       'antiSemitism.section4.content':
-        "We acknowledge the Church's need to walk humbly before the Jewish people, recognizing past failures and seeking to be a bridge, not a barrier. We stand against every form of antisemitism — not simply as a historical evil, but as something contrary to the heart of God.",
+        "We acknowledge the Synagogue's need to walk humbly before the Jewish people, recognizing past failures and seeking to be a bridge, not a barrier. We stand against every form of antisemitism — not simply as a historical evil, but as something contrary to the heart of God.",
 
       'antiSemitism.section5.title': 'V. Our Heart for the Jewish People',
       'antiSemitism.section5.content':
@@ -582,7 +581,7 @@ const resources = {
       // Mission Page
       'mission.title': 'Our Mission',
       'mission.content':
-        'Humbleberger Ministries exists to glorify God by proclaiming the gospel of Yeshua the Messiah, with a focused calling to bring the good news to the Jewish people in the cities of New York and Tel Aviv. Rooted in the spirit of the Apostle Paul, our mission is to evangelize, disciple, and raise up faithful preachers and teachers to plant and shepherd churches across the globe. While our primary focus is Jewish missions, we stand fully on the Great Commission, seeking to reach all the lost and serve the global Church as the Lord leads.',
+        'Humbleberger Ministries exists to glorify God by proclaiming the Good News of Yeshua the Messiah, with a focused calling to bring the good news to the Jewish people in the cities of New York and Tel Aviv. Rooted in the spirit of the Apostle Paul, our mission is to evangelize, disciple, and raise up faithful preachers and teachers to plant and shepherd synagogues across the globe. While our primary focus is Jewish missions, we stand fully on the Great Commission, seeking to reach all the lost and serve the global Synagogue as the Lord leads.',
 
       // Statement of Faith Page
       'statement.title': 'Statement of Faith',
@@ -609,13 +608,13 @@ const resources = {
       'statement.item5.content':
         "We believe baptism is for believers only, as a public profession of faith and obedience to Messiah. It is by immersion, symbolizing the believer's union with Messiah in His death, burial, and resurrection. It is not salvific but is commanded by Yeshua for all who follow Him.",
 
-      'statement.item6.title': '6. The Church',
+      'statement.item6.title': '6. The Synagogue',
       'statement.item6.content':
-        'The Church consists of all true believers in Messiah. The local church is an autonomous body of baptized believers committed to worship, fellowship, teaching, the ordinances, and mission. Messiah Yeshua is the head of the Church.',
+        'The Synagogue consists of all true believers in Messiah. The local synagogue is an autonomous body of baptized believers committed to worship, fellowship, teaching, the ordinances, and mission. Messiah Yeshua is the head of the Synagogue.',
 
       'statement.item7.title': '7. Spiritual Gifts',
       'statement.item7.content':
-        'We affirm the continuing presence and operation of spiritual gifts within the Church, as described in the New Testament. We believe these gifts are to be exercised in a spirit of humility, under the authority of Scripture, and in accordance with the order and purpose taught in the New Testament.',
+        'We affirm the continuing presence and operation of spiritual gifts within the Synagogue, as described in the New Testament. We believe these gifts are to be exercised in a spirit of humility, under the authority of Scripture, and in accordance with the order and purpose taught in the New Testament.',
 
       'statement.item8.title':
         '8. The Guidance of the Holy Spirit and Personal Experience',
@@ -633,7 +632,7 @@ const resources = {
       'statement.item11.title':
         "11. God's Redemptive Plan and the Hope of Jewish Evangelism",
       'statement.item11.content':
-        'We believe that God\'s plan of salvation, revealed throughout the Scriptures, has always been by grace through faith — and is fulfilled in Yeshua, the Messiah. In Messiah, God is drawing both Jews and Gentiles into one redeemed people, united by the Spirit and anchored in the promises of the New Covenant. Honoring the priority of the gospel "to the Jew first" (Romans 1:16), we embrace a particular calling to lovingly share the good news of Yeshua with Jewish people around the world, inviting them to receive the Messiah foretold in their own Scriptures.',
+        'We believe that God\'s plan of salvation, revealed throughout the Scriptures, has always been by grace through faith — and is fulfilled in Yeshua, the Messiah. In Messiah, God is drawing both Jews and Gentiles into one redeemed people, united by the Spirit and anchored in the promises of the New Covenant. Honoring the priority of the Good News "to the Jew first" (Romans 1:16), we embrace a particular calling to lovingly share the good news of Yeshua with Jewish people around the world, inviting them to receive the Messiah foretold in their own Scriptures.',
 
       'statement.item12.title':
         "12. Love for the Jewish People and the Fulfillment of God's Promise",
@@ -642,22 +641,22 @@ const resources = {
 
       'statement.item13.title': '13. Non-Political Affiliation',
       'statement.item13.content':
-        'We as an organization are not political in nature. We do not promote any party or ideology. Our citizenship is in heaven, and our mission is spiritual: to proclaim the gospel and advance the kingdom of Messiah.',
+        'We as an organization are not political in nature. We do not promote any party or ideology. Our citizenship is in heaven, and our mission is spiritual: to proclaim the Good News and advance the kingdom of Messiah.',
 
       'statement.item14.title': '14. Spiritual Warfare',
       'statement.item14.content':
-        'We affirm the reality of spiritual warfare. The gospel is proclaimed in contested territory. We are equipped with the full armor of God and empowered by the Spirit to resist the enemy and advance the gospel in power and truth.',
+        'We affirm the reality of spiritual warfare. The Good News is proclaimed in contested territory. We are equipped with the full armor of God and empowered by the Spirit to resist the enemy and advance the Good News in power and truth.',
 
       'statement.item15.title': '15. The Great Commission and Global Missions',
       'statement.item15.content':
-        "We exist to make disciples of all nations, especially the Jewish people. We proclaim the gospel, plant churches, disciple believers, and raise up leaders. We affirm Messiah's command to go into all the world until every people hears. We follow the biblical pattern of gospel expansion from Jerusalem to Judea, Samaria, and the ends of the earth (Acts 1:8), laboring first for the Jewish people and then for the nations. Our evangelism is grounded in Scripture, both Old and New Testaments.",
+        "We exist to make disciples of all nations, especially the Jewish people. We proclaim the Good News, plant synagogues, disciple believers, and raise up leaders. We affirm Messiah's command to go into all the world until every people hears. We follow the biblical pattern of Good News expansion from Jerusalem to Judea, Samaria, and the ends of the earth (Acts 1:8), laboring first for the Jewish people and then for the nations. Our evangelism is grounded in Scripture, both Old and New Testaments.",
 
-      'statement.item16.title': '16. Truth and Exclusivity of the Gospel',
+      'statement.item16.title': '16. Truth and Exclusivity of the Good New',
       'statement.item16.content':
-        "We affirm that Yeshua is the only way to God, and that salvation is found in Him alone. We affirm the absolute truth and authority of God's Word in all generations. While we engage diverse cultures with humility and compassion, we hold fast to the exclusive truth of the gospel without compromise.",
+        "We affirm that Yeshua is the only way to God, and that salvation is found in Him alone. We affirm the absolute truth and authority of God's Word in all generations. While we engage diverse cultures with humility and compassion, we hold fast to the exclusive truth of the Good News without compromise.",
 
       'statement.item17.title':
-        '17. The Witness of the Church in a Secular World',
+        '17. The Witness of the Synagogue in a Secular World',
       'statement.item17.content':
         "We affirm the existence of a personal, holy, and sovereign God, who created and sustains all things. We affirm that true knowledge and wisdom begin with the fear of the Lord, and that any worldview which denies God's existence is ultimately incomplete and spiritually bankrupt.",
 
@@ -668,7 +667,7 @@ const resources = {
       'statement.item19.title':
         '19. Unity in the Essentials, Liberty in the Non-Essentials',
       'statement.item19.content':
-        'We do not divide over secondary issues. We respect diverse views on creation, eschatology, spiritual gifts, and theological systems such as Reformed theology. However, we do not affirm classical dispensationalism, as we believe God has one people in Messiah Yeshua. We strive for unity in the gospel and charity in all things, provided that these positions uphold the inerrancy and authority of Scripture. We affirm, for example, the historical reality of Adam and Eve, as Yeshua Himself spoke of them as literal persons (Matthew 19:4–6).',
+        'We do not divide over secondary issues. We respect diverse views on creation, eschatology, spiritual gifts, and theological systems such as Reformed theology. However, we do not affirm classical dispensationalism, as we believe God has one people in Messiah Yeshua. We strive for unity in the Good News and charity in all things, provided that these positions uphold the inerrancy and authority of Scripture. We affirm, for example, the historical reality of Adam and Eve, as Yeshua Himself spoke of them as literal persons (Matthew 19:4–6).',
 
       'statement.item20.title': '20. Final Affirmation',
       'statement.item20.content':
@@ -742,7 +741,7 @@ const resources = {
       'header.description':
         'מבשרים את הבשורה של ישוע באהבה מיוחדת לעם היהודי. בואו למצוא תשובות על ישוע, על התנ"ך ועל השליחות שלנו.',
       'header.keywords':
-        'ישוע, Jesus, המשיח, Messiah, יהודי, Jewish, הבשורה, Gospel, שירות, Ministry, תנ"ך, Bible, בישור, Evangelism, אמונה, Faith, גאולה, Salvation, נבואות המשיח, Messianic Prophecy, הברית החדשה, New Testament, משיחיות, Messianic Judaism, Christian, Christianity, Jewish-Christian, Jewish-Christianity',
+        'ישוע, Jesus, המשיח, Messiah, יהודי, Jewish, הבשורה, Good News, שירות, Ministry, תנ"ך, Bible, בישור, Evangelism, אמונה, Faith, גאולה, Salvation, נבואות המשיח, Messianic Prophecy, הברית החדשה, New Testament, משיחיות, Messianic Judaism, Christian, Christianity, Jewish-Christian, Jewish-Christianity',
       'header.ogTitle': 'שירות האמבלברגר — מכריזים את בשורת ישוע המשיח',
       'header.ogDescription': 'מבשרים את בשורת ישוע עם אהבה מיוחדת לעם ישראל.',
       'header.twitterTitle': 'שירות האמבלברגר — מכריזים את בשורת ישוע המשיח',

@@ -8,7 +8,7 @@
 
 ## Before We Begin
 
-Have you ever spoken with a _Christian_ about their faith? Maybe you know some, or maybe this is all new to you! Either way, you might have heard a little word called “_the Gospel_.” It’s a small word with a powerful message: the _Good News_ that _God loves you_ and has a plan to restore you to Him. We’re about to embark on a spiritual journey called “_Encountering Messiah_.” Curious about what _Messiah_ means? In the Hebrew Scriptures, it simply means _Anointed One_—God’s chosen Redeemer. Let’s start this journey by exploring the heart of this _Good News_!
+Have you ever spoken with a _Messianic Jew_ about their faith? Maybe you know some, or maybe this is all new to you! Either way, you might have heard a little word called “_the Gospel_.” It’s a small word with a powerful message: the _Good News_ that _God loves you_ and has a plan to restore you to Him. We’re about to embark on a spiritual journey called “_Encountering Messiah_.” Curious about what _Messiah_ means? In the Hebrew Scriptures, it simply means _Anointed One_—God’s chosen Redeemer. Let’s start this journey by exploring the heart of this _Good News_!
 
 ---
 
