@@ -19,12 +19,12 @@ const EncounteringMessiah = () => {
           </p>
         </header>
 
-        <div style={{ display: 'flex', justifyContent: 'center' }}>
+        {/* <div style={{ display: 'flex', justifyContent: 'center' }}>
           <video controls width='100%'>
             <source src='/video/encountering-messiah.mp4' type='video/mp4' />
             Your browser does not support the video tag.
           </video>
-        </div>
+        </div> */}
 
         <article className='blog-post-article'>
           <div className='encountering-messiah-content'>
