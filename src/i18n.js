@@ -113,7 +113,7 @@ const resources = {
       'banner.logoAlt': 'Humbleberger Ministries Logo',
       'banner.jewishEvangelism': 'Jewish Outreach.',
       'banner.gospelProclamation': 'Good News Teachings.',
-      'banner.messiahCentered': 'Messiah-Centered Engagement.',
+      'banner.messiahCentered': 'Messiah-Centered Mission.',
       'banner.ministryReference': '– A Jeremiah 20:9 Ministry –',
 
       // Search

@@ -81,14 +81,14 @@ const Post = ({ content, data, hebrewContent, hebrewData }) => {
           <h2 className="blog-post-title big-title">{displayData.title}</h2>
           {displayData.date && <div className="blog-post-date">{displayData.date}</div>}
         </header>
-        {audioFileName && (
+        {/* {audioFileName && (
           <div style={{ display: 'flex', justifyContent: 'center' }}>
             <audio controls>
               <source src={`/audio/${audioFileName}`} type='audio/wav' />
               Your browser does not support the audio element.
             </audio>
           </div>
-        )}
+        )} */}
         <article className="blog-post-article">
           <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: marked(displayContent) }} />
           <CallToActionButtons />
