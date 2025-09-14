@@ -42,7 +42,7 @@ The idea of salvation often feels distant — abstract, even outdated. But when 
 
 ## A Cry Heard Through the Ages
 
-From Genesis to Isaiah, the Scriptures echo the human longing for deliverance — from sin, from separation, from suffering. The prophets spoke of a Redeemer, one who would come not just for a nation, but for every heart open to God.
+From Genesis to Isaiah, the Scriptures echo the human longing for deliverance — from sin, from separation, from suffering. The prophets spoke of a Redeemer, one who would come not just for a nation, but for every heart open to G-d.
 
 Could these ancient voices be pointing us toward the Messiah?
 
@@ -50,7 +50,7 @@ Could these ancient voices be pointing us toward the Messiah?
 
 ## Yeshua and the Fulfillment of the Promise
 
-Yeshua (Jesus) came not only teaching about the Kingdom of God, but **embodying** it. Through His life, death, and resurrection, many believe He fulfilled the ancient words — becoming the living expression of God's salvation.
+Yeshua (Jesus) came not only teaching about the Kingdom of G-d, but **embodying** it. Through His life, death, and resurrection, many believe He fulfilled the ancient words — becoming the living expression of G-d's salvation.
 
 What if the salvation we’ve been waiting for has already come?
 

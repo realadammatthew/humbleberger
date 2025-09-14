@@ -13,7 +13,7 @@ _"For you will not abandon me to Sheol; you will not allow your faithful one to 
 
 ## Dear Friend, Yeshua Lives!
 
-Beloved, the resurrection of Yeshua of Nazareth is the cornerstone of God’s redemptive plan and the hope of Israel and the world. As Jewish people, you cherish the Tanakh’s promises of a Messiah, and with joy we proclaim: **Yeshua, risen from the dead, is that Messiah**! His bodily resurrection fulfills prophecy, defeats death, and offers eternal life to all who trust Him. Let’s explore this truth together, trusting the God of Abraham, Isaac, and Jacob to reveal His Messiah.
+Beloved, the resurrection of Yeshua of Nazareth is the cornerstone of G-d’s redemptive plan and the hope of Israel and the world. As Jewish people, you cherish the Tanakh’s promises of a Messiah, and with joy we proclaim: **Yeshua, risen from the dead, is that Messiah**! His bodily resurrection fulfills prophecy, defeats death, and offers eternal life to all who trust Him. Let’s explore this truth together, trusting the G-d of Abraham, Isaac, and Jacob to reveal His Messiah.
 
 ---
 
@@ -31,7 +31,7 @@ Yeshua Himself pointed to Jonah’s sign: “As Jonah was three days and nights 
 
 ## The Witnesses: Undeniable Testimony
 
-The Gospels record Yeshua’s burial in Joseph of Arimathea’s tomb, which was found empty on the third day. Women, including Mary Magdalene, were the first witnesses—an unlikely detail if invented, given the era’s view of women’s testimony. Then, Yeshua appeared alive:
+The Good News records Yeshua’s burial in Joseph of Arimathea’s tomb, which was found empty on the third day. Women, including Mary Magdalene, were the first witnesses—an unlikely detail if invented, given the era’s view of women’s testimony. Then, Yeshua appeared alive:
 
 - To Mary Magdalene in the garden (John 20:16).
 - To Peter and the apostles (Luke 24:34-36).
@@ -52,9 +52,9 @@ Even His enemies admitted the tomb was empty, claiming theft (Matthew 28:13), no
 
 ## Why the Resurrection Matters
 
-Yeshua’s resurrection is the climax of God’s plan:
+Yeshua’s resurrection is the climax of G-d’s plan:
 
-- **It Proves He Is Messiah**: God’s raising of Yeshua confirms Him as the Son of David and Son of God (Romans 1:4).
+- **It Proves He Is Messiah**: G-d’s raising of Yeshua confirms Him as the Son of David and Son of G-d (Romans 1:4).
 - **It Defeats Death**: “He will swallow up death forever” (Isaiah 25:8). Yeshua’s victory begins this promise.
 - **It Secures Atonement**: “He was delivered up for our trespasses and raised for our justification” (Romans 4:25).
 - **It Guarantees Our Resurrection**: As “the firstfruits” (1 Corinthians 15:20), Yeshua’s rising ensures ours.
@@ -63,9 +63,9 @@ Yeshua’s resurrection is the climax of God’s plan:
 
 ## The Call: Trust the Risen Messiah
 
-Dear friend, Yeshua’s resurrection fulfills the Tanakh and changes everything. No one else matches Psalm 16, Isaiah 53, or Hosea 6. He alone died for your sins and rose to give you life. We lovingly urge you: Repent and trust Yeshua today. **Romans 10:9** promises, “If you confess with your mouth that Yeshua is Lord and believe in your heart that God raised Him from the dead, you will be saved.”
+Dear friend, Yeshua’s resurrection fulfills the Tanakh and changes everything. No one else matches Psalm 16, Isaiah 53, or Hosea 6. He alone died for your sins and rose to give you life. We lovingly urge you: Repent and trust Yeshua today. **Romans 10:9** promises, “If you confess with your mouth that Yeshua is L-RD and believe in your heart that G-d raised Him from the dead, you will be saved.”
 
-Open the Tanakh—read **Psalm 16**, **Isaiah 53**, **Hosea 6**, **Zechariah 12**—and ask God to reveal His Messiah. Believing in Yeshua fulfills your Jewish heritage, embracing the One who completes God’s covenant.
+Open the Tanakh—read **Psalm 16**, **Isaiah 53**, **Hosea 6**, **Zechariah 12**—and ask G-d to reveal His Messiah. Believing in Yeshua fulfills your Jewish heritage, embracing the One who completes G-d’s covenant.
 
 ---
 
@@ -73,4 +73,4 @@ Open the Tanakh—read **Psalm 16**, **Isaiah 53**, **Hosea 6**, **Zechariah 12*
 
 Yeshua, risen from the dead, is Israel’s Messiah and the world’s Savior. **Zechariah 12:10** awaits: “They will look on Me, the One they have pierced.” Until then, He calls: “Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in” (Revelation 3:20).
 
-Beloved, will you trust Yeshua, the risen Lord, today? **HaMashiach chai! The Messiah lives!**
+Beloved, will you trust Yeshua, the risen L-RD, today? **HaMashiach chai! The Messiah lives!**

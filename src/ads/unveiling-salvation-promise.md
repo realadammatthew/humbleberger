@@ -23,7 +23,7 @@ trust_badges: ["501(c)(3) Nonprofit", "Tax-Deductible Donations", "Free Resource
 testimonial: "I never thought salvation could feel so personal until I encountered the call of the Messiah."
 testimonial_author: "Eliana R."
 conversion_goal: "guide_download"
-target_audience: "Jewish seekers, spiritual explorers, Christians studying the Old Testament"
+target_audience: "Jewish seekers, spiritual explorers, Christians studying the Tanakh"
 difficulty_level: "Beginner"
 related_posts: ["isaiah-53-suffering-servant", "yeshua-new-covenant", "who-is-yeshua"]
 seo_focus_keyword: "Messiah salvation promise"
@@ -60,7 +60,7 @@ He proclaimed liberty to the captives, gave sight to the blind, and declared tha
 
 ## Could This Be the Promise of Salvation?
 
-Many find in Yeshua not just a wise teacher or healer, but the **embodiment of God’s redemptive promise**. A bridge between heaven and earth. A call to come home.
+Many find in Yeshua not just a wise teacher or healer, but the **embodiment of G-d’s redemptive promise**. A bridge between heaven and earth. A call to come home.
 
 Will you answer?
 

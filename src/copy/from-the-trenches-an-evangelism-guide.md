@@ -1,14 +1,14 @@
-# From the Trenches: A Practical Guide to Prayer and Street Evangelism
+# From the Trenches: A Practical Guide to Prayer and Street Outreach
 
-## A Quick How-To On Street Preaching and Evangelism
+## A Quick How-To On Street Outreach
 
 ### Humbleberger Ministries
 
 ## Introduction
 
-Evangelism isn't reserved for the uniquely gifted; it's the call of every believer. Whether you're reaching out to your neighbor, your coworker, or people on the street, the mission remains the same: to proclaim the transformative love of Messiah Yeshua with humility, grace, and boldness, trusting the Holy Spirit to work in hearts (Romans 1:16).
+Outreach isn't reserved for the uniquely gifted; it's the call of every believer. Whether you're reaching out to your neighbor, your coworker, or people on the street, the mission remains the same: to proclaim the transformative love of Messiah Yeshua with humility, grace, and boldness, trusting the Holy Spirit to work in hearts (Romans 1:16).
 
-This guide provides a practical, Spirit-filled roadmap for sharing the Gospel through prayer and street evangelism both at home and in public venues.
+This guide provides a practical, Spirit-filled roadmap for sharing the Good News through prayer and street outreach both at home and in public venues.
 
 ---
 
@@ -16,8 +16,8 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 ### 1. Gospel-Centered
 
-- **The Message:** God's holiness, human sin, Messiah's sacrificial death and resurrection, and the invitation to repentance and faith.
-- **The Power:** Trust in the Gospel itself as the power of God for salvation (Romans 1:16).
+- **The Message:** G-d's holiness, human sin, Messiah's sacrificial death and resurrection, and the invitation to repentance and faith.
+- **The Power:** Trust in the Good News itself as the power of G-d for salvation (Romans 1:16).
 
 ### 2. Spirit-Led
 
@@ -29,7 +29,7 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 ### 4. Humble and Respectful
 
-- Every person is an image-bearer of God (Genesis 1:27). Approach each one with dignity and respect, even when you disagree (1 Peter 3:15).
+- Every person is an image-bearer of G-d (Genesis 1:27). Approach each one with dignity and respect, even when you disagree (1 Peter 3:15).
 
 ### 5. Prayer-Focused
 
@@ -41,16 +41,16 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 ### Spiritual Preparation
 
-- **Prayer:** Spend dedicated time daily asking God for boldness and guidance.
-- **Scripture Meditation:** Memorize key Gospel verses (John 3:16, Romans 5:8, 2 Corinthians 5:17).
+- **Prayer:** Spend dedicated time daily asking G-d for boldness and guidance.
+- **Scripture Meditation:** Memorize key B\'rit Hadasha verses (John 3:16, Romans 5:8, 2 Corinthians 5:17).
 - **Testimony Practice:** Prepare a 1-minute personal testimony: life before Messiah, your encounter with Yeshua, and how He has changed you.
-- **Fasting (Optional):** Consider fasting as a way to seek God's power and clarity (Mark 9:29).
+- **Fasting (Optional):** Consider fasting as a way to seek G-d's power and clarity (Mark 9:29).
 
 ### Practical Preparation
 
 - **Training:** Participate in role-plays and workshops to practice conversations.
 - **Team Formation:** Always work in teams of 2-3 for safety and encouragement.
-- **Supplies:** Bible, water, sunscreen, comfortable clothing, Gospel tracts, and church contact cards.
+- **Supplies:** Bible, water, sunscreen, comfortable clothing, B\'rit Hadasha tracts, and Synagogue contact cards.
 
 ---
 
@@ -61,17 +61,17 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 - Smile, make eye contact, and greet warmly.
 - Use openers like:
 
-  - "Hi! We’re here sharing God’s love. May I ask about your spiritual journey?"
+  - "Hi! We’re here sharing G-d’s love. May I ask about your spiritual journey?"
   - "Can we offer you a prayer today?"
 
 ### Conversations
 
-- **Listen First:** Reflect back what people share (e.g., "It sounds like you’ve been hurt by church before.")
+- **Listen First:** Reflect back what people share (e.g., "It sounds like you’ve been hurt by Synagogue before.")
 - **Empathize:** "I'm so sorry you’ve experienced that. Can I share how Yeshua changed my life?"
-- **Share the Gospel Simply:**
+- **Share the Good News Simply:**
 
-  - God loves you and desires a relationship with you (John 3:16).
-  - We all sin and fall short of God’s standard (Romans 3:23).
+  - G-d loves you and desires a relationship with you (John 3:16).
+  - We all sin and fall short of G-d’s standard (Romans 3:23).
   - Yeshua died and rose again to offer forgiveness (Romans 5:8).
   - We are called to repent and trust in Him (Acts 3:19).
 
@@ -82,7 +82,7 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 - De-escalate with phrases like:
 
   - "I hear you and respect your perspective. I’ll pray for you."
-  - "I'm sorry we're not connecting today. May God give you peace."
+  - "I'm sorry we're not connecting today. May G-d give you peace."
 
 - Never argue or raise your voice (Proverbs 15:1).
 
@@ -98,9 +98,9 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 ### How to Pray
 
 - Ask permission: "May I pray for you?"
-- Keep prayers short, Spirit-led, and focused on God’s love and peace.
+- Keep prayers short, Spirit-led, and focused on G-d’s love and peace.
 - Sample prayer: "Father, thank You for \[name]. Please bring peace to their situation and reveal Your love. In Yeshua's name, Amen."
-- Always offer follow-up contact info for your church or small group.
+- Always offer follow-up contact info for your Synagogue or small group.
 
 ---
 
@@ -114,12 +114,12 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 ### Follow-Up with Contacts
 
 - Contact anyone who expressed interest promptly (within 48 hours).
-- Invite them to Bible studies, coffee meetings, or church services.
+- Invite them to Bible studies, coffee meetings, or Synagogue services.
 - Connect them with pastoral support and discipleship resources.
 
-### Celebrate God’s Work
+### Celebrate G-d’s Work
 
-- Share anonymized testimonies with your church to glorify God and encourage others to join the mission.
+- Share anonymized testimonies with your Synagogue to glorify G-d and encourage others to join the mission.
 
 ---
 
@@ -139,19 +139,19 @@ This guide provides a practical, Spirit-filled roadmap for sharing the Gospel th
 
 - Condemn or use fear-based language ("You're going to hell!").
 - Engage in political or cultural debates.
-- Affirm sin ("God loves you just as you are; no need to change.").
+- Affirm sin ("G-d loves you just as you are; no need to change.").
 - Ask invasive questions ("Are you gay? Do you need to be fixed?").
 
-Always keep the focus on Yeshua's love and the hope of transformation through the Gospel.
+Always keep the focus on Yeshua's love and the hope of transformation through the Good News.
 
 ---
 
 ## Conclusion
 
-Evangelism is not about winning arguments but about winning souls. It’s about faithfully planting seeds and trusting God to bring the increase (1 Corinthians 3:6-7). Whether on the streets, at home, or with friends and family, God calls you to be His ambassador of reconciliation (2 Corinthians 5:20). Go with grace, courage, and love, knowing that the Holy Spirit goes before you.
+Outreach is not about winning arguments but about winning souls. It’s about faithfully planting seeds and trusting G-d to bring the increase (1 Corinthians 3:6-7). Whether on the streets, at home, or with friends and family, G-d calls you to be His ambassador of reconciliation (2 Corinthians 5:20). Go with grace, courage, and love, knowing that the Holy Spirit goes before you.
 
-**"The Gospel is the power of God for salvation to everyone who believes."** (Romans 1:16)
+**"The Good News is the power of G-d for salvation to everyone who believes."** (Romans 1:16)
 
 ---
 
-_Download your [free evanglism cheatsheet](../../assets/From-The-Trenches-An-Evangelism-Guide.pdf) today to learn more, and don't forget to share with friends and family!_
+_Download your [free outreach cheatsheet](../../assets/From-The-Trenches-An-Evangelism-Guide.pdf) today to learn more, and don't forget to share with friends and family!_

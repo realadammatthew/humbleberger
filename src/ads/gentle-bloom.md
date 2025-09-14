@@ -50,7 +50,7 @@ Could all these images be revealing one person?
 
 ## Yeshua and the Fulfillment of Prophetic Petals
 
-Many believe Yeshua (Jesus) didn’t just teach about God — He **embodied** the long-awaited fulfillment. From His humble birth to His sacrificial death and resurrection, His life seemed to echo prophecy after prophecy.
+Many believe Yeshua (Jesus) didn’t just teach about G-d — He **embodied** the long-awaited fulfillment. From His humble birth to His sacrificial death and resurrection, His life seemed to echo prophecy after prophecy.
 
 Like a flower opening over centuries, the Messiah’s story gently comes into view.
 

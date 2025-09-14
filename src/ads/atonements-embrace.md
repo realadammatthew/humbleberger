@@ -23,7 +23,7 @@ trust_badges: ["501(c)(3) Nonprofit", "Tax-Deductible Donations", "Free Resource
 testimonial: "I realized atonement wasn't about guilt, but being loved enough to be restored."
 testimonial_author: "Miriam L."
 conversion_goal: "guide_download"
-target_audience: "Jewish seekers, spiritually curious, Christians exploring the Old Testament"
+target_audience: "Jewish seekers, spiritually curious, Christians exploring the Tanakh"
 difficulty_level: "Beginner"
 related_posts: ["isaiah-53-suffering-servant", "yeshua-as-passover-lamb", "who-is-yeshua"]
 seo_focus_keyword: "Messiah and Atonement"
@@ -42,7 +42,7 @@ Deep within the Hebrew Scriptures lies a tension — one between **holiness and 
 
 ## The Need for Atonement
 
-From the very beginning, humanity’s brokenness has separated us from God. Sin isn't merely a mistake — it's a breach of relationship. In the Torah, atonement is central. Through sacrifice, God made a way for forgiveness without ignoring justice.
+From the very beginning, humanity’s brokenness has separated us from G-d. Sin isn't merely a mistake — it's a breach of relationship. In the Torah, atonement is central. Through sacrifice, G-d made a way for forgiveness without ignoring justice.
 
 Could this ancient practice be pointing toward a deeper, ultimate fulfillment?
 
@@ -67,7 +67,7 @@ Is it possible that the Messiah's deepest act of love was a **sacrificial embrac
 
 ## Atonement That Transforms
 
-Atonement is not just a theological idea. It’s an invitation to return — to be reconciled with God through love. The Messiah’s heart is one of both holiness and compassion.
+Atonement is not just a theological idea. It’s an invitation to return — to be reconciled with G-d through love. The Messiah’s heart is one of both holiness and compassion.
 
 If atonement was His mission, then **you are His purpose**.
 

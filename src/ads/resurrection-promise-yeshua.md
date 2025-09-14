@@ -44,7 +44,7 @@ And in the center of that promise stands Yeshua, the Messiah who conquered death
 
 ## Glimpses of Resurrection in Jewish Scripture
 
-From Job's cry — *"Yet in my flesh I shall see God"* — to Isaiah’s vision of the earth giving birth to the dead, the Tanakh contains mysterious and hopeful glimpses of life beyond the grave.
+From Job's cry — *"Yet in my flesh I shall see G-d"* — to Isaiah’s vision of the earth giving birth to the dead, the Tanakh contains mysterious and hopeful glimpses of life beyond the grave.
 
 Daniel even foretells:  
 > _“Multitudes who sleep in the dust of the earth will awake…”_ — Daniel 12:2

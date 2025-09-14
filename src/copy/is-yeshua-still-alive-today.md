@@ -13,7 +13,7 @@ _"I was dead, but look—I am alive forever and ever, and I hold the keys of dea
 
 ## Dear Friend, Yeshua Is Alive!
 
-Beloved, the truth that Yeshua of Nazareth lives today is the heartbeat of God’s redemptive plan for Israel and the world. As Jewish people, you cherish the Tanakh’s promise of a Messiah, and with joy we proclaim: **Yeshua, risen and reigning, is that Messiah**! His resurrection and ongoing life fulfill prophecy, conquer death, and offer salvation to all who trust Him. Let us explore this truth, trusting the God of Abraham, Isaac, and Jacob to reveal His Messiah.
+Beloved, the truth that Yeshua of Nazareth lives today is the heartbeat of G-d’s redemptive plan for Israel and the world. As Jewish people, you cherish the Tanakh’s promise of a Messiah, and with joy we proclaim: **Yeshua, risen and reigning, is that Messiah**! His resurrection and ongoing life fulfill prophecy, conquer death, and offer salvation to all who trust Him. Let us explore this truth, trusting the G-d of Abraham, Isaac, and Jacob to reveal His Messiah.
 
 ---
 
@@ -30,7 +30,7 @@ The Tanakh lays a clear foundation for a Messiah who dies yet lives forever, ful
 
 ---
 
-## The New Testament Witness: The Risen Yeshua
+## The New Covenant Witness: The Risen Yeshua
 
 After His crucifixion, Yeshua’s disciples were broken. Yet, on the third day, they encountered the risen Yeshua, transforming their despair into bold faith:
 
@@ -48,8 +48,8 @@ These physical encounters—touching, eating, speaking—spanned forty days. The
 
 Yeshua’s resurrection and ongoing life are the foundation of our hope:
 
-1. **High Priest Forever**: “He always lives to intercede for those who come to God through Him” (Hebrews 7:25), securing forgiveness.
-2. **Reigning Lord**: “All authority in heaven and on earth has been given to Me” (Matthew 28:18). Yeshua rules, advancing His kingdom.
+1. **High Priest Forever**: “He always lives to intercede for those who come to G-d through Him” (Hebrews 7:25), securing forgiveness.
+2. **Reigning L-RD**: “All authority in heaven and on earth has been given to Me” (Matthew 28:18). Yeshua rules, advancing His kingdom.
 3. **Present by His Spirit**: “I will not leave you as orphans; I will come to you” (John 14:18). His Spirit empowers and comforts believers.
 4. **Returning King**: His resurrection guarantees His return to bring peace to Israel and the world (Isaiah 11).
 
@@ -60,16 +60,16 @@ Yeshua’s resurrection and ongoing life are the foundation of our hope:
 We honor your questions and answer with Scripture and love:
 
 - **“Where’s the Messianic peace?”** Yeshua’s first coming fulfilled the Suffering Servant (Isaiah 53); His second will bring the kingly reign (Isaiah 11).
-- **“A divine Messiah isn’t Jewish!”** The Tanakh calls Messiah “Mighty God” (Isaiah 9:6) and “The LORD Our Righteousness” (Jeremiah 23:6). Daniel 7 shows Him worshipped. Yeshua’s divinity fulfills these.
-- **“Where’s the evidence?”** The empty tomb, 500+ witnesses, transformed disciples, and global Church growth confirm His resurrection. Even Jewish scholar Pinchas Lapide found it the best explanation.
+- **“A divine Messiah isn’t Jewish!”** The Tanakh calls Messiah “Mighty G-d” (Isaiah 9:6) and “The L-RD Our Righteousness” (Jeremiah 23:6). Daniel 7 shows Him worshipped. Yeshua’s divinity fulfills these.
+- **“Where’s the evidence?”** The empty tomb, 500+ witnesses, transformed disciples, and global Messianic Synagogue growth confirm His resurrection. Even Jewish scholar Pinchas Lapide found it the best explanation.
 
 ---
 
 ## The Call: Trust the Living Messiah
 
-Dear friend, Yeshua lives, fulfilling Psalm 16, Isaiah 53, and Daniel 7. No one else conquered death to reign forever. He died for your sins and lives to save you. We lovingly urge you: Repent and trust Yeshua today. **Romans 10:9** promises, “If you confess with your mouth that Yeshua is Lord and believe in your heart that God raised Him from the dead, you will be saved.”
+Dear friend, Yeshua lives, fulfilling Psalm 16, Isaiah 53, and Daniel 7. No one else conquered death to reign forever. He died for your sins and lives to save you. We lovingly urge you: Repent and trust Yeshua today. **Romans 10:9** promises, “If you confess with your mouth that Yeshua is L-RD and believe in your heart that G-d raised Him from the dead, you will be saved.”
 
-Open the Tanakh—read **Psalm 16**, **Isaiah 53**, **Daniel 7**, **Zechariah 12**—and ask God to reveal His Messiah. Believing in Yeshua fulfills your Jewish heritage, embracing the One who completes God’s covenant.
+Open the Tanakh—read **Psalm 16**, **Isaiah 53**, **Daniel 7**, **Zechariah 12**—and ask G-d to reveal His Messiah. Believing in Yeshua fulfills your Jewish heritage, embracing the One who completes G-d’s covenant.
 
 ---
 

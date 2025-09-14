@@ -41,9 +41,9 @@ const resources = {
       // Home Page
       'home.about.title': 'About the Mission',
       'home.about.welcome':
-        'Welcome to Humbleberger Ministries, where we proclaim the Good News of Yeshua the Jewish Messiah with a special heart for the Jewish people. Our mission is rooted in our love for Messiah: "For I am not ashamed of the Good News, because it is the power of God for salvation to everyone who believes, first to the Jewish person, and also to the Non-Jewish person." (Romans 1:16)',
+        'Welcome to Humbleberger Ministries, where we proclaim the Good News of Yeshua the Jewish Messiah with a special heart for the Jewish people. Our mission is rooted in our love for Messiah: "For I am not ashamed of the Good News, because it is the power of G-d for salvation to everyone who believes, first to the Jewish person, and also to the Non-Jewish person." (Romans 1:16)',
       'home.about.description':
-        "Through discipleship, street outreach, and digital tools, we're equipping believers to reach those searching for truth with the Good News of Yeshua our Jewish Messiah. Got questions? You can chat with us or find a Bible-believing synagogue near you.",
+        "Through discipleship, street outreach, and digital tools, we're equipping believers to reach those searching for truth with the Good News of Yeshua our Jewish Messiah. Got questions? You can chat with us or find a Bible-believing Messianic Synagogue near you.",
       'home.cta.whoIsYeshua': 'Who is Yeshua?',
       'home.cta.encounteringMessiah': 'Encountering Messiah',
       'home.connect.title': 'Connect With Us',
@@ -52,10 +52,13 @@ const resources = {
       'home.connect.chat': '💬 Chat with Us',
       'home.connect.blog': '🌐 Read Our Blog',
       'home.connect.bible': '📖 Read the Bible',
-      'home.connect.synagogue': '📍 Find a Local Synagogue',
+      'home.connect.synagogue': '📍 Find a Messianic Synagogue',
       'home.connect.newsletter': '📰 Get Our Newsletter',
       'home.connect.contact': '📬 Contact Us',
       'home.connect.follow': '𝕏 Follow Us on X',
+      'home.connect.instagram': '📸 Follow Us on Instagram',
+      'home.connect.facebook': '📘 Follow Us on Facebook',
+      'home.connect.youtube': '📺 Follow Us on YouTube',
       'home.connect.donate': '❤️ Donate',
 
       // Blog
@@ -99,7 +102,7 @@ const resources = {
       'copyright.terms': 'Terms of Use',
       'copyright.statement': 'Statement of Faith',
       'copyright.legal':
-        'Humbleberger Ministries is officially registered with the state of North Carolina and the Internal Revenue Service as a 501(c)(3) non-profit organization. All donations are tax-deductible.',
+        'Humbleberger Ministries is officially registered with the Internal Revenue Service as a 501(c)(3) non-profit organization. All donations are tax-deductible.',
 
       // Cookie Banner
       'cookies.message':
@@ -229,7 +232,7 @@ const resources = {
       'encountering.section1.wasYeshuaBornVirgin':
         'Was Yeshua really born of a virgin?',
       'encountering.section1.didYeshuaDieCross':
-        'Did Yeshua really die on a cross?',
+        'Did Yeshua really die on a tree?',
       'encountering.section1.didYeshuaRise':
         'Did Yeshua really rise from the dead?',
       'encountering.section1.didYeshuaAscend':
@@ -271,7 +274,7 @@ const resources = {
       'encountering.section4.atonementWithoutTemple':
         'How do you understand atonement today without the Temple?',
       'encountering.section4.rightRelationship':
-        'What does it mean to be in right relationship with God?',
+        'What does it mean to be in right relationship with G-d?',
       'encountering.section4.whatToDoSaved':
         'What do I need to do to be saved?',
       'encountering.section4.becomeJewishChristian':
@@ -374,6 +377,9 @@ const resources = {
       'urls.donate': 'https://donorbox.org/humbleberger-ministries',
       'urls.synagogue': 'https://www.google.com/maps/search/messianic+synagogue+near+me',
       'urls.twitter': 'https://x.com/humbleberger',
+      'urls.instagram': 'https://instagram.com/humbleberger',
+      'urls.facebook': 'https://facebook.com/humbleberger',
+      'urls.youtube': 'https://youtube.com/@humbleberger',
       'urls.bible': 'https://www.biblegateway.com/passage/?search=John%201&version=TLV',
       'urls.contactForm': 'https://formspree.io/f/xnnvbwvz',
 
@@ -410,7 +416,7 @@ const resources = {
       'urls.socialPreview': 'https://humbleberger.org/social-preview.png',
 
       // Person names
-      'person.founder.name': 'Daniel J. Cross',
+      'person.founder.name': 'Adam Matthew Steinberger',
       'person.founder.email': 'shalom@humbleberger.org',
 
       // Common terms
@@ -430,12 +436,12 @@ const resources = {
 
       'antiSemitism.section1.title': 'I. A Posture of Love and Respect',
       'antiSemitism.section1.content':
-        "Humbleberger Ministries is deeply committed to honoring the Jewish people as beloved in God's redemptive history and heritage. We grieve the ways Jewish communities have suffered throughout history, including injustices carried out in the name of Christianity. As followers of Yeshua, we are called to walk in humility and love — not only in doctrine, but in how we carry and communicate the Good News.",
+        "Humbleberger Ministries is deeply committed to honoring the Jewish people as beloved in G-d's redemptive history and heritage. We grieve the ways Jewish communities have suffered throughout history, including injustices carried out in the name of Christianity. As followers of Yeshua, we are called to walk in humility and love — not only in doctrine, but in how we carry and communicate the Good News.",
 
       'antiSemitism.section2.title':
         'II. Honoring the Jewish People and Their Calling',
       'antiSemitism.section2.content':
-        "We recognize and rejoice in the unique role of the Jewish people in God's redemptive plan. The covenants, the promises, the patriarchs, the prophets, and ultimately the Messiah have come through them (Romans 9:4–5). We do not seek to erase Jewish identity or heritage, but to affirm its deep significance — believing that its fullest expression is found in Yeshua, the Messiah promised in the Hebrew Scriptures.",
+        "We recognize and rejoice in the unique role of the Jewish people in G-d's redemptive plan. The covenants, the promises, the patriarchs, the prophets, and ultimately the Messiah have come through them (Romans 9:4–5). We do not seek to erase Jewish identity or heritage, but to affirm its deep significance — believing that its fullest expression is found in Yeshua, the Messiah promised in the Hebrew Scriptures.",
 
       'antiSemitism.section3.title':
         'III. A Ministry of Invitation, Not Coercion',
@@ -445,11 +451,11 @@ const resources = {
       'antiSemitism.section4.title':
         'IV. A Commitment to Reconciliation and Integrity',
       'antiSemitism.section4.content':
-        "We acknowledge the Synagogue's need to walk humbly before the Jewish people, recognizing past failures and seeking to be a bridge, not a barrier. We stand against every form of antisemitism — not simply as a historical evil, but as something contrary to the heart of God.",
+        "We acknowledge the Messianic Synagogue's need to walk humbly before the Jewish people, recognizing past failures and seeking to be a bridge, not a barrier. We stand against every form of antisemitism — not simply as a historical evil, but as something contrary to the heart of G-d.",
 
       'antiSemitism.section5.title': 'V. Our Heart for the Jewish People',
       'antiSemitism.section5.content':
-        'Our desire is not to win arguments but to share hope. We long for Jewish people everywhere to encounter the Messiah foretold in their own Scriptures — the One who fulfills the law and the prophets, brings peace with God, and invites all people, Jew and Gentile, into one redeemed family in Messiah Yeshua.',
+        'Our desire is not to win arguments but to share hope. We long for Jewish people everywhere to encounter the Messiah foretold in their own Scriptures — the One who fulfills the law and the prophets, brings peace with G-d, and invites all people, Jew and Gentile, into one redeemed family in Messiah Yeshua.',
 
       // Copyright Page
       'copyright.page.title': 'Copyright - Humbleberger Ministries',
@@ -467,6 +473,8 @@ const resources = {
         'The Humbleberger Ministries name, logo, and all related names, logos, product and service names, designs, and slogans are trademarks of Humbleberger Ministries or its affiliates. You may not use such marks without the prior written permission of Humbleberger Ministries.',
 
       'copyright.page.biblicalContent.title': 'Biblical Content',
+      'copyright.page.biblicalContent.tlv':
+        'Scripture quotations marked TLV® are taken from the Tree of Life Version®, Copyright © 2015 by the Messianic Jewish Family Bible Society. Used by permission. Tree of Life Version® and TLV® are federally registered trademarks of the Messianic Jewish Family Bible Society.',
       'copyright.page.biblicalContent.csb':
         'Scripture quotations marked CSB® are taken from the Christian Standard Bible®, Copyright © 2017 by Holman Bible Publishers. Used by permission. Christian Standard Bible® and CSB® are federally registered trademarks of Holman Bible Publishers.',
       'copyright.page.biblicalContent.esv':
@@ -581,7 +589,7 @@ const resources = {
       // Mission Page
       'mission.title': 'Our Mission',
       'mission.content':
-        'Humbleberger Ministries exists to glorify God by proclaiming the Good News of Yeshua the Messiah, with a focused calling to bring the good news to the Jewish people in the cities of New York and Tel Aviv. Rooted in the spirit of the Apostle Paul, our mission is to evangelize, disciple, and raise up faithful preachers and teachers to plant and shepherd synagogues across the globe. While our primary focus is Jewish missions, we stand fully on the Great Commission, seeking to reach all the lost and serve the global Synagogue as the Lord leads.',
+        'Humbleberger Ministries exists to glorify G-d by proclaiming the Good News of Yeshua the Messiah, with a focused calling to bring the good news to the Jewish people in the cities of New York and Tel Aviv. Rooted in the spirit of the Apostle Paul, our mission is to evangelize, disciple, and raise up faithful preachers and teachers to plant and shepherd Messianic Synagogues across the globe. While our primary focus is Jewish missions, we stand fully on the Great Commission, seeking to reach all the lost and serve the global Synagogue as the L-RD leads.',
 
       // Statement of Faith Page
       'statement.title': 'Statement of Faith',
@@ -590,19 +598,19 @@ const resources = {
 
       'statement.item1.title': '1. The Authority and Unity of Scripture',
       'statement.item1.content':
-        'We believe that the entire Bible — both the Old and New Testaments — is the inspired, inerrant, and infallible Word of God. It is the final and sufficient authority in all matters of faith, doctrine, and practice. The Hebrew Scriptures are foundational and point directly to Yeshua the Messiah.',
+        'We believe that the entire Bible — both the Old and New Covenants — is the inspired, inerrant, and infallible Word of G-d. It is the final and sufficient authority in all matters of faith, doctrine, and practice. The Hebrew Scriptures are foundational and point directly to Yeshua the Messiah.',
 
-      'statement.item2.title': '2. The Triune God',
+      'statement.item2.title': '2. The Triune G-d',
       'statement.item2.content':
-        'We believe in one God, eternally existing in three Persons: Father, Son, and Holy Spirit. Each is fully God, equal in glory, power, and essence, yet distinct in role and relation.',
+        'We believe in one G-d, eternally existing in three Persons: Father, Son, and Holy Spirit. Each is fully G-d, equal in glory, power, and essence, yet distinct in role and relation.',
 
       'statement.item3.title': '3. The Person and Work of Messiah',
       'statement.item3.content':
-        'Yeshua the Messiah, fully God and fully man, was conceived by the Holy Spirit and born of a virgin. He lived a sinless life, died a substitutionary death on the cross, rose bodily from the dead, and now reigns at the right hand of the Father. Salvation is found in Him alone.',
+        'Yeshua the Messiah, fully G-d and fully man, was conceived by the Holy Spirit and born of a virgin. He lived a sinless life, died a substitutionary death on the tree, rose bodily from the dead, and now reigns at the right hand of the Father. Salvation is found in Him alone.',
 
       'statement.item4.title': '4. Salvation by Grace Through Faith',
       'statement.item4.content':
-        'Salvation is by grace alone, through faith alone, in Messiah alone. This includes regeneration, justification, sanctification, and glorification. It is the free gift of God and cannot be earned by works or human effort.',
+        'Salvation is by grace alone, through faith alone, in Messiah alone. This includes regeneration, justification, sanctification, and glorification. It is the free gift of G-d and cannot be earned by works or human effort.',
 
       'statement.item5.title': "5. Believer's Baptism by Immersion",
       'statement.item5.content':
@@ -610,11 +618,11 @@ const resources = {
 
       'statement.item6.title': '6. The Synagogue',
       'statement.item6.content':
-        'The Synagogue consists of all true believers in Messiah. The local synagogue is an autonomous body of baptized believers committed to worship, fellowship, teaching, the ordinances, and mission. Messiah Yeshua is the head of the Synagogue.',
+        'The Synagogue consists of all true believers in Messiah. The local Messianic Synagogue is an autonomous body of baptized Messianic believers committed to worship, fellowship, teaching, the ordinances, and mission. Messiah Yeshua is the head of the Synagogue.',
 
       'statement.item7.title': '7. Spiritual Gifts',
       'statement.item7.content':
-        'We affirm the continuing presence and operation of spiritual gifts within the Synagogue, as described in the New Testament. We believe these gifts are to be exercised in a spirit of humility, under the authority of Scripture, and in accordance with the order and purpose taught in the New Testament.',
+        'We affirm the continuing presence and operation of spiritual gifts within the Messianic Synagogue, as described in the New Covenant. We believe these gifts are to be exercised in a spirit of humility, under the authority of Scripture, and in accordance with the order and purpose taught in the New Covenant.',
 
       'statement.item8.title':
         '8. The Guidance of the Holy Spirit and Personal Experience',
@@ -623,21 +631,21 @@ const resources = {
 
       'statement.item9.title': '9. Biblical Anthropology: Gender and Identity',
       'statement.item9.content':
-        "We affirm that all people are created by God in His image with inherent dignity and worth. We believe that God intentionally created humanity as male and female, and that both are equal in value and distinct in role. We affirm that marriage is a sacred covenant between one man and one woman, designed by God for human flourishing. We uphold the sanctity of life from conception to natural death, trusting in God's good design for human identity and purpose.",
+        "We affirm that all people are created by G-d in His image with inherent dignity and worth. We believe that G-d intentionally created humanity as male and female, and that both are equal in value and distinct in role. We affirm that marriage is a sacred covenant between one man and one woman, designed by G-d for human flourishing. We uphold the sanctity of life from conception to natural death, trusting in G-d's good design for human identity and purpose.",
 
       'statement.item10.title': '10. Doctrine of Humanity and Transhumanism',
       'statement.item10.content':
-        "We affirm that humanity, created in the image of God, is a sacred and purposeful design. We believe that attempts to alter or enhance human nature through technological, genetic, or artificial means oppose God's intention for human identity and dignity. We affirm that human value is not found in artificial enhancements, but in being fearfully and wonderfully made by our Creator.",
+        "We affirm that humanity, created in the image of G-d, is a sacred and purposeful design. We believe that attempts to alter or enhance human nature through technological, genetic, or artificial means oppose G-d's intention for human identity and dignity. We affirm that human value is not found in artificial enhancements, but in being fearfully and wonderfully made by our Creator.",
 
       'statement.item11.title':
-        "11. God's Redemptive Plan and the Hope of Jewish Evangelism",
+        "11. G-d's Redemptive Plan and the Hope of Jewish Evangelism",
       'statement.item11.content':
-        'We believe that God\'s plan of salvation, revealed throughout the Scriptures, has always been by grace through faith — and is fulfilled in Yeshua, the Messiah. In Messiah, God is drawing both Jews and Gentiles into one redeemed people, united by the Spirit and anchored in the promises of the New Covenant. Honoring the priority of the Good News "to the Jew first" (Romans 1:16), we embrace a particular calling to lovingly share the good news of Yeshua with Jewish people around the world, inviting them to receive the Messiah foretold in their own Scriptures.',
+        'We believe that G-d\'s plan of salvation, revealed throughout the Scriptures, has always been by grace through faith — and is fulfilled in Yeshua, the Messiah. In Messiah, G-d is drawing both Jews and Gentiles into one redeemed people, united by the Spirit and anchored in the promises of the New Covenant. Honoring the priority of the Good News "to the Jew first" (Romans 1:16), we embrace a particular calling to lovingly share the good news of Yeshua with Jewish people around the world, inviting them to receive the Messiah foretold in their own Scriptures.',
 
       'statement.item12.title':
-        "12. Love for the Jewish People and the Fulfillment of God's Promise",
+        "12. Love for the Jewish People and the Fulfillment of G-d's Promise",
       'statement.item12.content':
-        "We affirm God's enduring covenantal love for the Jewish people and recognize the rich spiritual heritage given through them — the patriarchs, the prophets, the Scriptures, and ultimately the Messiah. We honor Jewish identity as part of God's redemptive plan and believe that the promises of the Hebrew Scriptures find their fulfillment in Yeshua, the Messiah of Israel. In this conviction, we approach Jewish people not with pressure or coercion, but with humility, gratitude, and hope — longing to share the good news of Yeshua with compassion and deep respect.",
+        "We affirm G-d's enduring covenantal love for the Jewish people and recognize the rich spiritual heritage given through them — the patriarchs, the prophets, the Scriptures, and ultimately the Messiah. We honor Jewish identity as part of G-d's redemptive plan and believe that the promises of the Hebrew Scriptures find their fulfillment in Yeshua, the Messiah of Israel. In this conviction, we approach Jewish people not with pressure or coercion, but with humility, gratitude, and hope — longing to share the good news of Yeshua with compassion and deep respect.",
 
       'statement.item13.title': '13. Non-Political Affiliation',
       'statement.item13.content':
@@ -645,33 +653,33 @@ const resources = {
 
       'statement.item14.title': '14. Spiritual Warfare',
       'statement.item14.content':
-        'We affirm the reality of spiritual warfare. The Good News is proclaimed in contested territory. We are equipped with the full armor of God and empowered by the Spirit to resist the enemy and advance the Good News in power and truth.',
+        'We affirm the reality of spiritual warfare. The Good News is proclaimed in contested territory. We are equipped with the full armor of G-d and empowered by the Spirit to resist the enemy and advance the Good News in power and truth.',
 
       'statement.item15.title': '15. The Great Commission and Global Missions',
       'statement.item15.content':
-        "We exist to make disciples of all nations, especially the Jewish people. We proclaim the Good News, plant synagogues, disciple believers, and raise up leaders. We affirm Messiah's command to go into all the world until every people hears. We follow the biblical pattern of Good News expansion from Jerusalem to Judea, Samaria, and the ends of the earth (Acts 1:8), laboring first for the Jewish people and then for the nations. Our evangelism is grounded in Scripture, both Old and New Testaments.",
+        "We exist to make disciples of all nations, especially the Jewish people. We proclaim the Good News, plant Messianic Synagogues, disciple believers, and raise up leaders. We affirm Messiah's command to go into all the world until every people hears. We follow the biblical pattern of Good News expansion from Jerusalem to Judea, Samaria, and the ends of the earth (Acts 1:8), laboring first for the Jewish people and then for the nations. Our evangelism is grounded in Scripture, both Old and New Covenants.",
 
       'statement.item16.title': '16. Truth and Exclusivity of the Good New',
       'statement.item16.content':
-        "We affirm that Yeshua is the only way to God, and that salvation is found in Him alone. We affirm the absolute truth and authority of God's Word in all generations. While we engage diverse cultures with humility and compassion, we hold fast to the exclusive truth of the Good News without compromise.",
+        "We affirm that Yeshua is the only way to G-d, and that salvation is found in Him alone. We affirm the absolute truth and authority of G-d's Word in all generations. While we engage diverse cultures with humility and compassion, we hold fast to the exclusive truth of the Good News without compromise.",
 
       'statement.item17.title':
         '17. The Witness of the Synagogue in a Secular World',
       'statement.item17.content':
-        "We affirm the existence of a personal, holy, and sovereign God, who created and sustains all things. We affirm that true knowledge and wisdom begin with the fear of the Lord, and that any worldview which denies God's existence is ultimately incomplete and spiritually bankrupt.",
+        "We affirm the existence of a personal, holy, and sovereign G-d, who created and sustains all things. We affirm that true knowledge and wisdom begin with the fear of the L-RD, and that any worldview which denies G-d's existence is ultimately incomplete and spiritually bankrupt.",
 
       'statement.item18.title': '18. The Sanctity of Life',
       'statement.item18.content':
-        'We affirm the sanctity of all human life from conception to natural death. Every person bears the image of God and deserves dignity and protection. We affirm that all people, regardless of ability, age, or social status, are fearfully and wonderfully made.',
+        'We affirm the sanctity of all human life from conception to natural death. Every person bears the image of G-d and deserves dignity and protection. We affirm that all people, regardless of ability, age, or social status, are fearfully and wonderfully made.',
 
       'statement.item19.title':
         '19. Unity in the Essentials, Liberty in the Non-Essentials',
       'statement.item19.content':
-        'We do not divide over secondary issues. We respect diverse views on creation, eschatology, spiritual gifts, and theological systems such as Reformed theology. However, we do not affirm classical dispensationalism, as we believe God has one people in Messiah Yeshua. We strive for unity in the Good News and charity in all things, provided that these positions uphold the inerrancy and authority of Scripture. We affirm, for example, the historical reality of Adam and Eve, as Yeshua Himself spoke of them as literal persons (Matthew 19:4–6).',
+        'We do not divide over secondary issues. We respect diverse views on creation, eschatology, spiritual gifts, and theological systems such as Reformed theology. However, we do not affirm classical dispensationalism, as we believe G-d has one people in Messiah Yeshua. We strive for unity in the Good News and charity in all things, provided that these positions uphold the inerrancy and authority of Scripture. We affirm, for example, the historical reality of Adam and Eve, as Yeshua Himself spoke of them as literal persons (Matthew 19:4–6).',
 
       'statement.item20.title': '20. Final Affirmation',
       'statement.item20.content':
-        'We affirm these doctrines not as a cold creed but as a living confession — a call to proclaim Messiah to all people, especially to the Jewish people, with clarity, compassion, and boldness. We pledge to hold fast to the truth, preach the Word in season and out, and go wherever the Lord leads — from New York to Tel Aviv — until every knee bows and every tongue confesses that Yeshua the Messiah is Lord, to the glory of God the Father. Amen.',
+        'We affirm these doctrines not as a cold creed but as a living confession — a call to proclaim Messiah to all people, especially to the Jewish people, with clarity, compassion, and boldness. We pledge to hold fast to the truth, preach the Word in season and out, and go wherever the L-RD leads — from New York to Tel Aviv — until every knee bows and every tongue confesses that Yeshua the Messiah is L-RD, to the glory of G-d the Father. Amen.',
 
       // Terms of Use Page
       'terms.title': 'Terms of Use',
@@ -726,7 +734,7 @@ const resources = {
 
       'terms.governing.title': 'Governing Law',
       'terms.governing.content':
-        'These Terms of Use shall be governed by and construed in accordance with the laws of the State of North Carolina, without regard to its conflict of law provisions.',
+        'These Terms of Use shall be governed by and construed in accordance with the laws of the State of South Carolina, without regard to its conflict of law provisions.',
 
       'terms.contact.title': 'Contact Us',
       'terms.contact.content':
@@ -741,7 +749,7 @@ const resources = {
       'header.description':
         'מבשרים את הבשורה של ישוע באהבה מיוחדת לעם היהודי. בואו למצוא תשובות על ישוע, על התנ"ך ועל השליחות שלנו.',
       'header.keywords':
-        'ישוע, Jesus, המשיח, Messiah, יהודי, Jewish, הבשורה, Good News, שירות, Ministry, תנ"ך, Bible, בישור, Evangelism, אמונה, Faith, גאולה, Salvation, נבואות המשיח, Messianic Prophecy, הברית החדשה, New Testament, משיחיות, Messianic Judaism, Christian, Christianity, Jewish-Christian, Jewish-Christianity',
+        'ישוע, Jesus, המשיח, Messiah, יהודי, Jewish, הבשורה, Good News, שירות, Ministry, תנ"ך, Bible, בישור, Evangelism, אמונה, Faith, גאולה, Salvation, נבואות המשיח, Messianic Prophecy, הברית החדשה, New Covenant, משיחיות, Messianic Judaism, Christian, Christianity, Messianic Jew, Messianic Judaism',
       'header.ogTitle': 'שירות האמבלברגר — מכריזים את בשורת ישוע המשיח',
       'header.ogDescription': 'מבשרים את בשורת ישוע עם אהבה מיוחדת לעם ישראל.',
       'header.twitterTitle': 'שירות האמבלברגר — מכריזים את בשורת ישוע המשיח',
@@ -782,6 +790,9 @@ const resources = {
       'home.connect.newsletter': '📰 קבלו את העלון שלנו',
       'home.connect.contact': '📬 צרו קשר',
       'home.connect.follow': '𝕏 עקבו אחרינו בטוויטר',
+      'home.connect.instagram': '📸 עקבו אחרינו באינסטגרם',
+      'home.connect.facebook': '📘 עקבו אחרינו בפייסבוק',
+      'home.connect.youtube': '📺 עקבו אחרינו ביוטיוב',
       'home.connect.donate': '❤️ תרמו',
 
       // Blog
@@ -1078,6 +1089,9 @@ const resources = {
       'urls.donate': 'https://donorbox.org/humbleberger-ministries-he',
       'urls.synagogue': 'https://app.kehila.org/he/directory',
       'urls.twitter': 'https://x.com/humbleberger',
+      'urls.instagram': 'https://instagram.com/humbleberger',
+      'urls.facebook': 'https://facebook.com/humbleberger',
+      'urls.youtube': 'https://youtube.com/@humbleberger',
       'urls.bible': '/he/bible-viewer',
       'urls.contactForm': 'https://formspree.io/f/xnnvbwvz',
 
@@ -1167,6 +1181,8 @@ const resources = {
         'שם שירות האמבלברגר, הלוגו וכל השמות, הלוגואים, שמות המוצרים והשירותים, העיצובים והסיסמאות קשורים ושייכים לשירות האמבלברגר או לשותפיו. אין להשתמש בסימנים אלו ללא אישור בכתב מראש משירות האמבלברגר.',
 
       'copyright.page.biblicalContent.title': 'תוכן מקראי',
+      'copyright.page.biblicalContent.tlv':
+        'ציטוטי כתבי הקודש המסומנים TLV® נלקחו מ-The Living Torah, Copyright © 1981, 1982, 1984, 1986, 2004 על ידי Artscroll/Mesorah Publications, Ltd. בשימוש בהיתר. כל הזכויות שמורות.',
       'copyright.page.biblicalContent.csb':
         'ציטוטי כתבי הקודש המסומנים CSB® נלקחו מ-Christian Standard Bible®, זכויות יוצרים © 2017 על ידי Holman Bible Publishers. בשימוש בהיתר. Christian Standard Bible® ו-CSB® הם סימני מסחר רשומים של Holman Bible Publishers.',
       'copyright.page.biblicalContent.esv':

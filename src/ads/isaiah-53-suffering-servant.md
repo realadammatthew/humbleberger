@@ -38,7 +38,7 @@ schema_publisher: "Humbleberger Ministries"
 
 Isaiah 53 is one of the most hauntingly beautiful and deeply debated passages in the Hebrew Scriptures. For centuries, rabbis, scholars, and seekers have pondered a single, piercing question: **Who is the Suffering Servant described in this ancient prophecy?**
 
-Often referred to as the “forbidden chapter,” Isaiah 53 quietly sits in the heart of the Tanakh, and yet, many have never heard it read in synagogue. Why is this chapter so important, and what does it reveal about the identity of the Messiah?
+Often referred to as the “forbidden chapter,” Isaiah 53 quietly sits in the heart of the Tanakh, and yet, many have never heard it read in Synagogue. Why is this chapter so important, and what does it reveal about the identity of the Messiah?
 
 ---
 
@@ -76,7 +76,7 @@ Could it be that Isaiah was offering a tender promise of a Messiah who would not
 
 ## What This Means for You
 
-Isaiah 53 is not a passage to be analyzed only as literature or history. It’s a love letter written in pain, a promise penned in sorrow, and a roadmap to reconciliation between God and humanity.
+Isaiah 53 is not a passage to be analyzed only as literature or history. It’s a love letter written in pain, a promise penned in sorrow, and a roadmap to reconciliation between G-d and humanity.
 
 If Yeshua is the Servant described by Isaiah, then His suffering was not for nothing—it was **for you**.
 
@@ -84,5 +84,5 @@ Explore further. Ask your questions. Read with an open heart.
 
 ---
 
-> _“This chapter changed everything for me. It felt like God had hidden something right in plain sight — and once I saw it, I couldn’t unsee it.”_  
+> _“This chapter changed everything for me. It felt like G-d had hidden something right in plain sight — and once I saw it, I couldn’t unsee it.”_  
 > — David K., Jewish follower of Yeshua

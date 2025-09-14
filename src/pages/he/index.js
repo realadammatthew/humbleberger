@@ -126,8 +126,29 @@ const HebrewHome = () => {
                 >
                   {t('home.connect.newsletter')}
                 </a>
-                <a className="button" href={t('urls.internal.contact')}>
-                  {t('home.connect.contact')}
+                <a
+                  className="button"
+                  href={t('urls.instagram')}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {t('home.connect.instagram')}
+                </a>
+                <a
+                  className="button"
+                  href={t('urls.facebook')}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {t('home.connect.facebook')}
+                </a>
+                <a
+                  className="button"
+                  href={t('urls.youtube')}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {t('home.connect.youtube')}
                 </a>
                 <a
                   className="button"
@@ -136,6 +157,9 @@ const HebrewHome = () => {
                   rel="noopener noreferrer"
                 >
                   {t('home.connect.follow')}
+                </a>
+                <a className="button" href={t('urls.internal.contact')}>
+                  {t('home.connect.contact')}
                 </a>
                 <a
                   className="button donate-button"

@@ -1,6 +1,6 @@
 # Is It Possible That The Messiah Has Already Come?
 
-## Yeshua, the Promised Messiah Fulfills God’s Plan
+## Yeshua, the Promised Messiah Fulfills G-d’s Plan
 
 ### Humbleberger Ministries
 
@@ -13,7 +13,7 @@ _"Then I will pour out a spirit of grace and prayer on the house of David and th
 
 ## Dear Friend, Yeshua Is the Messiah!
 
-Beloved, as Jewish people yearning for the Messiah, you carry the sacred hope of God’s promises in the Tanakh. With love and certainty, I proclaim: **Yeshua of Nazareth is that Messiah**! He has come, fulfilling the prophecies of a suffering servant and initiating God’s kingdom, and He will return to complete His reign. Let us explore this truth together, trusting the God of Abraham, Isaac, and Jacob to reveal His Anointed One.
+Beloved, as Jewish people yearning for the Messiah, you carry the sacred hope of G-d’s promises in the Tanakh. With love and certainty, I proclaim: **Yeshua of Nazareth is that Messiah**! He has come, fulfilling the prophecies of a suffering servant and initiating G-d’s kingdom, and He will return to complete His reign. Let us explore this truth together, trusting the G-d of Abraham, Isaac, and Jacob to reveal His Anointed One.
 
 ---
 
@@ -25,7 +25,7 @@ The Tanakh paints a vivid portrait of a Messiah who suffers for our sins:
 - **Psalm 22**: A righteous sufferer, mocked, pierced in hands and feet, with garments divided by lots, mirrors Yeshua’s crucifixion (Matthew 27:35).
 - **Zechariah 12:10**: “They will look on Me whom they have pierced.” The Talmud ties this to a suffering Messiah. Yeshua’s death and Israel’s future repentance fulfill this prophecy.
 
-Yeshua’s suffering is no contradiction but the heart of God’s redemptive plan, rooted in Jewish tradition.
+Yeshua’s suffering is no contradiction but the heart of G-d’s redemptive plan, rooted in Jewish tradition.
 
 ---
 
@@ -45,7 +45,7 @@ No other figure aligns with this timeline, confirming Yeshua as the promised Mes
 
 The Tanakh also foretells a divine, reigning Messiah:
 
-- **Isaiah 9:6-7**: A Davidic child called “Mighty God” and “Prince of Peace.” Yeshua claimed this identity (John 10:30).
+- **Isaiah 9:6-7**: A Davidic child called “Mighty G-d” and “Prince of Peace.” Yeshua claimed this identity (John 10:30).
 - **Daniel 7:13-14**: The “Son of Man” receives eternal dominion. Yeshua, calling Himself Son of Man, ascended to reign (Acts 1:9).
 
 Yeshua’s resurrection and ascension launched His spiritual kingdom, to be completed at His return (Isaiah 11).
@@ -58,15 +58,15 @@ We honor your questions and answer with Scripture and love:
 
 - **“Where’s the world peace?”** The Tanakh shows a suffering Messiah (Isaiah 53) and a reigning King (Isaiah 2). Yeshua fulfilled the first; His second coming will bring the second.
 - **“Why didn’t all Jews believe?”** Thousands of Jews followed Yeshua (Acts 2:41). Romans 11:25-26 explains Israel’s partial hardening, yet promises all Israel’s salvation (Zechariah 12:10).
-- **“A divine Messiah?”** Isaiah 9:6 calls Him “Mighty God”; Daniel 7 shows Him worshipped. Yeshua’s divinity fulfills these prophecies.
+- **“A divine Messiah?”** Isaiah 9:6 calls Him “Mighty G-d”; Daniel 7 shows Him worshipped. Yeshua’s divinity fulfills these prophecies.
 
 ---
 
 ## The Call: Trust Yeshua, the Messiah
 
-Dear friend, Yeshua has come, fulfilling Isaiah 53, Psalm 22, Daniel 9, and more. No one else matches the Tanakh’s portrait. He died for your sins, rose, and reigns, offering eternal life. We lovingly urge you: Repent and trust Yeshua today. **Romans 10:9** promises, “If you confess with your mouth that Yeshua is Lord and believe in your heart that God raised Him from the dead, you will be saved.”
+Dear friend, Yeshua has come, fulfilling Isaiah 53, Psalm 22, Daniel 9, and more. No one else matches the Tanakh’s portrait. He died for your sins, rose, and reigns, offering eternal life. We lovingly urge you: Repent and trust Yeshua today. **Romans 10:9** promises, “If you confess with your mouth that Yeshua is L-RD and believe in your heart that G-d raised Him from the dead, you will be saved.”
 
-Open the Tanakh—read **Isaiah 53**, **Psalm 22**, **Zechariah 12**, **Daniel 9**—and ask God to reveal His Messiah. Believing in Yeshua fulfills your Jewish heritage, embracing the One who completes God’s covenant.
+Open the Tanakh—read **Isaiah 53**, **Psalm 22**, **Zechariah 12**, **Daniel 9**—and ask G-d to reveal His Messiah. Believing in Yeshua fulfills your Jewish heritage, embracing the One who completes G-d’s covenant.
 
 ---
 

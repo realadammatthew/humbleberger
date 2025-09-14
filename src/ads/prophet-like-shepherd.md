@@ -17,7 +17,7 @@ category: "Messianic Prophecy"
 tags: ["Prophet", "Moses", "Yeshua", "Deuteronomy 18", "Shepherd", "Messiah", "Hebrew Bible"]
 featured: true
 priority: 0.93
-excerpt: "Moses promised a prophet who would lead with God’s voice and a shepherd’s heart. Could it be Yeshua?"
+excerpt: "Moses promised a prophet who would lead with G-d’s voice and a shepherd’s heart. Could it be Yeshua?"
 social_share_text: "A Prophet Like a Shepherd: Could this ancient promise point to Yeshua?"
 trust_badges: ["501(c)(3) Nonprofit", "Tax-Deductible Giving", "Free Messianic Resources"]
 testimonial: "When I read Deuteronomy 18 again, it felt like it pointed right to Yeshua."
@@ -34,9 +34,9 @@ schema_publisher: "Humbleberger Ministries"
 
 # A Prophet Like a Shepherd: Guiding Us Through Ancient Texts
 
-### Could there be one foretold who would not only speak God's word — but gently lead His people?
+### Could there be one foretold who would not only speak G-d's word — but gently lead His people?
 
-From Moses to Malachi, the Hebrew Scriptures speak of prophets — chosen vessels through whom God revealed His heart. But one prophecy stands out: a promise of **a prophet like Moses**, yet unlike any before.
+From Moses to Malachi, the Hebrew Scriptures speak of prophets — chosen vessels through whom G-d revealed His heart. But one prophecy stands out: a promise of **a prophet like Moses**, yet unlike any before.
 
 Who is this prophet, and could he be the shepherd our souls long for?
 
@@ -47,7 +47,7 @@ Who is this prophet, and could he be the shepherd our souls long for?
 > _“I will raise up for them a prophet like you from among their brothers…”_  
 > — Deuteronomy 18:18
 
-Moses spoke of one who would come after him — someone with divine authority, intimate with God, and able to lead the people with wisdom and compassion.
+Moses spoke of one who would come after him — someone with divine authority, intimate with G-d, and able to lead the people with wisdom and compassion.
 
 This wasn’t just another prophet. This one would be **the** prophet.
 

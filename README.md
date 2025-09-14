@@ -1,6 +1,6 @@
 # Humbleberger Ministries Website
 
-This is the official website for [Humbleberger Ministries](https://humbleberger.org), a gospel-centered mission focused on Jewish evangelism and discipleship.
+This is the official website for [Humbleberger Ministries](https://humbleberger.org), a gospel-centered mission focused on Jewish outreach and discipleship.
 
 ## 🛠️ Tech Stack
 
@@ -195,7 +195,7 @@ The automatically generated sitemap includes all pages in both languages, ensuri
 ## 🔢 Organization Info
 
 - FEIN: 33-4533201
-- Registered 501(c)(3) Non-Profit in North Carolina
+- Registered 501(c)(3) Non-Profit
 - All donations are tax-deductible
 
 ## 🤝 Contributing

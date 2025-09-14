@@ -36,7 +36,7 @@ schema_publisher: "Humbleberger Ministries"
 
 ### Has Yeshua left a trail of truth across the centuries?
 
-Many know Yeshua (Jesus) as the central figure of the New Testament. But His story didn’t begin in Bethlehem — and it certainly didn’t end in Jerusalem. From ancient prophecy to global impact, the **echoes of Yeshua** reverberate through history.
+Many know Yeshua (Jesus) as the central figure of the New Covenant. But His story didn’t begin in Bethlehem — and it certainly didn’t end in Jerusalem. From ancient prophecy to global impact, the **echoes of Yeshua** reverberate through history.
 
 ---
 

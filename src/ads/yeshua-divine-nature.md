@@ -36,15 +36,15 @@ schema_publisher: "Humbleberger Ministries"
 
 ### Could the Messiah be more than a man?
 
-Throughout the Hebrew Scriptures, glimpses of divine light appear — the Angel of the Lord, the Glory that filled the Temple, the mysterious figure in Daniel 7 called the "Son of Man." Could these point to a deeper truth about the Messiah's nature?
+Throughout the Hebrew Scriptures, glimpses of divine light appear — the Angel of the L-RD, the Glory that filled the Temple, the mysterious figure in Daniel 7 called the "Son of Man." Could these point to a deeper truth about the Messiah's nature?
 
-Yeshua (Jesus) didn't just claim to speak for God — He claimed to be **one with God**.
+Yeshua (Jesus) didn't just claim to speak for G-d — He claimed to be **one with G-d**.
 
 ---
 
 ## Clues in the Hebrew Scriptures
 
-> _“And his name shall be called… Mighty God, Everlasting Father, Prince of Peace.”_  
+> _“And his name shall be called… Mighty G-d, Everlasting Father, Prince of Peace.”_  
 > — Isaiah 9:6
 
 Some ancient prophecies suggest the coming of a figure both divine and human — a light that would shine in the darkness, a child born who would carry eternal titles.
@@ -63,7 +63,7 @@ He was humble — but made divine claims. Could both be true?
 
 ## The Divine Mystery Unveiled
 
-If Yeshua truly is who He claimed to be, then we are not left with just a teacher or prophet. We are left with the incarnation of God's love — walking among us, shining light into our darkness.
+If Yeshua truly is who He claimed to be, then we are not left with just a teacher or prophet. We are left with the incarnation of G-d's love — walking among us, shining light into our darkness.
 
 And that light still shines today.
 

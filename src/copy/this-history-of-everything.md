@@ -4,23 +4,23 @@
 
 ### Humbleberger Ministries
 
-When we talk about "The History of Everything," there are many ways to look at it. Today, I want to humbly share with you one such perspective that I personally find deeply fascinating and spiritually profound. This view comes from a **Jewish-Christian Young Earth Creationist, Pre-Tribulation, Pre-Millennial** framework. I emphasize that this is just one of many interpretative frameworks, and I encourage each of you to pray, meditate, and study the Scriptures to form your own convictions as the Spirit leads.
+When we talk about "The History of Everything," there are many ways to look at it. Today, I want to humbly share with you one such perspective that I personally find deeply fascinating and spiritually profound. This view comes from a **Messianic Jewish Young Earth Creationist, Pre-Tribulation, Pre-Millennial** framework. I emphasize that this is just one of many interpretative frameworks, and I encourage each of you to pray, meditate, and study the Scriptures to form your own convictions as the Spirit leads.
 
 ## Creation & Fall (\~4004 BC)
 
-According to a Young Earth Creationist reading of Genesis, God created the heavens and the earth in six literal days. Adam and Eve, the first humans, fell into sin, introducing death and suffering into a once-perfect creation.
+According to a Young Earth Creationist reading of Genesis, G-d created the heavens and the earth in six literal days. Adam and Eve, the first humans, fell into sin, introducing death and suffering into a once-perfect creation.
 
 ## The Flood (\~2348 BC)
 
-In response to the corruption of mankind, God judged the earth with a global flood. Noah and his family were preserved in the ark, representing God’s mercy and faithfulness even in judgment.
+In response to the corruption of mankind, G-d judged the earth with a global flood. Noah and his family were preserved in the ark, representing G-d’s mercy and faithfulness even in judgment.
 
 ## The Patriarchs and the Nation of Israel (\~2000 BC)
 
-God called Abraham, establishing a covenant promising land, descendants, and blessing to all nations. This covenant would ultimately point to the Messiah, Yeshua of Nazareth.
+G-d called Abraham, establishing a covenant promising land, descendants, and blessing to all nations. This covenant would ultimately point to the Messiah, Yeshua of Nazareth.
 
 ## The Exodus and the Kingdom (\~1446 BC to \~1000 BC)
 
-God delivered Israel from Egypt, gave the Law at Sinai, and later established the Davidic Kingdom. God's promise to David of an eternal throne foreshadowed the coming of the Messiah.
+G-d delivered Israel from Egypt, gave the Law at Sinai, and later established the Davidic Kingdom. G-d's promise to David of an eternal throne foreshadowed the coming of the Messiah.
 
 ## Exile, Return, and Second Temple (586 BC to 516 BC)
 
@@ -28,11 +28,11 @@ Israel faced judgment and exile due to unfaithfulness but was later allowed to r
 
 ## The First Coming of Messiah (\~4-6 BC to AD 33)
 
-Yeshua was born in Bethlehem, lived a sinless life, was crucified, and rose from the dead, offering salvation to all who believe. The Church was established at Pentecost, initiating the Church Age.
+Yeshua was born in Bethlehem, lived a sinless life, was crucified, and rose from the dead, offering salvation to all who believe. The Synagogue was established at Pentecost, initiating the Messianic Age.
 
-## Church History (AD 33 to Modern Day)
+## Synagogue History (AD 33 to Modern Day)
 
-From the early Church to the Council of Nicaea, the Great Schism, the Protestant Reformation, the Great Awakenings, and the Modern Missions Movement, God has continued to work through His people to spread the Gospel.
+From the early Synagogue to the Council of Nicaea, the Great Schism, the Protestant Reformation, the Great Awakenings, and the Modern Missions Movement, G-d has continued to work through His people to spread the Good News.
 
 ## The Rebirth of Israel (1948) and Jerusalem Reclaimed (1967)
 
@@ -42,11 +42,11 @@ In fulfillment of prophecies like Ezekiel 37 and Luke 21:24, Israel was re-estab
 
 Here is where it gets particularly exciting and speculative from my personal perspective:
 
-- **The Rapture:** Messiah could come at any moment to rapture His Church (1 Thessalonians 4:13-18).
+- **The Rapture:** Messiah could come at any moment to rapture His Synagogue (1 Thessalonians 4:13-18).
 - **The Tribulation:** A seven-year period of global judgment and the rise of the Antichrist (Daniel 9; Revelation 6-19).
 - **The Second Coming:** Yeshua returns visibly to defeat the Antichrist and establish His Millennial Kingdom (\~2032).
 - **The Millennial Kingdom:** Yeshua reigns for 1,000 years on earth (Revelation 20:1-6).
-- **The Final Judgment and Eternal State:** After Satan's final rebellion, unbelievers are judged, and God creates a New Heaven and New Earth where believers dwell with Him forever (Revelation 20-22).
+- **The Final Judgment and Eternal State:** After Satan's final rebellion, unbelievers are judged, and G-d creates a New Heaven and New Earth where believers dwell with Him forever (Revelation 20-22).
 
 ## A Word of Encouragement
 
@@ -54,7 +54,7 @@ While I personally believe that Messiah's return could be imminent, even possibl
 
 Regardless of your eschatological views, may we all live each day with the joyful anticipation of His coming, faithfully serving until He returns.
 
-**Maranatha - Come, Lord Yeshua!**
+**Maranatha - Come, L-RD Yeshua!**
 
 ---
 

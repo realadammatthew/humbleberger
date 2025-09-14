@@ -36,6 +36,9 @@ const CopyrightPage = () => {
 
             <h3>{t('copyright.page.biblicalContent.title')}</h3>
             <p>
+              {t('copyright.page.biblicalContent.tlv')}
+            </p>
+            <p>
               {t('copyright.page.biblicalContent.csb')}
             </p>
             <p>
