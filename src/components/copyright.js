@@ -294,6 +294,9 @@ const Copyright = () => {
         <p style={{ fontSize: "0.7rem", marginTop: "1rem", color: "#666" }}>
           {t('common.fein.title')}: {t('common.fein.number')}
         </p>
+        <p style={{ fontSize: "0.7rem", marginTop: "0.1rem", color: "#666" }}>
+          {t('copyright.developedBy')} <a href="https://hire.adam.matthewsteinberger.com" target="_blank" rel="noopener noreferrer" style={{ color: "#666", textDecoration: "underline" }}>Adam Matthew Steinberger LLC</a>
+        </p>
       </div>
     </footer>
   );

@@ -103,6 +103,7 @@ const resources = {
       'copyright.statement': 'Statement of Faith',
       'copyright.legal':
         'Humbleberger Ministries is officially registered with the Internal Revenue Service as a 501(c)(3) non-profit organization. All donations are tax-deductible.',
+      'copyright.developedBy': 'Website developed by',
 
       // Cookie Banner
       'cookies.message':
@@ -835,6 +836,7 @@ const resources = {
       'copyright.statement': 'הצהרת אמונה',
       'copyright.legal':
         'שירות האמבלברגר רשום כחוק בארצות הברית כארגון ללא מטרות רווח. כל התרומות מוכרות לצורכי מס לפי החוק האמריקאי.',
+      'copyright.developedBy': 'פותח על ידי',
 
       // Cookie Banner
       'cookies.message':
