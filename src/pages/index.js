@@ -46,53 +46,75 @@ const Home = () => {
           <div className="home-cta-buttons">
             <a
               href={t('urls.internal.whoIsYeshuaFromHome')}
-              className="button"
+              className="button primary-cta"
               style={{
                 display: "inline-flex",
                 alignItems: "center",
                 justifyContent: "center",
                 textAlign: "center",
-                fontSize: "1.2rem",
+                fontSize: "1.5rem",
                 width: "100%",
-                maxWidth: "300px",
-                padding: "0.75rem 1.5rem",
-                backgroundColor: "#0070f3",
-                color: "#fff",
+                maxWidth: "500px",
+                padding: "1.25rem 2rem",
+                background: "linear-gradient(135deg, #b8860b 0%, #daa520 50%, #f5d976 100%)",
+                color: "#1a1d23",
                 textDecoration: "none",
-                borderRadius: "5px",
-                boxShadow: "0 2px 4px rgba(0,0,0,0.1)",
-                transition: "background-color 0.3s, transform 0.2s",
-                fontWeight: "bold",
-                textTransform: "uppercase",
-                letterSpacing: "0.05em"
+                borderRadius: "12px",
+                boxShadow: "0 6px 20px rgba(184, 134, 11, 0.5), 0 2px 8px rgba(0,0,0,0.3)",
+                transition: "all 0.3s ease",
+                fontWeight: "800",
+                textTransform: "none",
+                letterSpacing: "0.02em",
+                border: "2px solid rgba(245, 217, 118, 0.3)"
+              }}
+              onMouseEnter={(e) => {
+                e.target.style.transform = "translateY(-3px)";
+                e.target.style.boxShadow = "0 8px 25px rgba(184, 134, 11, 0.6), 0 4px 12px rgba(0,0,0,0.4)";
+                e.target.style.background = "linear-gradient(135deg, #daa520 0%, #f5d976 50%, #fff8dc 100%)";
+              }}
+              onMouseLeave={(e) => {
+                e.target.style.transform = "translateY(0)";
+                e.target.style.boxShadow = "0 6px 20px rgba(184, 134, 11, 0.5), 0 2px 8px rgba(0,0,0,0.3)";
+                e.target.style.background = "linear-gradient(135deg, #b8860b 0%, #daa520 50%, #f5d976 100%)";
               }}
             >
-              {t('home.cta.whoIsYeshua')}
+              ✨ {t('home.cta.whoIsYeshua')}
             </a>
             <a
               href={t('urls.internal.encounteringMessiah')}
-              className="button"
+              className="button primary-cta"
               style={{
                 display: "inline-flex",
                 alignItems: "center",
                 justifyContent: "center",
                 textAlign: "center",
-                fontSize: "1.2rem",
+                fontSize: "1.5rem",
                 width: "100%",
-                maxWidth: "300px",
-                padding: "0.75rem 1.5rem",
-                backgroundColor: "#0070f3",
-                color: "#fff",
+                maxWidth: "500px",
+                padding: "1.25rem 2rem",
+                background: "linear-gradient(135deg, #b8860b 0%, #daa520 50%, #f5d976 100%)",
+                color: "#1a1d23",
                 textDecoration: "none",
-                borderRadius: "5px",
-                boxShadow: "0 2px 4px rgba(0,0,0,0.1)",
-                transition: "background-color 0.3s, transform 0.2s",
-                fontWeight: "bold",
-                textTransform: "uppercase",
-                letterSpacing: "0.05em"
+                borderRadius: "12px",
+                boxShadow: "0 6px 20px rgba(184, 134, 11, 0.5), 0 2px 8px rgba(0,0,0,0.3)",
+                transition: "all 0.3s ease",
+                fontWeight: "800",
+                textTransform: "none",
+                letterSpacing: "0.02em",
+                border: "2px solid rgba(245, 217, 118, 0.3)"
+              }}
+              onMouseEnter={(e) => {
+                e.target.style.transform = "translateY(-3px)";
+                e.target.style.boxShadow = "0 8px 25px rgba(184, 134, 11, 0.6), 0 4px 12px rgba(0,0,0,0.4)";
+                e.target.style.background = "linear-gradient(135deg, #daa520 0%, #f5d976 50%, #fff8dc 100%)";
+              }}
+              onMouseLeave={(e) => {
+                e.target.style.transform = "translateY(0)";
+                e.target.style.boxShadow = "0 6px 20px rgba(184, 134, 11, 0.5), 0 2px 8px rgba(0,0,0,0.3)";
+                e.target.style.background = "linear-gradient(135deg, #b8860b 0%, #daa520 50%, #f5d976 100%)";
               }}
             >
-              {t('home.cta.encounteringMessiah')}
+              📖 {t('home.cta.encounteringMessiah')}
             </a>
           </div>
         </section>
