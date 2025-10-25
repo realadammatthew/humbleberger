@@ -11,15 +11,18 @@ const GoogleAdsCTAs = () => {
       <div style={{
         display: 'flex',
         flexDirection: 'column',
+        alignItems: 'center',
         gap: '1.2rem',
-        maxWidth: '650px',
-        margin: '0 auto'
+        width: '100%',
+        maxWidth: '600px',
+        margin: '0 auto',
+        padding: '0 1rem'
       }}>
         <a
           href={t('meetMessiah.cta.whoIsYeshuaLink')}
           className="button"
           style={{
-            display: 'inline-block',
+            display: 'block',
             padding: '1.1rem 2rem',
             backgroundColor: '#0070f3',
             color: '#fff',
@@ -38,7 +41,7 @@ const GoogleAdsCTAs = () => {
           href={t('meetMessiah.cta.encounteringMessiahLink')}
           className="button"
           style={{
-            display: 'inline-block',
+            display: 'block',
             padding: '1.1rem 2rem',
             backgroundColor: '#0070f3',
             color: '#fff',
@@ -59,7 +62,7 @@ const GoogleAdsCTAs = () => {
           rel="noopener noreferrer"
           className="button"
           style={{
-            display: 'inline-block',
+            display: 'block',
             padding: '1.1rem 2rem',
             backgroundColor: '#0070f3',
             color: '#fff',
@@ -80,7 +83,7 @@ const GoogleAdsCTAs = () => {
           rel="noopener noreferrer"
           className="button"
           style={{
-            display: 'inline-block',
+            display: 'block',
             padding: '1.1rem 2rem',
             backgroundColor: '#0070f3',
             color: '#fff',
@@ -99,7 +102,7 @@ const GoogleAdsCTAs = () => {
           href={t('meetMessiah.cta.donateLink')}
           className="button donate-button"
           style={{
-            display: 'inline-block',
+            display: 'block',
             padding: '1.1rem 2rem',
             backgroundColor: '#dc3545',
             color: '#fff',
