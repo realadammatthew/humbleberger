@@ -16,7 +16,7 @@ const Home = () => {
           <p style={{textAlign: "center", fontSize: "1.6rem"}}>
             {t('home.about.welcome')}
           </p>
-          <p style={{textAlign: "center", fontSize: "1.3rem"}}>
+          <p style={{textAlign: "center", fontSize: "1.3rem", lineHeight: "1.75"}}>
             {t('home.about.description')}
           </p>
           {/* <div style={{ display: 'flex', justifyContent: 'center' }}>

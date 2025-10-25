@@ -25,9 +25,6 @@ const DonatePage = () => {
       />
 
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr', padding: '0' }}>
-        <div style={{ padding: '0 1rem' }}>
-          <ReturnToHome />
-        </div>
         <section style={{ padding: '1.5rem 1rem', margin: '1rem 0' }}>
           <h2 style={{ marginBottom: '1rem', marginTop: 0 }}>{t('donate.title')}</h2>
           <div
@@ -38,7 +35,7 @@ const DonatePage = () => {
           >
             <p
               style={{
-                fontSize: "1.2rem",
+                fontSize: "1.4rem",
                 color: "#d0d0d0",
                 lineHeight: 1.8,
                 maxWidth: "700px",
@@ -49,7 +46,7 @@ const DonatePage = () => {
             </p>
             <p
               style={{
-                fontSize: "1rem",
+                fontSize: "1.15rem",
                 color: "#a0a0a0",
                 fontStyle: "italic",
                 maxWidth: "700px",
@@ -116,7 +113,7 @@ const DonatePage = () => {
             <h3
               style={{
                 color: "#f5d976",
-                fontSize: "1.4rem",
+                fontSize: "1.6rem",
                 marginBottom: "1rem",
               }}
             >
@@ -124,7 +121,7 @@ const DonatePage = () => {
             </h3>
             <p
               style={{
-                fontSize: "1.05rem",
+                fontSize: "1.3rem",
                 color: "#d0d0d0",
                 lineHeight: 1.8,
                 maxWidth: "700px",
@@ -135,6 +132,9 @@ const DonatePage = () => {
             </p>
           </div>
         </section>
+        <div style={{ padding: '0 1rem' }}>
+          <ReturnToHome />
+        </div>
       </main>
     </>
   );

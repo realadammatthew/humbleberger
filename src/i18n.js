@@ -41,7 +41,7 @@ const resources = {
       // Home Page
       'home.about.title': 'About the Mission',
       'home.about.welcome':
-        'Welcome to Humbleberger Ministries, where we proclaim the Good News of Yeshua the Jewish Messiah with a special heart for the Jewish people. Our mission is rooted in our love for Messiah: "For I am not ashamed of the Good News, because it is the power of G-d for salvation to everyone who believes, first to the Jewish person, and also to the Non-Jewish person." (Romans 1:16)',
+        'Welcome to Humbleberger Ministries, where we proclaim the Good News of Yeshua the Jewish Messiah with a special heart for the Jewish people. Our mission is rooted in our love for Messiah: "For I am not ashamed of the Good News, because it is the power of G-d for salvation to everyone who believes, first to the Jewish person, and also to the Non-Jewish person."',
       'home.about.description':
         "Through discipleship, street outreach, and digital tools, we're equipping believers to reach those searching for truth with the Good News of Yeshua our Jewish Messiah. Got questions? You can chat with us or find a Bible-believing Messianic Synagogue near you.",
       'home.cta.whoIsYeshua': 'Who is Yeshua?',
@@ -228,7 +228,7 @@ const resources = {
       'meetMessiah.cta.subscribe': 'Subscribe to Newsletter',
       'meetMessiah.cta.subscribeLink': 'https://eepurl.com/ja6zNY',
       'meetMessiah.cta.donate': 'Donate Today!',
-      'meetMessiah.cta.donateLink': 'https://donorbox.org/humbleberger-ministries',
+      'meetMessiah.cta.donateLink': '/donate',
       'meetMessiah.trustBadge': 'Humbleberger Ministries is a 501(c)(3) nonprofit organization. All donations are tax-deductible.',
       'encountering.subtitle':
         'Ancient questions. Modern seekers. One promised hope.',
@@ -793,7 +793,7 @@ const resources = {
       // Home Page
       'home.about.title': 'על השליחות',
       'home.about.welcome':
-        'ברוכים הבאים לשירות האמבלברגר – כאן אנו מכריזים את בשורת ישוע עם לב מיוחד לעם היהודי. השליחות שלנו מושרשת ברומים א׳:16: "כי אינני בוש בבשורה, שכן היא כוח אלוהים להושיע לכל המאמין, ליהודי בראשונה וגם ליווני."',
+        'ברוכים הבאים לשירות האמבלברגר – כאן אנו מכריזים את בשורת ישוע עם לב מיוחד לעם היהודי. השליחות שלנו מושרשת באהבתנו למשיח: "כי אינני בוש בבשורה, שכן היא כוח אלוהים להושיע לכל המאמין, ליהודי בראשונה וגם ליווני."',
       'home.about.description':
         'באמצעות תלמידות, פעילות רחוב וכלים דיגיטליים, אנו מציידים מאמינים להגיע למחפשי האמת באהבה ובאמת.',
       'home.cta.whoIsYeshua': 'מי הוא ישוע?',
@@ -972,7 +972,7 @@ const resources = {
       'meetMessiah.cta.subscribe': 'הירשמו לעלון',
       'meetMessiah.cta.subscribeLink': 'https://mailchi.mp/2757d0257dda/humbleberger-ministries-he',
       'meetMessiah.cta.donate': 'תרמו היום!',
-      'meetMessiah.cta.donateLink': 'https://donorbox.org/humbleberger-ministries-he',
+      'meetMessiah.cta.donateLink': '/he/donate',
       'meetMessiah.trustBadge': 'שירות האמבלברגר הוא ארגון ללא מטרות רווח רשום כחוק. כל התרומות מוכרות לצורכי מס.',
       'encountering.subtitle':
         'שאלות עתיקות. מחפשים בני זמננו. תקווה אחת מובטחת.',

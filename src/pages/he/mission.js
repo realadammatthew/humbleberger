@@ -10,18 +10,16 @@ const HebrewMission = () => {
   return (
     <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
       <section>
-        <h2>{t('mission.title')}</h2>
+        <h2 style={{ marginBottom: '1rem' }}>{t('mission.title')}</h2>
 
         <div
           className="mission-content"
           style={{
             textAlign: "center",
-            padding: "2rem",
-            fontSize: "1.3rem",
-            lineHeight: "1.6",
+            padding: "0 2rem 2rem",
           }}
         >
-          <p>
+          <p style={{ margin: 0, fontSize: "1.6rem", lineHeight: "1.85" }}>
             {t('mission.content')}
           </p>
         </div>

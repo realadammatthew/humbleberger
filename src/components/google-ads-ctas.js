@@ -93,8 +93,6 @@ const GoogleAdsCTAs = () => {
         </a>
         <a
           href={t('meetMessiah.cta.donateLink')}
-          target="_blank"
-          rel="noopener noreferrer"
           className="button donate-button"
           style={{
             display: 'inline-block',
