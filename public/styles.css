@@ -372,6 +372,11 @@ section h2 {
     padding: 0 1rem;
   }
 
+  .blog-post-subtitle {
+    font-size: 1.4rem !important;
+    line-height: 1.6 !important;
+  }
+
   .blog-post-content {
     font-size: 1.5rem;
     text-align: justify;

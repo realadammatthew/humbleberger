@@ -160,16 +160,24 @@ const EbookDownload = () => {
             padding: 1.5rem;
             margin: 1.5rem 0;
           }
-          
-          .ebook-features ul {
-            grid-template-columns: 1fr;
+
+          .ebook-download-content p,
+          .ebook-features,
+          .ebook-note {
+            display: none;
           }
-          
+
+          .ebook-download-content h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+          }
+
           .download-buttons {
             flex-direction: column;
             align-items: center;
+            margin: 0;
           }
-          
+
           .ebook-download-button {
             padding: 0.875rem 1.5rem;
             font-size: 1rem;
