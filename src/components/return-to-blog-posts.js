@@ -55,6 +55,7 @@ const ReturnToBlogPosts = ({ referrer }) => {
             color: "#2563eb",
             textDecoration: "none",
             fontWeight: 600,
+            fontSize: "1.1rem",
           }}
         >
           {t('common.returnTo')} {returnText}

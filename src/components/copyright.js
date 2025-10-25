@@ -22,7 +22,7 @@ const Copyright = () => {
         >
           {t('copyright.legal')}
         </p>
-        <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "0.5rem", marginTop: "1.5rem" }}>
+        <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "0.5rem", marginTop: "1.5rem", fontSize: "0.9rem" }}>
           <Link href={t('urls.internal.countingCostFromHome')} legacyBehavior>
             <a
               style={{
