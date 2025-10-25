@@ -13,6 +13,24 @@ const Home = () => {
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
         <section>
           <h2>{t('home.about.title')}</h2>
+          <div style={{
+            display: 'flex',
+            justifyContent: 'center',
+            margin: '1.5rem 0 2rem',
+            maxWidth: '100%'
+          }}>
+            <img
+              src="/social-preview.png"
+              alt="Humbleberger Ministries"
+              style={{
+                width: '100%',
+                maxWidth: '800px',
+                height: 'auto',
+                borderRadius: '12px',
+                boxShadow: '0 4px 12px rgba(0, 0, 0, 0.3)'
+              }}
+            />
+          </div>
           <p style={{textAlign: "center", fontSize: "1.6rem"}}>
             {t('home.about.welcome')}
           </p>
