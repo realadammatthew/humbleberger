@@ -53,7 +53,7 @@ const ContactPage = () => {
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
         <section>
           <h2>{t('contact.title')}</h2>
-          <p style={{ textAlign: "center", marginBottom: "2rem" }}>
+          <p style={{ textAlign: "center", marginBottom: "2rem", fontSize: "1.3rem", lineHeight: "1.75" }}>
             {t('contact.description')}
           </p>
           <form
@@ -71,7 +71,7 @@ const ContactPage = () => {
             <div>
               <label
                 htmlFor="name"
-                style={{ display: "block", marginBottom: "0.5rem" }}
+                style={{ display: "block", marginBottom: "0.5rem", fontSize: "1.1rem", color: "#f5d976", fontWeight: "600" }}
               >
                 {t('contact.name')}
               </label>
@@ -82,19 +82,28 @@ const ContactPage = () => {
                 required
                 style={{
                   width: "100%",
-                  padding: "0.75rem",
+                  padding: "0.9rem",
                   borderRadius: "8px",
-                  border: "1px solid #444",
-                  background: "#2a2d2e",
+                  border: "2px solid rgba(184, 134, 11, 0.4)",
+                  background: "rgba(255, 255, 255, 0.08)",
                   color: "#fff",
-                  fontSize: "1rem",
+                  fontSize: "1.1rem",
+                  transition: "border-color 0.3s, background 0.3s",
+                }}
+                onFocus={(e) => {
+                  e.target.style.borderColor = "#f5d976";
+                  e.target.style.background = "rgba(255, 255, 255, 0.12)";
+                }}
+                onBlur={(e) => {
+                  e.target.style.borderColor = "rgba(184, 134, 11, 0.4)";
+                  e.target.style.background = "rgba(255, 255, 255, 0.08)";
                 }}
               />
             </div>
             <div>
               <label
                 htmlFor="email"
-                style={{ display: "block", marginBottom: "0.5rem" }}
+                style={{ display: "block", marginBottom: "0.5rem", fontSize: "1.1rem", color: "#f5d976", fontWeight: "600" }}
               >
                 {t('contact.email')}
               </label>
@@ -105,19 +114,28 @@ const ContactPage = () => {
                 required
                 style={{
                   width: "100%",
-                  padding: "0.75rem",
+                  padding: "0.9rem",
                   borderRadius: "8px",
-                  border: "1px solid #444",
-                  background: "#2a2d2e",
+                  border: "2px solid rgba(184, 134, 11, 0.4)",
+                  background: "rgba(255, 255, 255, 0.08)",
                   color: "#fff",
-                  fontSize: "1rem",
+                  fontSize: "1.1rem",
+                  transition: "border-color 0.3s, background 0.3s",
+                }}
+                onFocus={(e) => {
+                  e.target.style.borderColor = "#f5d976";
+                  e.target.style.background = "rgba(255, 255, 255, 0.12)";
+                }}
+                onBlur={(e) => {
+                  e.target.style.borderColor = "rgba(184, 134, 11, 0.4)";
+                  e.target.style.background = "rgba(255, 255, 255, 0.08)";
                 }}
               />
             </div>
             <div>
               <label
                 htmlFor="message"
-                style={{ display: "block", marginBottom: "0.5rem" }}
+                style={{ display: "block", marginBottom: "0.5rem", fontSize: "1.1rem", color: "#f5d976", fontWeight: "600" }}
               >
                 {t('contact.message')}
               </label>
@@ -128,13 +146,22 @@ const ContactPage = () => {
                 rows="6"
                 style={{
                   width: "100%",
-                  padding: "0.75rem",
+                  padding: "0.9rem",
                   borderRadius: "8px",
-                  border: "1px solid #444",
-                  background: "#2a2d2e",
+                  border: "2px solid rgba(184, 134, 11, 0.4)",
+                  background: "rgba(255, 255, 255, 0.08)",
                   color: "#fff",
-                  fontSize: "1rem",
+                  fontSize: "1.1rem",
                   resize: "vertical",
+                  transition: "border-color 0.3s, background 0.3s",
+                }}
+                onFocus={(e) => {
+                  e.target.style.borderColor = "#f5d976";
+                  e.target.style.background = "rgba(255, 255, 255, 0.12)";
+                }}
+                onBlur={(e) => {
+                  e.target.style.borderColor = "rgba(184, 134, 11, 0.4)";
+                  e.target.style.background = "rgba(255, 255, 255, 0.08)";
                 }}
               ></textarea>
             </div>
