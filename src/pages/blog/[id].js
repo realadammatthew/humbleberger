@@ -120,13 +120,13 @@ export async function getStaticProps({ params: { id } }) {
   const { data, content } = matter(markdownWithMeta);
   
   // Get first non-empty line, remove leading # and whitespace
-  const firstLine = content.split('\n').find(line => line.trim().length > 0) || '';
+  const lines = content.split('\n');
+  const firstLine = lines.find(line => line.trim().length > 0) || '';
   const mdTitle = firstLine.replace(/^#+\s*/, '');
-  
-  // Remove the first heading from the content
-  const contentWithoutTitle = content
-    .split('\n')
-    .slice(1) // Skip the first line (title)
+
+  // Remove all H1 headings (# Title) from the content to avoid duplication
+  const contentWithoutTitle = lines
+    .filter(line => !line.trim().match(/^#\s+/))
     .join('\n')
     .trim(); // Remove any extra whitespace
 
@@ -141,13 +141,13 @@ export async function getStaticProps({ params: { id } }) {
       const { data: hebrewDataFromFile, content: hebrewContentFromFile } = matter(hebrewMarkdownWithMeta);
       
       // Get first non-empty line, remove leading # and whitespace
-      const hebrewFirstLine = hebrewContentFromFile.split('\n').find(line => line.trim().length > 0) || '';
+      const hebrewLines = hebrewContentFromFile.split('\n');
+      const hebrewFirstLine = hebrewLines.find(line => line.trim().length > 0) || '';
       const hebrewMdTitle = hebrewFirstLine.replace(/^#+\s*/, '');
-      
-      // Remove the first heading from the content
-      const hebrewContentWithoutTitle = hebrewContentFromFile
-        .split('\n')
-        .slice(1) // Skip the first line (title)
+
+      // Remove all H1 headings (# Title) from the content to avoid duplication
+      const hebrewContentWithoutTitle = hebrewLines
+        .filter(line => !line.trim().match(/^#\s+/))
         .join('\n')
         .trim(); // Remove any extra whitespace
 

@@ -49,36 +49,36 @@ export async function getStaticProps({ params: { id } }) {
   // Load English content
   const markdownWithMeta = fs.readFileSync(path.join('src', 'ads', id + '.md'), 'utf-8');
   const { data, content } = matter(markdownWithMeta);
-  
+
   // Get first non-empty line, remove leading # and whitespace
-  const firstLine = content.split('\n').find(line => line.trim().length > 0) || '';
+  const lines = content.split('\n');
+  const firstLine = lines.find(line => line.trim().length > 0) || '';
   const mdTitle = firstLine.replace(/^#+\s*/, '');
-  
-  // Remove the first heading from the content
-  const contentWithoutTitle = content
-    .split('\n')
-    .slice(1) // Skip the first line (title)
+
+  // Remove all H1 headings (# Title) from the content to avoid duplication
+  const contentWithoutTitle = lines
+    .filter(line => !line.trim().match(/^#\s+/))
     .join('\n')
     .trim(); // Remove any extra whitespace
 
   // Try to load Hebrew content if it exists
   let hebrewContent = null;
   let hebrewData = null;
-  
+
   try {
     const hebrewPath = path.join('src', 'ads', 'he', id + '.md');
     if (fs.existsSync(hebrewPath)) {
       const hebrewMarkdownWithMeta = fs.readFileSync(hebrewPath, 'utf-8');
       const { data: hebrewDataFromFile, content: hebrewContentFromFile } = matter(hebrewMarkdownWithMeta);
-      
+
       // Get first non-empty line, remove leading # and whitespace
-      const hebrewFirstLine = hebrewContentFromFile.split('\n').find(line => line.trim().length > 0) || '';
+      const hebrewLines = hebrewContentFromFile.split('\n');
+      const hebrewFirstLine = hebrewLines.find(line => line.trim().length > 0) || '';
       const hebrewMdTitle = hebrewFirstLine.replace(/^#+\s*/, '');
-      
-      // Remove the first heading from the content
-      const hebrewContentWithoutTitle = hebrewContentFromFile
-        .split('\n')
-        .slice(1) // Skip the first line (title)
+
+      // Remove all H1 headings (# Title) from the content to avoid duplication
+      const hebrewContentWithoutTitle = hebrewLines
+        .filter(line => !line.trim().match(/^#\s+/))
         .join('\n')
         .trim(); // Remove any extra whitespace
 
@@ -88,7 +88,7 @@ export async function getStaticProps({ params: { id } }) {
   } catch (error) {
     console.log(`Hebrew version not found for ${id}`);
   }
-    
+
   return {
     props: {
       content: contentWithoutTitle,

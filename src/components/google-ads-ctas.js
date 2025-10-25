@@ -5,30 +5,31 @@ const GoogleAdsCTAs = () => {
 
   return (
     <div className="google-ads-ctas" style={{ marginTop: '3rem', textAlign: 'center' }}>
-      <h3 style={{ marginBottom: '1.5rem', color: '#fff', fontSize: '1.8rem' }}>
+      <h3 style={{ marginBottom: '1.5rem', color: '#f5d976', fontSize: '2rem', fontWeight: '700' }}>
         {t('meetMessiah.readyToLearn')}
       </h3>
-      <div style={{ 
-        display: 'flex', 
-        flexDirection: 'column', 
-        gap: '1rem', 
-        maxWidth: '600px', 
-        margin: '0 auto' 
+      <div style={{
+        display: 'flex',
+        flexDirection: 'column',
+        gap: '1.2rem',
+        maxWidth: '650px',
+        margin: '0 auto'
       }}>
         <a
           href={t('meetMessiah.cta.whoIsYeshuaLink')}
           className="button"
           style={{
             display: 'inline-block',
-            padding: '1rem 2rem',
+            padding: '1.1rem 2rem',
             backgroundColor: '#0070f3',
             color: '#fff',
             textDecoration: 'none',
-            borderRadius: '8px',
+            borderRadius: '10px',
             fontWeight: 'bold',
-            fontSize: '1.1rem',
+            fontSize: '1.25rem',
             textAlign: 'center',
-            transition: 'background-color 0.3s'
+            transition: 'all 0.3s',
+            boxShadow: '0 2px 8px rgba(0, 112, 243, 0.3)'
           }}
         >
           {t('meetMessiah.cta.whoIsYeshua')}
@@ -38,15 +39,16 @@ const GoogleAdsCTAs = () => {
           className="button"
           style={{
             display: 'inline-block',
-            padding: '1rem 2rem',
+            padding: '1.1rem 2rem',
             backgroundColor: '#0070f3',
             color: '#fff',
             textDecoration: 'none',
-            borderRadius: '8px',
+            borderRadius: '10px',
             fontWeight: 'bold',
-            fontSize: '1.1rem',
+            fontSize: '1.25rem',
             textAlign: 'center',
-            transition: 'background-color 0.3s'
+            transition: 'all 0.3s',
+            boxShadow: '0 2px 8px rgba(0, 112, 243, 0.3)'
           }}
         >
           {t('meetMessiah.cta.encounteringMessiah')}
@@ -58,15 +60,16 @@ const GoogleAdsCTAs = () => {
           className="button"
           style={{
             display: 'inline-block',
-            padding: '1rem 2rem',
+            padding: '1.1rem 2rem',
             backgroundColor: '#0070f3',
             color: '#fff',
             textDecoration: 'none',
-            borderRadius: '8px',
+            borderRadius: '10px',
             fontWeight: 'bold',
-            fontSize: '1.1rem',
+            fontSize: '1.25rem',
             textAlign: 'center',
-            transition: 'background-color 0.3s'
+            transition: 'all 0.3s',
+            boxShadow: '0 2px 8px rgba(0, 112, 243, 0.3)'
           }}
         >
           {t('meetMessiah.cta.chat')}
@@ -78,15 +81,16 @@ const GoogleAdsCTAs = () => {
           className="button"
           style={{
             display: 'inline-block',
-            padding: '1rem 2rem',
+            padding: '1.1rem 2rem',
             backgroundColor: '#0070f3',
             color: '#fff',
             textDecoration: 'none',
-            borderRadius: '8px',
+            borderRadius: '10px',
             fontWeight: 'bold',
-            fontSize: '1.1rem',
+            fontSize: '1.25rem',
             textAlign: 'center',
-            transition: 'background-color 0.3s'
+            transition: 'all 0.3s',
+            boxShadow: '0 2px 8px rgba(0, 112, 243, 0.3)'
           }}
         >
           {t('meetMessiah.cta.subscribe')}
@@ -96,15 +100,16 @@ const GoogleAdsCTAs = () => {
           className="button donate-button"
           style={{
             display: 'inline-block',
-            padding: '1rem 2rem',
+            padding: '1.1rem 2rem',
             backgroundColor: '#dc3545',
             color: '#fff',
             textDecoration: 'none',
-            borderRadius: '8px',
+            borderRadius: '10px',
             fontWeight: 'bold',
-            fontSize: '1.1rem',
+            fontSize: '1.25rem',
             textAlign: 'center',
-            transition: 'background-color 0.3s'
+            transition: 'all 0.3s',
+            boxShadow: '0 2px 8px rgba(220, 53, 69, 0.3)'
           }}
         >
           {t('meetMessiah.cta.donate')}
@@ -112,7 +117,7 @@ const GoogleAdsCTAs = () => {
       </div>
       
       {/* Trust badges */}
-      <div style={{ marginTop: '1.5rem', fontSize: '0.9rem', color: '#ccc' }}>
+      <div style={{ marginTop: '2rem', fontSize: '1.1rem', color: '#d0d0d0', lineHeight: '1.6' }}>
         <p>{t('meetMessiah.trustBadge')}</p>
       </div>
     </div>
