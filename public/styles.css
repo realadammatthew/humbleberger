@@ -544,10 +544,40 @@ section h2 {
   margin-top: 1rem;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .home-cta-buttons {
     flex-direction: column;
     align-items: center;
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+  }
+
+  .home-cta-buttons .primary-cta {
+    font-size: 1.2rem !important;
+    padding: 0.9rem 1.5rem !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  /* Hide "Stay Connected" heading and subtitle on mobile */
+  section > div > h2,
+  section > div > p[style*="font-size: 1.7rem"] {
+    display: none !important;
+  }
+
+  /* Tighter spacing for button group on mobile */
+  .button-group {
+    margin-top: 0.5rem;
+    gap: 0.5rem;
+  }
+
+  /* Smaller text on mobile homepage */
+  main > section > p[style*="font-size: 1.6rem"] {
+    font-size: 1.2rem !important;
+  }
+
+  main > section > p[style*="font-size: 1.3rem"] {
+    font-size: 1.1rem !important;
   }
 }
 
