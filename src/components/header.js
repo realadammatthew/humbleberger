@@ -164,8 +164,8 @@ const Header = () => {
             {
               "@type": "DonateAction",
               "name": "${t("header.donate")}",
-              "url": "${t('urls.donate')}",
-              "target": "${t('urls.donate')}"
+              "url": "${t('urls.site')}${t('urls.internal.donate')}",
+              "target": "${t('urls.site')}${t('urls.internal.donate')}"
             }
           ]
         }`,
@@ -201,6 +201,15 @@ const Header = () => {
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
       <link rel="icon" href="/favicon.ico" type="image/x-icon" />
       <link rel="manifest" href="/site.webmanifest" />
+
+      {/* Jewish-style fonts from Google Fonts */}
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+      <link
+        href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;600;700;800;900&family=Assistant:wght@200;300;400;500;600;700;800&family=David+Libre:wght@400;500;700&display=swap"
+        rel="stylesheet"
+      />
+
       <link rel="stylesheet" href="/styles.css" />
       
       {/* Google Analytics */}

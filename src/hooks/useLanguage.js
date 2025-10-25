@@ -43,9 +43,15 @@ export const useLanguage = () => {
     router.push(newPath);
   };
 
+  const toggleLanguage = () => {
+    const newLanguage = currentLanguage === 'he' ? 'en' : 'he';
+    switchLanguage(newLanguage);
+  };
+
   return {
     currentLanguage,
     switchLanguage,
+    toggleLanguage,
     isHebrew: currentLanguage === 'he',
     isEnglish: currentLanguage === 'en'
   };

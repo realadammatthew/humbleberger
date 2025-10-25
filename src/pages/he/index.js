@@ -2,14 +2,12 @@ import Link from "next/link";
 import { useTranslation } from "react-i18next";
 import withBanner from "../../utils/with-banner";
 import CookieBanner from "../../components/cookies";
-import LanguageSwitcher from "../../components/language-switcher";
 
 const HebrewHome = () => {
   const { t } = useTranslation();
 
   return (
     <>
-      <LanguageSwitcher />
       <main style={{ direction: 'rtl', textAlign: 'right' }}>
         <section>
           <h2>{t('home.about.title')}</h2>
@@ -161,14 +159,11 @@ const HebrewHome = () => {
                 <a className="button" href={t('urls.internal.contact')}>
                   {t('home.connect.contact')}
                 </a>
-                <a
-                  className="button donate-button"
-                  href={t('urls.donate')}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  {t('home.connect.donate')}
-                </a>
+                <Link href={t('urls.internal.donate')} legacyBehavior>
+                  <a className="button donate-button">
+                    {t('home.connect.donate')}
+                  </a>
+                </Link>
               </div>
             </div>
           </div>

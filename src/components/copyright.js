@@ -206,7 +206,7 @@ const Copyright = () => {
           </Link>
           <span style={{ color: "#888" }}>|</span>
           <Link
-            href={t('urls.donate')}
+            href={t('urls.internal.donate')}
             legacyBehavior
           >
             <a

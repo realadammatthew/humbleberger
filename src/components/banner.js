@@ -8,7 +8,13 @@ const Banner = () => {
   const { isHebrew } = useLanguage();
 
   return (
-    <header style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
+    <header
+      style={{
+        direction: isHebrew ? 'rtl' : 'ltr',
+        background: 'linear-gradient(180deg, rgba(26, 29, 35, 0.8) 0%, rgba(35, 39, 46, 0.6) 100%)',
+        borderBottom: '1px solid rgba(184, 134, 11, 0.2)',
+      }}
+    >
       <div
         className="header-container"
         style={{
@@ -17,87 +23,56 @@ const Banner = () => {
           alignItems: "center",
           justifyContent: "center",
           textAlign: "center",
-          gap: "1rem",
-          maxWidth: "1600px",
+          gap: "0.75rem",
+          maxWidth: "1400px",
           margin: "0 auto",
-          padding: "0 1.5rem",
+          padding: "2rem 1.5rem 2.5rem",
         }}
       >
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "column",
-            alignItems: "center",
-            gap: "1rem",
-          }}
-        >
-          <Link href={isHebrew ? "/he" : "/"} legacyBehavior>
-            <a>
-              <img
-                src="/logo.png"
-                alt={t('banner.logoAlt')}
-                style={{ maxWidth: "120px", height: "auto" }}
-              />
-            </a>
-          </Link>
-          <h1
-            style={{
-              margin: 0,
-              lineHeight: 1.1,
-              fontSize: "3.5rem",
-              fontWeight: 800,
-              background: "linear-gradient(135deg, #ffffff 0%, #e0e0e0 100%)",
-              WebkitBackgroundClip: "text",
-              WebkitTextFillColor: "transparent",
-              textShadow: "0 2px 4px rgba(0,0,0,0.1)",
-            }}
-          >
-            {t('org.name').split('\n').map((line, index) => (
-              <React.Fragment key={index}>
-                {line}
-                {index < t('org.name').split('\n').length - 1 && <br />}
-              </React.Fragment>
-            ))}
-          </h1>
-        </div>
         <p
           style={{
-            marginTop: "0.25rem",
-            fontSize: "2rem",
-            color: "#e0e0e0",
-            maxWidth: "600px",
+            margin: 0,
+            fontSize: "1.5rem",
+            color: "#d0d0d0",
+            maxWidth: "700px",
+            lineHeight: 1.5,
+            fontWeight: 400,
           }}
         >
           {t('banner.jewishEvangelism')}
         </p>
         <p
           style={{
-            marginTop: "-3rem",
-            fontSize: "1.6rem",
-            color: "#e0e0e0",
-            maxWidth: "600px",
+            margin: 0,
+            fontSize: "1.35rem",
+            color: "#c8c8c8",
+            maxWidth: "700px",
+            lineHeight: 1.5,
+            fontWeight: 400,
           }}
         >
           {t('banner.gospelProclamation')}
         </p>
         <p
           style={{
-            marginTop: "-2.65rem",
-            fontSize: "1.8rem",
-            color: "#e0e0e0",
-            maxWidth: "600px",
-            fontWeight: "bold",
+            margin: "0.5rem 0 0",
+            fontSize: "1.55rem",
+            color: "#f5d976",
+            maxWidth: "700px",
+            fontWeight: 700,
             fontStyle: "italic",
+            lineHeight: 1.5,
           }}
         >
           {t('banner.messiahCentered')}
         </p>
         <p
           style={{
-            marginTop: "-2rem",
+            margin: "0.75rem 0 0",
             fontSize: "0.85rem",
-            color: "#e0e0e0",
-            maxWidth: "600px",
+            color: "#a0a0a0",
+            maxWidth: "700px",
+            fontStyle: "italic",
           }}
         >
           {t('banner.ministryReference')}

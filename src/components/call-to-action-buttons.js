@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { useTranslation } from 'react-i18next';
 import { useLanguage } from '../hooks/useLanguage';
 
@@ -23,14 +24,11 @@ const CallToActionButtons = () => {
       >
         {t('button.subscribe')}
       </a>
-      <a
-        className="button donate-button"
-        href={t('urls.donate')}
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        {t('button.donate')}
-      </a>
+      <Link href={t('urls.internal.donate')} legacyBehavior>
+        <a className="button donate-button">
+          {t('button.donate')}
+        </a>
+      </Link>
     </div>
   );
 };

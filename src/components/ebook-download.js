@@ -43,31 +43,35 @@ const EbookDownload = () => {
       
       <style jsx>{`
         .ebook-download-section {
-          background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-          color: white;
-          padding: 2rem;
-          border-radius: 12px;
+          background: linear-gradient(135deg, rgba(184, 134, 11, 0.15) 0%, rgba(218, 165, 32, 0.15) 100%);
+          color: #f5f5f5;
+          padding: 2.5rem;
+          border-radius: 16px;
           margin: 2rem 0;
           text-align: center;
-          box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+          border: 1px solid rgba(184, 134, 11, 0.3);
         }
-        
+
         .ebook-download-content h3 {
-          font-size: 1.5rem;
+          font-size: 1.8rem;
           margin-bottom: 1rem;
-          color: white;
+          color: #f5d976;
+          font-weight: 700;
+          letter-spacing: 0.02em;
         }
-        
+
         .ebook-download-content p {
           margin-bottom: 1.5rem;
           font-size: 1.1rem;
-          line-height: 1.6;
+          line-height: 1.8;
+          color: #d0d0d0;
         }
-        
+
         .ebook-features {
           margin: 1.5rem 0;
         }
-        
+
         .ebook-features ul {
           list-style: none;
           padding: 0;
@@ -76,15 +80,17 @@ const EbookDownload = () => {
           gap: 1rem;
           margin: 0;
         }
-        
+
         .ebook-features li {
-          background: rgba(255, 255, 255, 0.1);
-          padding: 0.75rem 1rem;
-          border-radius: 8px;
+          background: rgba(184, 134, 11, 0.1);
+          padding: 1rem 1.25rem;
+          border-radius: 12px;
           backdrop-filter: blur(10px);
-          border: 1px solid rgba(255, 255, 255, 0.2);
+          border: 1px solid rgba(184, 134, 11, 0.2);
+          color: #e8e8e8;
+          font-weight: 500;
         }
-        
+
         .download-buttons {
           display: flex;
           gap: 1rem;
@@ -92,14 +98,14 @@ const EbookDownload = () => {
           flex-wrap: wrap;
           margin: 1.5rem 0;
         }
-        
+
         .ebook-download-button {
           display: inline-block;
-          color: white;
+          color: #1a1d23;
           padding: 1rem 2rem;
           text-decoration: none;
-          border-radius: 8px;
-          font-weight: bold;
+          border-radius: 10px;
+          font-weight: 700;
           font-size: 1.1rem;
           transition: all 0.3s ease;
           margin: 0.5rem 0;
@@ -108,27 +114,27 @@ const EbookDownload = () => {
           font-family: inherit;
           min-width: 160px;
         }
-        
+
         .pdf-button {
-          background: #3498db;
-          box-shadow: 0 4px 15px rgba(52, 152, 219, 0.3);
+          background: linear-gradient(135deg, #b8860b 0%, #daa520 100%);
+          box-shadow: 0 4px 15px rgba(184, 134, 11, 0.4);
         }
-        
+
         .pdf-button:hover:not(:disabled) {
-          background: #2980b9;
+          background: linear-gradient(135deg, #daa520 0%, #f5d976 100%);
           transform: translateY(-2px);
-          box-shadow: 0 6px 20px rgba(52, 152, 219, 0.4);
+          box-shadow: 0 6px 20px rgba(184, 134, 11, 0.6);
         }
-        
+
         .epub-button {
-          background: #3498db;
-          box-shadow: 0 4px 15px rgba(52, 152, 219, 0.3);
+          background: linear-gradient(135deg, #b8860b 0%, #daa520 100%);
+          box-shadow: 0 4px 15px rgba(184, 134, 11, 0.4);
         }
-        
+
         .epub-button:hover:not(:disabled) {
-          background: #2980b9;
+          background: linear-gradient(135deg, #daa520 0%, #f5d976 100%);
           transform: translateY(-2px);
-          box-shadow: 0 6px 20px rgba(52, 152, 219, 0.4);
+          box-shadow: 0 6px 20px rgba(184, 134, 11, 0.6);
         }
         
         .ebook-download-button:active:not(:disabled) {
@@ -144,7 +150,7 @@ const EbookDownload = () => {
         
         .ebook-note {
           font-size: 0.9rem;
-          opacity: 0.8;
+          color: #a0a0a0;
           margin-top: 1rem;
           font-style: italic;
         }

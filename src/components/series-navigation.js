@@ -153,8 +153,8 @@ const SeriesNavigation = () => {
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
                 <span style={{ fontSize: '1.2rem' }}>←</span>
                 <div style={{ textAlign: 'left' }}>
-                  <div style={{ fontSize: '0.8rem', opacity: 0.7 }}>{isHebrew ? 'הקודם' : 'Previous'}</div>
-                  <div style={{ fontWeight: 'bold' }}>{getArticleTitle(prevSlug)}</div>
+                  <div style={{ fontSize: '0.95rem', fontWeight: 'bold' }}>{isHebrew ? 'הקודם' : 'Previous'}</div>
+                  <div className="nav-article-title" style={{ fontWeight: 'bold', fontSize: '0.85rem' }}>{getArticleTitle(prevSlug)}</div>
                 </div>
               </div>
             </a>
@@ -189,8 +189,8 @@ const SeriesNavigation = () => {
             >
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', justifyContent: 'flex-end' }}>
                 <div style={{ textAlign: 'right' }}>
-                  <div style={{ fontSize: '0.8rem', opacity: 0.7 }}>{isHebrew ? 'הבא' : 'Next'}</div>
-                  <div style={{ fontWeight: 'bold' }}>{getArticleTitle(nextSlug)}</div>
+                  <div style={{ fontSize: '0.95rem', fontWeight: 'bold' }}>{isHebrew ? 'הבא' : 'Next'}</div>
+                  <div className="nav-article-title" style={{ fontWeight: 'bold', fontSize: '0.85rem' }}>{getArticleTitle(nextSlug)}</div>
                 </div>
                 <span style={{ fontSize: '1.2rem' }}>→</span>
               </div>
@@ -211,6 +211,14 @@ const SeriesNavigation = () => {
       }}>
         {isHebrew ? 'חלק מסדרת "פגישה עם המשיח"' : 'Part of the "Encountering Messiah" series'}
       </div>
+
+      <style jsx>{`
+        @media (max-width: 768px) {
+          .nav-article-title {
+            display: none;
+          }
+        }
+      `}</style>
     </nav>
   );
 };

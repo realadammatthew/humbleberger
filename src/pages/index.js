@@ -3,7 +3,6 @@ import { useTranslation } from "react-i18next";
 import { useLanguage } from "../hooks/useLanguage";
 import withBanner from "../utils/with-banner";
 import CookieBanner from "../components/cookies";
-import LanguageSwitcher from "../components/language-switcher";
 
 const Home = () => {
   const { t } = useTranslation();
@@ -11,7 +10,6 @@ const Home = () => {
 
   return (
     <>
-      <LanguageSwitcher />
       <main style={{ direction: isHebrew ? 'rtl' : 'ltr' }}>
         <section>
           <h2>{t('home.about.title')}</h2>
@@ -178,14 +176,11 @@ const Home = () => {
                 <a className="button" href={t('urls.internal.contact')}>
                   {t('home.connect.contact')}
                 </a>
-                <a
-                  className="button donate-button"
-                  href={t('urls.donate')}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  {t('home.connect.donate')}
-                </a>
+                <Link href={t('urls.internal.donate')} legacyBehavior>
+                  <a className="button donate-button">
+                    {t('home.connect.donate')}
+                  </a>
+                </Link>
               </div>
             </div>
           </div>

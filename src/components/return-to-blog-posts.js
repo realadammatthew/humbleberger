@@ -57,7 +57,7 @@ const ReturnToBlogPosts = ({ referrer }) => {
             fontWeight: 600,
           }}
         >
-          {t('common.returnTo')}{returnText}
+          {t('common.returnTo')} {returnText}
         </a>
       </Link>
     </nav>

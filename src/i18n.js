@@ -81,6 +81,16 @@ const resources = {
       'contact.email': 'Email',
       'contact.message': 'Message',
       'contact.send': 'Send Message',
+
+      // Donate
+      'donate.title': 'Support Our Mission',
+      'donate.description':
+        'Your generous donation helps us bring the Good News of Yeshua to the Jewish people. Every contribution, large or small, makes a significant impact in advancing God\'s kingdom work among Israel.',
+      'donate.taxDeductible':
+        'Humbleberger Ministries is a 501(c)(3) nonprofit organization. All donations are tax-deductible to the fullest extent allowed by law.',
+      'donate.whySupport.title': 'Why Support Humbleberger Ministries?',
+      'donate.whySupport.description':
+        'Your partnership enables us to create gospel-centered content, engage with Jewish seekers, provide biblical discipleship resources, and share the love of Messiah Yeshua with the people of Israel. Together, we can see lives transformed by the power of the Gospel.',
       'contact.sending': 'Sending...',
       'contact.success.title': 'Message Sent!',
       'contact.success.message':
@@ -335,6 +345,8 @@ const resources = {
       'common.copyright': 'Copyright',
       'common.subscribe': 'Subscribe',
       'common.chat': 'Chat',
+      'common.content': 'Content',
+      'common.about': 'About',
       'common.returnTo': '← Return to',
       'common.returnToHome': '← Return to Home',
 
@@ -364,10 +376,13 @@ const resources = {
       // Page Titles
       'pageTitle.contact': 'Contact Us - Humbleberger Ministries',
       'pageTitle.contactSuccess': 'Message Sent! - Humbleberger Ministries',
+      'pageTitle.donate': 'Donate - Support Our Mission | Humbleberger Ministries',
 
       // Meta Descriptions
       'meta.contact':
         'Get in touch with Humbleberger Ministries. Send us a message through our contact form.',
+      'meta.donate':
+        'Support Humbleberger Ministries\' mission to bring the Gospel to the Jewish people. Your tax-deductible donation helps us share Yeshua\'s love.',
 
       // Organization Name
       'org.name': 'Humbleberger\nMinistries',
@@ -389,6 +404,7 @@ const resources = {
       'urls.internal.home': '/',
       'urls.internal.contact': '/contact',
       'urls.internal.mission': '/mission',
+      'urls.internal.donate': '/donate',
       'urls.internal.encounteringMessiah': '/encountering-messiah',
       'urls.internal.countingCost': '/blog/counting-the-cost',
       'urls.internal.whoIsYeshua': '/blog/who-is-yeshua',
@@ -816,6 +832,16 @@ const resources = {
       'contact.email': 'אימייל',
       'contact.message': 'הודעה',
       'contact.send': 'שלח הודעה',
+
+      // Donate
+      'donate.title': 'תמכו במשימה שלנו',
+      'donate.description':
+        'התרומה הנדיבה שלכם עוזרת לנו להביא את הבשורה הטובה של ישוע לעם היהודי. כל תרומה, גדולה או קטנה, משפיעה באופן משמעותי על קידום עבודת מלכות האלוהים בקרב ישראל.',
+      'donate.taxDeductible':
+        'שירות האמבלברגר הוא ארגון ללא מטרות רווח 501(c)(3). כל התרומות ניתנות לניכוי ממס במלואן כפי שמותר בחוק.',
+      'donate.whySupport.title': 'למה לתמוך בשירות האמבלברגר?',
+      'donate.whySupport.description':
+        'השותפות שלכם מאפשרת לנו ליצור תוכן ממוקד בבשורה, לעסוק עם מחפשי אמת יהודים, לספק משאבי חניכות תנ"כיים, ולחלוק את אהבתו של המשיח ישוע עם עם ישראל. ביחד, נוכל לראות חיים שהשתנו בכוחה של הבשורה.',
       'contact.sending': 'שולח...',
       'contact.success.title': 'ההודעה נשלחה!',
       'contact.success.message': 'תודה על ההודעה! נחזור אליכם בקרוב.',
@@ -1047,6 +1073,8 @@ const resources = {
       'common.copyright': 'זכויות יוצרים',
       'common.subscribe': 'הירשמו',
       'common.chat': "צ'אט",
+      'common.content': 'תוכן',
+      'common.about': 'אודות',
       'common.returnTo': '← חזרה אל',
       'common.returnToHome': '← חזרה לבית',
 
@@ -1076,10 +1104,13 @@ const resources = {
       // Page Titles
       'pageTitle.contact': 'צרו קשר - שירות האמבלברגר',
       'pageTitle.contactSuccess': 'ההודעה נשלחה! - שירות האמבלברגר',
+      'pageTitle.donate': 'תרומה - תמכו במשימה שלנו | שירות האמבלברגר',
 
       // Meta Descriptions
       'meta.contact':
         'צרו קשר עם שירות האמבלברגר. שלחו לנו הודעה דרך טופס יצירת הקשר שלנו.',
+      'meta.donate':
+        'תמכו במשימתו של שירות האמבלברגר להביא את הבשורה לעם היהודי. התרומה שלכם הניתנת לניכוי ממס עוזרת לנו לחלוק את אהבת ישוע.',
 
       // Organization Name
       'org.name': 'שירות\nהאמבלברגר',
@@ -1102,6 +1133,7 @@ const resources = {
       'urls.internal.home': '/he',
       'urls.internal.contact': '/he/contact',
       'urls.internal.mission': '/he/mission',
+      'urls.internal.donate': '/he/donate',
       'urls.internal.encounteringMessiah': '/he/encountering-messiah',
       'urls.internal.countingCost': '/he/blog/counting-the-cost',
       'urls.internal.whoIsYeshua': '/he/blog/who-is-yeshua',
