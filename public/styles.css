@@ -378,9 +378,15 @@ section h2 {
   }
 
   .blog-post-content {
-    font-size: 1.5rem;
-    text-align: justify;
-    line-height: 1.9;
+    font-size: 1.2rem !important;
+    text-align: left !important;
+    line-height: 1.75 !important;
+  }
+
+  .blog-post-content p {
+    font-size: 1.2rem !important;
+    text-align: left !important;
+    line-height: 1.75 !important;
   }
 
   body {
