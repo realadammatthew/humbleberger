@@ -19,19 +19,27 @@ const OurStory = () => {
           }}
         >
           {/* Headshot - floats on desktop */}
-          <img
-            src="/profile-picture.jpg"
-            alt={t('ourStory.imageAlt')}
-            className="our-story-image"
-            style={{
-              display: "block",
-              maxWidth: "300px",
-              width: "100%",
-              margin: "0 auto 2rem",
-              borderRadius: "8px",
-              boxShadow: "0 4px 12px rgba(0, 0, 0, 0.3)",
-            }}
-          />
+          <a
+            href="https://hire.adam.matthewsteinberger.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="our-story-image-link"
+          >
+            <img
+              src="/profile-picture.jpg"
+              alt={t('ourStory.imageAlt')}
+              className="our-story-image"
+              style={{
+                display: "block",
+                maxWidth: "300px",
+                width: "100%",
+                margin: "0 auto 1rem",
+                borderRadius: "8px",
+                boxShadow: "0 4px 12px rgba(0, 0, 0, 0.3)",
+                transition: "transform 0.2s ease, box-shadow 0.2s ease",
+              }}
+            />
+          </a>
 
           {/* Content */}
           <div
@@ -55,10 +63,23 @@ const OurStory = () => {
           margin-bottom: 1.5rem !important;
         }
 
+        .our-story-text :global(p.clear-float) {
+          clear: both;
+        }
+
+        .our-story-image-link {
+          display: block;
+        }
+
+        .our-story-image-link:hover .our-story-image {
+          transform: scale(1.02);
+          box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4) !important;
+        }
+
         @media (min-width: 768px) {
-          .our-story-image {
+          .our-story-image-link {
             float: ${isHebrew ? 'right' : 'left'};
-            margin: ${isHebrew ? '0 0 1.5rem 2rem' : '0 2rem 1.5rem 0'} !important;
+            margin: ${isHebrew ? '0 0 1.5rem 2rem' : '0 2rem 1.5rem 0'};
             max-width: 300px;
           }
         }
