@@ -106,6 +106,16 @@ const resources = {
       'mission.description':
         'At Humbleberger Ministries, we are passionate about sharing the Good News of Yeshua with everyone, with a special heart for the Jewish people.',
 
+      // Our Story
+      'ourStory.title': 'About Adam Matthew Steinberger',
+      'ourStory.imageAlt': 'Adam Matthew Steinberger',
+      'ourStory.content':
+        '<p>Adam Matthew Steinberger is the founder of Humbleberger Ministries, a ministry dedicated to sharing the hope of the Good News with clarity, compassion, and cultural relevance.</p>' +
+        '<p>Raised in a Reform Jewish home in Albany, New York, Adam\'s early life took a challenging turn during his teens and twenties, when he struggled with substance abuse and embraced atheism. After achieving sobriety, he traveled to Israel on a Birthright trip, where he briefly explored the possibility of converting to Orthodox Judaism.</p>' +
+        '<p>In 2020, just before the onset of COVID-19, Adam placed his faith in Yeshua the Jewish Messiah. In 2023, he relocated to Greenville, South Carolina, to pursue greater ministry opportunities.</p>' +
+        '<p>A mission trip to Honduras in October 2024 prompted Adam to "count the cost" of full-time Shlichut. In 2025, he enrolled on-campus at Southeastern Baptist Theological Seminary in Wake Forest, North Carolina, pursuing a Master of Divinity in Missiology. He attended ShalomNY with Chosen People Ministries in July 2025 and returned to his home in Travelers Rest, South Carolina, in August 2025 to continue his studies online part-time while maintaining his career as a Software Engineer. He currently holds a 3.7 GPA.</p>' +
+        '<p>Adam is gifted in prayer, outreach, apologetics, missions, and street engagement, and carries a contagious heart of joy. Recently diagnosed with autism (October 2025), he brings unique insight to his calling. He specializes in outreach to Jewish people, individuals in recovery, the LGBT community, those exploring Islam, and committed atheists—meeting people where they are with grace and truth.</p>',
+
       // Footer/Copyright
       'copyright.text': '© 2025 Humbleberger Ministries. All rights reserved.',
       'copyright.privacy': 'Privacy Policy',
@@ -341,6 +351,7 @@ const resources = {
       'common.contact': 'Contact',
       'common.blog': 'Blog',
       'common.mission': 'Mission',
+      'common.ourStory': 'Our Story',
       'common.donate': 'Donate',
       'common.copyright': 'Copyright',
       'common.subscribe': 'Subscribe',
@@ -404,6 +415,7 @@ const resources = {
       'urls.internal.home': '/',
       'urls.internal.contact': '/contact',
       'urls.internal.mission': '/mission',
+      'urls.internal.ourStory': '/our-story',
       'urls.internal.donate': '/donate',
       'urls.internal.encounteringMessiah': '/encountering-messiah',
       'urls.internal.countingCost': '/blog/counting-the-cost',
@@ -855,6 +867,16 @@ const resources = {
       'mission.description':
         'בשירות האמבלברגר אנו מלאי תשוקה לשתף את בשורת ישוע עם כולם, עם לב מיוחד לעם היהודי.',
 
+      // Our Story
+      'ourStory.title': 'אודות אדם מתיו שטיינברגר',
+      'ourStory.imageAlt': 'אדם מתיו שטיינברגר',
+      'ourStory.content':
+        '<p>אדם מתיו שטיינברגר הוא מייסד שירות האמבלברגר, משרד המוקדש לשיתוף תקוות הבשורה בבהירות, חמלה ורלוונטיות תרבותית.</p>' +
+        '<p>גדל בבית יהודי רפורמי באלבני, ניו יורק, חייו המוקדמים של אדם קיבלו תפנית מאתגרת בשנות העשרה והעשרים שלו, כאשר נאבק עם התמכרות לסמים ואימץ אתאיזם. לאחר השגת פיכחון, נסע לישראל בטיול "בירת רייט", שם חקר בקצרה את האפשרות להתגייר ליהדות אורתודוכסית.</p>' +
+        '<p>בשנת 2020, רגע לפני התפרצות מגפת הקורונה, אדם הפגין אמונה בישוע המשיח היהודי. בשנת 2023, הוא עבר לגרינוויל, דרום קרוליינה, כדי לחפש הזדמנויות משרד גדולות יותר.</p>' +
+        '<p>טיול שליחות להונדורס באוקטובר 2024 גרם לאדם "לספור את העלות" של שליחות במשרה מלאה. בשנת 2025, הוא נרשם כסטודנט בקמפוס במכללה התיאולוגית הבפטיסטית הדרום-מזרחית בווייק פורסט, צפון קרוליינה, ושואף לתואר שני באלוהות במיסיולוגיה. הוא השתתף ב-ShalomNY עם משרד "העם הנבחר" ביולי 2025 וחזר לביתו בטראוולרס רסט, דרום קרוליינה, באוגוסט 2025 כדי להמשיך את לימודיו באינטרנט במשרה חלקית תוך שמירה על הקריירה שלו כמהנדס תוכנה. כיום הוא מחזיק בממוצע של 3.7.</p>' +
+        '<p>אדם מחונן בתפילה, הסברה, אפולוגטיקה, משימות ומעורבות רחוב, ונושא לב שמחה מדבק. לאחרונה אובחן כסובל מאוטיזם (אוקטובר 2025), והוא מביא תובנה ייחודית לקריאה שלו. הוא מתמחה בהסברה לעם היהודי, אנשים בשיקום, הקהילה הלהט"ב, אלה שחוקרים את האסלאם ואתאיסטים מחויבים - פוגש אנשים היכן שהם עם חסד ואמת.</p>',
+
       // Footer/Copyright
       'copyright.text': '© 2025 שירות האמבלברגר. כל הזכויות שמורות.',
       'copyright.privacy': 'מדיניות פרטיות',
@@ -1069,6 +1091,7 @@ const resources = {
       'common.contact': 'צור קשר',
       'common.blog': 'בלוג',
       'common.mission': 'שליחות',
+      'common.ourStory': 'הסיפור שלנו',
       'common.donate': 'תרום',
       'common.copyright': 'זכויות יוצרים',
       'common.subscribe': 'הירשמו',
@@ -1133,6 +1156,7 @@ const resources = {
       'urls.internal.home': '/he',
       'urls.internal.contact': '/he/contact',
       'urls.internal.mission': '/he/mission',
+      'urls.internal.ourStory': '/he/our-story',
       'urls.internal.donate': '/he/donate',
       'urls.internal.encounteringMessiah': '/he/encountering-messiah',
       'urls.internal.countingCost': '/he/blog/counting-the-cost',

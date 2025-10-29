@@ -15,6 +15,7 @@ const Navbar = () => {
     { key: "whoIsYeshua", label: t("nav.whoIsYeshua"), href: t("urls.internal.whoIsYeshuaFromHome") },
     { key: "encounteringMessiah", label: t("nav.encounteringMessiah"), href: t("urls.internal.encounteringMessiah") },
     { key: "mission", label: t("common.mission"), href: t("urls.internal.mission") },
+    { key: "ourStory", label: t("common.ourStory"), href: t("urls.internal.ourStory") },
     { key: "blog", label: t("common.blog"), href: t("urls.internal.blog") },
     { key: "contact", label: t("common.contact"), href: t("urls.internal.contact") },
   ];
