@@ -369,6 +369,10 @@ const resources = {
       'nav.whoIsYeshua': 'Who is Yeshua?',
       'nav.countingCost': 'Counting the Cost',
       'nav.meetMessiah': 'Meet Messiah',
+      'nav.work': 'Work',
+      'nav.policy': 'Policy',
+      'nav.chat': 'Chat',
+      'nav.blog': 'Blog',
 
       // Buttons
       'button.donate': '❤️ Donate',
@@ -409,6 +413,12 @@ const resources = {
       'urls.youtube': 'https://youtube.com/@humbleberger',
       'urls.bible': 'https://www.biblegateway.com/passage/?search=John%201&version=TLV',
       'urls.contactForm': 'https://formspree.io/f/xnnvbwvz',
+
+      // External URLs
+      'urls.external.work': 'https://hire.adam.matthewsteinberger.com',
+      'urls.external.policy': 'https://messiahfirst.org',
+      'urls.external.chat': 'https://chat.adam.matthewsteinberger.com',
+      'urls.external.blog': 'https://theautisticapologist.com/',
 
       // Internal URLs
       'urls.internal.blog': '/blog',
@@ -1109,6 +1119,10 @@ const resources = {
       'nav.whoIsYeshua': 'מי הוא ישוע?',
       'nav.countingCost': 'ספירת המחיר',
       'nav.meetMessiah': 'מפגש עם המשיח',
+      'nav.work': 'עבודה',
+      'nav.policy': 'מדיניות',
+      'nav.chat': 'צ\'אט',
+      'nav.blog': 'בלוג',
 
       // Buttons
       'button.donate': '❤️ תרמו',
@@ -1150,6 +1164,12 @@ const resources = {
       'urls.youtube': 'https://youtube.com/@humbleberger',
       'urls.bible': '/he/bible-viewer',
       'urls.contactForm': 'https://formspree.io/f/xnnvbwvz',
+
+      // External URLs
+      'urls.external.work': 'https://hire.adam.matthewsteinberger.com',
+      'urls.external.policy': 'https://messiahfirst.org',
+      'urls.external.chat': 'https://chat.adam.matthewsteinberger.com',
+      'urls.external.blog': 'https://theautisticapologist.com/',
 
       // Internal URLs
       'urls.internal.blog': '/he/blog',

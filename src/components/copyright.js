@@ -291,6 +291,114 @@ const Copyright = () => {
             </a>
           </Link>
         </div>
+        <div
+          style={{
+            borderTop: "1px solid rgba(184, 134, 11, 0.3)",
+            marginTop: "1.5rem",
+            paddingTop: "1rem",
+            fontSize: "0.85rem",
+            display: "flex",
+            flexWrap: "wrap",
+            justifyContent: "center",
+            gap: "0.5rem",
+          }}
+        >
+          <Link href={t('urls.external.work')} legacyBehavior>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                color: "#b8860b",
+                margin: "0 5px",
+                textDecoration: "none",
+                transition: "all 0.2s ease",
+                borderBottom: "1px solid transparent",
+              }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.color = "#daa520";
+                e.currentTarget.style.borderBottomColor = "#daa520";
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.color = "#b8860b";
+                e.currentTarget.style.borderBottomColor = "transparent";
+              }}
+            >
+              {t('nav.work')}
+            </a>
+          </Link>
+          <span style={{ color: "#555" }}>•</span>
+          <Link href={t('urls.external.policy')} legacyBehavior>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                color: "#b8860b",
+                margin: "0 5px",
+                textDecoration: "none",
+                transition: "all 0.2s ease",
+                borderBottom: "1px solid transparent",
+              }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.color = "#daa520";
+                e.currentTarget.style.borderBottomColor = "#daa520";
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.color = "#b8860b";
+                e.currentTarget.style.borderBottomColor = "transparent";
+              }}
+            >
+              {t('nav.policy')}
+            </a>
+          </Link>
+          <span style={{ color: "#555" }}>•</span>
+          <Link href={t('urls.external.chat')} legacyBehavior>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                color: "#b8860b",
+                margin: "0 5px",
+                textDecoration: "none",
+                transition: "all 0.2s ease",
+                borderBottom: "1px solid transparent",
+              }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.color = "#daa520";
+                e.currentTarget.style.borderBottomColor = "#daa520";
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.color = "#b8860b";
+                e.currentTarget.style.borderBottomColor = "transparent";
+              }}
+            >
+              {t('nav.chat')}
+            </a>
+          </Link>
+          <span style={{ color: "#555" }}>•</span>
+          <Link href={t('urls.external.blog')} legacyBehavior>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                color: "#b8860b",
+                margin: "0 5px",
+                textDecoration: "none",
+                transition: "all 0.2s ease",
+                borderBottom: "1px solid transparent",
+              }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.color = "#daa520";
+                e.currentTarget.style.borderBottomColor = "#daa520";
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.color = "#b8860b";
+                e.currentTarget.style.borderBottomColor = "transparent";
+              }}
+            >
+              {t('nav.blog')}
+            </a>
+          </Link>
+        </div>
         <p style={{ fontSize: "0.7rem", marginTop: "1rem", color: "#666" }}>
           {t('common.fein.title')}: {t('common.fein.number')}
         </p>
